@@ -83,7 +83,7 @@ description: Community wiki for Botworld Adventure !
 			<li>Gadgets</li>
 		</ul>
 	</div>
-	<div id="home_Guides">
+	<div class="home_guides_list" id="home_Guides">
 		<h2 id="Guides"</h2>
 		<ul>
 			<li><a href="/maps">Maps</a></li>
