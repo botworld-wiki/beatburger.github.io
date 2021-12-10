@@ -11,7 +11,7 @@ description: Community wiki for Botworld Adventure !
 		<h2 id="Tanks">Tanks</h2>
 		<ul>
 			<li>barrie</li>
-			<li>chainer</li>
+			<li><a href="/chainer">chainer</a></li>
 			<li>nozzle</li>
 			<li>berserker</li>
 			<li>thump</li>
@@ -31,7 +31,7 @@ description: Community wiki for Botworld Adventure !
 	<div class="home_botType_list" id="home_Snipers">
 		<h2 id="Snipers">Snipers</h2>
 		<ul>
-			<li>chomp</li>
+			<li><a href="/chomp">chomp</a></li>
 			<li>bigshot</li>
 			<li>pupil</li>
 			<li>longshot</li>
@@ -74,6 +74,26 @@ description: Community wiki for Botworld Adventure !
 			<li>beat</li>
 			<li>halo</li>
 			<li>tether</li>
+		</ul>
+	</div>
+	<div id="home_Botpack">
+		<h2 id="Botpack Modules</h2>
+		<ul>
+			<li><a href="/abilities">Abilities</a></li>
+			<li>Boosters</li>
+			<li>Gadgets</li>
+		</ul>
+	</div>
+	<div id="home_Guides">
+		<h2 id="Guides</h2>
+		<ul>
+			<li><a href="/maps">Maps</a></li>
+			<li><a href="/getting-started">Getting Started</a></li>
+			<li>Boat Materials</li>
+			<li>Arena Masters</li>
+			<li>Grouper Comp</li>
+			<li>Farming Guide & Routes</li>
+			<li>...</li>
 		</ul>
 	</div>
 </div>
