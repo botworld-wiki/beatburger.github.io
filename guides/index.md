@@ -1,0 +1,3 @@
+# Guides
+
+* [Getting Started](/guides/getting-started)
