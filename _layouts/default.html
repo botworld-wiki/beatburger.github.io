@@ -16,9 +16,9 @@
 <meta property="og:site_name" content="{{site.title}}" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{page.title}}" />
-<meta name="twitter:description" content="{page.description}}"/>
+<meta name="twitter:description" content="{{page.description}}"/>
 {% if page.imageUrl And page.imageUrl != "" And page.imageUrl != nil %}
-  <meta property="og:image" content="page.imageUrl"/>
+  <meta property="og:image" content="{{page.imageUrl}}"/>
 {% else %}
   <meta property="og:image" content="https://cdn.discordapp.com/emojis/918669937214640269.png"/>
 {% endif %}
