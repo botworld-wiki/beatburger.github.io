@@ -1,6 +1,6 @@
 ---
 layout: bot
-title: Chainer Page
+title: Chainer
 name: Chainer
 description: "Not the most mobile bot, but that doesn't matter when it can bring the fight to itself."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png"
