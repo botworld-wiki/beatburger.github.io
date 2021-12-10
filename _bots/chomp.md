@@ -2,7 +2,7 @@
 layout: bot
 title: "Chomp"
 name: "Chomp"
-description: "A loyal companion who loves to shoot at enemies from a distance"
+description: "Common Sniper - A loyal companion who loves to shoot at enemies from a distance"
 imageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 
 botName: "Chomp"
