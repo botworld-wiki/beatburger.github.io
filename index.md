@@ -5,6 +5,22 @@ title: Home
 description: Community wiki for Botworld Adventure !
 
 ---
+
+# Welcome to the Botworld Wiki !
+
+` comunity-made and still growing hopefully !`
+
+## Filler text, idk. Ignore or tell me what to say there
+
+If you've just started with this great game and have questions at this very early stage, you're in the right place.
+
+
+Let's make one thing clear: **this game won't punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven't yet, or get the same rewards by other means.
+
+
+Botworld is well worth exploring at your own pace, and won't punish you for trying stuff or fooling around, so really you can stop reading and go straight in ! 
+
+
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
 		<h2 id="Tanks">Tanks</h2>
@@ -97,18 +113,8 @@ description: Community wiki for Botworld Adventure !
 	</div>
 </div>
 
-# Hello young Botmaster !
 
-If you've just started with this great game and have questions at this very early stage, you're in the right place.
-
-
-Let's make one thing clear: **this game won't punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven't yet, or get the same rewards by other means.
-
-
-Botworld is well worth exploring at your own pace, and won't punish you for trying stuff or fooling around, so really you can stop reading and go straight in ! 
-
-
-## Starter bot
+## Filler text (cont.)
 
 
 It's really just that: your starter bot. **You will find botframes to build the other two** just like any other bot wandering through Botworld. 
