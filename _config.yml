@@ -3,6 +3,15 @@ collections:
   bots:
     output: true
     permalink: /:path
+  abilities:
+    output: true
+    permalink: /:path
+  boosters:
+    output: true
+    permalink: /:path
+  gadgets:
+    output: true
+    permalink: /:path
     
 title: Botworld Wiki
 description: Robopedia, Guides & Infos collected by the community
