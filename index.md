@@ -5,7 +5,6 @@ title: Home
 description: Community wiki for Botworld Adventure !
 
 ---
-
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
 		<h2 id="Tanks">Tanks</h2>
@@ -77,7 +76,7 @@ description: Community wiki for Botworld Adventure !
 		</ul>
 	</div>
 	<div id="home_Botpack">
-		<h2 id="Botpack Modules</h2>
+		<h2 id="Botpack Modules"</h2>
 		<ul>
 			<li><a href="/abilities">Abilities</a></li>
 			<li>Boosters</li>
@@ -85,7 +84,7 @@ description: Community wiki for Botworld Adventure !
 		</ul>
 	</div>
 	<div id="home_Guides">
-		<h2 id="Guides</h2>
+		<h2 id="Guides"</h2>
 		<ul>
 			<li><a href="/maps">Maps</a></li>
 			<li><a href="/getting-started">Getting Started</a></li>
