@@ -11,6 +11,7 @@ botImageUrl: ""
 botType: ""
 botRarity: ""
 botAcquisition: ""
+botSummary: ""
 
 ability1Name: ""
 ability1Info: ""
