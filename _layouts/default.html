@@ -15,7 +15,13 @@
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
 <meta property="og:site_name" content="{{site.title}}" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="{{page.title - Botpedia test}}" />
+<meta property="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{page.description}}"/>
+{% if page.imageUrl And page.imageUrl != "" And page.imageUrl != nil %}
+  <meta property="og:image" content="page.imageUrl"/>
+{% else %}
+  <meta property="og:image" content="https://cdn.discordapp.com/emojis/918669937214640269.png"/>
+{% endif %}
 <script type="application/ld+json">
 {"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
