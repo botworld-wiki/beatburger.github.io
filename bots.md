@@ -6,6 +6,8 @@ description: All the bots in Botworld Adventure so far
 
 ---
 
+# Every bot listed
+
 <table>
   <thead>
     <tr>
