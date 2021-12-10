@@ -11,7 +11,6 @@ description: All the abilities in Botworld Adventure so far
 <table>
   <thead>
     <tr>
-      <th>Rarity</th>
       <th>Name</th>
       <th>Power</th>
       <th>Description</th>
@@ -21,8 +20,7 @@ description: All the abilities in Botworld Adventure so far
   <tbody>
     {% for ability in site.abilities %}
     <tr>
-      <td>{{ability.abilityRarity}}</td>
-      <td><a href="{{ site.baseurl }}{{ ability.url }}"> {{ ability.abilityName }} </a></td>
+      <td class="rarity_{{ability.abilityRarity}}"><a href="{{ site.baseurl }}{{ ability.url }}"> {{ ability.abilityName }} </a></td>
       <td>{{ability.abilityCost}}</td>
       <td>{{ability.abilityDescription}}</td>
       <td>{{ability.abilityOpinion}}</td>
