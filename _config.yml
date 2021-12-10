@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+collections:
+  bots:
+    output: true
+    permalink: /:path
+    
+title: Botworld Wiki
+description: Robopedia, Guides & Infos collected by the community
+logo: https://cdn.discordapp.com/emojis/918669937214640269.png
