@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ability
 title: "Gust"
 name: "Gust"
 description: "a page about Gust"
@@ -10,7 +10,7 @@ abilityImageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/8716
 
 abilityCost: "3"
 abilityRarity: "Special"
-abilityAcquisition: ""
+abilityOpinion: "A must-have."
 
 ---
 
