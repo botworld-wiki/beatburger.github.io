@@ -11,7 +11,7 @@ botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546
 botType: "Sniper"
 botRarity: "Common"
 botAcquisition: "Random drop"
-botSummary: "Mostly outclassed by other snipers"
+botOpinion: "Mostly outclassed by other snipers"
 
 ability1Name: "Machine Gun"
 ability1Info: "Bullets fired: 3, Range:7.7, AS: 1.43s"
