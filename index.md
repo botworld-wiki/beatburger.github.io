@@ -6,11 +6,77 @@ description: Community wiki for Botworld Adventure !
 
 ---
 
-## Bots
-
-{% for bot in site.bots %}
-  <h2><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.name }} </a></h2>
-{% endfor %}
+<div id="site_toc">
+	<div class="home_botType_list" id="home_Tanks">
+		<h2 id="Tanks">Tanks</h2>
+		<ul>
+			<li>barrie</li>
+			<li>chainer</li>
+			<li>nozzle</li>
+			<li>berserker</li>
+			<li>thump</li>
+			<li>bullwark</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Splashers">
+		<h2 id="Splashers">Splashers</h2>
+		<ul>
+			<li>mort</li>
+			<li>pluggie</li>
+			<li>bombee</li>
+			<li>lobbie</li>
+			<li>rocketeer</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Snipers">
+		<h2 id="Snipers">Snipers</h2>
+		<ul>
+			<li>chomp</li>
+			<li>bigshot</li>
+			<li>pupil</li>
+			<li>longshot</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Chasers">
+		<h2 id="Chasers">Chasers</h2>
+		<ul>
+			<li>slasher</li>
+			<li>slicer</li>
+			<li>fork</li>
+			<li>ram</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Evaders">
+		<h2 id="Evaders">Evaders</h2>
+		<ul>
+			<li>dune_bug</li>
+			<li>hornet</li>
+			<li>flamer</li>
+			<li>icicool</li>
+			<li>froggy</li>
+			<li>frosty</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Brawlers">
+		<h2 id="Brawlers">Brawlers</h2>
+		<ul>
+			<li>scatter</li>
+			<li>KO</li>
+			<li>brute</li>
+			<li>virus</li>
+			<li>yanky</li>
+		</ul>
+	</div>
+	<div class="home_botType_list" id="home_Supports">
+		<h2 id="Supports">Supports</h2>
+		<ul>
+			<li>gusto</li>
+			<li>beat</li>
+			<li>halo</li>
+			<li>tether</li>
+		</ul>
+	</div>
+</div>
 
 # Hello young Botmaster !
 
