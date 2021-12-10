@@ -69,19 +69,18 @@
         max-width: fit-content;
         overflow-x: auto;
       }
+     .menu {
+          display: flex;
+      }
+      .menu span {
+          padding: 10px;
+          flex-grow: 1;
+          text-align: center
+      }
     </style>
 
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <li><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/credits">Credits</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/aaaaaaaaaaaa">404</a></li>
-          </ul>
-        </nav>
-      </div><!-- end header -->
 
     <div class="wrapper">
 
@@ -96,6 +95,15 @@
             {{site.title}}
           </h1>
           <p>{{site.description}}</p>
+          <div class="menu">
+            <span><a href="{{ site.url }}{{ site.baseurl }}">Home</a></span>
+            <span><a href="#">Bots</a></span>
+            <span><a href="#">Botpack modules</a></span>
+            <span><a href="#">Maps</a></span>
+            <span><a href="#">Guides</a></span>
+            <span><a href="{{ site.url }}{{ site.baseurl }}/credits">Credits</a></span>
+            <span><a href="aaaaaaa">404</a></span>
+          </div>
           <hr>
           <span class="credits left">Project maintained by <a href="#">beatburger</a></span>
         </div>
