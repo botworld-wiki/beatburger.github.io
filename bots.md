@@ -15,7 +15,7 @@ description: All the bots in Botworld Adventure so far
       <th>Type</th>
       <th>Rarity</th>
       <th>Acquisition</th>
-      <th>Summary</th>
+      <th>Opinion</th>
     </tr>
   </thead>
   <tbody>
@@ -25,7 +25,7 @@ description: All the bots in Botworld Adventure so far
       <td>{{bot.botType}}</td>
       <td>{{bot.botRarity}}</td>
       <td>{{bot.botAcquisition}}</td>
-      <td>{{bot.botSummary}}</td>
+      <td>{{bot.botOpinion}}</td>
     </tr>
     {% endfor %}
 
