@@ -11,7 +11,7 @@ botImageUrl: https://cdn.discordapp.com/attachments/885544735794692146/885545888
 botType: Tank
 botRarity: Rare
 botAcquisition: Solo Arena r1000
-botSummary: "Best combo enabler - top meta pick"
+botOpinion: "Best combo enabler - top meta pick"
 
 ability1Name: Ground Slam
 ability1Info: "100% Attack, AS: 0.9s, Range: 2"
