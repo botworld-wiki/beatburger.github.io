@@ -1,7 +1,7 @@
 ---
 layout: bot
 title: Chainer Page
-name: Chainer Name
+name: Chainer
 description: a page about Chainer
 
 botName: Chainer
