@@ -3,6 +3,7 @@ layout: bot
 title: "Empty Bot Page"
 name: "Empty Bot"
 description: "a page to create new bots"
+imageUrl:""
 
 botName: "Empty Bot"
 botDescription: "a page to create new bots"
