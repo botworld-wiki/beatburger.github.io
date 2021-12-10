@@ -1,14 +1,14 @@
 ---
 
 layout: default
-title: Home
-description: Community wiki for Botworld Adventure !
+title: Botworld Community Wiki
+description: All the best the Botworld Adventure community has to offer to help you progress through this awesome game ! Robopedia, Guides, Maps etc. 
 
 ---
 
-# Welcome to the Botworld Wiki !
+# Botworld Community Wiki
 
-` comunity-made and still growing hopefully !`
+` brand new and still growing hopefully !`
 
 ## Filler text, idk. Ignore or tell me what to say there
 
