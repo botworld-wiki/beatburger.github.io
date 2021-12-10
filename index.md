@@ -87,7 +87,7 @@ description: Community wiki for Botworld Adventure !
 		<h2 id="Guides">Guides</h2>
 		<ul>
 			<li><a href="/maps">Maps</a></li>
-			<li><a href="/getting-started">Getting Started</a></li>
+			<li><a href="guides/getting-started">Getting Started</a></li>
 			<li>Boat Materials</li>
 			<li>Arena Masters</li>
 			<li>Grouper Comp</li>
