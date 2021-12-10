@@ -13,7 +13,6 @@ description: All the bots in Botworld Adventure so far
     <tr>
       <th>Name</th>
       <th>Type</th>
-      <th>Rarity</th>
       <th>Acquisition</th>
       <th>Opinion</th>
     </tr>
@@ -21,9 +20,8 @@ description: All the bots in Botworld Adventure so far
   <tbody>
     {% for bot in site.bots %}
     <tr>
-      <td><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
+      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
       <td>{{bot.botType}}</td>
-      <td>{{bot.botRarity}}</td>
       <td>{{bot.botAcquisition}}</td>
       <td>{{bot.botOpinion}}</td>
     </tr>
