@@ -227,18 +227,18 @@ nav.fixed .menu { display: none }
 window.onscroll = function() {changeMenu()};
 
 var onScrollLock = false;
-function removeLock(){onScrollLock = false;
+function removeLock(){onScrollLock = false};
 function changeMenu() {
 	if (!onScrollLock){
-	  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-	  	setTimeout(document.getElementById("nav").classList.add('fixed'), 600);
-	  } else {
-	  	setTimeout(document.getElementById("nav").classList.remove('fixed'), 600); 
-	  }
-	  onScrollLock = true;
-	  setTimeout(removeLock, 100);
+		if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+			setTimeout(document.getElementById("nav").classList.add('fixed'), 600);
+		} else {
+			setTimeout(document.getElementById("nav").classList.remove('fixed'), 600); 
+		}
+	onScrollLock = true;
+	setTimeout(removeLock, 100);
 	}
-}
+};
 </script>
 
 	  
