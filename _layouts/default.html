@@ -221,7 +221,15 @@ nav.fixed .menu { display: none }
 /* end header, menu, banner */
   	/*meet bb*/
 
-	#meet-bb{
+	div#meet-bb {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		z-index: 100;
+		display: none;
+	}
+	   
+	.wtf {
 		position: fixed;
 		bottom: 20px;
 		right: 20px;
@@ -290,7 +298,7 @@ nav.fixed .menu { display: none }
 
     </div>
 
-<div id="meet-bb">
+<div id="meet-bb" class="wtf">
       <input style="display: none;" type="checkbox" id="bb-checkbox">
       <h3>Meet us <a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">on discord</a> !</h3>
       <label for="bb-checkbox" title="Meet Beat Burger">
