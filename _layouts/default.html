@@ -122,7 +122,7 @@
 			    flex-direction: row;
 
 			}
-			.bot-infos > div {
+			.bot-infos {
 			    padding: 20px;
 			}
 			.bot_bloc_1 {
@@ -155,38 +155,122 @@
 			}
 			/* end bot page layout*/
 
+
+/* header, menu, banner */
+#banner {
+	background-image: url('https://cdn.discordapp.com/attachments/917809790284079114/919246343199920158/1639235792330.png') ;
+  background-repeat:   no-repeat;
+  background-position: top center;              
+  height: 300px;
+}
+.wrapper{
+          position: relative;
+          top: -120px;
+}
+ #title-container{ 
+ 	padding: 5px;
+ }
+ #title-container a { margin: 0 auto }
+ #title-container img {
+  max-width: 80px;
+  position: relative;
+  top: 25px;
+  right: 10px;
+ }
+ #title-container div {
+  display: flex;
+ }
+ #title-container h3 {
+  text-align: center;
+  margin-top: 20px;
+ }
+  .wiki-title {
+ 	font-family: 'Trebuchet MS', sans-serif;
+ 	text-shadow: 4px -5px 5px #202020, -4px -5px 5px #202020;
+
+ 	font-size: 40px;
+ 	font-weight: 800;
+ 	display: inline;
+ }
+ @media print, screen and (max-width: 480px){
+ 	.wiki-title{font-size: 25px;}
+ }
+ nav.override {display: block;}
+
+nav img { 
+	height: 40px;
+}
+.mini-menu { display: none; width: 100%; }
+.mini-menu .wiki-title { margin: 0 auto; }
+nav.fixed .mini-menu {display: flex;}
+nav.fixed {
+	  position: fixed;
+    top: 0;
+    background: #202020;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    padding-left: 0px;
+    width: 90%;
+    max-width: 650px;
+    min-width: 50%;
+}
+nav.fixed .menu { display: none }
+#menu-checkbox:checked + .menu { display: flex };
+
+/* end header, menu, banner */
+
+
     </style>
 
+<script type="text/javascript">
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    document.getElementById("nav").classList.add('fixed');
+  } else {
+    document.getElementById("nav").classList.remove('fixed');
+  }
+}
+</script>
+
+	  
   </head>
   <body>
-
+    <div id="banner"></div>
     <div class="wrapper">
+    	<div id="title-container">
+				<div>
+					<a href="#" class="over_banner">
+						<img src="https://cdn.discordapp.com/emojis/918669937214640269.png">
+						<h2 class="wiki-title"> {{site.title}} </h2>
+					</a>
+				</div>
+	      <h3 class="over_banner">{{site.description}}</h3>
+			</div>
+		 	<nav id="nav" class="override">
+		 		<div class="mini-menu">
+			 		<img src="https://cdn.discordapp.com/emojis/918669937214640269.png">
+					<span class="wiki-title"> {{site.title}} </span>
+	        <label class="tab-label" for="menu-checkbox">Menu</label>
+			 	</div>
+	      <input style="display: none;" type="checkbox" id="menu-checkbox">
+        <div class="menu">
+          <span><a href="{{ site.url }}{{ site.baseurl }}">Home</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/bots">Bots</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/abilities">Botpack modules</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/maps">Maps</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/guides">Guides</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/contribute">Contribute</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}/changelog">Changelog</a></span>
+    		</div>
+      </nav>
+      <hr>
 
       <section>
-        <div id="title">
-          <h1>
-            <img src="https://cdn.discordapp.com/emojis/918669937214640269.png" style="
-              max-width: 80px;
-              position: relative;
-              top: 15px;
-            ">
-            {{site.title}}
-          </h1>
-          <p>{{site.description}}</p>
-          <div class="menu">
-            <span><a href="{{ site.url }}{{ site.baseurl }}">Home</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/bots">Bots</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/abilities">Botpack modules</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/maps">Maps</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/guides">Guides</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/contribute">Contribute</a></span>
-            <span><a href="{{ site.url }}{{ site.baseurl }}/changelog">Changelog</a></span>
-          </div>
-          <hr>
-        </div>
-
+	      
         {{ content }}
-
 
       </section>
 
