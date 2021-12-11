@@ -12,6 +12,12 @@ description: Want to help ? Welcome ! Here's how to proceed
 
 Currently, the priority is to fill out the Robopedia and the botpack modules list. Most of everything we need is on the discord already, now it's a matter of properly formatting it so we can include the data.
 
+### Method 1: the collective bot spreadsheet
+
+It's on discord, just fill out anything that's still missing
+
+### Method 2: plain-text description cards
+
 Basically copy one of the "empty template" files below and fill it with the appropriate data for the bot/ability (for now) you want to submit:
 
 - [Bot template example](https://github.com/beatburger/beatburger.github.io/raw/main/_bots/chomp.md) - [Empty bot template](https://github.com/beatburger/beatburger.github.io/raw/main/_helpers/empty-bot.md)
