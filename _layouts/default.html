@@ -224,14 +224,20 @@ nav.fixed .menu { display: none }
     </style>
 
 <script type="text/javascript">
-window.onscroll = function() {scrollFunction()};
+window.onscroll = function() {changeMenu()};
 
-function scrollFunction() {
-  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-    document.getElementById("nav").classList.add('fixed');
-  } else {
-    document.getElementById("nav").classList.remove('fixed');
-  }
+var onScrollLock = false;
+function removeLock(){onScrollLock = false;
+function changeMenu() {
+	if (!onScrollLock){
+	  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+	  	setTimeout(document.getElementById("nav").classList.add('fixed'), 600);
+	  } else {
+	  	setTimeout(document.getElementById("nav").classList.remove('fixed'), 600); 
+	  }
+	  onScrollLock = true;
+	  setTimeout(removeLock, 100);
+	} else {
 }
 </script>
 
