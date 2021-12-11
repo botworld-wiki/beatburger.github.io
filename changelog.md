@@ -8,5 +8,7 @@ description: How's the wiki project going ?
 
 # Changelog
 
-- added a new changelog ! 🥳
+- Added a new changelog ! 🥳
+- New google-sheet contribution workflow, available on discord
+- New desktop-friendly bot layout
 - ...
