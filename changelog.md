@@ -13,4 +13,5 @@ description: How's the wiki project going ?
 - New desktop-friendly bot layout
 - New banner concept
 - New menu behavior
+- "Meet Beat Burger" button
 - ...
