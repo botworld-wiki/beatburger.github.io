@@ -1,5 +1,6 @@
 ---
 layout: bot
+contributors: "Hex"
 
 
 title: "Yanky"
