@@ -13,6 +13,8 @@ That's the stuff you use to cast stuff or have things
 
 ( Here's a nice pic btw )
 
+Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
+
 
 ## Abilities
 
@@ -45,11 +47,3 @@ Things Hack builds that do stuff
 You unlock them with your Boat lvl
 
 Detailled list: [Gadgets](https://www.botworld.wiki/gadgets)
-
-
-## Unlock all the slots
-
-* Arena master 1: unlocks ?
-* Arena master 2: unlocks ?
-* Arena master 3: unlocks ?
-* ...
