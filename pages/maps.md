@@ -1,6 +1,7 @@
 ---
 
 layout: default
+permalink: /maps
 title: All the maps
 description: Compilation of all the maps you will encounter while you venture forth in Botworld ! 
 
