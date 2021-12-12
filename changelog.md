@@ -21,6 +21,7 @@ description: How's the wiki project going ?
 - Added a new "?Information?" section on homepage, idk how to organize info pages vs guides actually, let me hear it
 - New Drive folder to work collectively on writing pages content
 - Proposal: all [Articles](https://www.botworld.wiki/#articles) listed at the bottom of the homepage (3 categories: [Botmasters](https://www.botworld.wiki/#botmaster), [Botworld](https://www.botworld.wiki/#botworld), [Guides](https://www.botworld.wiki/#guides))
+- [Bots](https://www.botworld.wiki/bots) page new layout
 
 ### Day 2
 
