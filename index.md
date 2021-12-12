@@ -90,43 +90,68 @@ description: All the best the Botworld Adventure community has to offer to help 
 			<li>tether</li>
 		</ul>
 	</div>
+
 	<div class="home_guides_list" id="home_Botpack">
-		<h2 id="Infos">?Informations?</h2>
+		<h2><a href="#player-tools">Player tools</a></h2>
 		<ul>
-			<li><a href="/botpack">Botpack Modules</a></li>
-			<li><a href="/abilities">Abilities</a></li>
-			<li><a href="/boosters">Boosters</a></li>
-			<li><a href="/gadgets">Gadgets</a></li>
-			<li><a href="/arena-masters">Arena Masters</a></li>
-			<li><a href="/maps">Maps</a></li>
-			<li>lvl scaling</li>
-			<li>recruits</li>
+			<li><a href="https://www.botworld.wiki/bots">Bots</a></li>
+			<li><a href="https://www.botworld.wiki/botpack">Botpack</a></li>
+			<li><a href="https://www.botworld.wiki/abilities">Abilities</a></li>
+			<li><a href="https://www.botworld.wiki/boosters">Boosters</a></li>
+			<li>Recruits</li>
+			<li><a href="#more">More...</a></li>
+		</ul>
+	</div>
+	<div class="home_guides_list" id="home_Botpack">
+		<h2><a href="#universe">Botworld Universe</a></h2>
+		<ul>
+			<li><a href="https://www.botworld.wiki/maps">Maps</a></li>
+			<li>Arena</li>
+			<li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
+			<li>Notable characters</li>
+			<li>Materials</li>
+			<li><a href="#more">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Guides">
-		<h2 id="Guides"><a href="/guides">Guides</a></h2>
+		<h2><a href="#guides">Guides</a></h2>
 		<ul>
-			<li><a href="guides/getting-started">Getting Started</a></li>
+			<li><a href="https://www.botworld.wiki/guides/getting-started">Getting Started</a></li>
 			<li>Boat Materials</li>
 			<li>Grouper Comp</li>
-			<li>Farming Guide & Routes</li>
-			<li>...</li>
+			<li>Farming Guide &amp; Routes</li>
+			<li>Arena Crown</li>
+			<li><a href="#more">More...</a></li>
 		</ul>
 	</div>
 </div>
 
-## "Getting Started" mini guide ?
+## Everything there is to read
 
-Or maybe a list of suggested pages to read depending on your player experience ? 
+### Player tools
 
-- Getting started
-- ...
-- Farming
-- ...
-- 6k Arena
+- Bots
+- Botpack Modules
+- Abilities
+- Boosters
+- Gadgets
+- Recruits
 
-## Anything else they'd need on the homepage ?
+### Botworld Universe
 
-idk ?
+- Maps
+- Arena
+- Arena Masters
+- Notable characters
+- Materials
+- Chests
+- Seasons
+- Mecanics (drops, lvl scaling, IA, recruits simulations...)
 
-## We're happy to meet you ?
+### Guides
+
+- Getting Started
+- Boat Materials
+- Grouper Comp
+- Farming Guide &amp; Routes
+- Arena Crown
