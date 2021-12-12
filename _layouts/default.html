@@ -114,7 +114,7 @@
      #site_toc > div.home_guides_list {
        max-width: 220px;
      }
-     			/*bot page layout*/
+ 			/*bot page layout*/
 			.bot-infos {
 			    display: flex;
 			    max-width: 100%;
@@ -132,11 +132,17 @@
 			    flex-grow: 1;
 					max-width: 100%;
 			}
+			.intro { flex: 1 0 100%; }
 			.bot_bloc_1 h3 { display: inline; }
-			.bot_bloc_1 code { float:  right; }
-			.bot_bloc_1 p { clear: right;}
+			.bot_bloc_1 .pic img { width: 250px; height: auto; }
+			.bot_bloc_1 .pic table { margin: 0 0 0px !important }
+			.bot_bloc_1 .abilities code { float:  right; }
+			.bot_bloc_1 .abilities p { clear: right;}
 			.pic, .intro { margin: 0 auto; }
-			.abilities { padding: 20px; }
+			.abilities { 
+				padding: 20px; 
+				max-width: 450px;
+			}
 			.bot_bloc_2 {
 			    flex-grow: 1;
 			}
@@ -154,7 +160,6 @@
 			    margin: 0 auto;
 			}
 			/* end bot page layout*/
-
 
 /* header, menu, banner */
 #banner {
