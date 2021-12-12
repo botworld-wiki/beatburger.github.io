@@ -3,7 +3,7 @@
 layout: bot
 title: "Icicool"
 name: "Icicool"
-description: "A quick bot who slows enemies from a distance with its icicle shots."
+description: "Common Evader - A quick bot who slows enemies from a distance with its icicle shots."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
 
 botName: "Icicool"
