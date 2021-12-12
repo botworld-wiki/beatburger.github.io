@@ -140,25 +140,26 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
 - [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
-- [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
-- [Boosters](https://www.botworld.wiki/boosters): booster detailed list
-- [Gadgets](https://www.botworld.wiki/gadgets): gadget list
+	- [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
+	- [Boosters](https://www.botworld.wiki/boosters): booster detailed list
+	- [Gadgets](https://www.botworld.wiki/gadgets): gadget list
 - Recruits: jobs, AI matter, and why you need to show them some love in general
-- Business upgrades: list & suggestions
+- : list & suggestions
 <span class="menu-link-target" id="universe"></span>
 
 ### Botworld
 
-- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
-- Arena:
-- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
-- Notable characters: the cool npcs
-- Materials: 
-- Critters:
-- Contracts:
-- Boat: pics & unlocks per level ?
-- Chests: idk
+- Exploration
+	- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
+	- Finding materials: 
+	- Critters:
+	- Contracts:
 - Seasons: Starter Season vs Global Season, most notable rewards etc.
+- Arena:
+	- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
+- Scavenger Landing:
+	- Notable characters: the cool npcs
+	- Boat & Business: Business upgrades, boat pictures & unlocks per level...
 - Mechanics: drops, lvl scaling, IA, recruits simulations...
 <span class="menu-link-target" id="guides"></span>
 
