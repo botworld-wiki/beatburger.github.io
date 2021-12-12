@@ -144,7 +144,6 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 	- [Boosters](https://www.botworld.wiki/boosters): booster detailed list
 	- [Gadgets](https://www.botworld.wiki/gadgets): gadget list
 - Recruits: jobs, AI matter, and why you need to show them some love in general
-- : list & suggestions
 <span class="menu-link-target" id="universe"></span>
 
 ### Botworld
