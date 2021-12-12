@@ -125,6 +125,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 		</ul>
 	</div>
 </div>
+<span class="menu-link-target" id="articles"></span>
 
 ## Everything there is to read
 
