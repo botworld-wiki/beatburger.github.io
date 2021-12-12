@@ -20,7 +20,7 @@ description: How's the wiki project going ?
 - New pages created with sections, to be written: [Gadgets](https://www.botworld.wiki/gadgets), [Botpack Modules](https://www.botworld.wiki/botpack), [Arena Masters](https://www.botworld.wiki/arena-masters)
 - Added a new "?Information?" section on homepage, idk how to organize info pages vs guides actually, let me hear it
 - New Drive folder to work collectively on writing pages content
-- Proposal: all [Articles](https://www.botworld.wiki/#articles) listed at the bottom of the homepage (3 categories: [Player *tools?*](https://www.botworld.wiki/#player), [Botworld universe](https://www.botworld.wiki/#universe), [Guides](https://www.botworld.wiki/#guides))
+- Proposal: all [Articles](https://www.botworld.wiki/#articles) listed at the bottom of the homepage (3 categories: [Botmasters](https://www.botworld.wiki/#botmaster), [Botworld](https://www.botworld.wiki/#botworld), [Guides](https://www.botworld.wiki/#guides))
 
 ### Day 2
 
