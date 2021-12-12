@@ -25,7 +25,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 	<div class="home_botType_list" id="home_Tanks">
 		<h2 id="Tanks">Tanks</h2>
 		<ul>
-			<li>barrie</li>
+			<li><a href="/barrie">barrie</a></li>
 			<li><a href="/chainer">chainer</a></li>
 			<li>nozzle</li>
 			<li>berserker</li>
@@ -64,10 +64,10 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 	<div class="home_botType_list" id="home_Evaders">
 		<h2 id="Evaders">Evaders</h2>
 		<ul>
-			<li>dune_bug</li>
+			<li><a href="/dune-bug">dune_bug</a></li>
 			<li>hornet</li>
 			<li>flamer</li>
-			<li>icicool</li>
+			<li><a href="/icicool">icicool</a></li>
 			<li>froggy</li>
 			<li>frosty</li>
 		</ul>
