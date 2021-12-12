@@ -41,5 +41,5 @@ description: How's the wiki project going ?
 - ...
 - Why no wiki ?
 - ...
-- Let's make a wiki
+- Let's make a wiki !
 
