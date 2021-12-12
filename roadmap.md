@@ -3,6 +3,7 @@
 layout: default
 title: Roadmap
 description: What's already planned, and when will it get done ?
+permalink: /roadmap
 
 ---
 
@@ -29,18 +30,15 @@ I make it my first priority for now to make sure we can all move along on this, 
 
 ### Major tech fixes
 
-- bot template broken
 
-### Important Content
+### Important Content Pages
 
-- /boosters, /gadgets
-- /botpack
+- dynamically generating the homepage listings
 - organizing /bots
-- Writing the content of the homepage
+- boosters template
 
 ### Content fixes
 
-- contributors field in bot/ability/etc pages
 - bot "Tips" section should have a better name cuz for now it includes stuff that aren't tips (free-form notes, tips & comments)
 
 ### Minor tech fixes
@@ -51,7 +49,6 @@ I make it my first priority for now to make sure we can all move along on this, 
 
 ### Secondary content & features ideas
 
-- /arena-masters
 - dynamic maps
 
 ## Notes
