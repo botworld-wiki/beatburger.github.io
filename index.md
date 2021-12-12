@@ -99,7 +99,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 			<li><a href="https://www.botworld.wiki/abilities">Abilities</a></li>
 			<li><a href="https://www.botworld.wiki/boosters">Boosters</a></li>
 			<li>Recruits</li>
-			<li><a href="#more">More...</a></li>
+			<li><a href="#player-tools">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Botpack">
@@ -110,7 +110,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 			<li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
 			<li>Notable characters</li>
 			<li>Materials</li>
-			<li><a href="#more">More...</a></li>
+			<li><a href="#botworld-universe">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Guides">
@@ -121,7 +121,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 			<li>Grouper Comp</li>
 			<li>Farming Guide &amp; Routes</li>
 			<li>Arena Crown</li>
-			<li><a href="#more">More...</a></li>
+			<li><a href="#guides">More...</a></li>
 		</ul>
 	</div>
 </div>
