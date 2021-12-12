@@ -23,7 +23,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
-		<h2 id="Tanks">Tanks</h2>
+		<h2 id="Tanks"><a href="/bots#tanks">Tanks</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li><a href="/barrie">barrie</a></li>
@@ -35,7 +35,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Splashers">
-		<h2 id="Splashers">Splashers</h2>
+		<h2 id="Splashers"><a href="/bots#splashers">Splashers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li>mort</li>
@@ -46,7 +46,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Snipers">
-		<h2 id="Snipers">Snipers</h2>
+		<h2 id="Snipers"><a href="/bots#snipers">Snipers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li><a href="/chomp">chomp</a></li>
@@ -56,7 +56,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Chasers">
-		<h2 id="Chasers">Chasers</h2>
+		<h2 id="Chasers"><a href="/bots#chasers">Chasers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li><a href="/slasher">slasher</a></li>
@@ -66,7 +66,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Evaders">
-		<h2 id="Evaders">Evaders</h2>
+		<h2 id="Evaders"><a href="/bots#evaders">Evaders</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li><a href="/dune-bug">dune_bug</a></li>
@@ -78,7 +78,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Brawlers">
-		<h2 id="Brawlers">Brawlers</h2>
+		<h2 id="Brawlers"><a href="/bots#brawlers">Brawlers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li>scatter</li>
@@ -89,7 +89,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div class="home_botType_list" id="home_Supports">
-		<h2 id="Supports">Supports</h2>
+		<h2 id="Supports"><a href="/bots#supports">Supports</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
 			<li>gusto</li>
@@ -99,20 +99,23 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 		</ul>
 	</div>
 	<div id="home_Botpack">
-		<h2 id="Botpack Modules">Botpack Modules</h2>
+		<h2 id="Infos">?Informations?</h2>
 		<ul>
+			<li><a href="/botpack">Botpack Modules</a></li>
 			<li><a href="/abilities">Abilities</a></li>
-			<li>Boosters</li>
-			<li>Gadgets</li>
+			<li><a href="/boosters">Boosters</a></li>
+			<li><a href="/gadgets">Gadgets</a></li>
+			<li><a href="/arena-masters">Arena Masters</a></li>
+			<li><a href="/maps">Maps</a></li>
+			<li>lvl scaling</li>
+			<li>recruits</li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Guides">
-		<h2 id="Guides">Guides</h2>
+		<h2 id="Guides"><a href="/guides">Guides</a></h2>
 		<ul>
-			<li><a href="/maps">Maps</a></li>
 			<li><a href="guides/getting-started">Getting Started</a></li>
 			<li>Boat Materials</li>
-			<li>Arena Masters</li>
 			<li>Grouper Comp</li>
 			<li>Farming Guide & Routes</li>
 			<li>...</li>
