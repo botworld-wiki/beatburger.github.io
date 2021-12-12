@@ -40,7 +40,7 @@ function formatStr(str){
 		select(str).replaceAll('"\nhttp', 'http',).split('\n')
 			.map(function(line){return line.replaceAll('"','')})
 			.map(function(val){return rows[i++]+': "'+val+'"'})
-			.join('\n').replace(/#.*"__"/g,'\n').replaceAll('__','')
+			.join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
 		)
 }
 function convertFromFields(){
