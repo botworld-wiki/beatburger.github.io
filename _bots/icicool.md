@@ -12,7 +12,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554741
 botType: "Evader"
 botRarity: "Common"
 botAcquisition: "Random Drop"
-botOpinion: "Best bot, period."
+botOpinion: "Goodest bot, period."
 
 ability1Name: "Icicle"
 ability1Info: "Range: 2-9 , Atk Spd: 0.8s , Energy Dmg: 100% , Slow: 50%"
