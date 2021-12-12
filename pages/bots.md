@@ -9,8 +9,14 @@ description: The place to learn everything there is to know about the wonderful 
 
 # Robopedia
 
+- [Tanks](#tanks)
+- [Splashers](#splashers)
+- [Snipers](#snipers)
+- [Chasers](#chasers)
+- [Evaders](#evaders)
+- [Brawlers](#brawlers)
+- [Supports](#supports)
 
-(Table of content)
 
 ## Tanks
 
