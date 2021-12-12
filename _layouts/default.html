@@ -269,7 +269,7 @@ nav.fixed .menu { display: none }
     <div class="wrapper">
     	<div id="title-container">
 				<div>
-					<a href="#" class="over_banner">
+					<a href="{{ site.url }}{{ site.baseurl }}" class="over_banner">
 						<img src="https://cdn.discordapp.com/emojis/918669937214640269.png">
 						<h2 class="wiki-title"> {{site.title}} </h2>
 					</a>
@@ -279,7 +279,7 @@ nav.fixed .menu { display: none }
 		 	<nav id="nav" class="override">
 		 		<div class="mini-menu">
 			 		<img src="https://cdn.discordapp.com/emojis/918669937214640269.png">
-					<span class="wiki-title"> {{site.title}} </span>
+					<span class="wiki-title"><a href="{{ site.url }}{{ site.baseurl }}"> {{site.title}} </a></span>
 	        <label class="tab-label" for="menu-checkbox">Menu</label>
 			 	</div>
 	      <input style="display: none;" type="checkbox" id="menu-checkbox">
@@ -288,7 +288,7 @@ nav.fixed .menu { display: none }
           <span><a href="{{ site.url }}{{ site.baseurl }}/bots">Bots</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}/botpack">Botpack modules</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}/maps">Maps</a></span>
-          <span><a href="{{ site.url }}{{ site.baseurl }}/guides">Guides</a></span>
+          <span><a href="{{ site.url }}{{ site.baseurl }}#articles">Articles</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}/contribute">Contribute</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}/changelog">Changelog</a></span>
     		</div>
