@@ -92,25 +92,25 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#player-tools">Player tools</a></h2>
+		<h2><a href="#player">Player tools</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/bots">Bots</a></li>
 			<li><a href="https://www.botworld.wiki/botpack">Botpack</a></li>
 			<li><a href="https://www.botworld.wiki/abilities">Abilities</a></li>
 			<li><a href="https://www.botworld.wiki/boosters">Boosters</a></li>
 			<li>Recruits</li>
-			<li><a href="#player-tools">More...</a></li>
+			<li><a href="#player">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#botworld-universe">Botworld Universe</a></h2>
+		<h2><a href="#universe">Botworld Universe</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/maps">Maps</a></li>
 			<li>Arena</li>
 			<li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
 			<li>Notable characters</li>
 			<li>Materials</li>
-			<li><a href="#botworld-universe">More...</a></li>
+			<li><a href="#universe">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Guides">
@@ -129,6 +129,8 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ## Everything there is to read
 
+<span class="menu-link-target" id="player"></span>
+
 ### Player tools
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
@@ -138,6 +140,8 @@ description: All the best the Botworld Adventure community has to offer to help 
 - [Gadgets](https://www.botworld.wiki/gadgets): gadget list
 - Recruits: jobs, AI matter, and why you need to show them some love in general
 - Business upgrades: list & suggestions
+
+<span class="menu-link-target" id="universe"></span>
 
 ### Botworld Universe
 
@@ -152,6 +156,8 @@ description: All the best the Botworld Adventure community has to offer to help 
 - Chests: idk
 - Seasons: Starter Season vs Global Season, most notable rewards etc.
 - Mecanics: drops, lvl scaling, IA, recruits simulations...
+
+<span class="menu-link-target" id="guides"></span>
 
 ### Guides
 
