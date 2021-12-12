@@ -92,7 +92,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#player">Player tools</a></h2>
+		<h2><a href="#player">Player tools?</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/bots">Bots</a></li>
 			<li><a href="https://www.botworld.wiki/botpack">Botpack</a></li>
@@ -130,7 +130,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ## Everything there is to read
 
-### Player tools
+### Player *tools?*
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
 - [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
