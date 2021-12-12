@@ -31,6 +31,10 @@ Basically copy one of the "empty template" files below and fill it with the appr
 
 Any other idea you have to contribute, let us know !
 
+## Roadmap
+
+[Development Roadmap](https://www.botworld.wiki/roadmap)
+
 ## Credits
 
 - Groovy: Editor in chief
