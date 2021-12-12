@@ -98,4 +98,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Viv
 
 * **Requirements**:
 * **Mobs lvl**: 
+*
+![Image](https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png)
 
