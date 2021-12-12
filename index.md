@@ -11,9 +11,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ` brand new and still growing hopefully !`
 
-## Filler text, idk. Ignore or tell me what to say there
-
-?? Welcome I guess ??
+## Easy access to the most used resources
 
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
@@ -117,8 +115,18 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 </div>
 
+## "Getting Started" mini guide ?
 
+Or maybe a list of suggested pages to read depending on your player experience ? 
 
-## Filler text (cont.)
+- Getting started
+- ...
+- Farming
+- ...
+- 6k Arena
 
-What do we need to say to our visitors when they first come to the wiki ?
+## Anything else they'd need on the homepage ?
+
+idk ?
+
+## We're happy to meet you ?
