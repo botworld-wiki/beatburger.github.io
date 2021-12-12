@@ -1,6 +1,7 @@
 ---
 
 layout: default
+permalink: /guides/getting-started
 title: Getting Started
 description: How vest to start exploring Botworld!
 
