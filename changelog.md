@@ -19,6 +19,7 @@ description: How's the wiki project going ?
 - Added "Contributors" and "Last updated at" on bot pages
 - New pages created with sections, to be written: [Gadgets](https://www.botworld.wiki/gadgets), [Botpack Modules](https://www.botworld.wiki/botpack), [Arena Masters](https://www.botworld.wiki/arena-masters)
 - Added a new "?Information?" section on homepage, idk how to organize info pages vs guides actually, let me hear it
+- New Drive folder to work collectively on writing pages content
 
 ### Day 2
 
