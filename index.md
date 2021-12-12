@@ -98,7 +98,7 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 			<li>tether</li>
 		</ul>
 	</div>
-	<div id="home_Botpack">
+	<div class="home_guides_list" id="home_Botpack">
 		<h2 id="Infos">?Informations?</h2>
 		<ul>
 			<li><a href="/botpack">Botpack Modules</a></li>
