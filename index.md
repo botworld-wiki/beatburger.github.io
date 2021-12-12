@@ -103,7 +103,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#universe">Botworld Universe</a></h2>
+		<h2><a href="#botworld-universe">Botworld Universe</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/maps">Maps</a></li>
 			<li>Arena</li>
@@ -130,28 +130,32 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ### Player tools
 
-- Bots
-- Botpack Modules
-- Abilities
-- Boosters
-- Gadgets
-- Recruits
+- [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
+- [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
+- [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
+- [Boosters](https://www.botworld.wiki/boosters): booster detailed list
+- [Gadgets](https://www.botworld.wiki/gadgets): gadget list
+- Recruits: jobs, AI matter, and why you need to show them some love in general
+- Business upgrades: list & suggestions
 
 ### Botworld Universe
 
-- Maps
-- Arena
-- Arena Masters
-- Notable characters
-- Materials
-- Chests
-- Seasons
-- Mecanics (drops, lvl scaling, IA, recruits simulations...)
+- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
+- Arena:
+- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
+- Notable characters: the cool npcs
+- Materials: 
+- Critters:
+- Contracts:
+- Boat: pics & unlocks per level ?
+- Chests: idk
+- Seasons: Starter Season vs Global Season, most notable rewards etc.
+- Mecanics: drops, lvl scaling, IA, recruits simulations...
 
 ### Guides
 
-- Getting Started
-- Boat Materials
-- Grouper Comp
-- Farming Guide &amp; Routes
-- Arena Crown
+- [Getting Started](https://www.botworld.wiki/guides/getting-started): 
+- Boat Materials:
+- Grouper Comp:
+- Farming Guide &amp; Routes:
+- Arena Crown:
