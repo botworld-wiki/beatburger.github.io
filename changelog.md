@@ -35,7 +35,11 @@ description: How's the wiki project going ?
 
 - Let there be a wiki
 
-### Day 0
+### Previous days
 
+- Why no wiki ?
+- ...
+- Why no wiki ?
+- ...
 - Let's make a wiki
 
