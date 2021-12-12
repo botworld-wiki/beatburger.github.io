@@ -31,7 +31,7 @@ description: How's the wiki project going ?
 - "Meet Beat Burger" button
 - Dune Bug, Barrie, Icicool by Hex
 
-### Day 1 (09 Dec 2021)
+### Day 1 (10 Dec 2021)
 
 - Let there be a wiki
 
