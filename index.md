@@ -92,25 +92,25 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#player">Player tools?</a></h2>
+		<h2><a href="#botmaster">Botmasters</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/bots">Bots</a></li>
 			<li><a href="https://www.botworld.wiki/botpack">Botpack</a></li>
 			<li><a href="https://www.botworld.wiki/abilities">Abilities</a></li>
 			<li><a href="https://www.botworld.wiki/boosters">Boosters</a></li>
 			<li>Recruits</li>
-			<li><a href="#player">More...</a></li>
+			<li><a href="#botmaster">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Botpack">
-		<h2><a href="#universe">Botworld Universe</a></h2>
+		<h2><a href="#botworld">Botworld</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/maps">Maps</a></li>
 			<li>Arena</li>
 			<li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
 			<li>Notable characters</li>
 			<li>Materials</li>
-			<li><a href="#universe">More...</a></li>
+			<li><a href="#botworld">More...</a></li>
 		</ul>
 	</div>
 	<div class="home_guides_list" id="home_Guides">
@@ -126,11 +126,11 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 </div>
 <span class="menu-link-target" id="articles"></span>
-<span class="menu-link-target" id="player"></span>
+<span class="menu-link-target" id="botmaster"></span>
 
-## Everything there is to read
+## Every Article listed here
 
-### Player *tools?*
+### Botmasters
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
 - [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
@@ -141,7 +141,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 - Business upgrades: list & suggestions
 <span class="menu-link-target" id="universe"></span>
 
-### Botworld Universe
+### Botworld
 
 - [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
 - Arena:
@@ -153,7 +153,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 - Boat: pics & unlocks per level ?
 - Chests: idk
 - Seasons: Starter Season vs Global Season, most notable rewards etc.
-- Mecanics: drops, lvl scaling, IA, recruits simulations...
+- Mechanics: drops, lvl scaling, IA, recruits simulations...
 <span class="menu-link-target" id="guides"></span>
 
 ### Guides
