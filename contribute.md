@@ -1,6 +1,7 @@
 ---
 
 layout: default
+permalink: contribute
 title: Contribute
 description: Want to help ? Welcome ! Here's how to proceed
 
