@@ -30,6 +30,7 @@ I make it my first priority for now to make sure we can all move along on this, 
 
 ### Major tech fixes
 
+-
 
 ### Important Content Pages
 
@@ -39,10 +40,11 @@ I make it my first priority for now to make sure we can all move along on this, 
 
 ### Content fixes
 
-- bot "Tips" section should have a better name cuz for now it includes stuff that aren't tips (free-form notes, tips & comments)
+- 
 
 ### Minor tech fixes
 
+- breadcrumbs
 - minified menu glitch at the top of the page
 - distorded BB logo
 - images compression
