@@ -126,10 +126,9 @@ description: All the best the Botworld Adventure community has to offer to help 
 	</div>
 </div>
 <span class="menu-link-target" id="articles"></span>
+<span class="menu-link-target" id="player"></span>
 
 ## Everything there is to read
-
-<span class="menu-link-target" id="player"></span>
 
 ### Player tools
 
@@ -140,7 +139,6 @@ description: All the best the Botworld Adventure community has to offer to help 
 - [Gadgets](https://www.botworld.wiki/gadgets): gadget list
 - Recruits: jobs, AI matter, and why you need to show them some love in general
 - Business upgrades: list & suggestions
-
 <span class="menu-link-target" id="universe"></span>
 
 ### Botworld Universe
@@ -156,7 +154,6 @@ description: All the best the Botworld Adventure community has to offer to help 
 - Chests: idk
 - Seasons: Starter Season vs Global Season, most notable rewards etc.
 - Mecanics: drops, lvl scaling, IA, recruits simulations...
-
 <span class="menu-link-target" id="guides"></span>
 
 ### Guides
