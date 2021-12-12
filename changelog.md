@@ -14,4 +14,5 @@ description: How's the wiki project going ?
 - New banner concept
 - New menu behavior
 - "Meet Beat Burger" button
+- Dune Bug, Barrie, Icicool by Hex
 - ...
