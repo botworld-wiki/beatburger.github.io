@@ -1,6 +1,7 @@
 ---
 
 layout: default
+permalink: /changelog
 title: Changelog
 description: How's the wiki project going ?
 
@@ -14,6 +15,10 @@ description: How's the wiki project going ?
 
 - [Development Roadmap](https://www.botworld.wiki/roadmap)
 - [WikiSheets Converter](https://www.botworld.wiki/converter)
+- New Bots: yanky, slash, lobbie, rocketeer, brute
+- Added "Contributors" and "Last updated at" on bot pages
+- New pages created with sections, to be written: [Gadgets](https://www.botworld.wiki/gadgets), [Botpack Modules](https://www.botworld.wiki/botpack), [Arena Masters](https://www.botworld.wiki/arena-masters)
+- Added a new "?Information" section on homepage
 
 ### Day 2
 
