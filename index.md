@@ -9,9 +9,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 # Botworld Community Wiki
 
-` brand new and still growing hopefully !`
-
-## Easy access to the most used resources
+` brand new and still growing nicely !`
 
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
@@ -125,10 +123,16 @@ description: All the best the Botworld Adventure community has to offer to help 
 		</ul>
 	</div>
 </div>
-<span class="menu-link-target" id="articles"></span>
+
+## New player ?
+
+Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
+
+Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
+<span class="menu-link-target" id="all"></span>
 <span class="menu-link-target" id="botmaster"></span>
 
-## Every Article listed here
+## Articles
 
 ### Botmasters
 
@@ -163,3 +167,10 @@ description: All the best the Botworld Adventure community has to offer to help 
 - Grouper Comp:
 - Farming Guide &amp; Routes:
 - Arena Crown:
+
+### Project pages
+
+-[Contribute](https://www.botworld.wiki/contribute)
+-[Changelog](https://www.botworld.wiki/changelog)
+-[Roadmap](https://www.botworld.wiki/roadmap)
+-[WikiSheets Converter](https://www.botworld.wiki/converter)
