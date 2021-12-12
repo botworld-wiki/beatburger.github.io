@@ -2,7 +2,7 @@
 layout: bot
 title: "Dune Bug"
 name: "Dune Bug"
-description: "Extremely agile desert bot that rolls circles around its opponents. Hard to pin down."
+description: "Special Evader - Extremely agile desert bot that rolls circles around its opponents. Hard to pin down."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 contributors: "Hex"
 
