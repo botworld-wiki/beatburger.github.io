@@ -51,7 +51,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 		<h2 id="Chasers"><a href="/bots#chasers">Chasers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
-			<li><a href="/slasher">slasher</a></li>
+			<li><a href="/slash">slash</a></li>
 			<li>slicer</li>
 			<li>fork</li>
 			<li>ram</li>
