@@ -1,6 +1,7 @@
 ---
 
 layout: default
+permalink: /abilities
 title: All the abilities
 description: The place to learn everything there is to know about the powerful abilities you can find and use in Botworld Adventure!
 
