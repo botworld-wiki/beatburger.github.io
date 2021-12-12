@@ -9,7 +9,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 # Botworld Community Wiki
 
-` brand new and still growing nicely !`
+A community project that's growing nicely! Hopefully you'll find in here info and answers for any question you have about Botworld Adventure:
 
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
@@ -170,7 +170,7 @@ Botworld is well worth exploring at your own pace, and won’t punish you for tr
 
 ### Project pages
 
--[Contribute](https://www.botworld.wiki/contribute)
--[Changelog](https://www.botworld.wiki/changelog)
--[Roadmap](https://www.botworld.wiki/roadmap)
--[WikiSheets Converter](https://www.botworld.wiki/converter)
+- [Contribute](https://www.botworld.wiki/contribute)
+- [Changelog](https://www.botworld.wiki/changelog)
+- [Roadmap](https://www.botworld.wiki/roadmap)
+- [WikiSheets Converter](https://www.botworld.wiki/converter)
