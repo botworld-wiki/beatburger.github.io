@@ -1,3 +1,12 @@
+---
+
+layout: default
+permalink: /botpack
+title: Botpack & modules
+description: The place to learn everything there is to know about your Botpack and its Modules!
+
+---
+
 # Botpack
 
 That's the stuff you use to cast stuff or have things
