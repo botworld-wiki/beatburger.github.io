@@ -2,7 +2,6 @@
 
 layout: default
 permalink: /
-homepage: true
 title: Botworld Community Wiki
 description: All the best the Botworld Adventure community has to offer to help you progress through this awesome game ! Robopedia, Guides, Maps, and more...
 
