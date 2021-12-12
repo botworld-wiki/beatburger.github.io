@@ -18,7 +18,7 @@ description: How's the wiki project going ?
 - New Bots: yanky, slash, lobbie, rocketeer, brute
 - Added "Contributors" and "Last updated at" on bot pages
 - New pages created with sections, to be written: [Gadgets](https://www.botworld.wiki/gadgets), [Botpack Modules](https://www.botworld.wiki/botpack), [Arena Masters](https://www.botworld.wiki/arena-masters)
-- Added a new "?Information" section on homepage
+- Added a new "?Information?" section on homepage, idk how to organize info pages vs guides actually, let me hear it
 
 ### Day 2
 
