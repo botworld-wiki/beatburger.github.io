@@ -83,16 +83,53 @@ async function checkCredentials(){
 
 function displayPanel(){
   const $panel = $(`
-<div id="ghCMS-editor-panel" class="mini">
-  <h2>Editor
-    <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">Edits<br/> history</a>
+<div id="ghCMS-editor-panel" class="maxi">
+  <div style="padding: 5px;">
+		<a href="/" target="_blank">Home</a> - <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">History</a>
     <button class="close">X</button><button class="minimize">+-</button>
-  </h2>
-  <input></input>
+  </div>
   <textarea></textarea>
-  <button class="demo">Formating demo</button>
-  <button class="cancel">Cancel</button>
-  <button class="validate">Save</button>
+  <div>
+	  <button class="demo">Formating demo</button>
+	  <button class="cancel">Cancel</button>
+	  <button class="validate">Save</button>
+  </div>
+  <style> 
+  	.ghcms{border: 1 px solid !important;}
+#ghCMS-news-panel #targetId,#ghCMS-news-panel #targetIndex,#ghCMS-news-panel #imgSize{
+	display:none !important
+}
+#ghCMS-editor-panel,#ghCMS-news-panel{
+	position:fixed;width:25%;height:80%;min-width:300px;background:#7b7474;border:5px solid grey;border-radius:10px;z-index:300;top:0px;right:0px;display:flex;flex-direction:column;overflow:hidden;font-family:arial,serif
+}
+#ghCMS-editor-panel.mini,#ghCMS-news-panel.mini{
+	height:40px
+}
+#ghCMS-editor-panel.maxi,#ghCMS-news-panel.maxi{
+	height:90%
+}
+#ghCMS-editor-panel *,#ghCMS-news-panel *{
+	font-family:arial,serif
+}
+#ghCMS-editor-panel h2 a,#ghCMS-news-panel h2 a{
+	display:inline-block;width:80px;font-size:17px
+}
+#ghCMS-editor-panel h2 button,#ghCMS-news-panel h2 button{
+	float:right;padding:0px;width:50px
+}
+#ghCMS-editor-panel input,#ghCMS-news-panel input{
+	display:none
+}
+#ghCMS-editor-panel textarea,#ghCMS-news-panel textarea{
+	width:100%;height:600px;font-family:monospace
+}
+.ghcms-edit-option{
+	width:70px
+}
+#ghCMS-news-panel input{
+	display:block !important;height:80px
+}
+  </style>
 </div>
   `);
   $('body').append($panel);
