@@ -59,6 +59,5 @@ $(document).ready(fetchEdits);
 
 function onPage(path){ return (''+window.location).indexOf(path)>0 }
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
-//onPage('/admin/')? $.getScript('assets/js/admin.js') : 0;
-$.getScript('/assets/js/admin.js')
+onPage('/admin')? $.getScript('assets/js/admin.js') : 0;
 editorModeOn()? $.getModule('/assets/js/ghcms.js') : 0;
