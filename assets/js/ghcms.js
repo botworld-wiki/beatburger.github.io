@@ -7,400 +7,7 @@
 // resources:
 //  -- mout, https://github.com/mout/mout/tree/master/src/string
 
-/**
- * "Safer" String.toLowerCase()
- */
-function lowerCase(str) {
-  return str.toLowerCase();
-}
-
-/**
- * "Safer" String.toUpperCase()
- */
-function upperCase(str) {
-  return str.toUpperCase();
-}
-
-/**
- * Convert string to camelCase text.
- */
-function camelCase(str) {
-  str = replaceAccents(str);
-  str = removeNonWord(str)
-    .replace(/\-/g, " ") //convert all hyphens to spaces
-    .replace(/\s[a-z]/g, upperCase) //convert first char of each word to UPPERCASE
-    .replace(/\s+/g, "") //remove spaces
-    .replace(/^[A-Z]/g, lowerCase); //convert first char to lowercase
-  return str;
-}
-
-/**
- * Add space between camelCase text.
- */
-function unCamelCase(str) {
-  str = str.replace(/([a-z\xE0-\xFF])([A-Z\xC0\xDF])/g, "$1 $2");
-  str = str.toLowerCase(); //add space between camelCase text
-  return str;
-}
-
-/**
- * UPPERCASE first char of each word.
- */
-function properCase(str) {
-  return lowerCase(str).replace(/^\w|\s\w/g, upperCase);
-}
-
-/**
- * camelCase + UPPERCASE first char
- */
-function pascalCase(str) {
-  return camelCase(str).replace(/^[a-z]/, upperCase);
-}
-
-/**
- * UPPERCASE first char of each sentence and lowercase other chars.
- */
-function sentenceCase(str) {
-  // Replace first char of each sentence (new line or after '.\s+') to
-  // UPPERCASE
-  return lowerCase(str).replace(/(^\w)|\.\s+(\w)/gm, upperCase);
-}
-
-/**
- * Convert to lower case, remove accents, remove non-word chars and
- * replace spaces with the specified delimeter.
- * Does not split camelCase text.
- */
-function slugify(str, delimeter) {
-  if (delimeter == null) {
-    delimeter = "-";
-  }
-
-  str = replaceAccents(str);
-  str = removeNonWord(str);
-  str = trim(str) //should come after removeNonWord
-    .replace(/ +/g, delimeter) //replace spaces with delimeter
-    .toLowerCase();
-
-  return str;
-}
-
-/**
- * Replaces spaces with hyphens, split camelCase text, remove non-word chars, remove accents and convert to lower case.
- */
-function hyphenate(str) {
-  str = unCamelCase(str);
-  return slugify(str, "-");
-}
-
-/**
- * Replaces hyphens with spaces. (only hyphens between word chars)
- */
-function unhyphenate(str) {
-  return str.replace(/(\w)(-)(\w)/g, "$1 $3");
-}
-
-/**
- * Replaces spaces with underscores, split camelCase text, remove
- * non-word chars, remove accents and convert to lower case.
- */
-function underscore(str) {
-  str = unCamelCase(str);
-  return slugify(str, "_");
-}
-
-/**
- * Remove non-word chars.
- */
-function removeNonWord(str) {
-  return str.replace(/[^0-9a-zA-Z\xC0-\xFF \-]/g, "");
-}
-
-/**
- * Convert line-breaks from DOS/MAC to a single standard (UNIX by default)
- */
-function normalizeLineBreaks(str, lineEnd) {
-  lineEnd = lineEnd || "\n";
-
-  return str
-    .replace(/\r\n/g, lineEnd) // DOS
-    .replace(/\r/g, lineEnd) // Mac
-    .replace(/\n/g, lineEnd); // Unix
-}
-
-/**
- * Replaces all accented chars with regular ones
- */
-function replaceAccents(str) {
-  // verifies if the String has accents and replace them
-  if (str.search(/[\xC0-\xFF]/g) > -1) {
-    str = str
-      .replace(/[\xC0-\xC5]/g, "A")
-      .replace(/[\xC6]/g, "AE")
-      .replace(/[\xC7]/g, "C")
-      .replace(/[\xC8-\xCB]/g, "E")
-      .replace(/[\xCC-\xCF]/g, "I")
-      .replace(/[\xD0]/g, "D")
-      .replace(/[\xD1]/g, "N")
-      .replace(/[\xD2-\xD6\xD8]/g, "O")
-      .replace(/[\xD9-\xDC]/g, "U")
-      .replace(/[\xDD]/g, "Y")
-      .replace(/[\xDE]/g, "P")
-      .replace(/[\xE0-\xE5]/g, "a")
-      .replace(/[\xE6]/g, "ae")
-      .replace(/[\xE7]/g, "c")
-      .replace(/[\xE8-\xEB]/g, "e")
-      .replace(/[\xEC-\xEF]/g, "i")
-      .replace(/[\xF1]/g, "n")
-      .replace(/[\xF2-\xF6\xF8]/g, "o")
-      .replace(/[\xF9-\xFC]/g, "u")
-      .replace(/[\xFE]/g, "p")
-      .replace(/[\xFD\xFF]/g, "y");
-  }
-
-  return str;
-}
-
-/**
- * Searches for a given substring
- */
-function contains(str, substring, fromIndex) {
-  return str.indexOf(substring, fromIndex) !== -1;
-}
-
-/**
- * Truncate string at full words.
- */
-function crop(str, maxChars, append) {
-  return truncate(str, maxChars, append, true);
-}
-
-/**
- * Escape RegExp string chars.
- */
-function escapeRegExp(str) {
-  var ESCAPE_CHARS = /[\\.+*?\^$\[\](){}\/'#]/g;
-  return str.replace(ESCAPE_CHARS, "\\$&");
-}
-
-/**
- * Escapes a string for insertion into HTML.
- */
-function escapeHtml(str) {
-  str = str
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/'/g, "&#39;")
-    .replace(/"/g, "&quot;");
-
-  return str;
-}
-
-/**
- * Unescapes HTML special chars
- */
-function unescapeHtml(str) {
-  str = str
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&#39;/g, "'")
-    .replace(/&quot;/g, '"');
-  return str;
-}
-
-/**
- * Escape string into unicode sequences
- */
-function escapeUnicode(str, shouldEscapePrintable) {
-  return str.replace(/[\s\S]/g, function (ch) {
-    // skip printable ASCII chars if we should not escape them
-    if (!shouldEscapePrintable && /[\x20-\x7E]/.test(ch)) {
-      return ch;
-    }
-    // we use "000" and slice(-4) for brevity, need to pad zeros,
-    // unicode escape always have 4 chars after "\u"
-    return "\\u" + ("000" + ch.charCodeAt(0).toString(16)).slice(-4);
-  });
-}
-
-/**
- * Remove HTML tags from string.
- */
-function stripHtmlTags(str) {
-  return str.replace(/<[^>]*>/g, "");
-}
-
-/**
- * Remove non-printable ASCII chars
- */
-function removeNonASCII(str) {
-  // Matches non-printable ASCII chars -
-  // http://en.wikipedia.org/wiki/ASCII#ASCII_printable_characters
-  return str.replace(/[^\x20-\x7E]/g, "");
-}
-
-/**
- * String interpolation
- */
-function interpolate(template, replacements, syntax) {
-  var stache = /\{\{(\w+)\}\}/g; //mustache-like
-
-  var replaceFn = function (match, prop) {
-    return prop in replacements ? replacements[prop] : "";
-  };
-
-  return template.replace(syntax || stache, replaceFn);
-}
-
-/**
- * Pad string with `char` if its' length is smaller than `minLen`
- */
-function rpad(str, minLen, ch) {
-  ch = ch || " ";
-  return str.length < minLen ? str + repeat(ch, minLen - str.length) : str;
-}
-
-/**
- * Pad string with `char` if its' length is smaller than `minLen`
- */
-function lpad(str, minLen, ch) {
-  ch = ch || " ";
-
-  return str.length < minLen ? repeat(ch, minLen - str.length) + str : str;
-}
-
-/**
- * Repeat string n times
- */
-function repeat(str, n) {
-  return new Array(n + 1).join(str);
-}
-
-/**
- * Limit number of chars.
- */
-function truncate(str, maxChars, append, onlyFullWords) {
-  append = append || "...";
-  maxChars = onlyFullWords ? maxChars + 1 : maxChars;
-
-  str = trim(str);
-  if (str.length <= maxChars) {
-    return str;
-  }
-  str = str.substr(0, maxChars - append.length);
-  //crop at last space or remove trailing whitespace
-  str = onlyFullWords ? str.substr(0, str.lastIndexOf(" ")) : trim(str);
-  return str + append;
-}
-
-var WHITE_SPACES = [
-  " ",
-  "\n",
-  "\r",
-  "\t",
-  "\f",
-  "\v",
-  "\u00A0",
-  "\u1680",
-  "\u180E",
-  "\u2000",
-  "\u2001",
-  "\u2002",
-  "\u2003",
-  "\u2004",
-  "\u2005",
-  "\u2006",
-  "\u2007",
-  "\u2008",
-  "\u2009",
-  "\u200A",
-  "\u2028",
-  "\u2029",
-  "\u202F",
-  "\u205F",
-  "\u3000"
-];
-
-/**
- * Remove chars from beginning of string.
- */
-function ltrim(str, chars) {
-  chars = chars || WHITE_SPACES;
-
-  var start = 0,
-    len = str.length,
-    charLen = chars.length,
-    found = true,
-    i,
-    c;
-
-  while (found && start < len) {
-    found = false;
-    i = -1;
-    c = str.charAt(start);
-
-    while (++i < charLen) {
-      if (c === chars[i]) {
-        found = true;
-        start++;
-        break;
-      }
-    }
-  }
-
-  return start >= len ? "" : str.substr(start, len);
-}
-
-/**
- * Remove chars from end of string.
- */
-function rtrim(str, chars) {
-  chars = chars || WHITE_SPACES;
-
-  var end = str.length - 1,
-    charLen = chars.length,
-    found = true,
-    i,
-    c;
-
-  while (found && end >= 0) {
-    found = false;
-    i = -1;
-    c = str.charAt(end);
-
-    while (++i < charLen) {
-      if (c === chars[i]) {
-        found = true;
-        end--;
-        break;
-      }
-    }
-  }
-
-  return end >= 0 ? str.substring(0, end + 1) : "";
-}
-
-/**
- * Remove white-spaces from beginning and end of string.
- */
-function trim(str, chars) {
-  chars = chars || WHITE_SPACES;
-  return ltrim(rtrim(str, chars), chars);
-}
-
-/**
- * Capture all capital letters following a word boundary (in case the
- * input is in all caps)
- */
-function abbreviate(str) {
-  return str.match(/\b([A-Z])/g).join("");
-}
-// ghCMS v0.2
-// github.com/centime/ghcms
-
-
+function lowerCase(e){return e.toLowerCase()}function upperCase(e){return e.toUpperCase()}function camelCase(e){return e=removeNonWord(e=replaceAccents(e)).replace(/\-/g," ").replace(/\s[a-z]/g,upperCase).replace(/\s+/g,"").replace(/^[A-Z]/g,lowerCase)}function unCamelCase(e){return e=(e=e.replace(/([a-z\xE0-\xFF])([A-Z\xC0\xDF])/g,"$1 $2")).toLowerCase()}function properCase(e){return lowerCase(e).replace(/^\w|\s\w/g,upperCase)}function pascalCase(e){return camelCase(e).replace(/^[a-z]/,upperCase)}function sentenceCase(e){return lowerCase(e).replace(/(^\w)|\.\s+(\w)/gm,upperCase)}function slugify(e,r){return null==r&&(r="-"),e=trim(e=removeNonWord(e=replaceAccents(e))).replace(/ +/g,r).toLowerCase()}function hyphenate(e){return slugify(e=unCamelCase(e),"-")}function unhyphenate(e){return e.replace(/(\w)(-)(\w)/g,"$1 $3")}function underscore(e){return slugify(e=unCamelCase(e),"_")}function removeNonWord(e){return e.replace(/[^0-9a-zA-Z\xC0-\xFF \-]/g,"")}function normalizeLineBreaks(e,r){return r=r||"\n",e.replace(/\r\n/g,r).replace(/\r/g,r).replace(/\n/g,r)}function replaceAccents(e){return e.search(/[\xC0-\xFF]/g)>-1&&(e=e.replace(/[\xC0-\xC5]/g,"A").replace(/[\xC6]/g,"AE").replace(/[\xC7]/g,"C").replace(/[\xC8-\xCB]/g,"E").replace(/[\xCC-\xCF]/g,"I").replace(/[\xD0]/g,"D").replace(/[\xD1]/g,"N").replace(/[\xD2-\xD6\xD8]/g,"O").replace(/[\xD9-\xDC]/g,"U").replace(/[\xDD]/g,"Y").replace(/[\xDE]/g,"P").replace(/[\xE0-\xE5]/g,"a").replace(/[\xE6]/g,"ae").replace(/[\xE7]/g,"c").replace(/[\xE8-\xEB]/g,"e").replace(/[\xEC-\xEF]/g,"i").replace(/[\xF1]/g,"n").replace(/[\xF2-\xF6\xF8]/g,"o").replace(/[\xF9-\xFC]/g,"u").replace(/[\xFE]/g,"p").replace(/[\xFD\xFF]/g,"y")),e}function contains(e,r,n){return-1!==e.indexOf(r,n)}function crop(e,r,n){return truncate(e,r,n,!0)}function escapeRegExp(e){return e.replace(/[\\.+*?\^$\[\](){}\/'#]/g,"\\$&")}function escapeHtml(e){return e=e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/'/g,"&#39;").replace(/"/g,"&quot;")}function unescapeHtml(e){return e=e.replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&#39;/g,"'").replace(/&quot;/g,'"')}function escapeUnicode(e,r){return e.replace(/[\s\S]/g,function(e){return!r&&/[\x20-\x7E]/.test(e)?e:"\\u"+("000"+e.charCodeAt(0).toString(16)).slice(-4)})}function stripHtmlTags(e){return e.replace(/<[^>]*>/g,"")}function removeNonASCII(e){return e.replace(/[^\x20-\x7E]/g,"")}function interpolate(e,r,n){return e.replace(n||/\{\{(\w+)\}\}/g,function(e,n){return n in r?r[n]:""})}function rpad(e,r,n){return n=n||" ",e.length<r?e+repeat(n,r-e.length):e}function lpad(e,r,n){return n=n||" ",e.length<r?repeat(n,r-e.length)+e:e}function repeat(e,r){return new Array(r+1).join(e)}function truncate(e,r,n,t){return n=n||"...",r=t?r+1:r,(e=trim(e)).length<=r?e:(e=e.substr(0,r-n.length),(e=t?e.substr(0,e.lastIndexOf(" ")):trim(e))+n)}var WHITE_SPACES=[" ","\n","\r","\t","\f","\v"," "," ","᠎"," "," "," "," "," "," "," "," "," "," "," ","\u2028","\u2029"," "," ","　"];function ltrim(e,r){r=r||WHITE_SPACES;for(var n,t,a=0,c=e.length,u=r.length,l=!0;l&&a<c;)for(l=!1,n=-1,t=e.charAt(a);++n<u;)if(t===r[n]){l=!0,a++;break}return a>=c?"":e.substr(a,c)}function rtrim(e,r){r=r||WHITE_SPACES;for(var n,t,a=e.length-1,c=r.length,u=!0;u&&a>=0;)for(u=!1,n=-1,t=e.charAt(a);++n<c;)if(t===r[n]){u=!0,a--;break}return a>=0?e.substring(0,a+1):""}function trim(e,r){return ltrim(rtrim(e,r=r||WHITE_SPACES),r)}function abbreviate(e){return e.match(/\b([A-Z])/g).join("")}
 
 try {
   JSON.parse(localStorage['ghCMSCredentials-' + document.domain]);
@@ -477,15 +84,15 @@ async function checkCredentials(){
 function displayPanel(){
   const $panel = $(`
 <div id="ghCMS-editor-panel" class="mini">
-  <h2>Admin
-    <a href="" target="_blank">Edits<br/> enregistrés</a>
+  <h2>Editor
+    <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">Edits<br/> history</a>
     <button class="close">X</button><button class="minimize">+-</button>
   </h2>
   <input></input>
   <textarea></textarea>
-  <button class="demo">démo de formatage</button>
-  <button class="cancel">Annuler</button>
-  <button class="validate">Valider</button>
+  <button class="demo">Formating demo</button>
+  <button class="cancel">Cancel</button>
+  <button class="validate">Save</button>
 </div>
   `);
   $('body').append($panel);
@@ -493,14 +100,14 @@ function displayPanel(){
 }
 
 function mdDemo(){
-  $('#ghCMS-editor-panel textarea').val(`un retour
+  $('#ghCMS-editor-panel textarea').val(`An empty
 
-à la ligne
+Line
 
-**gras**, *italique*, [lien vers](https://www.botworld.wiki)
+**bold**, *italics*, [link to](https://www.botworld.wiki)
 
-* liste
-* de trucs`);
+- listing
+- stuff`);
   visualizeEdit()
 }
 
@@ -559,11 +166,11 @@ function cancelEdit(){
 }
 
 function validateEdit(){
-  let resp = confirm(`>>>  !!   Les Modifs n' Apparaissent Pas Immédiatement   !!  <<<
+  let resp = confirm(`>>>  !!   Updates Can Take Some Time !   !!  <<<
 
-- C'est normal, soyez Patients, et ne Surchargez pas le système 
+- It's normal, don't worry and don't overload the system it won't help 
 
-- Essayez aussi de les Limiter en Nombre, donc Relisez bien avant de valider`);
+- Every time you save, it creates an history entry.`);
 
   if (!resp) { return }
 
@@ -574,7 +181,7 @@ function validateEdit(){
     // just so we don't urlencode too often, and save some kb
     return str.replace('…','...').replace('’',"'").replace('œ','oe')
   }
-  edits[pageLocation] = edits[pageLocation] || {};
+  edits[pageLocation] = edits[pageLocation] || {};
 
   edits[pageLocation][targetEl] = { 'b64': btoa(encodeURI(newContent).replaceAll('%20',' ')) };
 
@@ -605,7 +212,7 @@ async function uploadEdits(msg, obj){
 
 function updateAsCommited(){
   if (env === 'dev') { return }
-  if (editsAsCommited[pageLocation]) {
+  if (editsAsCommited[pageLocation]) {
     for (let e in editsAsCommited[pageLocation]){
       let $target = $('.' + e);
       let newContent = decodeURI(atob(editsAsCommited[pageLocation][e].b64));
