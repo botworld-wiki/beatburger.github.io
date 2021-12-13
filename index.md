@@ -144,22 +144,25 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 	- [Boosters](https://www.botworld.wiki/boosters): booster detailed list
 	- [Gadgets](https://www.botworld.wiki/gadgets): gadget list
 - Recruits: jobs, AI matter, and why you need to show them some love in general
+- ...
 <span class="menu-link-target" id="universe"></span>
 
 ### Botworld
 
-- Exploration
+- Exploration: Critters, Mega, bosses, DZs tips...
 	- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
 	- Finding materials: 
-	- Critters:
 	- Contracts:
-- Seasons: Starter Season vs Global Season, most notable rewards etc.
-- Arena:
-	- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
-- Scavenger Landing:
-	- Notable characters: the cool npcs
+	- Exterminator squads:
+- Scavenger Landing: hair draisser, aunty... mentions arena etc
 	- Boat & Business: Business upgrades, boat pictures & unlocks per level...
+	- Arena:
+	- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
+	- Seasons: Starter Season vs Global Season, most notable rewards etc.
+	- Shop:
+	- Notable characters: the cool npcs
 - Mechanics: drops, lvl scaling, IA, recruits simulations...
+- ...
 <span class="menu-link-target" id="guides"></span>
 
 ### Guides
@@ -169,7 +172,7 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 - Grouper Comp:
 - Farming Guide &amp; Routes:
 - Arena Crown:
-
+- ...
 ### Project pages
 
 - [Contribute](https://www.botworld.wiki/contribute)
