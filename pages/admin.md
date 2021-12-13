@@ -6,8 +6,9 @@ title: Admin
 description: Toggle Editor Mode there.
 
 ---
-
-Idk
+<div markdown="1">
+## Idk
+</div>
 
 <h1 class="long-h1">Admin</h1>
 <div class="bloc-text">
