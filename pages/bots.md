@@ -7,7 +7,13 @@ description: The place to learn everything there is to know about the wonderful 
 
 ---
 
+
+
+<div markdown="1" class=" ghcms ghcms-title">
+
 # Robopedia: every bot
+
+</div>
 
 - [Tanks](#tanks)
 - [Splashers](#splashers)
@@ -20,7 +26,12 @@ description: The place to learn everything there is to know about the wonderful 
 
 ## Tanks
 
+
+<div markdown="1" class=" ghcms ghcms-tanks">
+
 Role description, tips etc ?
+
+</div>
 
 <table>
   <thead>
@@ -47,7 +58,11 @@ Role description, tips etc ?
 
 ## Splashers
 
+<div markdown="1" class=" ghcms ghcms-splashers">
+
 Role description, tips etc ?
+
+</div>
 
 <table>
   <thead>
@@ -74,7 +89,12 @@ Role description, tips etc ?
 
 ## Snipers
 
+<div markdown="1" class=" ghcms ghcms-snipers">
+
 Role description, tips etc ?
+
+</div>
+
 
 <table>
   <thead>
@@ -101,7 +121,12 @@ Role description, tips etc ?
 
 ## Chasers
 
+<div markdown="1" class=" ghcms ghcms-chasers">
+
 Role description, tips etc ?
+
+</div>
+
 
 <table>
   <thead>
@@ -128,7 +153,12 @@ Role description, tips etc ?
 
 ## Evaders
 
+<div markdown="1" class=" ghcms ghcms-evaders">
+
 Role description, tips etc ?
+
+</div>
+
 
 <table>
   <thead>
@@ -155,7 +185,12 @@ Role description, tips etc ?
 
 ## Brawlers
 
+<div markdown="1" class=" ghcms ghcms-brawlers">
+
 Role description, tips etc ?
+
+</div>
+
 
 <table>
   <thead>
@@ -182,7 +217,12 @@ Role description, tips etc ?
 
 ## Supports
 
+<div markdown="1" class=" ghcms ghcms-supports">
+
 Role description, tips etc ?
+
+</div>
+
 
 <table>
   <thead>
@@ -207,6 +247,8 @@ Role description, tips etc ?
   </tbody>
 </table>
 
+<div markdown="1" class=" ghcms ghcms-more">
+
 ## Upgrades, botframes, "random drops" ?
 
 ## XP & AI explanations
@@ -215,6 +257,9 @@ farming technique
 cost to reset
 
 ## ... ?
+
+</div>
+
 
 
 
