@@ -339,5 +339,54 @@ function changeMenu() {
 	}
 }
 </script>
+	  
+
+<div id="fontPicker">
+	<a href="https://www.w3schools.com/howto/howto_google_fonts.asp" target="_blank">Fonts list</a>
+	<input type="text" placeholder="Font name, ie: Alegreya Sans SC">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#fontPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#fontPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
+<script type="text/javascript">
+	
+var $fontOverload = `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=__name__">
+<style>
+body * {
+  font-family: "__name__" !important;
+}
+</style>`
+
+function loadFont(){
+	if (window.location.hash.startsWith('#font')){
+	 document.querySelector('#fontPicker').style.display = 'block';
+	 if (window.location.hash.match(/#font=./)){
+	 	document.querySelector('#fontPicker div').innerHTML = $fontOverload.replaceAll('__name__', 
+	 		window.location.hash.replace('#font=','').replaceAll('%20', ' ')
+	 		);
+	 }
+	}
+}
+window.location.hash.onchange = loadFont;
+document.querySelector('#fontPicker input').addEventListener('input', function(){
+	window.location.hash = '#font='+document.querySelector('#fontPicker input').value;
+	loadFont();
+})
+loadFont();
+</script>	  
   </body>
 </html>
