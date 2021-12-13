@@ -7,6 +7,8 @@ description: Compilation of all the maps you will encounter while you venture fo
 
 ---
 
+<div markdown="1" class=" ghcms ghcms-main">
+
 # All maps
 
 ## Scrapper Coast
@@ -101,4 +103,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Viv
 * **Mobs lvl**: 
 *
 ![Image](https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png)
+
+</div>
 
