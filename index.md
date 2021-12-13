@@ -103,11 +103,11 @@ A community project that's growing nicely! Hopefully you'll find in here info an
 	<div class="home_guides_list" id="home_Botpack">
 		<h2><a href="#botworld">Botworld</a></h2>
 		<ul>
+			<li>Exploration Tips</li>
 			<li><a href="https://www.botworld.wiki/maps">Maps</a></li>
-			<li>Arena</li>
+			<li>Business Boat upgrades</li>
 			<li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
-			<li>Notable characters</li>
-			<li>Materials</li>
+			<li>Boat Materials</li>
 			<li><a href="#botworld">More...</a></li>
 		</ul>
 	</div>
@@ -115,7 +115,6 @@ A community project that's growing nicely! Hopefully you'll find in here info an
 		<h2><a href="#guides">Guides</a></h2>
 		<ul>
 			<li><a href="https://www.botworld.wiki/guides/getting-started">Getting Started</a></li>
-			<li>Boat Materials</li>
 			<li>Grouper Comp</li>
 			<li>Farming Guide &amp; Routes</li>
 			<li>Arena Crown</li>
@@ -149,17 +148,17 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 
 ### Botworld
 
-- Exploration: Critters, Mega, bosses, DZs tips...
+- Exploration Tips: Critters, Mega, bosses, DZs tips...
 	- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
-	- Finding materials: 
+	- Boat Materials:
+	- Upgrade materials: 
 	- Contracts:
 	- Exterminator squads:
-- Scavenger Landing: hair draisser, aunty... mentions arena etc
-	- Boat & Business: Business upgrades, boat pictures & unlocks per level...
+- Scavenger Landing: shop, hair draisser, aunty... mentions arena etc
+	- Business Boat upgrades: boat pictures & unlocks per level...
 	- Arena:
 	- [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
 	- Seasons: Starter Season vs Global Season, most notable rewards etc.
-	- Shop:
 	- Notable characters: the cool npcs
 - Mechanics: drops, lvl scaling, IA, recruits simulations...
 - ...
@@ -168,7 +167,6 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 ### Guides
 
 - [Getting Started](https://www.botworld.wiki/guides/getting-started): 
-- Boat Materials:
 - Grouper Comp:
 - Farming Guide &amp; Routes:
 - Arena Crown:
