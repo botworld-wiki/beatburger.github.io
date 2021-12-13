@@ -9,10 +9,9 @@ description: The place to learn everything there is to know about the Arena Mast
 
 # Arena Masters
 
-
-<div markdown="1" class=" ghcms ghcms-main">
-
 ## ?
+
+<div markdown="1" class=" ghcms ghcms-first">
 
 ### Description
 
@@ -22,9 +21,12 @@ description: The place to learn everything there is to know about the Arena Mast
 
 ### Tips
 
+</div>
 
 ## Astrid
 
+<div markdown="1" class=" ghcms ghcms-astrid">
+
 ### Description
 
 ### Bots
@@ -32,10 +34,14 @@ description: The place to learn everything there is to know about the Arena Mast
 ### Rewards
 
 ### Tips
+
+</div>
 
 
 ## Kelvin
 
+<div markdown="1" class=" ghcms ghcms-kelvin">
+
 ### Description
 
 ### Bots
@@ -43,10 +49,14 @@ description: The place to learn everything there is to know about the Arena Mast
 ### Rewards
 
 ### Tips
+
+</div>
 
 
 ## Reginald
 
+<div markdown="1" class=" ghcms ghcms-reginald">
+
 ### Description
 
 ### Bots
@@ -54,10 +64,14 @@ description: The place to learn everything there is to know about the Arena Mast
 ### Rewards
 
 ### Tips
+
+</div>
 
 
 ## Nicola
 
+<div markdown="1" class=" ghcms ghcms-nicola">
+
 ### Description
 
 ### Bots
@@ -66,8 +80,12 @@ description: The place to learn everything there is to know about the Arena Mast
 
 ### Tips
 
+</div>
+
 
 ## Scales
+
+<div markdown="1" class=" ghcms ghcms-scales">
 
 ### Description
 
