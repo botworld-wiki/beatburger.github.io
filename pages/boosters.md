@@ -28,3 +28,16 @@ description: The place to learn everything there is to know about the powerful b
 
   </tbody>
 </table>
+
+<div markdown="1" class=" ghcms ghcms-main">
+
+# Most relevant boosters
+
+Just a list of the ones we need to put there first
+
+- Power Start
+- Ult CD
+- Ult Start
+- ...
+
+</div>
