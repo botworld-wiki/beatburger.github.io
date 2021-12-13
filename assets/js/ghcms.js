@@ -596,7 +596,7 @@ async function uploadEdits(msg, obj){
   const response = await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
     owner: ghCMSCredentials.owner,
     repo: ghCMSCredentials.repo,
-    path: 'edits.json',
+    path: 'assets/js/edits.json',
     sha: editsSha,
     message: msg,
     content: btoa(JSON.stringify(obj))
