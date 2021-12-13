@@ -11,8 +11,8 @@ description: Toggle Editor Mode there.
 ## Auth
 
 <div>
-	<input type="text" name="user" id="user" placeholder="Prénom..."/>
-	<input type="password" name="password" id="password" placeholder="password123..."/>
+	<input type="text" name="user" id="user" placeholder="your-name..."/>
+	<input type="password" name="password" id="password" placeholder="that-very-long-and-temporary-password123..."/>
 	<button id="connection">Login</button>
 	<button id="deconnection">Logout</button>
 </div>
