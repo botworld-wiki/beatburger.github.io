@@ -33,14 +33,62 @@ description: The place to learn everything there is to know about the powerful a
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-# Most relevant abilities
+Copied from my reddit post  
 
-Just a list of the ones we need to put there first
+**Commons**
 
+- Vortex
+- Super Charge
+- Shield
+- Missile
+- Immobilize
+- Hasty Ground
+- Frost Missile
+- Energy Bolt
+
+**Specials**
+
+- Speed Boost
+- Poison Bolt
+- Knockback Bolt
 - Gust
+- Goop
+- Freeze
+- Firewall
+- Chilling Ground
+- Charge Field
+- Chaos Translocator
+
+**Rares**
+
+- Unstable Plasma
+- Proximity Translocator
+- Snowball
+- Poison Trail
+- Lightning Rod
+- Knockback
+- Immobilize Field
 - Icewall
-- SCT
 - Hypercharge
-- ...
+- Hack
+- Frost Tower
+- Corrode
+- Charge Bolt
+- Barrier Wall
+- Ball Lightning
+
+**Epics**
+
+- Zap Tower
+- Team Translocator
+- Supercharged Chaos Translocator
+- Poison Tower
+- Poison Missile
+- Hyperdrain
+- Hack Missile
+- Explosive Proximity Translocator
+- Gale
+- Tornado?
+- (Scare Tower - temporarily suspended until reworked)
 
 </div>
