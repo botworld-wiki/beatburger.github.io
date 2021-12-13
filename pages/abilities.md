@@ -30,3 +30,17 @@ description: The place to learn everything there is to know about the powerful a
 
   </tbody>
 </table>
+
+<div markdown="1" class=" ghcms ghcms-main">
+
+# Most relevant abilities
+
+Just a list of the ones we need to put there first
+
+- Gust
+- Icewall
+- SCT
+- Hypercharge
+- ...
+
+</div>
