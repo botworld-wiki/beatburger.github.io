@@ -7,6 +7,9 @@ description: The place to learn everything there is to know about the powerful b
 
 ---
 
+
+<div markdown="1" class=" ghcms ghcms-main">
+
 # Gadgets
 
 ## Extra dmg
@@ -23,3 +26,4 @@ description: The place to learn everything there is to know about the powerful b
 
 ## Mines
 
+</div>
