@@ -74,3 +74,9 @@ commonMat1: "Double Cog"
 commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cog"
 ---
+
+### Tips
+Great for farming Ai Xp, only used in grouped wild bots. It is also a great if combo with flamer and bombee. Bombee pushes enemy which also a great 1-time use tank.
+
+### Suggested AI Build
+Bombee Tank - BABCB
