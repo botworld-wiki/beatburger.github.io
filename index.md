@@ -9,7 +9,11 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 # Botworld Community Wiki
 
+<div markdown="1" class=" ghcms ghcms-intro">
+
 A community project that's growing nicely! Hopefully you'll find in here info and answers for any question you have about Botworld Adventure:
+
+</div>
 
 <div id="site_toc">
 	<div class="home_botType_list" id="home_Tanks">
@@ -123,6 +127,8 @@ A community project that's growing nicely! Hopefully you'll find in here info an
 	</div>
 </div>
 
+<div markdown="1" class=" ghcms ghcms-main">
+
 ## New player ?
 
 Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
@@ -133,9 +139,13 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 <span class="menu-link-target" id="all"></span>
 <span class="menu-link-target" id="botmaster"></span>
 
+</div>
+
 ## Articles
 
 ### Botmasters
+
+<div markdown="1" class=" ghcms ghcms-botmasters">
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
 - [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
@@ -146,6 +156,8 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 	- Jobs: advice, mechanics, listing
 - ...
 <span class="menu-link-target" id="universe"></span>
+
+</div>
 
 ### Botworld
 
