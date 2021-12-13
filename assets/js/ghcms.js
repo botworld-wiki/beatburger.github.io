@@ -83,12 +83,13 @@ async function checkCredentials(){
 
 function displayPanel(){
   const $panel = $(`
-<div id="ghCMS-editor-panel" class="maxi">
+<div id="ghCMS-editor-panel" class="mini">
   <div class="reduce">
 	  <button class="demo">Formating demo</button>
 	  <button class="cancel">Cancel</button>
 	  <button class="validate">Save</button>
   </div>
+  <input></input>
   <textarea class="reduce"></textarea>
   <div style="padding: 5px;">
 		<a href="/" target="_blank">Home</a> - <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">History</a>
@@ -96,6 +97,7 @@ function displayPanel(){
   </div>
   <style> 
   	.ghcms{border: 1px solid !important;}
+  	.minimize{ width: 60px}
 #ghCMS-news-panel #targetId,#ghCMS-news-panel #targetIndex,#ghCMS-news-panel #imgSize{
 	display:none !important
 }
@@ -136,7 +138,6 @@ function displayPanel(){
   $('body').append($panel);
   initPanel();
 }
-
 
 function mdDemo(){
   $('#ghCMS-editor-panel textarea').val(`An empty
