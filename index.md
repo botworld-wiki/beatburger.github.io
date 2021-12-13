@@ -125,7 +125,7 @@ A community project that's growing nicely! Hopefully you'll find in here info an
 
 ## New player ?
 
-Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
+Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means. Check out [Starter Bots](/starter-bots) for example, but rest assured **you'll get all 3 of them** eeventually !
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
@@ -142,6 +142,7 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 <div markdown="1" class=" ghcms ghcms-botmasters">
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
+    - [Starter Bots](/starter-bots)
 - [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
     - [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
     - [Boosters](https://www.botworld.wiki/boosters): booster detailed list
