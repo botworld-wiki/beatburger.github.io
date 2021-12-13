@@ -9,6 +9,9 @@ description: The place to learn everything there is to know about the Arena Mast
 
 # Arena Masters
 
+
+<div markdown="1" class=" ghcms ghcms-main">
+
 ## ?
 
 ### Description
@@ -74,3 +77,4 @@ description: The place to learn everything there is to know about the Arena Mast
 
 ### Tips
 
+</div>
