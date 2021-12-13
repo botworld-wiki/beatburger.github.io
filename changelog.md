@@ -11,6 +11,11 @@ description: How's the wiki project going ?
 
 [Development Roadmap](https://www.botworld.wiki/roadmap)
 
+### Day 4
+
+- Font Picker
+- Editor Mode
+
 ### Day 3
 
 - [Development Roadmap](https://www.botworld.wiki/roadmap)
