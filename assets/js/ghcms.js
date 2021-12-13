@@ -450,10 +450,10 @@ $(document).ready(()=>{
 
 async function checkCredentials(){
   // https://docs.github.com/en/rest/reference/repos#contents
-  const response = await octokit.request('GET /repos/{owner}/{repo}/assets/js/{path}', {
+  const response = await octokit.request('GET /repos/{owner}/{repo}/contents/{path}', {
     owner: ghCMSCredentials.owner,
     repo: ghCMSCredentials.repo,
-    path: 'edits.json'
+    path: 'assets/js/edits.json'
   }).then(r => {
     console.log('Valid ghCMS credentials');
     console.log(r);
