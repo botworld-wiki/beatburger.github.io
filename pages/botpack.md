@@ -9,14 +9,19 @@ description: The place to learn everything there is to know about your Botpack a
 
 # Botpack
 
+<div markdown="1" class=" ghcms ghcms-intro">
+
 That's the stuff you use to cast stuff or have things
 
 ( Here's a nice pic btw )
 
 Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
 
+</div>
 
 ## Abilities
+
+<div markdown="1" class=" ghcms ghcms-abilities">
 
 The stuff you cast, ya know ?
 
@@ -28,8 +33,13 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 
 And/or short list here ?
 
+</div>
+
 
 ## Boosters
+
+
+<div markdown="1" class=" ghcms ghcms-boosters">
 
 The things you equip to do some other stuff better
 
@@ -39,11 +49,19 @@ Detailled list: [Boosters](https://www.botworld.wiki/boosters)
 
 And/or short list here ?
 
+</div>
+
 
 ## Gadgets
+
+
+<div markdown="1" class=" ghcms ghcms-gadgets">
 
 Things Hack builds that do stuff
 
 You unlock them with your Boat lvl
 
 Detailled list: [Gadgets](https://www.botworld.wiki/gadgets)
+
+</div>
+
