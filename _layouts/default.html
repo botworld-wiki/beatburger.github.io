@@ -215,6 +215,13 @@ nav img {
 }
 .mini-menu { display: none; width: 100%; }
 .mini-menu .wiki-title { margin: 0 auto; }
+.mini-menu .tab-label {    
+	background-image: url(https://cdn.discordapp.com/attachments/917809790284079114/920075280364744734/1639433429467.png);
+	background-position: center;
+	background-size: cover;
+	width: 50px;
+	cursor: pointer;
+}
 nav.fixed .mini-menu {display: flex;}
 nav.fixed {
 	  position: fixed;
@@ -291,7 +298,7 @@ nav.fixed .menu { display: none }
 		 		<div class="mini-menu">
 			 		<img src="https://cdn.discordapp.com/emojis/918669937214640269.png">
 					<span class="wiki-title"><a href="{{ site.url }}{{ site.baseurl }}"> {{site.title}} </a></span>
-	        <label class="tab-label" for="menu-checkbox">Menu</label>
+	        <label class="tab-label" for="menu-checkbox"></label>
 			 	</div>
 	      <input style="display: none;" type="checkbox" id="menu-checkbox">
         <div class="menu">
