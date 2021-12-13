@@ -414,7 +414,7 @@ const ghCMSCredentials = {
   ...{
     remote: '//www.botworld.wiki',
     owner: 'beatburger',
-    repo: 'beatburger.github.io/'
+    repo: 'beatburger.github.io'
   }
 };
 
