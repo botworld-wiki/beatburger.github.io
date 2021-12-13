@@ -84,27 +84,28 @@ async function checkCredentials(){
 function displayPanel(){
   const $panel = $(`
 <div id="ghCMS-editor-panel" class="maxi">
-  <div style="padding: 5px;">
-		<a href="/" target="_blank">Home</a> - <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">History</a>
-    <button class="close">X</button><button class="minimize">+-</button>
-  </div>
-  <textarea></textarea>
-  <div>
+  <div class="reduce">
 	  <button class="demo">Formating demo</button>
 	  <button class="cancel">Cancel</button>
 	  <button class="validate">Save</button>
   </div>
+  <textarea class="reduce"></textarea>
+  <div style="padding: 5px;">
+		<a href="/" target="_blank">Home</a> - <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">History</a>
+    <button class="close">X</button><button class="minimize">+-</button>
+  </div>
   <style> 
-  	.ghcms{border: 1 px solid !important;}
+  	.ghcms{border: 1px solid !important;}
 #ghCMS-news-panel #targetId,#ghCMS-news-panel #targetIndex,#ghCMS-news-panel #imgSize{
 	display:none !important
 }
 #ghCMS-editor-panel,#ghCMS-news-panel{
-	position:fixed;width:25%;height:80%;min-width:300px;background:#7b7474;border:5px solid grey;border-radius:10px;z-index:300;top:0px;right:0px;display:flex;flex-direction:column;overflow:hidden;font-family:arial,serif
+	position:fixed;width:30%;height:80%;min-width:270px;background:#7b7474;border:5px solid grey;border-radius:10px;z-index:300;bottom:0px;right:0px;display:flex;flex-direction:column;overflow:hidden;font-family:arial,serif
 }
 #ghCMS-editor-panel.mini,#ghCMS-news-panel.mini{
 	height:40px
 }
+.mini .reduce { display: none} 
 #ghCMS-editor-panel.maxi,#ghCMS-news-panel.maxi{
 	height:90%
 }
@@ -121,7 +122,7 @@ function displayPanel(){
 	display:none
 }
 #ghCMS-editor-panel textarea,#ghCMS-news-panel textarea{
-	width:100%;height:600px;font-family:monospace
+	width:100%;flex-grow:1;font-family:monospace
 }
 .ghcms-edit-option{
 	width:70px
@@ -135,6 +136,7 @@ function displayPanel(){
   $('body').append($panel);
   initPanel();
 }
+
 
 function mdDemo(){
   $('#ghCMS-editor-panel textarea').val(`An empty
