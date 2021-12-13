@@ -15,6 +15,7 @@ description: How's the wiki project going ?
 
 - Font Picker
 - Editor Mode
+- New bots: Scatter, Bombee, Slicer, Tether, Flamer, Longshot
 
 ### Day 3
 
