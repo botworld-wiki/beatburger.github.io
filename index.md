@@ -71,7 +71,7 @@ A community project that's growing nicely! Hopefully you'll find in here info an
 		<h2 id="Brawlers"><a href="/bots#brawlers">Brawlers</a></h2>
 		<ul>
 			<!-- <a href="/"></a> -->
-			<li>scatter</li>
+			<li><a href="/scatter">scatter</a></li>
 			<li>KO</li>
 			<li><a href="/brute">brute</a></li>
 			<li>virus</li>
