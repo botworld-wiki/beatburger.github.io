@@ -155,11 +155,14 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 - Recruits: why you need to show them some love in general
 	- Jobs: advice, mechanics, listing
 - ...
-<span class="menu-link-target" id="universe"></span>
 
 </div>
+<span class="menu-link-target" id="universe"></span>
+
 
 ### Botworld
+
+<div markdown="1" class=" ghcms ghcms-botworld">
 
 - Exploration Tips: Critters, Mega, bosses, DZs tips...
 	- [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
@@ -177,13 +180,20 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 - ...
 <span class="menu-link-target" id="guides"></span>
 
+</div>
+
 ### Guides
+
+<div markdown="1" class=" ghcms ghcms-guides">
 
 - [Getting Started](https://www.botworld.wiki/guides/getting-started): 
 - Grouper Comp:
 - Farming Guide &amp; Routes:
 - Arena Crown:
 - ...
+
+</div>
+
 ### Project pages
 
 - [Contribute](https://www.botworld.wiki/contribute)
