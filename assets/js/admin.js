@@ -40,15 +40,11 @@ $(document).ready(init);
 
 function displayEditorSection(){
   const template = `
-<section class="content">
-  <div class="wrapper">
     <div class="bloc-text">
-      <h2><strong>Edition</strong></h2>
-      <button id="editor-mode-activate">Activer le mode Edition</button>
+      <h2><strong>Editor Mode</strong></h2>
+      <button id="editor-mode-activate">Activate</button>
       <p><a href="" target="_blank">Commits history</a></p>
-    </div>
-  </div>
-</section>`
-  $('body').after($(template));
+    </div>>`
+  $('h1').after($(template));
   $('#editor-mode-activate').on('click', activateEditorMode);
 }
