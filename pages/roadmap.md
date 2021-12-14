@@ -29,13 +29,14 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Major tech fixes
 
--
+- Search design
 
 ### Important Content Pages / Features
 
 - boosters template + converter
 - breadcrumbs
 - Editor Mode edits merge process (converter ?)
+- Search scope
 
 ### Minor tech fixes
 
@@ -47,6 +48,7 @@ Basically, I want to focus on building the project & team first, the website sec
 -  embed discord widget on the sidebar
 -  extract inline css & js
 -  remove cache buster
+-  Search into local assets
 
 ### Secondary content & features ideas
 
