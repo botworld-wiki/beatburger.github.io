@@ -95,7 +95,7 @@ description: All the best the Botworld Adventure community has to offer to help 
     <div class="home_guides_list" id="home_Botpack">
         <h2><a href="#botworld">Botworld</a></h2>
         <ul>
-            <li>Exploration Tips</li>
+            <li>Exploration & DZ Tips</li>
             <li><a href="https://www.botworld.wiki/maps">Maps</a></li>
             <li>Business Boat upgrades</li>
             <li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
@@ -153,7 +153,7 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 
 <div markdown="1" class=" ghcms ghcms-botworld">
 
-- Exploration Tips: Critters, Mega, bosses, DZs tips...
+- Exploration & DZ Tips: Critters, Mega, bosses, DZs tips...
     - [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
     - Boat Materials:
     - Upgrade materials: 
