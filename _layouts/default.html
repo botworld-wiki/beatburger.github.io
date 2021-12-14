@@ -399,6 +399,77 @@ document.querySelector('#fontPicker input').addEventListener('input', function()
 loadFont();
 </script>	  
 
+<div id="bgPicker">
+	<input type="text" placeholder="https://cdn.discordapp.com/attachments/918419557792776202/920287854268129280/BotpediaBackgroundAlt3.png">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#fontPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#fontPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
+<script type="text/javascript">
+	
+var $bgOverload = `
+<style>
+body {
+    background: url(__url__) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+</style>`
+
+function loadBg(){
+	if (window.location.hash.startsWith('#bg')){
+	 document.querySelector('#bgPicker').style.display = 'block';
+	 if (window.location.hash.match(/#bg=./)){
+	 	document.querySelector('#bgPicker div').innerHTML = $bgOverload.replaceAll('__url__', 
+	 		window.location.hash.replace('#bg=','').replaceAll('%20', ' ')
+	 		);
+	 }
+	}
+}
+window.location.hash.onchange = loadBg;
+document.querySelector('#bgPicker input').addEventListener('input', function(){
+	window.location.hash = '#bg='+document.querySelector('#bgPicker input').value;
+	loadBg();
+})
+loadBg();
+</script>	
+<div id="fontPicker">
+	<a href="https://www.w3schools.com/howto/howto_google_fonts.asp" target="_blank">Fonts list</a>
+	<input type="text" placeholder="Font name, ie: Alegreya Sans SC">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#bgPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#bgPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
 <script defer="defer" async="async" async src="/assets/js/dispatcher.js"></script>
 
   </body>
