@@ -37,7 +37,7 @@ async function fetchEdits(){
   if (document.domain === "localhost"){
     jsonUrl = '/assets/js/edits.json'
   } else {
-    jsonUrl = 'assets/js/edits.json'
+    jsonUrl = '/assets/js/edits.json?cachebreak='+Math.random()
   }
 
   const pageLocation = document.location.pathname + document.location.search;
