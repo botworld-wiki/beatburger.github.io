@@ -7,8 +7,6 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ---
 
-# Botworld Community Wiki
-
 <img src="https://cdn.discordapp.com/attachments/918419557792776202/920344728711606302/1639497660008.png" style="width:100%" />
 
 <div id="site_toc">
