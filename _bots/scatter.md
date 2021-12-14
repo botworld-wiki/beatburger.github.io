@@ -22,9 +22,9 @@ botOpinion: "dangerous when close"
 ability1Name: "Scattershot"
 ability1Info: "Range: 10 , Pellets fired: 8 , Physical damage: 100% , Attack speed: 1.25s"
 ability1Description: "Sprays out pellets of garbage in a wide arc"
-ability3Name: "Stunshot"
-ability3Info: "Pellets Fired: 8 , Range: 8 , Physical damage: 100% , Cooldown: 8s , Stun duration: 1.6s"
-ability3Description: "Supercharges the gun and fires a wave of stunning pellets"
+ability2Name: "Stunshot"
+ability2Info: "Pellets Fired: 8 , Range: 8 , Physical damage: 100% , Cooldown: 8s , Stun duration: 1.6s"
+ability2Description: "Supercharges the gun and fires a wave of stunning pellets"
 
 
 ai1aName: "A: Precycling"
