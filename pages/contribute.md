@@ -65,12 +65,17 @@ That's just me for now, but I'm very open to take on any willing apprentice (exp
 
 <div markdown="1" class="ghcms ghcms-credits">
 
-- Groovy: Editor in chief
+- Groovy
 - Pix: Developer
-- Dimaond: Artist
-- Lekoi: Photoshoper, Botworld expert
+- Dimaond
+- Lekoi
 - Huggy: Data collector
-- ... add your name here ...
+- ... add your name:roles/contribs here ...
+- ... add your name:roles/contribs here ...
+- ... add your name:roles/contribs here ...
+- ... add your name:roles/contribs here ...
+- ... add your name:roles/contribs here ...
+
 
 </div>
 
