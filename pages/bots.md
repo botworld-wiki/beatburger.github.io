@@ -22,7 +22,7 @@ description: The place to learn everything there is to know about the wonderful 
 - [Evaders](#evaders)
 - [Brawlers](#brawlers)
 - [Supports](#supports)
-- [Upgrade Costs](#table)
+- [Upgrade Costs](#costs)
 
 
 ## Tanks
@@ -261,7 +261,7 @@ cost to reset
 
 </div>
 
-<span id="table"></span>
+<span id="costs"></span>
 
 ## Upgrade Costs
 
