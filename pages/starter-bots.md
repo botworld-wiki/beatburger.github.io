@@ -2,8 +2,8 @@
 
 layout: default
 permalink: /starter-bots
-title: Icicool is the best and this is a test
-description: The place to learn everything there is to know about the powerful boosters you can find and use in Botworld Adventure!
+title: Getting to know your Starter Bots
+description: The place to learn everything there is to know about your starter bots, their pros and cons so that you can find and use in Botworld Adventure!
 
 ---
 
@@ -12,17 +12,19 @@ description: The place to learn everything there is to know about the powerful b
 
 # Starter Bots
 
-## Tank 
+## Ram
 
-## Brawler
+## Froggy
 
-## Sniper
+## Thump
 
-## Splasher
+# Early Access Starter Bots
 
-## Chaser
+## Berserker
 
-## Evaders
+## Longshot
+
+## Froggy
 
 ## Icicool
 
