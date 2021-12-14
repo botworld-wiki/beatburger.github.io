@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Diamond"
-updatedAt: "2020-12-12"
+contributors: "Diamond, Kurt"
+updatedAt: "2020-12-14"
 
 
 title: "Scatter"
@@ -52,19 +52,19 @@ ai5bName: "B: Fortitude"
 ai5bDescription: "Health increased by 20%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1260"
+lvl1Dmg: "25"
+lvl1Dps: "160"
 lvl1Speed: "4"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2653"
+lvl10Dmg: "59"
+lvl10Dps: "337"
 lvl20Hp: "6880"
 lvl20Dmg: "153"
 lvl20Dps: "979"
-lvl25Hp: ""
-lvl25Dmg: ""
-lvl25Dps: ""
+lvl25Hp: "11081"
+lvl25Dmg: "246"
+lvl25Dps: "1576"
 
 
 epicMat: "Scatter essence"
