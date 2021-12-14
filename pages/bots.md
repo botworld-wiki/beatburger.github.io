@@ -295,7 +295,7 @@ cost to reset
 | -      | -     | -        | -        | -        | -       | -    | -    |
 | Total  | 17771 | 2648     | 1345     | 1345     |  519    | 38   | 8    |
 
-Credits: Kartofel
+Credits: Kartofel & Huggie
 
 
 
