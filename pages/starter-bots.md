@@ -10,20 +10,20 @@ description: The place to learn everything there is to know about the powerful b
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-# Gadgets
+# Starter Bots
 
-## Extra dmg
+## Tank 
 
-## Extra power
+## Brawler
 
-## Extra speed
+## Sniper
 
-## Invisibility
+## Splasher
 
-## Shockwave generator
+## Chaser
 
-## Disruptor
+## Evaders
 
-## Mines
+## Icicool
 
 </div>
