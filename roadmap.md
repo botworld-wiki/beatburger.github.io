@@ -50,9 +50,11 @@ I make it my first priority for now to make sure we can all move along on this, 
 - images compression
 - alt/titles
 - as edits cool down, and virus grow, remove the cache breaker on edits.json
+-  embed discord widget on the sidebar
 
 ### Secondary content & features ideas
 
+- dedicated favicon
 - dynamic maps
 
 ## Notes
