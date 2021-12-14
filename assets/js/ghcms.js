@@ -92,7 +92,7 @@ function displayPanel(){
   <input></input>
   <textarea class="reduce"></textarea>
   <div style="padding: 5px;">
-		<a href="/" target="_blank">Home</a> - <a href="https://github.com/beatburger/beatburger.github.io/commits/main" target="_blank">History</a>
+		<a href="https://github.com/beatburger/beatburger.github.io/commits?author=botworld-wiki-contributor" target="_blank">History</a>
     <button class="close">X</button><button class="minimize">+-</button>
   </div>
   <style> 
