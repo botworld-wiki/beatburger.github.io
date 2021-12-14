@@ -18,7 +18,9 @@ description: How's the wiki project going ?
 - [Welcome](/) banner
 - New ability: SCT
 - [Credits](/contribute#credits) now editable
-- [Contribute](/contribue) page rewritten, redacted copy of the full version on discord
+- [Contribute](/contribue) page rewritten with roles description: 
+  - Data Logger, Writer, Editor, Artist/Designer, Maintainer, Developper
+  - Redacted copy of the full version on discord
 
 ### Day 4
 
