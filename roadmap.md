@@ -48,6 +48,8 @@ I make it my first priority for now to make sure we can all move along on this, 
 - minified menu glitch at the top of the page
 - distorded BB logo
 - images compression
+- alt/titles
+- as edits cool down, and virus grow, remove the cache breaker on edits.json
 
 ### Secondary content & features ideas
 
