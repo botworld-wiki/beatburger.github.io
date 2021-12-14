@@ -55,6 +55,7 @@ I make it my first priority for now to make sure we can all move along on this, 
 ### Secondary content & features ideas
 
 - redirects: /sct -> /supercharged-chaos-translocator etc
+- sortable lists
 - dedicated favicon
 - dynamic maps
 
