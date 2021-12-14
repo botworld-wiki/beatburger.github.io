@@ -21,6 +21,7 @@ description: How's the wiki project going ?
 - [Contribute](/contribute) page rewritten with roles description: 
   - Data Logger, Writer, Editor, Artist/Designer, Maintainer, Developper
   - Redacted copy of the full version on discord
+- Search: bot-only proof of concept
 
 ### Day 4
 
