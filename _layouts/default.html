@@ -289,7 +289,11 @@ nav.fixed .menu { display: none }
 				<div>
 					<a href="{{ site.url }}{{ site.baseurl }}" class="over_banner">
 						<img src="https://cdn.discordapp.com/emojis/918669937214640269.png" alt="Botworld Wiki logo">
-						<h2 class="wiki-title"> {{site.title}} </h2>
+						{% if page.url == "/" %}
+							<h1 class="wiki-title"> {{site.title}} </h1>
+						{% else %}
+							<h2 class="wiki-title"> {{site.title}} </h2>
+						{% endif %}
 					</a>
 				</div>
 	      <h3 class="over_banner">{{site.description}}</h3>
