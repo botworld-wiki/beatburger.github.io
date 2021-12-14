@@ -48,7 +48,7 @@ Basically, I want to focus on building the project & team first, the website sec
 -  embed discord widget on the sidebar
 -  extract inline css & js
 -  remove cache buster
--  Search into local assets
+-  Search -> dispatcher.js
 
 ### Secondary content & features ideas
 
