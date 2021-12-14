@@ -7,7 +7,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ---
 
-<img src="https://cdn.discordapp.com/attachments/918419557792776202/920352151094579210/1639499416246.png" style="width:100%" />
+<img src="https://cdn.discordapp.com/attachments/918419557792776202/920430288243400774/welcome.png" style="width:100%" />
 
 <div id="site_toc">
     <div class="home_botType_list" id="home_Tanks">
