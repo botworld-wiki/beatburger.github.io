@@ -1,8 +1,8 @@
 ---
 
 layout: default
-permalink: /gadgets
-title: All the gadgets
+permalink: /starter-bots
+title: Icicool is the best and this is a test
 description: The place to learn everything there is to know about the powerful boosters you can find and use in Botworld Adventure!
 
 ---
