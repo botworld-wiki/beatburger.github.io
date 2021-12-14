@@ -16,7 +16,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554832
 botType: "Chaser"
 botRarity: "Epic"
 botAcquisition: "Random Drop"
-botOpinion: ""
+botOpinion: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight"
 
 
 ability1Name: "Poison Strike"
