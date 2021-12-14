@@ -13,24 +13,49 @@ description: Want to help ? Welcome ! Here's how to proceed
 
 Currently, the priority is to fill out the Robopedia and the botpack modules list. Most of everything we need is on the discord already, now it's a matter of properly formatting it so we can include the data.
 
-### Method 1: the collective bot spreadsheet
 
-It's on discord, just fill out anything that's still missing
+Botworld Wiki gDrive: See on discord
+- WikiSheets
+- Folders to write pages together but maybe it's not gonna prove useful, ever. 
 
-### Method 2: plain-text description cards
+## Data Collector
+Fill out WikiSheets directly, or compile data to fill WikiSheets later on
+- Bots WikiSheet: See on discord
+- Abilities WikiSheet: See on discord
+Data sources outside the gDrive:
+- Botworld Adventure Unofficial Wikisheet: See on discord
+- Botworld Info by Groovy: See on discord
+- Soft's: https://docs.google.com/spreadsheets/d/12SN-7zkujzGimENE1PVJyDKs99McAdWNKWhU25yzX_M/
+- Discord threads: "Bots & Combat overview" , "Abilities List" , "Boosters list" , etc...
 
-Basically copy one of the "empty template" files below and fill it with the appropriate data for the bot/ability (for now) you want to submit:
+## Writer
+You write entire sections or pages. 
+Content sources:
+- Discord threads: "Farming Guide & Routes" , etc...
 
-- [Bot template example](https://github.com/beatburger/beatburger.github.io/raw/main/_bots/chomp.md) - [Empty bot template](https://github.com/beatburger/beatburger.github.io/raw/main/_helpers/empty-bot.md)
-- [Ability template example](https://github.com/beatburger/beatburger.github.io/raw/main/_abilities/gust.md) - [Empty ability template](https://github.com/beatburger/beatburger.github.io/raw/main/_helpers/empty-ability.md)
-- [Guide page example](https://github.com/beatburger/beatburger.github.io/raw/main/guides/getting-started.md)
+## Editor
+You can activate "Editor Mode" to quicly edit pages sections.
+- Credentials: See on discord
 
-[Then ping us on discord](https://discord.gg/FsJzvtFrgq) (Groovy or Pix for now) to share your work, and we'll include it to the current version.
+## Artist/Designer
+You make our lovely art and/or tweak the design
+- FontPicker: See on discord
+- BgPicker: See on discord
+- Tell me anything else you want to tweak
+- demo clip: demo-designer.mp4
 
-- If no data is relevant or you don't have it, just leave it empty ( "" ).
-- Happy to assist and answer any questions so I can make this page better for the next volunteers !
+## Maintainer
+Can create new bots, abilities, pages etc
+- demo clip: demo-maintainer.mp4
+Ask us if you need any new content created:
+- @HexSanity#7490 
+- @Kurt Cabage#2089 
+- @Groovy#1791
+- @Pix#6773
 
-Any other idea you have to contribute, let us know !
+## Developper
+Build the website & workflows. 
+That's just me for now, but I'm very open to take on any willing apprentice (experts too :P)
 
 ## Roadmap
 
