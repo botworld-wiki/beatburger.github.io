@@ -35,6 +35,7 @@ Basically, I want to focus on building the project & team first, the website sec
 
 - boosters template + converter
 - breadcrumbs
+- Editor Mode edits merge process (converter ?)
 
 ### Minor tech fixes
 
@@ -46,7 +47,6 @@ Basically, I want to focus on building the project & team first, the website sec
 -  embed discord widget on the sidebar
 -  extract inline css & js
 -  remove cache buster
--  merge edits.json (converter ?)
 
 ### Secondary content & features ideas
 
