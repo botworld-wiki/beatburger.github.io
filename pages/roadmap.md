@@ -17,40 +17,36 @@ I've started to receive bug reports, suggestions, ideas, all sorts of contributi
 - Pick anything in here you want to tackle and write the content for !
 
 
-I make it my first priority for now to make sure we can all move along on this, and nothing's more frustrating than to do some work and not see it used so I'll do my best to make contributing rewarding for everyone !
-
 ## Roadmap
 
 ### Follow-up on contributions
 
-- Custom art
-- Discussing suggestions
-- Written content (pages & guides)
-- Data entries
+I make it my first priority for now to make sure we can all move along on this, and nothing's more frustrating than to do some work and not see it used so I'll do my best to make contributing rewarding for everyone !
+
+So anything that's blocking someone to contribute, or necessary for a contribution to be valorised, takes priority.
+
+Basically, I want to focus on building the project & team first, the website second. We'll go way further this way I'm sure !
 
 ### Major tech fixes
 
 -
 
-### Important Content Pages
+### Important Content Pages / Features
 
-- dynamically generating the homepage listings
-- organizing /bots
-- boosters template
-
-### Content fixes
-
-- 
+- boosters template + converter
+- breadcrumbs
 
 ### Minor tech fixes
 
-- breadcrumbs
 - minified menu glitch at the top of the page
 - distorded BB logo
 - images compression
 - alt/titles
 - as edits cool down, and virus grow, remove the cache breaker on edits.json
 -  embed discord widget on the sidebar
+-  extract inline css & js
+-  remove cache buster
+-  merge edits.json (converter ?)
 
 ### Secondary content & features ideas
 
