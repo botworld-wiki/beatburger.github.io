@@ -313,7 +313,11 @@ nav.fixed .menu { display: none }
           <span><a href="{{ site.url }}{{ site.baseurl }}/botpack">Botpack modules</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}/maps">Maps</a></span>
           <span><a href="{{ site.url }}{{ site.baseurl }}#all" title="Discover everything this wiki has to offer">More...</a></span>
+	  <!-- search -->
+	  <span><input type="text" id="search-input" placeholder="Search bots.." style="width:70px;"></span>
+
     		</div>
+		<ul id="results-container"></ul>
       </nav>
       <hr>
 
@@ -478,5 +482,16 @@ loadBg();
 
 <script defer="defer" async="async" async src="/assets/js/dispatcher.js"></script>
 
+<!-- search -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+<script type="text/javascript">
+	
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/assets/js/search.json'
+})
+</script>
   </body>
 </html>
