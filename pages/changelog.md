@@ -11,10 +11,20 @@ description: How's the wiki project going ?
 
 [Development Roadmap](https://www.botworld.wiki/roadmap)
 
+### Day 5
+
+- Bg Picker
+- Abilities WikiSheet + Converter
+- [Welcome](/) banner
+- New ability: SCT
+- [Credits](/contribute#credits) now editable
+- [Contribute](/contribue) page rewritten, redacted copy of the full version on discord
+
 ### Day 4
 
 - Font Picker
 - Editor Mode
+- New Maintainers: Hex & Kurt
 - New bots: Scatter, Bombee, Slicer, Tether, Flamer, Longshot
 
 ### Day 3
