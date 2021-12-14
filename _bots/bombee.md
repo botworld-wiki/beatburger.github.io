@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-13"
+contributors: "Hex, Kurt"
+updatedAt: "2021-12-14"
 
 
 title: "Bombee"
@@ -52,9 +52,9 @@ ai5bName: "B: Fusion Reactors"
 ai5bDescription: "Self-Destruct damage increased by 25%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1736"
+lvl1Dmg: "60"
+lvl1Dps: "43"
 lvl1Speed: "16"
 lvl10Hp: "3655"
 lvl10Dmg: "141"
