@@ -15,7 +15,7 @@ botDescription: "Deals steady damage from afar. Doesn't have much armor, but can
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
 botType: "Sniper"
 botRarity: "Special"
-botAcquisition: "Arena 500points"
+botAcquisition: "Solo Arena 500 rating"
 botOpinion: "A must use in the early game"
 
 
@@ -56,15 +56,15 @@ lvl1Hp: ""
 lvl1Dmg: ""
 lvl1Dps: ""
 lvl1Speed: "12"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2004"
+lvl10Dmg: "212"
+lvl10Dps: "250"
 lvl20Hp: "5199"
 lvl20Dmg: "550"
 lvl20Dps: "648"
 lvl25Hp: "8372"
 lvl25Dmg: "886"
-lvl25Dps: ""
+lvl25Dps: "1043"
 
 
 epicMat: "Longshot Essence"
