@@ -76,7 +76,7 @@ commonMat3: "Cold Battery"
 ---
 
 ### Tips
-- When fighting a Megabot, place virus near the Megabot and start spamming Hypercharge on him. it will allows virus to permanent hack the megabot so your other bots are safe from taking unnecesarry damage.
+- When fighting a Megabot, place virus near the Megabot and start spamming Hypercharge on him. it will allows virus to permanent hack the megabot so your other bots will be safe from taking unnecesarry damage.
 - Use 4 Ult Cooldown boosters and it will allow your virus to have permanent hack without needed of hypercharge
 
 ### Suggested Ai Build
