@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-13"
+updatedAt: "2021-12-15"
 
 
 title: "Tether"
@@ -62,9 +62,9 @@ lvl10Dps: "152"
 lvl20Hp: "8868"
 lvl20Dmg: "275"
 lvl20Dps: "393"
-lvl25Hp: ""
-lvl25Dmg: ""
-lvl25Dps: ""
+lvl25Hp: "14282"
+lvl25Dmg: "443"
+lvl25Dps: "633"
 
 
 epicMat: "Tether Essence"
