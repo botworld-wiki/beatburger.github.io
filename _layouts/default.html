@@ -107,22 +107,83 @@
         background-color: #6d0cb76b;
       }
      
+     /* homepage bwa toc */
       #site_toc {
         display: flex;
         flex-direction:row;
         flex-wrap: wrap;
       }
-      .home_botType_list, #site_toc > div{
-        flex-grow: 1;
-        border: 1px solid white;
-        border-radius: 3px;
-        margin: 10px;
-        padding: 10px;
-        max-width: 120px;
-      }
-     #site_toc > div.home_guides_list {
-       max-width: 220px;
-     }
+      		.toc-block {
+			background-repeat: no-repeat;
+	    background-size: 100% 100% !important;
+	    background: url(https://cdn.discordapp.com/attachments/918419557792776202/920688681650647060/test0.png);			
+	    border:  0px !important;
+	    max-width: 250px !important;
+	    /*max-width: 350px !important;*/
+	    margin: 0px 0px 10px 0px !important;
+	    padding: 15px 30px 0px 30px !important;
+		}
+		.toc-block-title {
+			background-color: cyan;
+			border-radius: 5px;
+			padding: 5px;
+			display: flex;
+			height: 20px;
+			margin: 0px 25px 0px 25px;
+		}
+		.toc-block-title img {
+			position: relative;
+			height: 40px;
+			top: -7px;
+			left: -20px;
+		}
+		.toc-block-title h2 {
+			color: #02468b;
+			font-weight: 1000;
+			
+		}
+		.toc-block-list {
+			list-style: none;
+			padding: 10px 20px 0px 10px;
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.toc-block-entry {
+			width: 40%;
+			min-width: 100px;
+			margin: 2px auto;
+			border:  2px solid #00f778;
+			border-radius: 10px;
+			background: linear-gradient(0deg, rgb(13 138 126) 0%, rgb(27 20 100) 80%);
+		}
+		.toc-block-entry a {
+			flex-grow: 1;
+			display: flex;
+			align-items: center;
+		}
+		.toc-block-entry img {
+			height: 50px;
+		}
+
+		.toc-block-entry span {
+			flex-grow: 1;
+			line-height: 3em;
+			font-weight: 1000;
+		}
+		.toc-block-big .toc-block-entry {
+			width: 100%;
+			background: rgb(27 20 100);
+			height: 25px;
+			padding: 0px 0px 10px 10px;
+		}
+     /* end homepage bwa toc */
+	   
+	   
+	   
+	   
+	   
+	   
+	   
  			/*bot page layout*/
 			.bot-infos {
 			    display: flex;
