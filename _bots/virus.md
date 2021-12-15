@@ -80,4 +80,4 @@ commonMat3: "Cold Battery"
 - Use 4 Ult Cooldown boosters and it will allow your virus to have permanent hack without needed of hypercharge
 
 ### Suggested Ai Build
-ABCBA
+- ABCBA
