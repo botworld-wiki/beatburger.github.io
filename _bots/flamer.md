@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-13"
+updatedAt: "2021-12-15"
 
 
 title: "Flamer"
@@ -56,9 +56,9 @@ lvl1Hp: ""
 lvl1Dmg: ""
 lvl1Dps: ""
 lvl1Speed: "10"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2122"
+lvl10Dmg: "94"
+lvl10Dps: "236"
 lvl20Hp: "5504"
 lvl20Dmg: "245"
 lvl20Dps: "612"
