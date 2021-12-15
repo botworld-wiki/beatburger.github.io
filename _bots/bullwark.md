@@ -6,12 +6,12 @@ updatedAt: "2021-12-15"
 
 title: "Bullwark"
 name: "Bullwark"
-description: "Rare Tank"
+description: "Rare Tank - Bullwark's front-facing shield makes it great at taking on a single enemy, or a group of enemies from the same direction."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397823192842281/bullwark.png"
 
 
 botName: "Bullwark"
-botDescription: ""
+botDescription: "Bullwark's front-facing shield makes it great at taking on a single enemy, or a group of enemies from the same direction."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397823192842281/bullwark.png"
 botType: "Tank"
 botRarity: "Rare"
