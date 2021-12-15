@@ -4,9 +4,9 @@ contributors: "Diamond"
 updatedAt: ""
 
 
-title: ""
-name: ""
-description: ""
+title: "Berseker"
+name: "Berserker"
+description: "Special Tank - A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
 
 
@@ -47,7 +47,7 @@ ai4aDescription: "Reduces physical damage taken by 25%"
 ai4bName: "B: Power Punch"
 ai4bDescription: "Punch Damage increased by 20%"
 ai5aName: "A: Concussive Slam"
-ai5aDescription: "Shield slam stun duation increased by 60%"
+ai5aDescription: "Shield slam stun duration increased by 60%"
 ai5bName: "B: Sharpened Shield"
 ai5bDescription: "Shield slam damage increased by 50%"
 
