@@ -14,13 +14,13 @@ botName: "Ram"
 botDescription: "Charges head-first into battle and knocks its enemies all over the arena. High mobility and high damage."
 botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885548229196906536/ram.png"
 botType: "Chaser"
-botRarity: "Rare
+botRarity: "Rare"
 botAcquisition: "Starter bot or Random Drop"
 botOpinion: "Amazing bot that can carry in early game due to high health, damage, mobility but falls off in late game. Ruins chainer combos"
 
 
-ability1Name: "Headbutt
-ability1Info: "Range: Melee, AS: 0.75s
+ability1Name: "Headbutt"
+ability1Info: "Range: Melee, AS: 0.75s"
 ability1Description: "Hits an enemy with the bot's horns dealing damage"
 ability2Name: "Ram"
 ability2Info: "Range: 6, Cooldown: 6, Knockback: Large, Stun Duration: 0.5s"
@@ -33,7 +33,7 @@ ability3Description: "The Ram uses its horns to throw an enemy over its head, st
 ai1aName: "Reinforced Horns"
 ai1aDescription: "Horn Flick cooldown reduced by 25%"
 ai1bName: "Sharpened Horns"
-ai1bDescription: "Gives Headbutt a 15% critical chance (critical hits deal double damage)
+ai1bDescription: "Gives Headbutt a 15% critical chance (critical hits deal double damage)"
 ai2aName: "Sprinter"
 ai2aDescription: "Ram cooldown reduced by 30%"
 ai2bName: "Fortitude"
