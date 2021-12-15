@@ -74,3 +74,6 @@ commonMat1: "Frost Fuel"
 commonMat2: "Cold Battery"
 commonMat3: "Sputtering Generator"
 ---
+
+### suggested ai build
+- BCBAB
