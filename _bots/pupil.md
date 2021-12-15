@@ -73,7 +73,7 @@ specialMat: "Thick Oil"
 commonMat1: "Sputtering generator"
 commonMat2: "Sparky Wire"
 commonMat3: "Thick Tube"
-undefined: ""
-undefined: "### suggested ai build"
-undefined: "AACAA"
 ---
+
+### suggested ai build
+- AACAA
