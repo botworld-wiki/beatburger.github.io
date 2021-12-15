@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-13"
+updatedAt: "2021-12-15"
 
 
 title: "Slicer"
@@ -56,9 +56,9 @@ lvl1Hp: ""
 lvl1Dmg: ""
 lvl1Dps: ""
 lvl1Speed: "15"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2240"
+lvl10Dmg: "177"
+lvl10Dps: "505"
 lvl20Hp: "5810"
 lvl20Dmg: "459"
 lvl20Dps: "1311"
@@ -76,7 +76,7 @@ commonMat3: "Sputtering Generators"
 ---
 
 ### Tips
-Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
+- Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
 
 ### Suggested AI Build
 ABCAB
