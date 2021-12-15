@@ -7,6 +7,8 @@ description: The place to learn everything there is to know about the powerful a
 
 ---
 
+<img src="https://cdn.discordapp.com/attachments/918419557792776202/920662797661126666/Untitled32_20211215210352.png" style="width:100%" />
+
 # Every ability listed
 
 <table>
