@@ -76,7 +76,7 @@ commonMat3: "Thick Tube"
 ---
 
 ### Tips
-Equip 2x Epic stun resistance boosters when you use bigshot
+- Equip 2x Epic stun resistance boosters when you use bigshot
 
 ### Suggested Ai Build
-ACABA
+- ACABA
