@@ -9,111 +9,215 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 <img src="https://cdn.discordapp.com/attachments/918419557792776202/920439171171094588/welcome.png" style="width:100%" />
 
+
 <div id="site_toc">
-    <div class="home_botType_list" id="home_Tanks">
-        <h2 id="Tanks"><a href="/bots#tanks" title="All the Tanks bots in our Robopedia">Tanks</a></h2>
-        <ul>
+
+    <div class="toc-block" id="home_Tanks">
+        <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
+        <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Tank' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
     </div>
-    <div class="home_botType_list" id="home_Splashers">
-        <h2 id="Splashers"><a href="/bots#splashers" title="All the Splashers bots in our Robopedia">Splashers</a></h2>
-        <ul>
-            {% for bot in site.bots %}
-                {% if bot.botType == 'Splasher' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="home_botType_list" id="home_Snipers">
-        <h2 id="Snipers"><a href="/bots#snipers" title="All the Snipers bots in our Robopedia">Snipers</a></h2>
-        <ul>
-            {% for bot in site.bots %}
-                {% if bot.botType == 'Sniper' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="home_botType_list" id="home_Chasers">
-        <h2 id="Chasers"><a href="/bots#chasers" title="All the Chasers bots in our Robopedia">Chasers</a></h2>
-        <ul>
-            {% for bot in site.bots %}
-                {% if bot.botType == 'Chaser' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="home_botType_list" id="home_Evaders">
-        <h2 id="Evaders"><a href="/bots#evaders" title="All the Evaders bots in our Robopedia">Evaders</a></h2>
-        <ul>
-            {% for bot in site.bots %}
-                {% if bot.botType == 'Evader' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="home_botType_list" id="home_Brawlers">
-        <h2 id="Brawlers"><a href="/bots#brawlers" title="All the Brawlers bots in our Robopedia">Brawlers</a></h2>
-        <ul>
+    <div class="toc-block" id="home_Brawlers">
+        <a class="toc-block-title" href="/bots#brawlers" title="All the Brawlers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Brawler bots logo"><h2 id="Brawlers">Brawlers</h2></a>
+        <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Brawler' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
     </div>
-    <div class="home_botType_list" id="home_Supports">
-        <h2 id="Supports"><a href="/bots#supports" title="All the Supports bots in our Robopedia">Supports</a></h2>
-        <ul>
+    <div class="toc-block" id="home_Chasers">
+        <a class="toc-block-title" href="/bots#chasers" title="All the Chasers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Chaser bots logo"><h2 id="Chasers">Chasers</h2></a>
+        <ul class="toc-block-list">
+            {% for bot in site.bots %}
+                {% if bot.botType == 'Chaser' %}
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="toc-block" id="home_Splashers">
+        <a class="toc-block-title" href="/bots#splashers" title="All the Splashers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Splasher bots logo"><h2 id="Splashers">Splashers</h2></a>
+        <ul class="toc-block-list">
+            {% for bot in site.bots %}
+                {% if bot.botType == 'Splasher' %}
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="toc-block" id="home_Snipers">
+        <a class="toc-block-title" href="/bots#snipers" title="All the Snipers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Sniper bots logo"><h2 id="Snipers">Snipers</h2></a>
+        <ul class="toc-block-list">
+            {% for bot in site.bots %}
+                {% if bot.botType == 'Sniper' %}
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="toc-block" id="home_Evaders">
+        <a class="toc-block-title" href="/bots#evaders" title="All the Evaders bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Evader bots logo"><h2 id="Evaders">Evaders</h2></a>
+        <ul class="toc-block-list">
+            {% for bot in site.bots %}
+                {% if bot.botType == 'Evader' %}
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="toc-block" id="home_Supports">
+        <a class="toc-block-title" href="/bots#supports" title="All the Supports bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Support bots logo"><h2 id="Supports">Supports</h2></a>
+        <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Support' %}
-                    <li><a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">{{ bot.botName }}</a></li>
+                    <li class="toc-block-entry">
+                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
+                            <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
+                            <span>{{ bot.botName }}</span>
+                        </a>
+                    </li>
+                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
     </div>
-
-    <div class="home_guides_list" id="home_Botpack">
-        <h2><a href="#botmaster">Botmasters</a></h2>
-        <ul>
-            <li><a href="https://www.botworld.wiki/bots">Bots</a></li>
-            <li><a href="https://www.botworld.wiki/botpack">Botpack</a></li>
-            <li><a href="https://www.botworld.wiki/abilities">Abilities</a></li>
-            <li><a href="https://www.botworld.wiki/boosters">Boosters</a></li>
-            <li>Recruits</li>
-            <li><a href="#botmaster">More...</a></li>
+    <div class="toc-block toc-block-big" id="home_Botmaster">
+        <a class="toc-block-title" href="#botmaster" title="Everything about becoming a great Botmaster">
+            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Botmaster articles logo">
+            <h2 id="Botmasters">Botmasters</h2>
+        </a>
+        <ul class="toc-block-list">
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/bots">
+                <span>Bots</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/botpack">
+                <span>Botpack</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/abilities">
+                <span>Abilities</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/boosters">
+                <span>Boosters</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/recruits">
+                <span>Recruits</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/#botmaster">
+                <span>More...</span></a>
+            </li>
         </ul>
     </div>
-    <div class="home_guides_list" id="home_Botpack">
-        <h2><a href="#botworld">Botworld</a></h2>
-        <ul>
-            <li>Exploration & DZ Tips</li>
-            <li><a href="https://www.botworld.wiki/maps">Maps</a></li>
-            <li>Business Boat upgrades</li>
-            <li><a href="https://www.botworld.wiki/arena-masters">Arena Masters</a></li>
-            <li>Boat Materials</li>
-            <li><a href="#botworld">More...</a></li>
+    <div class="toc-block toc-block-big" id="home_Botworld">
+        <a class="toc-block-title" href="#botworld" title="Everything about the Botworld universe">
+            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Botworld articles logo">
+            <h2 id="Botworld">Botworld</h2>
+        </a>
+        <ul class="toc-block-list">
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/danger-zones">
+                <span>Exploration & DZ Tips</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/maps">
+                <span>Maps</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/business">
+                <span>Business Boat upgrades</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/arena-master">
+                <span>Arena Masters</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a>
+                <span>Boat Materials</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/#botworld">
+                <span>More...</span></a>
+            </li>
         </ul>
     </div>
-    <div class="home_guides_list" id="home_Guides">
-        <h2><a href="#guides">Guides</a></h2>
-        <ul>
-            <li><a href="https://www.botworld.wiki/guides/getting-started">Getting Started</a></li>
-            <li>Grouper Comp</li>
-            <li>Farming Guide &amp; Routes</li>
-            <li>Arena Crown</li>
-            <li><a href="#guides">More...</a></li>
+    <div class="toc-block toc-block-big" id="home_Guide">
+        <a class="toc-block-title" href="#guides" title="Every guide we have here">
+            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Guides articles logo">
+            <h2 id="Guides">Guides</h2>
+        </a>
+        <ul class="toc-block-list">
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/getting-started">
+                <span>Getting Started</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a>
+                <span>Grouper Comp</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a>
+                <span>Farming Guide &amp; Routes</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a>
+                <span>Arena Crown</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="https://www.botworld.wiki/#guides">
+                <span>More...</span></a>
+            </li>
         </ul>
     </div>
 </div>
+
 
 <div markdown="1" class=" ghcms ghcms-main">
 
