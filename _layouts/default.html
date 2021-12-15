@@ -58,8 +58,13 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!-- end custom head snippets -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Luckiest Guy">
+
 
    <style type="text/css">
+	.wrapper h1, .wrapper h2, .wrapper .toc-block-title *, .toc-block-entry *, nav#nav *, nav#nav a {
+	  font-family: "Luckiest Guy";
+	}
      html {
        background-color: #202020;
      }
@@ -139,7 +144,6 @@
 		}
 		.toc-block-title h2 {
 			color: #02468b;
-			font-weight: 1000;
 			padding: 0px !important;
 			text-shadow: 2px 2px 1px #5b8a8e;
 		}
@@ -277,7 +281,10 @@ h2 {padding-top: 27px;} /* fix anchor links */
 nav img { 
 	height: 40px;
 }
-.mini-menu { display: none; width: 100%; }
+.mini-menu {
+	display: none; width: 100%; 
+	z-index:100;
+	}
 .mini-menu .wiki-title { margin: 0 auto; }
 .mini-menu .tab-label {    
 	background-image: url(https://cdn.discordapp.com/attachments/917809790284079114/920075280364744734/1639433429467.png);
