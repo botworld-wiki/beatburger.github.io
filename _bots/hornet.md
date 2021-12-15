@@ -76,4 +76,4 @@ commonMat3: "Mini Sensor"
 ---
 
 ### suggested ai build
-BBBAC
+- BBBAC
