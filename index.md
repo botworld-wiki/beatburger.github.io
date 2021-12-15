@@ -175,7 +175,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Business Boat upgrades</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/arena-master">
+                <a href="https://www.botworld.wiki/arena-masters">
                 <span>Arena Masters</span></a>
             </li>
             <li class="toc-block-entry">
