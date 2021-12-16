@@ -13,19 +13,19 @@ description: The place to learn everything there is to know about your starter b
 # Starter Bots
 
 ## Ram 
-Description: "Charges head-first into battle and knocks its enemies all over the arena. High mobility and high damage."
+Charges head-first into battle and knocks its enemies all over the arena. High mobility and high damage.
 
-Role: "Chaser - Chasers are fast melee bots that are good at getting close to ranged enemies."
+Role: Chaser - Chasers are fast melee bots that are good at getting close to ranged enemies.
 
 ## Froggy
-Description: "A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate."
+A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate.
 
-Role: "Evader - Evaders are fast bots that are good at staying away from melee enemies."
+Role: Evader - Evaders are fast bots that are good at staying away from melee enemies.
 
 ## Thump
-Description: "A tough bot that leaps into the fray to protects its teammates."
+A tough bot that leaps into the fray to protects its teammates.
 
-Role: "Tank - Tank soak up damage and protect weaker bots."
+Role: Tank - Tank soak up damage and protect weaker bots.
 
 
 </div>
