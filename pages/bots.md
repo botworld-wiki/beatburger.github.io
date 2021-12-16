@@ -34,7 +34,7 @@ Role description, tips etc ?
 
 </div>
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
       <th>Bot</th>
@@ -45,15 +45,14 @@ Role description, tips etc ?
   <tbody>
     {% for bot in site.bots %}
 	    {% if bot.botType == 'Tank' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}">
+		  <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+		      <td>
 			 <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
 				<img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
 			 </a>
 		      </td>
-		      <td class="rarity_{{bot.botRarity}}">
+		      <td>
 			      <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
-			 </a>
 		      </td>
 		      <td>{{bot.botOpinion}}</td>
 		    </tr>
