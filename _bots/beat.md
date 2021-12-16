@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-15"
+updatedAt: "2021-12-16"
 
 
 title: "Beat"
@@ -52,13 +52,13 @@ ai5bName: "B: Fortitude "
 ai5bDescription: "Health increased by 20%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1792"
+lvl1Dmg: "60"
+lvl1Dps: "90"
 lvl1Speed: "12"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "3773"
+lvl10Dmg: "141"
+lvl10Dps: "211"
 lvl20Hp: "9785"
 lvl20Dmg: "367"
 lvl20Dps: "548"
