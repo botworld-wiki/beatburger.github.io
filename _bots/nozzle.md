@@ -15,6 +15,7 @@ botDescription: "Shy and sturdy. The more it's attacked, the more of in its shel
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396953956896868/nozzle.png"
 botType: "Tank"
 botRarity: "Epic"
+botRarityNumber: "1"
 botAcquisition: "Solo Arena 4000 Rating"
 botOpinion: "Distraction Turtle"
 
