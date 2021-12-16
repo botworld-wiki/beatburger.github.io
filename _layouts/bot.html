@@ -1,6 +1,26 @@
 ---
 layout: default
 ---
+<style type="text/css">
+	.botcard {
+		border: 5px solid cyan;
+		border-radius: 10px;
+		width: 240px;
+		display: flex;
+		flex-direction: column;
+		height: 333px;
+	}
+	.pic {
+	background: linear-gradient(160deg, #1b1a6b 50%, cyan);
+}
+	.cardinfos {
+		padding: 10px;
+background: #246eff;
+	}
+	.cardinfos * {
+		font-weight: 1000;
+	}
+</style>
 
 <div class="bot-infos">
 	<div class="bot_bloc_1">
@@ -9,25 +29,28 @@ layout: default
 
 			<p><code class="language-plaintext highlighter-rouge">{{page.botDescription}}</code></p>
 		</div>
-		<div class="pic">
-			<p><img src="{{page.botImageUrl}}" alt="Image of {{page.botName}} bot" title="Image of {{page.botName}} bot"/></p>
-
-			<table>
-			  <thead>
-			    <tr>
-			      <th>Type</th>
-			      <th>Rarity</th>
-			      <th>Acquisition</th>
-			    </tr>
-			  </thead>
-			  <tbody>
-			    <tr>
-			      <td>{{page.botType}}</td>
-			      <td>{{page.botRarity}}</td>
-			      <td>{{page.botAcquisition}}</td>
-			    </tr>
-			  </tbody>
-			</table>
+		<div class="botcard">
+			<div class="pic">
+				<p><img src="{{page.botImageUrl}}" alt="Image of {{page.botName}} bot" title="Image of {{page.botName}} bot"/></p>
+			</div>
+			<div class="cardinfos">
+				<table>
+				  <thead>
+				    <tr>
+				      <th>Type</th>
+				      <th>Rarity</th>
+				      <th>Acquisition</th>
+				    </tr>
+				  </thead>
+				  <tbody>
+				    <tr>
+				      <td>{{page.botType}}</td>
+				      <td>{{page.botRarity}}</td>
+				      <td>{{page.botAcquisition}}</td>
+				    </tr>
+				  </tbody>
+				</table>
+			</div>
 		</div>
 
 		<div class="abilities">
