@@ -11,6 +11,20 @@ description: How's the wiki project going ?
 
 [Development Roadmap](https://www.botworld.wiki/roadmap)
 
+## Day 7
+
+- [art credits](/contribute#credits)
+- [starter bots](/starter-bots)
+
+## Day 6
+
+- abilities banner
+- banner picker
+- BWA themed home blocs
+- first font proposal
+- new bots: rocketeer, ram, beat, frosty, virus, nozzle, Pluggie, ko, froggy, Bigshot, bullwark, thump, halo, berzerker, hornet
+
+
 ### Day 5
 
 - Bg Picker
