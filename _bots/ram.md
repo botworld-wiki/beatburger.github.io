@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Groovy"
-updatedAt: "2021-12-13"
+updatedAt: "2021-12-16"
 
 
 title: "Ram"
@@ -52,10 +52,10 @@ ai5bName: "Enrage"
 ai5bDescription: "Ram goes into a rage after preforming a Horn Flick dealing double damage for 3s"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
-lvl1Speed: ""
+lvl1Hp: "1792"
+lvl1Dmg: "105"
+lvl1Dps: "140"
+lvl1Speed: "15"
 lvl10Hp: "3773"
 lvl10Dmg: "248"
 lvl10Dps: "330"
