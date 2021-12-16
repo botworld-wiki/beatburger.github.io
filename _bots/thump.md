@@ -15,6 +15,7 @@ botDescription: "A tough bot that leaps into the fray to protects its teammates"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
 botType: "Tank"
 botRarity: "Rare"
+botRarityNumber: "2"
 botAcquisition: "Starter Bot, Random Drop"
 botOpinion: "Brawler Tank"
 
