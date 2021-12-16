@@ -37,19 +37,24 @@ Role description, tips etc ?
 <table>
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
-      <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
 	    {% if bot.botType == 'Tank' %}
 		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
+		      <td class="rarity_{{bot.botRarity}}">
+			 <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+				<img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+			 </a>
+		      </td>
+		      <td class="rarity_{{bot.botRarity}}">
+			      <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+			 </a>
+		      </td>
 		      <td>{{bot.botOpinion}}</td>
 		    </tr>
 		{% endif %}
