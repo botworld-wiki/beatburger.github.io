@@ -23,7 +23,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -39,7 +38,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -55,7 +53,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -71,7 +68,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -87,7 +83,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -103,7 +98,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -119,7 +113,6 @@ description: All the best the Botworld Adventure community has to offer to help 
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
-                    <li><a href="" ></a></li>
                 {% endif %}
             {% endfor %}
         </ul>
