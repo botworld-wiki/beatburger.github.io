@@ -10,6 +10,7 @@ description: The place to learn everything there is to know about your starter b
 
 <div markdown="1" class=" ghcms ghcms-main">
 
+https://cdn.discordapp.com/attachments/824807657550381088/920861784250941460/Ram.2.png
 # Starter Bots
 
 ## Ram 
