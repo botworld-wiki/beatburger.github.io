@@ -52,7 +52,7 @@ ai5bName: "B: Cold Gateway"
 ai5bDescription: "Teleport slows nearby enemies for 1,5s"
 
 
-lvl1Hp: "1300"
+lvl1Hp: "1568"
 lvl1Dmg: "20"
 lvl1Dps: "50"
 lvl1Speed: "15"
