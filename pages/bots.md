@@ -39,6 +39,7 @@ Role description, tips etc ?
     <tr>
       <th>Bot</th>
       <th>Name</th>
+      <th>Acquisition</th>
       <th>Overview</th>
     </tr>
   </thead>
@@ -54,6 +55,7 @@ Role description, tips etc ?
 		      <td>
 			      <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
 		      </td>
+		      <td>{{bot.botAcquisition}}</td>
 		      <td>{{bot.botOpinion}}</td>
 		    </tr>
 		{% endif %}
