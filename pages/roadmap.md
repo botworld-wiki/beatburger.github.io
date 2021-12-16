@@ -37,6 +37,8 @@ Basically, I want to focus on building the project & team first, the website sec
 - breadcrumbs
 - Editor Mode edits merge process (converter ?)
 - Search scope
+- rarity sorted
+- 
 
 ### Minor tech fixes
 
