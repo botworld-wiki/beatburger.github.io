@@ -233,7 +233,7 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 
 </div>
 
-## Articles
+## Tips & Guides
 
 ### Botmasters
 
