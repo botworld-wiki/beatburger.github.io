@@ -11,6 +11,7 @@ botDescription: "A defensive bot with an energy barrier for extra survivability.
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
 botType: "Tank"
 botRarity: "Common"
+botRarityNumber: "4"
 botAcquisition: "Random Drop"
 botOpinion: "Meatbag"
 
