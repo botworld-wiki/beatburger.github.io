@@ -20,6 +20,7 @@ description: How's the wiki project going ?
 - BWA theme: bot cards, proper rarity colors
 - BWA theme: text sections (titles + paragraphs + lists)
 - General design: [Robopedia](/bots) with pics & rarity
+- Bot "Opinion" renamed to Bot "Overview", also added on bot pages under ["Comments"](/chainer#overview)
 
 ## Day 6
 
