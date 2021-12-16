@@ -15,6 +15,11 @@ description: How's the wiki project going ?
 
 - [art credits](/contribute#credits)
 - [starter bots](/starter-bots)
+- Wiki Banner: new version proposals
+- [Let's talk Launch](/launch): editable todo-list before we can launch. To be discussed
+- BWA theme: bot cards, proper rarity colors
+- BWA theme: text sections (titles + paragraphs + lists)
+- General design: [Robopedia](/bots) with pics & rarity
 
 ## Day 6
 
