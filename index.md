@@ -33,7 +33,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Brawler' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
@@ -49,7 +49,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Chaser' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
@@ -65,7 +65,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Splasher' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
@@ -81,7 +81,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Sniper' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
@@ -97,7 +97,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Evader' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
@@ -113,7 +113,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Support' %}
-                    <li class="toc-block-entry">
+                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
                             <img src="{{ bot.imageUrl }}" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
