@@ -20,6 +20,7 @@ The faster we "launch":
 
 Pix: Here's my own interpretation of the situation, to be discussed if you think otherwise or I forgot anything. The idea is to **concentrate the effort on what we *need* ** and not let the *bonus* stuff block the launch.
 
+**Don't delete anything, ~~strike~~ instead (\~\~like this\~\~)**
 
 <div markdown="1" class="ghcms ghcms-comments">
 
