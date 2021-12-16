@@ -31,7 +31,7 @@ description: How's the wiki project going ?
 - new bots: rocketeer, ram, beat, frosty, virus, nozzle, Pluggie, ko, froggy, Bigshot, bullwark, thump, halo, berzerker, hornet
 
 
-### Day 5
+## Day 5
 
 - Bg Picker
 - Abilities WikiSheet + Converter
@@ -43,14 +43,14 @@ description: How's the wiki project going ?
   - Redacted copy of the full version on discord
 - Search: bot-only proof of concept
 
-### Day 4
+## Day 4
 
 - Font Picker
 - Editor Mode
 - New Maintainers: Hex & Kurt
 - New bots: Scatter, Bombee, Slicer, Tether, Flamer, Longshot
 
-### Day 3
+## Day 3
 
 - [Development Roadmap](https://www.botworld.wiki/roadmap)
 - [WikiSheets Converter](https://www.botworld.wiki/converter)
@@ -62,7 +62,7 @@ description: How's the wiki project going ?
 - Proposal: all [Articles](https://www.botworld.wiki/#articles) listed at the bottom of the homepage (3 categories: [Botmasters](https://www.botworld.wiki/#botmaster), [Botworld](https://www.botworld.wiki/#botworld), [Guides](https://www.botworld.wiki/#guides))
 - [Bots](https://www.botworld.wiki/bots) page new layout
 
-### Day 2
+## Day 2
 
 - Added a new changelog ! 🥳
 - New google-sheet contribution workflow, available on discord
@@ -72,11 +72,11 @@ description: How's the wiki project going ?
 - "Meet Beat Burger" button
 - Dune Bug, Barrie, Icicool by Hex
 
-### Day 1 (10 Dec 2021)
+## Day 1 (10 Dec 2021)
 
 - Let there be a wiki
 
-### Previous days
+## Previous days/weeks
 
 - Why no wiki ?
 - ...
