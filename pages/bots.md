@@ -47,7 +47,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
 	    {% if bot.botType == 'Tank' %}
 		  <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-		      <td>
+		      <td class="table-pic">
 			 <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
 				<img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
 			 </a>
@@ -85,7 +85,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Splasher' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
@@ -123,7 +123,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Sniper' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
@@ -161,7 +161,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Chaser' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
@@ -199,7 +199,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Evader' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
@@ -237,7 +237,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Brawler' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
@@ -275,7 +275,7 @@ Role description, tips etc ?
     {% for bot in site.bots %}
       {% if bot.botType == 'Support' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td>
+          <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
         <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
        </a>
