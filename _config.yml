@@ -3,6 +3,7 @@ collections:
   bots:
     output: true
     permalink: /:path
+    sort_by: botRarity
   abilities:
     output: true
     permalink: /:path
