@@ -93,7 +93,7 @@ Pix: Here's my own interpretation of the situation, to be discussed if you think
 
 </div>
 
-## Cool bonus at launch
+## Cool but bonus not required to launch
 
 ### Data
 
