@@ -63,6 +63,7 @@ Role description, tips etc ?
   </tbody>
 </table>
 
+
 ## Splashers
 
 <div markdown="1" class=" ghcms ghcms-splashers">
@@ -71,25 +72,31 @@ Role description, tips etc ?
 
 </div>
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Splasher' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Splasher' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -103,25 +110,31 @@ Role description, tips etc ?
 </div>
 
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Sniper' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Sniper' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -135,25 +148,31 @@ Role description, tips etc ?
 </div>
 
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Chaser' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Chaser' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -167,25 +186,31 @@ Role description, tips etc ?
 </div>
 
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Evader' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Evader' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -199,25 +224,31 @@ Role description, tips etc ?
 </div>
 
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Brawler' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Brawler' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -231,25 +262,31 @@ Role description, tips etc ?
 </div>
 
 
-<table>
+<table class="collection-list">
   <thead>
     <tr>
+      <th>Bot</th>
       <th>Name</th>
-      <th>Type</th>
       <th>Acquisition</th>
-      <th>Opinion</th>
+      <th>Overview</th>
     </tr>
   </thead>
   <tbody>
     {% for bot in site.bots %}
-	    {% if bot.botType == 'Support' %}
-		  <tr>
-		      <td class="rarity_{{bot.botRarity}}"><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.botName }} </a></td>
-		      <td>{{bot.botType}}</td>
-		      <td>{{bot.botAcquisition}}</td>
-		      <td>{{bot.botOpinion}}</td>
-		    </tr>
-		{% endif %}
+      {% if bot.botType == 'Support' %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td>
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+          <td>{{bot.botAcquisition}}</td>
+          <td>{{bot.botOpinion}}</td>
+        </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
