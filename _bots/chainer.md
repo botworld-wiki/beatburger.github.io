@@ -11,6 +11,7 @@ botImageUrl: https://cdn.discordapp.com/attachments/885544735794692146/885545888
 
 botType: Tank
 botRarity: Rare
+botRarityNumber: "2"
 botAcquisition: Solo Arena r1000
 botOpinion: "Best combo enabler - top meta pick"
 
