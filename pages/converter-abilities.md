@@ -37,7 +37,7 @@ function select(s){
 	return s.split('__begin__\n')[1].split('\n__end__')[0]
 }
 function decorate(s){
-	return '---\nlayout: bot\n'+s+'\n---'
+	return '---\nlayout: ability\n'+s+'\n---'
 }
 function formatStr(str){
 	var i=0;
