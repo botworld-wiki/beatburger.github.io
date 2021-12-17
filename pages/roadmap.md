@@ -1,14 +1,16 @@
 ---
 
 layout: breadcrumbs
-title: Deveopment Roadmap
+title: Roadmap
 description: What's already planned, and when will it get done ?
 permalink: /roadmap
 titleShort: "Roadmap short" 
 breadcrumbs:
-  contribute: "/contribute"
+  Contribute: "/contribute"
 
 ---
+
+# Development Roadmap
 
 ## Explanations
 I've started to receive bug reports, suggestions, ideas, all sorts of contributions. I obviously can't do everything at once so I need some kind of todo-list, and this page is where I'll share it with you so you can:
