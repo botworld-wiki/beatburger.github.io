@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /changelog
 title: Changelog
 description: How's the wiki project going ?
+breadcrumbs:
+  Contribute: "/contribute"
 
 ---
 
@@ -24,6 +26,10 @@ description: How's the wiki project going ?
 - Boosters WikiSheet + Converter + Layout + [Boosters](/boosters) + [Power Start (Common)](/power-start-common)
 - To be written pages/links: red (/contribute#tbf) [To Be Written](/contribute#tbw)
 - Wiki Banner: OK ?!
+- Search keywords (bots, abilities, boosters)
+- breadcrumbs
+- Search + Breadcrumbs compatible workflow (WikiSheets + Converters)
+- Search scope extended to include abilities
 
 ## Day 6
 
