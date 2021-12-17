@@ -8,7 +8,7 @@ layout: none
       "category" : "{{ bot.category }}",
       "tags"     : "{{ bot.tags | join: ', ' }}",
       "url"      : "/{{ bot.botName | slugify }}",
-      "kws"      : "{{ bot.searchKeywords }}
+      "kws"      : "{{ bot.searchKeywords }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
