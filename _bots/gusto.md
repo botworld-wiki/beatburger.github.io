@@ -1,5 +1,8 @@
 ---
-layout: "bot"
+layout: bot
+contributors: "MrGold, the wonderboy"
+updatedAt: "2021-12-17"
+
 title: "Gusto"
 name: "Gusto"
 description: "Epic Support - A timid bot that throws its allies into the fray. Loves to go bowling."
@@ -69,7 +72,6 @@ specialMat: "Thick Oil"
 commonMat1: "Cold Battery"
 commonMat2: "Double Cog"
 commonMat3: "Mini Sensor"
-
 ---
 
 ### Tips
