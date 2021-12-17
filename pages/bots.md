@@ -143,7 +143,7 @@ Snipers do a lot of damage from a distance --- protect this bot as much as possi
 
 <div markdown="1" class=" ghcms ghcms-chasers">
 
-Role description, tips etc ?
+Chasers are fast melee bots that are good at getting close to ranged enemies --- Let this bot get close to ranged damage dealers
 
 </div>
 
@@ -181,7 +181,7 @@ Role description, tips etc ?
 
 <div markdown="1" class=" ghcms ghcms-evaders">
 
-Role description, tips etc ?
+Evaders are fast bots that are good at staying away from melee enemies --- distract chasers with these bots!
 
 </div>
 
@@ -219,7 +219,7 @@ Role description, tips etc ?
 
 <div markdown="1" class=" ghcms ghcms-brawlers">
 
-Role description, tips etc ?
+Brawlers are good at fighting other melee bots --- 1v1 is their specialty
 
 </div>
 
@@ -257,7 +257,7 @@ Role description, tips etc ?
 
 <div markdown="1" class=" ghcms ghcms-supports">
 
-Role description, tips etc ?
+Supports make your other bots more effective --- best placed beside tanks
 
 </div>
 
