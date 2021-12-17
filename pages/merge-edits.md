@@ -7,6 +7,7 @@ description: Assisting tool to merge Editor Mode edits into source .md files
 breadcrumbs:
   Contribute: "/admin"
 robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
