@@ -2,12 +2,41 @@
 layout: default
 ---
 
+<style type="text/css">
+h1 { margin-bottom: 0px; }
+ul#breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    min-width: 250px;
+    background: none !important;
+    padding: 0px;
+    margin-bottom: 20px;
+
+}
+ul#breadcrumbs li {
+    margin: 0px 10px 0px 10px;
+    padding: 0px 10px 0px 0px;
+}
+</style>
+<!--
+    (opt) titleShort: "" 
+    breadcrumbs:
+      "anchor": url
+      "anchor2": url2 -->
 <h1 id="{{page.title}} | slugify ">{{page.title}}</h1>
 
 <ul id="breadcrumbs">
-  <li><a href="#">Wiki</a></li>
-  <li><a href="#">{{page.breadcrumbs}}</a></li>
-  <li>{{page.title}}</li>
+  <li><a href="/">Wiki</a></li>
+  {% for breadcrumb in page.breadcrumbs %}
+  	<li><a href="{{ breadcrumb[1] }}">{{ breadcrumb[0] }}</a></li>
+  {% endfor %}
+  {% if page.titleShort %}
+    <li>{{page.titleShort}}</li>
+  {% else %}
+    <li>{{page.title}}</li>
+  {% endif %}
+  
 </ul>
 
 {{ content }}
