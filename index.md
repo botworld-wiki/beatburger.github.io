@@ -192,15 +192,15 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Getting Started</span></a>
             </li>
             <li class="toc-block-entry">
-                <a>
+                <a href="/contribute#tbw">
                 <span>Grouper Comp</span></a>
             </li>
             <li class="toc-block-entry">
-                <a>
+                <a href="/contribute#tbw">
                 <span>Farming Guide &amp; Routes</span></a>
             </li>
             <li class="toc-block-entry">
-                <a>
+                <a href="/contribute#tbw">
                 <span>Arena Crown</span></a>
             </li>
             <li class="toc-block-entry">
@@ -252,17 +252,17 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 
 - Exploration & DZ Tips: Critters, Mega, bosses, DZs tips...
     - [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
-    - Boat Materials:
-    - Upgrade materials: 
-    - Contracts:
-    - Exterminator squads:
-- Scavenger Landing: shop, hair draisser, aunty... mentions arena etc
-    - Business Boat upgrades: boat pictures & unlocks per level...
-    - Arena:
+    - [Boat Materials](/contribute#tbw):
+    - [Upgrade materials](/contribute#tbw): 
+    - [Contracts](/contribute#tbw):
+    - [Exterminator squads](/contribute#tbw):
+- [Scavenger Landing](/contribute#tbw): shop, hair draisser, aunty... mentions arena etc
+    - [Business Boat upgrades](/contribute#tbw): boat pictures & unlocks per level...
+    - [Arena](/contribute#tbw):
     - [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
-    - Seasons: Starter Season vs Global Season, most notable rewards etc.
-    - Notable characters: the cool npcs
-- Mechanics: drops, lvl scaling, IA, recruits simulations...
+    - [Seasons](/contribute#tbw): Starter Season vs Global Season, most notable rewards etc.
+    - [Notable characters](/contribute#tbw): the cool npcs
+- [Mechanics](/contribute#tbw): drops, lvl scaling, IA, recruits simulations...
 - ...
 <span class="menu-link-target" id="guides"></span>
 
@@ -273,9 +273,9 @@ Alternatively, have a look at [all the new bots you'll encounter soon](https://w
 <div markdown="1" class=" ghcms ghcms-guides">
 
 - [Getting Started](https://www.botworld.wiki/guides/getting-started): 
-- Grouper Comp:
-- Farming Guide &amp; Routes:
-- Arena Crown:
+- [Grouper Comp](/contribute#tbw):
+- [Farming Guide &amp; Routes](/contribute#tbw):
+- [Arena Crown](/contribute#tbw):
 - ...
 
 </div>
