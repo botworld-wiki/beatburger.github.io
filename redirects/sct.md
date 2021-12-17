@@ -1,6 +1,6 @@
 ---
 layout: redirect
-permalink: "/test-redirect2"
+permalink: "/sct"
 redirectTo: "https://www.botworld.wiki/supercharged-chaos-translocator"
 
 
