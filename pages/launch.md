@@ -53,34 +53,34 @@ Pix: Here's my own interpretation of the situation, to be discussed if you think
 <div markdown="1" class="ghcms ghcms-needcontent">
 
 - **Menu**: let's discuss what pages we need linked here. eg: Discord link? Maps??
-- **Home pages list**: write proper descriptions so people know what the page is about, or what we would love them to write us about so we can create the page.
--**Pages**
-  - Bots: missing a bunch of useful stuff, but we can skip it for now ? 
-  - Starter Bots: add images ?
-  - Botpack: to be written
-  - Abilities, Boosters: ok ?
-  - Recruits: we can do something minimal quick ?
-  - Exploration & DZ Tips: we can do something minimal quick ?
-  - Maps: done ?
-  - Boat Materials: let's at least explain "Ancient Ruins"
-  - Arena: let's describe it briefly ?
-  - Arena Masters: let's copy from the discord & make it somewhat useful already
-  - Getting Started: ok ?
-- **Credits**: double-check everyone's in there
 
+- **Home pages list**: write proper descriptions so people know what the page is about, or what we would love them to write us about so we can create the page. -**Pages**\- Bots: missing a bunch of useful stuff, but we can skip it for now ?
+
+    - Starter Bots: add images ?
+    - Botpack: to be written
+    - \~\~ Abilities, Boosters: ok ?\~\~
+    - Recruits: we can do something minimal quick ?
+    - Exploration & DZ Tips: we can do something minimal quick ?
+    - \~\~Maps: done ?\~\~
+    - Boat Materials: let’s at least explain “Ancient Ruins”
+    - Arena: let’s describe it briefly ?
+    - Arena Masters: let’s copy from the discord & make it somewhat useful already
+    - \~\~Getting Started: ok ?\~\~
+
+- **Credits**: double-check everyone’s in there
+- 
 </div>
 
 ### Design
 
 <div markdown="1" class="ghcms ghcms-needdesign">
 
-- **Site Banner**: is it okay now ?
+- \~\~**Site Banner**: is it okay now ?\~\~
 - **Font**: we ain't there yet
-- **Colors**: is yellow still the right call with the BWA theme ?
+- \~\~**Colors**: is yellow still the right call with the BWA theme ?\~\~
 - **Menu**: needs some work, and incl. search
-- **BWA themes**: homepage blocs OK, now to apply some BWA into Data pages & text sections
+- \~\~**BWA themes**: homepage blocs OK, now to apply some BWA into Data pages & text sections\~\~
 - **BWA assets**: logo for every bot class (only brawler for now) + player botpack (+ ?)
-
 </div>
 
 ### Features
