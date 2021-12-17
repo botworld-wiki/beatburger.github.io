@@ -52,18 +52,18 @@ ai5bName: "B: Ready to Chain"
 ai5aDescription: Ground slam slows enemies by 30%
 ai5bDescription: Multi-chain starts at 50% charged
 
-lvl1Hp: 
-lvl1Dmg: 
-lvl1Dps: 
+lvl1Hp: 1850
+lvl1Dmg: 52
+lvl1Dps: 58
 lvl1Speed: 12
 
 lvl10Hp: 4009
 lvl10Dmg: 108
 lvl10Dps: 121
 
-lvl20Hp: 
-lvl20Dmg: 
-lvl20Dps: 
+lvl20Hp: 10397
+lvl20Dmg: 281
+lvl20Dps: 313
 
 lvl25Hp: 16745
 lvl25Dmg: 453
@@ -71,10 +71,10 @@ lvl25Dps: 503
 
 epicMat: Chainer Essence
 rareMat: Tank Plating
-specialMat: 
-commonMat1: 
-commonMat2: 
-commonMat3: 
+specialMat: Hard Botplate
+commonMat1: Cold Battery
+commonMat2: Thick Tube
+commonMat3: Frost Fuel
 
 ---
 
