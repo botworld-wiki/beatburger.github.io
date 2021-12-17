@@ -52,9 +52,9 @@ ai5bName: "B: Fortitude"
 ai5bDescription: "Health increased by 20%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1200"
+lvl1Dmg: "80"
+lvl1Dps: "200"
 lvl1Speed: "10"
 lvl10Hp: ""
 lvl10Dmg: ""
@@ -74,3 +74,11 @@ commonMat1: "Sparky Wire"
 commonMat2: "Mini Sensor"
 commonMat3: "Clear Oil"
 ---
+
+### Tips
+Pluggie is recommended subsitute for Mort, Pluggie deals enemies with its stun
+Recomended boosters for Pluggie are Bot stuns, Bot damage or Stun resistance
+
+### Suggested Ai Build
+ACBBA
+
