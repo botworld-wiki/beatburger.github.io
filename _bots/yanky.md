@@ -51,16 +51,16 @@ ai5bName: "B: Fortitude"
 ai5bDescription: "Health increased by 20%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
-lvl1Speed: ""
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl1Hp: "1568"
+lvl1Dmg: "60"
+lvl1Dps: "75"
+lvl1Speed: "10"
+lvl10Hp: "3301"
+lvl10Dmg: "141"
+lvl10Dps: "177"
+lvl20Hp: "8562"
+lvl20Dmg: "367"
+lvl20Dps: "459"
 lvl25Hp: "13790"
 lvl25Dmg: "591"
 lvl25Dps: "739"
@@ -73,3 +73,7 @@ commonMat1: "Rusty Cog"
 commonMat2: "Thick Tube"
 commonMat3: "Double Cog"
 ---
+
+### Suggested AI build
+AAACA
+
