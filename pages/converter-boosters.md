@@ -7,6 +7,8 @@ description: Assisting tool to convert bot entries from collective wiki sheets t
 breadcrumbs:
   Contribute: "/contribute"
   Converter: "/converter"
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
