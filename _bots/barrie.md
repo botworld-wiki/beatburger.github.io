@@ -5,6 +5,9 @@ title: "Barrie"
 name: "Barrie"
 description: "Common Tank - A defensive bot with an energy barrier for extra survivability. Always has a headache"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
+breadcrumbs:
+  Bots: "/bots"
+  Tanks: "/bots#tanks"
 
 botName: "Barrie"
 botDescription: "A defensive bot with an energy barrier for extra survivability. Always has a headache"
