@@ -75,3 +75,11 @@ commonMat1: "Double Cogs"
 commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cogs"
 ---
+
+### Tips
+Put Bullwark in the front
+weakness is his rear since his shield is in the front
+
+### Suggested Ai Build
+ABCBA
+
