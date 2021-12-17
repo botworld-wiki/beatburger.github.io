@@ -4,6 +4,7 @@ layout: default
 permalink: /admin
 title: Admin
 description: Toggle Editor Mode there.
+robots: "NOINDEX, NOFOLLOW"
 
 ---
 # Admin
@@ -24,3 +25,9 @@ description: Toggle Editor Mode there.
 - Something
 - here
 </div>
+
+<script type="text/javascript">
+
+var ghcmsOnLoad = function(){ $.getScript('/assets/js/admin.js'); }
+
+</script>
