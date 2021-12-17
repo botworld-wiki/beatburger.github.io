@@ -21,6 +21,9 @@ description: How's the wiki project going ?
 - BWA theme: text sections (titles + paragraphs + lists)
 - General design: [Robopedia](/bots) with pics & rarity
 - Bot "Opinion" renamed to Bot "Overview", also added on bot pages under ["Comments"](/chainer#overview)
+- Boosters WikiSheet + Converter + Layout + [Boosters](/boosters) + [Power Start (Common)](/power-start-common)
+- To be written pages/links: red (/contribute#tbf) [To Be Written](/contribute#tbw)
+- Wiki Banner: OK ?!
 
 ## Day 6
 
