@@ -61,10 +61,10 @@ lvl10Dmg: "85"
 lvl10Dps: "121"
 lvl20Hp: "7645"
 lvl20Dmg: "220"
-lvl20Dps: "315
-lvl25Hp: "12312
+lvl20Dps: "315"
+lvl25Hp: "12312"
 lvl25Dmg: "355"
-lvl25Dps: "507
+lvl25Dps: "507"
 
 epicMat: "Gusto Essence"
 rareMat: "Support Chip"
