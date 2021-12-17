@@ -6,6 +6,8 @@ title: Bots Converter
 description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
 breadcrumbs:
   Converter: "/converter"
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
