@@ -707,7 +707,7 @@ if (window.location.hash.startsWith('#banner')){
 var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/assets/js/search.json'
+  json: '/assets/js/search.json?cachebuster='+Math.random()
 })
 </script>
   </body>
