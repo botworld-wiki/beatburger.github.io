@@ -1,6 +1,5 @@
 ---
-
-layout: bot
+layout: "bot"
 title: "Gusto"
 name: "Gusto"
 description: "Epic Support - A timid bot that throws its allies into the fray. Loves to go bowling."
