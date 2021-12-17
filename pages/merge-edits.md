@@ -6,7 +6,7 @@ title: Merge Edits
 description: Assisting tool to merge Editor Mode edits into source .md files
 breadcrumbs:
   Contribute: "/admin"
-robots: "noindex"
+robots: "NOINDEX, NOFOLLOW"
 
 ---
 
