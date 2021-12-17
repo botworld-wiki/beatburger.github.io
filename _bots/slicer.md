@@ -52,9 +52,9 @@ ai5bName: "B: Flurry or Flurries"
 ai5bDescription: "Flurry cooldown reduced by 20%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1064"
+lvl1Dmg: "75"
+lvl1Dps: "214"
 lvl1Speed: "15"
 lvl10Hp: "2240"
 lvl10Dmg: "177"
