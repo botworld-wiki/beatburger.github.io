@@ -31,7 +31,7 @@ breadcrumbs:
 
 <script type="text/javascript">
 	
-var boosterRows = ["contributors","updatedAt","# Wiki page infos","title","name","description","imageUrl","# Booster infos","boosterName","boosterDescription","boosterImageUrl","boosterStacks","boosterRarity","boosterAcquisition","boosterOpinion","searchKeywords"]	;
+var boosterRows = ["contributors","updatedAt","# Wiki page infos","title","name","description","imageUrl","breadcrumbs","  Botpack","  Abilities","# Booster infos","boosterName","boosterDescription","boosterImageUrl","boosterStacks","boosterRarity","boosterAcquisition","boosterOpinion","searchKeywords"]	;
 
 function select(s){
 	return s.split('__begin__\n')[1].split('\n__end__')[0]
