@@ -17,14 +17,8 @@ robots: "NOINDEX, NOFOLLOW"
 	<button id="connection">Login</button>
 	<button id="deconnection">Logout</button>
 </div>
-...
 
-## Free block below for you to try it out:
 
-<div markdown="1" class=" ghcms ghcms-test">
-- Something
-- here
-</div>
 
 <script type="text/javascript">
 
