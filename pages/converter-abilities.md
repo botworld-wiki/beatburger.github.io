@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /converter-abilities
 title: Abilities Converter
 description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
