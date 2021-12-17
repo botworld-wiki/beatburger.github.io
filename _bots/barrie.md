@@ -49,16 +49,16 @@ ai5aDescription: "Health increased by 20%"
 ai5bName: ""
 ai5bDescription: ""
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
-lvl1Speed: ""
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl1Hp: "2632"
+lvl1Dmg: "30"
+lvl1Dps: "38"
+lvl1Speed: "9"
+lvl10Hp: "5541"
+lvl10Dmg: "71"
+lvl10Dps: "88"
+lvl20Hp: "14372"
+lvl20Dmg: "183"
+lvl20Dps: "369"
 lvl25Hp: "23147"
 lvl25Dmg: "295"
 lvl25Dps: "369"
@@ -71,3 +71,6 @@ commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 
 ---
+
+### Suggested AI build
+AAAAC
