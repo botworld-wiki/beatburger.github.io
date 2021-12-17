@@ -216,12 +216,16 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ## New player ?
 
-Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means. Check out [Starter Bots](/starter-bots) for example, but rest assured **you'll get all 3 of them** eeventually !
+## New player ?
+
+Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
+
+Check out [Starter Bots](</starter-bots>) if you want, for example, but rest assured **you’ll get all 3 of them** eventually !
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
-Alternatively, have a look at [all the new bots you'll encounter soon](https://www.botworld.wiki/bots) or go and read [Getting Started](https://www.botworld.wiki/guides/getting-started).
-<span class="menu-link-target" id="all"></span>
+Alternatively, have a look at [all the new bots you’ll encounter soon](<https://www.botworld.wiki/bots>) or go and read [Getting Started](<https://www.botworld.wiki/guides/getting-started>). <span class="menu-link-target" id="all"></span>
+
 <span class="menu-link-target" id="botmaster"></span>
 
 </div>
