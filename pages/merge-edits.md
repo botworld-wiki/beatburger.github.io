@@ -1,7 +1,7 @@
 ---
 
 layout: breadcrumbs
-permalink: /merge-edit
+permalink: /merge-edits
 title: Merge Edits
 description: Assisting tool to merge Editor Mode edits into source .md files
 breadcrumbs:
