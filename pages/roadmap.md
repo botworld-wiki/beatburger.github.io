@@ -36,10 +36,7 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Important Content Pages / Features
 
-- boosters template + converter
-- breadcrumbs
 - Editor Mode edits merge process (converter ?)
-- Search scope
 - rarity sorted
 - 
 
@@ -57,6 +54,9 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Secondary content & features ideas
 
+- advanced search
+- inter-linking
+- materials collection 
 - redirects: /sct -> /supercharged-chaos-translocator etc
 - sortable lists
 - dedicated favicon
