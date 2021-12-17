@@ -1,7 +1,7 @@
 ---
 
 layout: default
-permalink: /converter
+permalink: /converter-bots
 title: Bots Converter
 description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
 breadcrumbs:
