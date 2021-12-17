@@ -5,6 +5,7 @@ permalink: /admin
 title: Admin
 description: Toggle Editor Mode there.
 robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 # Admin
