@@ -216,7 +216,6 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ## New player ?
 
-## New player ?
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
 
@@ -242,8 +241,8 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
     - [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
     - [Boosters](https://www.botworld.wiki/boosters): booster detailed list
     - [Gadgets](https://www.botworld.wiki/gadgets): gadget list
-- Recruits: why you need to show them some love in general
-    - Jobs: advice, mechanics, listing
+- [Recruits](/contribute#tbw): why you need to show them some love in general
+    - [Jobs](/contribute#tbw): advice, mechanics, listing
 - ...
 
 </div>
