@@ -59,11 +59,37 @@ description: The place to learn everything there is to know about the Arena Mast
 
 ### Description
 
+Solo bot fights
+
 ### Bots
 
 ### Rewards
 
 ### Tips
+
+Your top priority is to **avoid the Freeze Balls**. Two ways around it:
+
+- have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
+- have Chaos Translocator (CT) at hand and save power to use it in a pinch
+
+
+Ps: I believe Proximity Translocator can be used instead of CT and work considerably better. I didn't have it myself
+
+Then, tip your comp heavily towards **ranged bots so you can kill from afar**. Some Chasers are cool, but def no tanks.
+
+**Must-have abilities**: CT, imobilize. **Good to have**: Gust, Freeze, Overcharge
+
+- Boosters to help generate power.
+
+
+The more snipers you have, the better. **Longshot is king and easy to get**, Chomp is so-so but okay. Put them down on the field, keep the enemies away with Imobilize/Gust/Freeze, save 2p for CT to dodge Freeze Ball, and occasionally Overcharge if you can afford it.
+
+Some hidden gems amongst bots:
+
+- **Rocketeer AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo Brute, and then some.
+- **Slicer AI4**: immune to slow and freeze. Great Frosty counter (thanks )
+
+
 
 </div>
 
