@@ -77,7 +77,8 @@ commonMat3: "Sputtering Generator"
 ---
 
 ### Tips
-
+Drop Nozzle on top of enemies, it will deal stun at Ai 3
+Use Gust to direct enemies to nozzle to keep them company while your damage dealers deal with them
 
 ### Suggested Ai Build
 AACBA
