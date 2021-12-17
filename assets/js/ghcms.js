@@ -190,7 +190,9 @@ function getGhCmsId($e){
 function loadToPanel(ghCmsId){
   if ($('.'+ghCmsId).length != 1){alert('Impossible de modifier cette page'); return}
   $('#ghCMS-editor-panel input').val(ghCmsId);
-  $('#ghCMS-editor-panel textarea').val(mdConverter.makeMarkdown($('.'+ghCmsId).html()));
+  $('#ghCMS-editor-panel textarea').val(mdConverter.makeMarkdown(
+  	$('.'+ghCmsId).html()).replaceAll('<!-- -->\n', '').trim()
+  );
   $('#ghCMS-editor-panel').removeClass('mini').addClass('maxi');
 }
 
