@@ -74,3 +74,10 @@ commonMat1: "Mini Sensor"
 commonMat2: "Sputtering Generator"
 commonMat3: "Thick Tube"
 ---
+
+### Tips
+Beat can be combo to anyone
+Most recomended combo is Chainer, Beat and Mort/Pluggie
+
+### Suggested Ai Build
+AAACA
