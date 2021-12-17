@@ -28,6 +28,6 @@ robots: "NOINDEX, NOFOLLOW"
 
 <script type="text/javascript">
 
-var ghcmsOnLoad = function(){ $.getScript('/assets/js/admin.js'); }
+var afterDispatch = function(){ $.getScript('/assets/js/admin.js'); }
 
 </script>
