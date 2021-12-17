@@ -53,9 +53,9 @@ ai5bName: "B: Water Tanks"
 ai5bDescription: "Tidal Wave stun duration increased by 40%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "2352"
+lvl1Dmg: "35"
+lvl1Dps: "35"
 lvl1Speed: "5"
 lvl10Hp: ""
 lvl10Dmg: ""
@@ -75,3 +75,9 @@ commonMat1: "Hardened Fiberglass"
 commonMat2: "Clear Oil"
 commonMat3: "Sputtering Generator"
 ---
+
+### Tips
+
+
+### Suggested Ai Build
+AACBA
