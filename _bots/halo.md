@@ -7,12 +7,12 @@ updatedAt: "2021-21-14"
 title: "Halo"
 name: "Halo"
 description: "Rare Support - Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
-imageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
+imageUrl: "https://cdn.discordapp.com/attachments/880748627910332467/921048664351338516/1635145157855.png"
 
 
 botName: "Halo"
 botDescription: "Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
-botImageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
+botImageUrl: "https://cdn.discordapp.com/attachments/880748627910332467/921048664351338516/1635145157855.png"
 botType: "Support"
 botRarity: "Rare"
 botAcquisition: "Random Drop"
@@ -52,19 +52,19 @@ ai5bName: "B: Boost Preloader"
 ai5bDescription: "Boost Bubble starts 50% charged"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1232"
+lvl1Dmg: "40"
+lvl1Dps: "53"
 lvl1Speed: "11"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2358"
+lvl10Dmg: "83"
+lvl10Dps: "103"
 lvl20Hp: "6728"
 lvl20Dmg: "245"
 lvl20Dps: "326"
-lvl25Hp: ""
-lvl25Dmg: ""
-lvl25Dps: ""
+lvl25Hp: "10835"
+lvl25Dmg: "394"
+lvl25Dps: "525"
 
 
 epicMat: "Halo Essence"
@@ -74,3 +74,11 @@ commonMat1: "Thick Tube"
 commonMat2: "Sputtering Generators"
 commonMat3: "Sparky Wires"
 ---
+
+### Tips
+Do not let Halo get hacked
+
+### Suggested Ai Build
+BACBB - Boost Bubble Build 
+AACBA - Shield Bubble Build
+
