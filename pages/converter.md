@@ -34,7 +34,7 @@ It's very much a quick'n dirty prototype hacked together hastily. Can be improve
 
 <script type="text/javascript">
 	
-const rows = [ "contributors","updatedAt","# Wiki page infos", "title", "name", "description", "imageUrl", "# Bot infos", "botName", "botDescription", "botImageUrl", "botType", "botRarity", "botAcquisition", "botOpinion", "# Abilities infos", "ability1Name", "ability1Info", "ability1Description", "ability2Name", "ability2Info", "ability2Description", "ability3Name", "ability3Info", "ability3Description", "# AI tree infos", "ai1aName", "ai1aDescription", "ai1bName", "ai1bDescription", "ai2aName", "ai2aDescription", "ai2bName", "ai2bDescription", "ai3aName", "ai3aDescription", "ai3bName", "ai3bDescription", "ai4aName", "ai4aDescription", "ai4bName", "ai4bDescription", "ai5aName", "ai5aDescription", "ai5bName", "ai5bDescription", "# Stats infos", "lvl1Hp", "lvl1Dmg", "lvl1Dps", "lvl1Speed", "lvl10Hp", "lvl10Dmg", "lvl10Dps", "lvl20Hp", "lvl20Dmg", "lvl20Dps", "lvl25Hp", "lvl25Dmg", "lvl25Dps", "# Upgrade infos", "epicMat", "rareMat", "specialMat", "commonMat1", "commonMat2", "commonMat3"]	;
+const botRows = [ "contributors","updatedAt","# Wiki page infos", "title", "name", "description", "imageUrl", "# Bot infos", "botName", "botDescription", "botImageUrl", "botType", "botRarity", "botAcquisition", "botOpinion", "# Abilities infos", "ability1Name", "ability1Info", "ability1Description", "ability2Name", "ability2Info", "ability2Description", "ability3Name", "ability3Info", "ability3Description", "# AI tree infos", "ai1aName", "ai1aDescription", "ai1bName", "ai1bDescription", "ai2aName", "ai2aDescription", "ai2bName", "ai2bDescription", "ai3aName", "ai3aDescription", "ai3bName", "ai3bDescription", "ai4aName", "ai4aDescription", "ai4bName", "ai4bDescription", "ai5aName", "ai5aDescription", "ai5bName", "ai5bDescription", "# Stats infos", "lvl1Hp", "lvl1Dmg", "lvl1Dps", "lvl1Speed", "lvl10Hp", "lvl10Dmg", "lvl10Dps", "lvl20Hp", "lvl20Dmg", "lvl20Dps", "lvl25Hp", "lvl25Dmg", "lvl25Dps", "# Upgrade infos", "epicMat", "rareMat", "specialMat", "commonMat1", "commonMat2", "commonMat3"]	;
 
 function select(s){
 	return s.split('__begin__\n')[1].split('\n__end__')[0]
@@ -47,7 +47,7 @@ function formatStr(str){
 	return	decorate(
 		select(str).replaceAll('"\nhttp', 'http',).split('\n')
 			.map(function(line){return line.replaceAll('"','')})
-			.map(function(val){return rows[i++]+': "'+val+'"'})
+			.map(function(val){return botRows[i++]+': "'+val+'"'})
 			.join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
 		)
 }
@@ -84,7 +84,7 @@ document.querySelector('#input-bots').addEventListener('input', trimInput, false
 
 <script type="text/javascript">
 	
-const rows = [
+const abilitiesRows = [
 	'contributors','updatedAt','# Wiki page infos','title','name','description','imageUrl','# Bot infos','abilityName','abilityDescription','abilityImageUrl','abilityCost','abilityRarity','abilityAcquisition','abilityOpinion'
 ];
 
@@ -100,7 +100,7 @@ function formatStr(str){
 	return	decorate(
 		select(str).replaceAll('"\nhttp', 'http',).split('\n')
 			.map(function(line){return line.replaceAll('"','')})
-			.map(function(val){return rows[i++]+': "'+val+'"'})
+			.map(function(val){return abilitiesRows[i++]+': "'+val+'"'})
 			.join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
 		)
 }
@@ -115,6 +115,7 @@ function trimInput(){
 }
 document.querySelector('#input-abilities').addEventListener('input', trimInput, false);
 </script>
+
 
 
 ## Boosters
@@ -137,7 +138,7 @@ document.querySelector('#input-abilities').addEventListener('input', trimInput, 
 
 <script type="text/javascript">
 	
-const rows = [
+const boosterRows = [
 	'contributors','updatedAt','# Wiki page infos','title','name','description','imageUrl','# Bot infos','boosterName','boosterDescription','boosterImageUrl','boosterStacks','boosterRarity','boosterAcquisition','boosterOpinion'
 ];
 
@@ -153,7 +154,7 @@ function formatStr(str){
 	return	decorate(
 		select(str).replaceAll('"\nhttp', 'http',).split('\n')
 			.map(function(line){return line.replaceAll('"','')})
-			.map(function(val){return rows[i++]+': "'+val+'"'})
+			.map(function(val){return boosterRows[i++]+': "'+val+'"'})
 			.join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
 		)
 }
