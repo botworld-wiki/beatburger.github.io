@@ -5,15 +5,13 @@ layout: none
   {% for bot in site.bots %}
     {
       "title"    : "{{ bot.botName | escape }}",
-      "url"      : "/{{ bot.botName | slugify }}",
-      "kws"      : "{{ bot.searchKeywords }}"
+      "url"      : "/{{ bot.botName | slugify }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {% for ability in site.abilities %}
     {
       "title"    : "{{ ability.abilityName | escape }}",
-      "url"      : "/{{ ability.abilityName | slugify }}",
-      "kws"      : "{{ ability.searchKeywords }}"
+      "url"      : "/{{ ability.abilityName | slugify }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
