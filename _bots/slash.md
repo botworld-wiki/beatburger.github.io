@@ -46,10 +46,10 @@ ai5aDescription: "Bot has a 25% chance to dodge melee attacks"
 ai5bName: "B: Critical Strikes"
 ai5bDescription: "Attacks have 15% critical chance (critical hits deals double damage)"
 # Stats infos: ""
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
-lvl1Speed: ""
+lvl1Hp: "896"
+lvl1Dmg: "85"
+lvl1Dps: "243"
+lvl1Speed: "15"
 lvl10Hp: "1886"
 lvl10Dmg: "200"
 lvl10Dps: "573"
@@ -67,3 +67,7 @@ commonMat1: "Double Cog"
 commonMat2: "Sputtering Generators"
 commonMat3: "Sparky Wires"
 ---
+
+### Suggested AI build
+BACAB
+
