@@ -45,9 +45,9 @@ ai5aDescription: "Icicles have 10% chance to freeze"
 ai5bName: "B: Splintered Icicles"
 ai5bDescription: "Icicles slows nearby enemies"
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1344"
+lvl1Dmg: "50"
+lvl1Dps: "62"
 lvl1Speed: "16"
 lvl10Hp: "2830"
 lvl10Dmg: "118"
@@ -67,3 +67,7 @@ commonMat2: "Mini Sensor"
 commonMat3: "Cold Battery"
 
 ---
+
+### Suggested AI build
+BACAB
+
