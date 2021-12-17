@@ -140,7 +140,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Boosters</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/recruits">
+                <a href="/contribute#tbw">
                 <span>Recruits</span></a>
             </li>
             <li class="toc-block-entry">
@@ -156,7 +156,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </a>
         <ul class="toc-block-list">
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/danger-zones">
+                <a href="/contribute#tbw">
                 <span>Exploration & DZ Tips</span></a>
             </li>
             <li class="toc-block-entry">
@@ -164,7 +164,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Maps</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/business">
+                <a href="/contribute#tbw">
                 <span>Business Boat upgrades</span></a>
             </li>
             <li class="toc-block-entry">
@@ -172,7 +172,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Arena Masters</span></a>
             </li>
             <li class="toc-block-entry">
-                <a>
+                <a href="/contribute#tbw">
                 <span>Boat Materials</span></a>
             </li>
             <li class="toc-block-entry">
