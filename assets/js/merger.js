@@ -22,7 +22,7 @@ async function fetchEdits(){
     jsonUrl = '/assets/js/edits.json';
   } else {
     jsonUrl = '/assets/js/edits.json?cachebuster='+Math.random();
-  }
+  ;}
 
   const pageLocation = document.location.pathname + document.location.search;
   
@@ -39,7 +39,10 @@ async function fetchEdits(){
 	  let $div = $('<div class="ghcms-merge section"></div>');
 	  mdEdits[page] = mdEdits[page] || {};
       for (let edit in edits[page]){
-      	let mdEdit = mdConverter.makeMarkdown(decodeURI(atob(edits[page][edit].b64)));
+      	let mdEdit = mdConverter.makeMarkdown(
+      		decodeURI(atob(edits[page][edit].b64))
+      	).replaceAll('<!-- -->\n', '').trim();
+      	console.log(mdEdits)
       	mdEdits[page][edit] = mdEdit;
       	$div.append($('<h3>section_title</h3>').text(edit));
       	$div.append($('<div class="source-links"><span>Github source file:</span></div>')
