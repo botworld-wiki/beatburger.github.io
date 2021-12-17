@@ -64,18 +64,24 @@ That's just me for now, but I'm very open to take on any willing apprentice (exp
 ## Credits
 
 <div markdown="1" class="ghcms ghcms-credits">
-
-- Groovy
+- Groovy: Editor in chief
 - Pix: Developer
-- Diamond
-- Lekoi
-- Huggy: Data collector
-- Kurt: Data Collector | Maintainer
-- ... add your name:roles/contribs here ...
-- ... add your name:roles/contribs here ...
-- ... add your name:roles/contribs here ...
-- ... add your name:roles/contribs here ...
+- Diamond: Artist
+- Lekoi: Photoshoper, Botworld expert
+- ChaelBlaze: Data collector
+- Hex: Data Collector
+- ...add your name: roles in here…
+- …add your name: roles in here…
+- …add your name: roles in here…
+- …add your name: roles in here…
 
+### Art
+
+- GlareFacer: wiki banner
+- Soft: Welcome banner
+- [Diamond](<https://youtu.be/dQw4w9WgXcQ>): Abilities banner
+- [Lollitree](<https://twitter.com/lollitree_art>): Beat Burger logo,..
+- [Featherweight](<https://www.featherweightgames.com/botworld>) : in-game assets
 
 </div>
 
