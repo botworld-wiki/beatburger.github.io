@@ -30,7 +30,7 @@ description: The place to learn everything there is to know about the wonderful 
 
 <div markdown="1" class=" ghcms ghcms-tanks">
 
-Role description, tips etc ?
+Tanks soak up damage and protect weaker bots --- Best placed up front
 
 </div>
 
@@ -68,7 +68,7 @@ Role description, tips etc ?
 
 <div markdown="1" class=" ghcms ghcms-splashers">
 
-Role description, tips etc ?
+Splashers damage multiple bots that are close together --- best placed at the back
 
 </div>
 
@@ -105,7 +105,7 @@ Role description, tips etc ?
 
 <div markdown="1" class=" ghcms ghcms-snipers">
 
-Role description, tips etc ?
+Snipers do a lot of damage from a distance --- protect this bot as much as possible
 
 </div>
 
