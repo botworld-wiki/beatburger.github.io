@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /converter
 title: WikiSheets Converter
 description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
