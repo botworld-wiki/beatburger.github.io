@@ -50,7 +50,7 @@ function formatStr(str){
 }
 function convertFromFields(){
 	var str = formatStr(document.querySelector('#input-abilities').value);
-	document.querySelector('#output-abilities').value = str;
+	document.querySelector('#output-abilities').value = str.replace('breadcrumbs: ""', 'breadcrumbs:');
 }
 document.querySelector('#convert-abilities').onclick = convertFromFields;
 
