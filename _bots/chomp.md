@@ -8,7 +8,7 @@ title: "Chomp"
 name: "Chomp"
 description: "Common Sniper - A loyal companion who loves to shoot at enemies from a distance"
 imageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
-breadcrumbs: ""
+breadcrumbs:
   Bots: "/bots"
   Sniper: "/bots#snipers"
 
