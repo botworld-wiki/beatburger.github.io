@@ -6,6 +6,8 @@ title: WikiSheets Converter
 description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
 breadcrumbs:
   Contribute: "/contribute"
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
