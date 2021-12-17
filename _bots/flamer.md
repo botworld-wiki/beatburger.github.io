@@ -17,7 +17,7 @@ botType: "Evader"
 botRarity: "Special"
 botAcquisition: "Starter Season (Tier 4)"
 botOpinion: "Let it Burn"
-
+searchKeywords: "aoe melee"
 
 ability1Name: "Flamethrower"
 ability1Info: "Hit Rate: 0.4s , Range: 5 , Energy Damage: 100%"
