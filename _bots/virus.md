@@ -15,7 +15,7 @@ botDescription: "Virus hacks into its foes, turning them against each other"
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 botType: "Brawler"
 botRarity: "Epic"
-botAcquisition: "Recruit mission The Uberbot"
+botAcquisition: "<a href="#uberbot" title="Epic jobs serie to get Virus">Uberbot</a>"
 botOpinion: "Best bot"
 
 
@@ -74,6 +74,10 @@ commonMat1: "Sparky Wire"
 commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
+
+### Uberbot
+
+You get Virus from a special Epic quest (Uberbot) that you have to send your recruits to
 
 ### Tips
 - When fighting a Megabot, place virus near the Megabot and start spamming Hypercharge on him. it will allows virus to permanent hack the megabot so your other bots will be safe from taking unnecesarry damage.
