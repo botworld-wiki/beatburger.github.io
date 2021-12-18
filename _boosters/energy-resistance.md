@@ -10,7 +10,7 @@ description: "Reduces energy damage taken by all bots by 15%"
 imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861910918463488/Screenshot_20211218-212635_Discord.jpg"
 breadcrumbs:
   Botpack: "/botpack"
-  Abilities: "/boosters"
+  Boosters: "/boosters"
 
 
 boosterName: "Energy Resistance"
