@@ -13,6 +13,25 @@ breadcrumbs:
 
 [Development Roadmap](https://www.botworld.wiki/roadmap)
 
+## Day 9
+
+- homepage logos by Dimaond
+- virus special acquisition link demo
+- auto-generated links for bot acquisition
+- new pages: [Seasons](/seasons), [Loot](/loot), [Arena](/arena)
+- search urls proper fix
+
+
+## Day 8
+
+- Quick Search scope reduced to only titles, leaving the rest for Advanced Search later on
+- Boosters WikiSheet + Converter + [page init](/boosters)
+- new menu links
+- Redirects [botworld.wiki/sct](botworld.wiki/sct) -> [https://www.botworld.wiki/supercharged-chaos-translocator](/supercharged-chaos-translocator) (embed-friendly)
+- meta robots & sitemap exclusions
+- Edits Merger poc
+- Editor Mode edits merged, cleared.
+
 ## Day 7
 
 - [art credits](/contribute#credits)
