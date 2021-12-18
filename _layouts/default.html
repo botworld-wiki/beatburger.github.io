@@ -63,9 +63,25 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!-- end custom head snippets -->
-<link rel="preconnect" href="https://fonts.gstatic.com/" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Luckiest Guy">
 
+	  
+<!-- google font async-optimized -->
+<link rel="preconnect" href="https://fonts.gstatic.com/" />
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+	  
+<!-- end google font async-optimized -->
 
    <style type="text/css">
 	.wrapper h1, .wrapper h2, .wrapper .toc-block-title *, .toc-block-entry *, nav#nav *, nav#nav a {
