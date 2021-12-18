@@ -5,9 +5,7 @@ layout: none
   {% for bot in site.bots %}
     {
       "title"    : "{{ bot.botName | escape }}",
-      "path"    : "{{ bot.path | replace:'.md', '' | remove: '_bots' }}",
-      "relative_path"    : "{{ bot.relative_path }}",
-      "url"      : "/{{ bot.botName | slugify }}"
+      "url"    : "{{ bot.path | replace:'.md', '' | remove: '_bots' }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {% for ability in site.abilities %}
