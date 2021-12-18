@@ -62,4 +62,4 @@ breadcrumbs:
 </div>
 
 
-![Image](https://cdn.discordapp.com/attachments/824812153877430315/898908202203238440/1634386739542.png)
+![Image](/assets/img/pics/beatburger.png)
