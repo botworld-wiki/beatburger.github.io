@@ -25,7 +25,7 @@ Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-ma
 	 </ul>
 </div>
 
-[!Image](https://cdn.discordapp.com/attachments/917809790284079114/921889201379758101/Screenshot_20211218-231814_Botworld.jpg)
+![Image](https://cdn.discordapp.com/attachments/917809790284079114/921889201379758101/Screenshot_20211218-231814_Botworld.jpg)
 
 
 
