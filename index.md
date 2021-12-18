@@ -287,7 +287,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Wiki
 
-- [Contribute](/contribute)): **We need help**, there's so much still to write about !
+- [Contribute](/contribute): **We need help**, there's so much still to write about !
 - [Changelog](/changelog): What's new on the wiki ?
 - [Credits](/credits): A big thank you to everyone!
 - [Roadmap](/roadmap): What's planned? Ideas for later go there.
