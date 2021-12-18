@@ -8,27 +8,6 @@ title: "Hornet"
 name: "Hornet"
 description: "Epic Evader - Relies on staying out of combat and keeping its enemies poisoned. Hornet loves to see its enemies slowly melt away"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547873377345556/hornet.png"
-
-
-botName: "Hornet"
-botDescription: "Relies on staying out of combat and keeping its enemies poisoned. Hornet loves to see its enemies slowly melt away"
-botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547873377345556/hornet.png"
-botType: "Evader"
-botRarity: "Epic"
-botAcquisition: "Solo Arena 5000 Rating"
-botOpinion: "Team Player"
-
-
----
-layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-15"
-
-
-title: "Hornet"
-name: "Hornet"
-description: "Epic Evader - Relies on staying out of combat and keeping its enemies poisoned. Hornet loves to see its enemies slowly melt away"
-imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547873377345556/hornet.png"
 breadcrumbs:
   Bots: "/bots"
   Evader: "/bots#evaders"
