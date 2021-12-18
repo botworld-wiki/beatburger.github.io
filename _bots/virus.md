@@ -15,7 +15,7 @@ botDescription: "Virus hacks into its foes, turning them against each other"
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 botType: "Brawler"
 botRarity: "Epic"
-botAcquisition: "<a href="#uberbot" title="Epic jobs serie to get Virus">Uberbot</a>"
+botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
 botOpinion: "Best bot"
 
 
