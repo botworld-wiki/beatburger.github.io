@@ -1,10 +1,10 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /botpack
-title: Botpack & modules
+title: Botpack & Modules
 description: The place to learn everything there is to know about your Botpack and its Modules!
-
+breadcrumbs:
 ---
 
 # Botpack
@@ -33,8 +33,24 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 
 </div>
 
-<div class="wiki-toc botpack">
-    <div class="toc-block">
+<style type="text/css">
+
+	.botpack .toc-block-list{
+		padding: 0px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		padding: 0 20px;
+	}
+	.botpack .toc-block-entry {
+		flex-grow: 1;
+		min-width: 50px;
+		width:  auto;
+		padding: 0 20px;
+		margin: 3px;
+	}
+</style>
+<div class="botpack">
         <ul class="toc-block-list">
             {% for ability in site.abilities %}
                 {% if ability.abilityRarity == 'Common' %}
@@ -46,10 +62,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
                     </li>
                 {% endif %}
             {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block">
-        <ul class="toc-block-list">
+
             {% for ability in site.abilities %}
                 {% if ability.abilityRarity == 'Special' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
@@ -60,10 +73,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
                     </li>
                 {% endif %}
             {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block">
-        <ul class="toc-block-list">
+
             {% for ability in site.abilities %}
                 {% if ability.abilityRarity == 'Rare' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
@@ -74,10 +84,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
                     </li>
                 {% endif %}
             {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block">
-        <ul class="toc-block-list">
+
             {% for ability in site.abilities %}
                 {% if ability.abilityRarity == 'Epic' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
