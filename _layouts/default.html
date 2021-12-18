@@ -433,8 +433,15 @@ nav.fixed {
     z-index: 100;
     height: 50px;
 }
+
 nav.fixed .menu { display: none }
 #menu-checkbox:checked + .menu { display: flex };
+	   
+/*dirty fix up until menu redone */
+   .override.fixed span {
+	    background-color: #202020;
+	}
+   /* end dirty fix */
 	   
 .discord-link {
 	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
