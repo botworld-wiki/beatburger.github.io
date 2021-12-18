@@ -21,7 +21,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{page.title}}" />
 <meta name="twitter:description" content="{{page.description}}"/>
-{% if page.imageUrl And page.imageUrl != "" And page.imageUrl != nil %}
+{% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
   <meta property="og:image" content="{{page.imageUrl}}"/>
 {% else %}
   <meta property="og:image" content="https://cdn.discordapp.com/emojis/918669937214640269.png"/>
@@ -29,7 +29,7 @@
 <script type="application/ld+json">
 {"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
 <meta name="google-site-verification" content="RhLHJEi3hAsfqwSwE-lzaF1r4TXxF_ss7Ho4z4S-lWA" />
-{% if page.robots And page.robots != "" And page.robots != nil %}
+{% if page.robots and page.robots != "" and page.robots != nil %}
   	<meta name="robots" content="{{page.robots}}"/>
 {% else %}
   	  <meta name="robots" content="index, follow">
