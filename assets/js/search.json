@@ -5,6 +5,7 @@ layout: none
   {% for bot in site.bots %}
     {
       "title"    : "{{ bot.botName | escape }}",
+      "path"    : "{{ bot.path }}",
       "url"      : "/{{ bot.botName | slugify }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
