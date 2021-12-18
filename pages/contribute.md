@@ -25,7 +25,7 @@ The project is loosely structured around the following roles. You don't have to 
 - **Data Collectors**: We have plenty of google sheets that need filling.
 - **Writers**: Write content sections, pages, guides etc. 
 - **Editors**: Have access to the Editor Mode to quicly edit Wiki pages.
-- **Artists/Designers**: Make our lovely art and/or tweak the design.
+- **Artists**: Make our lovely art.
 - **Maintainers**: Can create new bots, abilities, pages etc, and update from WikiSheets.
 - **Developper**: Build the Wiki. New features for our users & workflows for our contributors.
 
