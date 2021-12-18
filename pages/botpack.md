@@ -11,9 +11,9 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-That's the stuff you use to cast stuff or have things
+Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](/bots), cast powerful abilities, equip useful boosters and use fun gadgets.
 
-Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
+Unlock all your module slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
 
 </div>
 
@@ -25,7 +25,7 @@ Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-ma
 	 </ul>
 </div>
 
-![Image](https://cdn.discordapp.com/attachments/917809790284079114/921889201379758101/Screenshot_20211218-231814_Botworld.jpg)
+![Image](/assets/img/banners/botpack.png)
 
 
 
@@ -33,13 +33,12 @@ Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-ma
 
 <div markdown="1" class=" ghcms ghcms-abilities">
 
-The stuff you cast, ya know ?
+How well you use your Abilities will make or break difficult fights. Try and have a tool for most tricky situations you can get yourself into!
 
-**Power generation rate**: ??
+- **Power generation rate**:  [missing data](/contribute#tbw)
+- **Damaging abilities scale** with your botpack level: [missing data](/contribute#tbw)
 
-Dmg scaling over lvl ?
-
-Detailled list: [Abilities](https://www.botworld.wiki/abilities)
+Find a detailled table with [all the info about every Ability](/abilities)
 
 </div>
 
@@ -129,11 +128,11 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 
 <div markdown="1" class=" ghcms ghcms-boosters">
 
-The things you equip to do some other stuff better
+Having the right Boosters will round up your playstyle and your comp.
 
-Some stack, some don't
+-**Stacking**: multiplicative != additive [To Be Written](/contribute#tbw)
 
-Detailled list: [Boosters](https://www.botworld.wiki/boosters)
+Find a detailled table with [all the info about every Booster](/boosters)
 
 
 </div>
