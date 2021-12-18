@@ -15,7 +15,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554557
 botType: "Tank"
 botRarity: "Common"
 botRarityNumber: "4"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Meatbag"
 
 ability1Name: "Headbutt"
