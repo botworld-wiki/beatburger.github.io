@@ -118,7 +118,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block toc-block-big" id="home_Botmaster">
-        <a class="toc-block-title" href="#botmaster" title="Everything about becoming a great Botmaster">
+        <a class="toc-block-title" href="#botmasters" title="Everything about becoming a great Botmaster">
             <img src="/assets/img/logos/botpack.png" alt="Botmaster articles logo">
             <h2 id="Botmasters">Botmasters</h2>
         </a>
@@ -144,7 +144,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Recruits</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/#botmaster">
+                <a href="https://www.botworld.wiki/#botmasters">
                 <span>More...</span></a>
             </li>
         </ul>
@@ -223,15 +223,15 @@ Check out [Starter Bots](</starter-bots>) if you want, for example, but rest ass
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
-Alternatively, have a look at [all the new bots you’ll encounter soon](<https://www.botworld.wiki/bots>) or go and read [Getting Started](<https://www.botworld.wiki/guides/getting-started>). <span class="menu-link-target" id="all"></span>
-
-<span class="menu-link-target" id="botmaster"></span>
+Alternatively, have a look at [all the new bots you’ll encounter soon](<https://www.botworld.wiki/bots>) or go and read [Getting Started](<https://www.botworld.wiki/guides/getting-started>). 
 
 </div>
+<span class="menu-link-target" id="all"></span>
 
-## Tips & Guides
+<div markdown="1" class="grid">
+    <div markdown="1" class="grid-box">
 
-### Botmasters
+## Botmasters
 
 <div markdown="1" class=" ghcms ghcms-botmasters">
 
@@ -246,10 +246,12 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 - ...
 
 </div>
-<span class="menu-link-target" id="universe"></span>
 
+    </div>
 
-### Botworld
+    <div markdown="1" class="grid-box">
+
+## Botworld
 
 <div markdown="1" class=" ghcms ghcms-botworld">
 
@@ -268,11 +270,14 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 - [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
     - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
 - ...
-<span class="menu-link-target" id="guides"></span>
 
 </div>
 
-### Guides
+    </div>
+
+    <div markdown="1" class="grid-box">
+    
+## Guides
 
 <div markdown="1" class=" ghcms ghcms-guides">
 
@@ -284,9 +289,17 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 </div>
 
-### Project pages
+    </div>
+
+</div>
+
+
+    <div markdown="1" class="grid-box">
+    
+### Wiki
 
 - [Contribute](https://www.botworld.wiki/contribute)
 - [Changelog](https://www.botworld.wiki/changelog)
 - [Roadmap](https://www.botworld.wiki/roadmap)
 - [WikiSheets Converter](https://www.botworld.wiki/converter)
+
