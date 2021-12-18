@@ -31,9 +31,26 @@ Dmg scaling over lvl ?
 
 Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 
-And/or short list here ?
-
 </div>
+
+<div id="site_toc">
+    <div class="toc-block">
+        <ul class="toc-block-list">
+            {% for ability in site.abilities %}
+                {% if ability.abilityRarity == 'Common' %}
+                    <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
+                        <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
+                            <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                            <span>{{ ability.botName }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+
 
 
 ## Boosters
