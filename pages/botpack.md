@@ -40,7 +40,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 		display: flex;
 		flex-wrap: wrap;
 		flex-direction: row;
-		padding: 0 20px;
+		padding: 0 40px 0 0px;
 	}
 	.botpack .toc-block-entry {
 		flex-grow: 1;
@@ -49,6 +49,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 		padding: 0 20px;
 		margin: 3px;
 	}
+	.botpack .toc-block-entry img {margin-right: 10px;}
 </style>
 <div class="botpack">
         <ul class="toc-block-list">
@@ -96,7 +97,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
                 {% endif %}
             {% endfor %}
         </ul>
-    </div>
+
 </div>
 
 
@@ -113,10 +114,57 @@ Some stack, some don't
 
 Detailled list: [Boosters](https://www.botworld.wiki/boosters)
 
-And/or short list here ?
 
 </div>
 
+<div class="botpack">
+        <ul class="toc-block-list">
+            {% for booster in site.boosters %}
+                {% if booster.boosterRarity == 'Common' %}
+                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
+                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
+                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <span>{{ booster.boosterName }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            {% for booster in site.boosters %}
+                {% if booster.boosterRarity == 'Special' %}
+                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
+                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
+                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <span>{{ booster.boosterName }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            {% for booster in site.boosters %}
+                {% if booster.boosterRarity == 'Rare' %}
+                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
+                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
+                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <span>{{ booster.boosterName }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            {% for booster in site.boosters %}
+                {% if booster.boosterRarity == 'Epic' %}
+                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
+                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
+                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <span>{{ booster.boosterName }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+
+</div>
 
 ## Gadgets
 
