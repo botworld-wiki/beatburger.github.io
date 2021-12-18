@@ -5,7 +5,8 @@ permalink: /loot
 title: Loot, locations & droprates
 description: The place to learn everything there is to know about loot in Botworld Adventure!
 breadcrumbs:
-  - Mechanics: "/contribute#tbw"
+  Mechanics: "/contribute#tbw"
+  
 ---
 
 # Loot, locations & droprates
@@ -13,7 +14,9 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
+## Loot piles, zoning, etc.
 
+[To be written](/contribute#tbw)
 
 </div>
 
@@ -29,3 +32,11 @@ The rest is from random drops.
 
 </div>
 
+
+<div markdown="1" class=" ghcms ghcms-droprates">
+
+## Droprates
+
+[To be written](/contribute#tbw)
+
+</div>
