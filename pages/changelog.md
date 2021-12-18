@@ -20,6 +20,7 @@ breadcrumbs:
 - auto-generated links for bot acquisition
 - new pages: [Seasons](/seasons), [Loot](/loot), [Arena](/arena)
 - search urls proper fix
+- homepage lists grid layout
 
 
 ## Day 8
