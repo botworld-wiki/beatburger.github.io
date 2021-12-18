@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /credits
-title: Contribute
+title: Credits
 description: Endless thanks to everyone, you've all done a fantastic job!
 breadcrumbs:
   Contribute: /contribute
