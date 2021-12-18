@@ -230,7 +230,8 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 
 <div class="grid">
-    <div markdown="1" class="grid-box ghcms ghcms-botmasters">
+    
+<div markdown="1" class="grid-box ghcms ghcms-botmasters">
 
 ## Botmasters
 
@@ -244,11 +245,11 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
     - [Jobs](/contribute#tbw): advice, mechanics, listing
 - ...
 
-    </div>
+</div>
 
 
 
-    <div markdown="1" class="grid-box ghcms ghcms-botworld">
+<div markdown="1" class="grid-box ghcms ghcms-botworld">
 
 ## Botworld
 
@@ -268,9 +269,9 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
     - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
 - ...
 
-    </div>
+</div>
 
-    <div markdown="1" class="grid-box ghcms ghcms-guides">
+<div markdown="1" class="grid-box ghcms ghcms-guides">
 
 ## Guides
 
@@ -280,15 +281,6 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 - [Arena Crown](/contribute#tbw):
 - ...
 
-    </div>
-
 </div>
 
-
-### Wiki
-
-- [Contribute](https://www.botworld.wiki/contribute)
-- [Changelog](https://www.botworld.wiki/changelog)
-- [Roadmap](https://www.botworld.wiki/roadmap)
-- [WikiSheets Converter](https://www.botworld.wiki/converter)
-
+</div>
