@@ -228,12 +228,11 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 </div>
 <span class="menu-link-target" id="all"></span>
 
-<div markdown="1" class="grid">
-    <div markdown="1" class="grid-box">
+
+<div class="grid">
+    <div markdown="1" class="grid-box ghcms ghcms-botmasters">
 
 ## Botmasters
-
-<div markdown="1" class=" ghcms ghcms-botmasters">
 
 - [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
     - [Starter Bots](/starter-bots)
@@ -245,15 +244,13 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
     - [Jobs](/contribute#tbw): advice, mechanics, listing
 - ...
 
-</div>
-
     </div>
 
-    <div markdown="1" class="grid-box">
+
+
+    <div markdown="1" class="grid-box ghcms ghcms-botworld">
 
 ## Botworld
-
-<div markdown="1" class=" ghcms ghcms-botworld">
 
 - Exploration & DZ Tips: Critters, Mega, bosses, DZs tips...
     - [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
@@ -271,15 +268,11 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
     - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
 - ...
 
-</div>
-
     </div>
 
-    <div markdown="1" class="grid-box">
-    
-## Guides
+    <div markdown="1" class="grid-box ghcms ghcms-guides">
 
-<div markdown="1" class=" ghcms ghcms-guides">
+## Guides
 
 - [Getting Started](https://www.botworld.wiki/guides/getting-started): 
 - [Grouper Comp](/contribute#tbw):
@@ -287,15 +280,11 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 - [Arena Crown](/contribute#tbw):
 - ...
 
-</div>
-
     </div>
 
 </div>
 
 
-    <div markdown="1" class="grid-box">
-    
 ### Wiki
 
 - [Contribute](https://www.botworld.wiki/contribute)
