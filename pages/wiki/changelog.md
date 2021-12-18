@@ -21,6 +21,7 @@ breadcrumbs:
 - new pages: [Seasons](/seasons), [Loot](/loot), [Arena](/arena)
 - search urls proper fix
 - homepage lists grid layout
+- new contribute/credits page
 
 
 ## Day 8
