@@ -285,7 +285,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     
 <div markdown="1" class="grid-box ghcms ghcms-wiki">
 
-## Wiki
+## Community Wiki
 
 - [Contribute](/contribute): **We need help**, there's so much still to write about !
 - [Changelog](/changelog): What's new on the wiki ?
