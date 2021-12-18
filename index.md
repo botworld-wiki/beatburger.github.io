@@ -249,7 +249,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 
 
-<div markdown="1" class="grid-box ghcms ghcms-botworld">
+<div markdown="1" class="grid-box tall ghcms ghcms-botworld">
 
 ## Botworld
 
