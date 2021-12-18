@@ -15,10 +15,10 @@ breadcrumbs:
 
 <div markdown="1" class="ghcms ghcms-contributors">
 
-**Lekoi, Soft**: half of our data & knowledge comes from their previous works!
 
 ### Data Collectors
 
+- Lekoi & Soft: half of our data & knowledge comes from their previous works!
 - Groovy
 - ChaelBlaze
 - …add your name here…
