@@ -7,7 +7,7 @@ updatedAt: "2021-12-17"
 title: "Power Start (Rare)"
 name: "Power Start"
 description: "Gives 3 botpack power at the beginning of a battle"
-imageUrl: ""
+imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861834087202826/Screenshot_20211218-212736_Discord.jpg"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Power Start"
 boosterDescription: "Gives 3 botpack power at the beginning of a battle"
-boosterImageUrl: ""
+boosterImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861834087202826/Screenshot_20211218-212736_Discord.jpg"
 boosterStacks: "Additive"
 boosterRarity: "Rare"
 boosterAcquisition: ""
