@@ -21,6 +21,10 @@ layout: breadcrumbs
 	.cardinfos * {
 		font-weight: 1000;
 	}
+	
+	.cardinfos table {
+		overflow-x: hidden;
+	}
 </style>
 
 <div class="bot-infos">
@@ -45,7 +49,7 @@ layout: breadcrumbs
 				  </thead>
 				  <tbody>
 				    <tr>
-				      <td>{{page.botType}}</td>
+				      <td><a href="/bots#{{page.botType | slugify}}" title="Every {{page.botType}} bot">{{page.botType}}</a></td>
 				      <td>{{page.botRarity}}</td>
 				      <td>{{page.botAcquisition}}</td>
 				    </tr>
