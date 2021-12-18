@@ -13,14 +13,21 @@ breadcrumbs:
 
 That's the stuff you use to cast stuff or have things
 
-- [Abilities](#abilities)  ([detailled version](/abilities))
-- [Boosters](#boosters) ([detailled version](/boosters))
-- [Gadgets](#gadgets)
-
-
 Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
 
 </div>
+
+<div class="botpack">
+	<ul class="toc-block-list links">
+	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#boosters">Boosters</a></li>
+	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#abilities">Abilities</a></li>
+	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#gadgets">Gadgets</a></li>
+	 </ul>
+</div>
+
+[!Image](https://cdn.discordapp.com/attachments/917809790284079114/921889201379758101/Screenshot_20211218-231814_Botworld.jpg)
+
+
 
 ## Abilities
 
@@ -54,7 +61,16 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 		margin: 3px;
 	}
 	.botpack .toc-block-entry img {margin-right: 10px;}
+
+	.toc-block-list.links { padding: 0px; }
+	.toc-block-list.links .toc-block-entry{
+		margin: 0 auto;
+		flex-grow: 0;
+		padding: 0 10px;
+	}
 </style>
+
+
 <div class="botpack">
         <ul class="toc-block-list">
 
