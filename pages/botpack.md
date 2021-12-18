@@ -13,7 +13,10 @@ breadcrumbs:
 
 That's the stuff you use to cast stuff or have things
 
-( Here's a nice pic btw )
+- [Abilities](#abilities)  ([detailled version](/abilities))
+- [Boosters](#boosters) ([detailled version](/boosters))
+- [Gadgets](#gadgets)
+
 
 Unlock slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
 
@@ -171,11 +174,27 @@ Detailled list: [Boosters](https://www.botworld.wiki/boosters)
 
 <div markdown="1" class=" ghcms ghcms-gadgets">
 
-Things Hack builds that do stuff
+Incorrect Data. Please share the right info [Contribute](/contribute#tbw)
 
-You unlock them with your Boat lvl
-
-Detailled list: [Gadgets](https://www.botworld.wiki/gadgets)
-
+- **Extra dmg**:
+	- *Activate when a combat starts for +50% bot dmg* 
+	- 4/5 charges
+	- boat lvl req: 3/7
+- **Extra power**:
+	- *Activate when a combat starts for +30% botpack power* 
+	- 4/5 charges
+	- boat lvl req: 4/9
+- **Extra speed**:
+	-
+- **Invisibility**:
+	- Activate when out of combat to turn invisible
+	- 1 charge
+	- boat lvl req: 9
+- **Shockwave generator**:
+	- Activate when out of combat to push back mobs
+	- 5 charge
+	- boat lvl req: 11
+- **Disruptor**:
+- **Mines**:
 </div>
 
