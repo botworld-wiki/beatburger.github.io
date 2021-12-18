@@ -240,7 +240,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Botpack](/botpack): botpack presentation (& concise module lists for easy access from the menu) 
     - [Abilities]/abilities): abilities detailed list
     - [Boosters](/boosters): booster detailed list
-    - [Gadgets](/gadgets): gadget list
+    - [Gadgets](/botpack#gadgets): gadgets list
 - [Recruits](/contribute#tbw): why you need to show them some love in general
     - [Jobs](/contribute#tbw): advice, mechanics, listing
 - ...
