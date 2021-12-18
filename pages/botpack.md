@@ -48,6 +48,7 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 	.botpack .toc-block-entry {
 		flex-grow: 1;
 		min-width: 50px;
+		max-width: 300px
 		width:  auto;
 		padding: 0 20px;
 		margin: 3px;
@@ -56,15 +57,16 @@ Detailled list: [Abilities](https://www.botworld.wiki/abilities)
 </style>
 <div class="botpack">
         <ul class="toc-block-list">
-            {% for ability in site.abilities %}
-                {% if ability.abilityRarity == 'Common' %}
+            {% assign abilities_by_rarity = site.abilities | sort: "abilityRarity" %}
+		{% for ability in abilities_by_rarity %}
+
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                         <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
                             <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
                             <span>{{ ability.abilityName }}</span>
                         </a>
                     </li>
-                {% endif %}
+
             {% endfor %}
 
             {% for ability in site.abilities %}
