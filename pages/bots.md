@@ -66,7 +66,7 @@ Tanks soak up damage and protect weaker bots --- Best placed up front
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-		      <td>{{bot.botOpinion}}</td>
+		      <td class="overview">{{bot.botOpinion}}</td>
 		    </tr>
 		{% endif %}
     {% endfor %}
@@ -114,7 +114,7 @@ Splashers damage multiple bots that are close together --- best placed at the ba
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
@@ -162,7 +162,7 @@ Snipers do a lot of damage from a distance --- protect this bot as much as possi
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
@@ -210,7 +210,7 @@ Chasers are fast melee bots that are good at getting close to ranged enemies ---
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
@@ -258,7 +258,7 @@ Evaders are fast bots that are good at staying away from melee enemies --- distr
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
@@ -306,7 +306,7 @@ Brawlers are good at fighting other melee bots --- 1v1 is their specialty
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
@@ -354,7 +354,7 @@ Supports make your other bots more effective --- best placed beside tanks
 			{% else %}
 				<td>{{bot.botAcquisition}}</td>
 			{% endif %}
-          <td>{{bot.botOpinion}}</td>
+          <td class="overview">{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
     {% endfor %}
