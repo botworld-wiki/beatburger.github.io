@@ -33,23 +33,22 @@ Basically, I want to focus on building the project & team first, the website sec
 ### Major tech fixes
 
 - Search design
+- #links (home!)
 
 ### Important Content Pages / Features
 
-- Editor Mode edits merge process (converter ?)
 - rarity sorted
-- 
+
 
 ### Minor tech fixes
 
+- Editor Mode edits merge process (converter ?)
 - minified menu glitch at the top of the page
 - distorded BB logo
 - images compression
 - alt/titles
-- as edits cool down, and virus grow, remove the cache breaker on edits.json
--  embed discord widget on the sidebar
 -  extract inline css & js
--  remove cache buster
+-  json cache busters
 -  Search -> dispatcher.js
 
 ### Secondary content & features ideas
@@ -57,7 +56,6 @@ Basically, I want to focus on building the project & team first, the website sec
 - advanced search
 - inter-linking
 - materials collection 
-- redirects: /sct -> /supercharged-chaos-translocator etc
 - sortable lists
 - dedicated favicon
 - dynamic maps
