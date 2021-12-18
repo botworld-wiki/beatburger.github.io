@@ -1,24 +1,24 @@
 ---
 layout: ability
+contributors: "Pix"
+updatedAt: "2020-12-12"
+
+
 title: "Gust"
 name: "Gust"
 description: "3P - Pushes enemy bots in a specific direction"
-imageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/871657070695424010/Screenshot_2021-08-02-14-54-47-972_com.f1player.jpg"
+imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861912021573693/Screenshot_20211218-212459_Discord.jpg"
+breadcrumbs:
+  Botpack: "/botpack"
+  Abilities: "/abilities"
+
 
 abilityName: "Gust"
 abilityDescription: "Pushes enemy bots in a specific direction"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/871657070695424010/Screenshot_2021-08-02-14-54-47-972_com.f1player.jpg"
-
+abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861912021573693/Screenshot_20211218-212459_Discord.jpg"
 abilityCost: "3"
 abilityRarity: "Special"
-abilityOpinion: "A must-have."
-
+abilityAcquisition: ""
+abilityOpinion: "A must-have"
+searchKeywords: "cc, placement, mobility, aoe"
 ---
-
-## Tips
-
-- Heavy synergies with Splasher etc.
-
-### Pix
-
-- One of the best ability out there !
