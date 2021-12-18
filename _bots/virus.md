@@ -1,13 +1,16 @@
 ---
 layout: bot
 contributors: "Kurt"
-updatedAt: "2021-12-15"
+updatedAt: "2021-12-16"
 
 
 title: "Virus"
 name: "Virus"
 description: "Epic Brawler"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
+breadcrumbs:
+  Bots: "/bots"
+  Brawler: "/bots#brawlers"
 
 
 botName: "Virus"
@@ -17,6 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
 botOpinion: "Best bot"
+searchKeywords: ""
 
 
 ability1Name: "Whack"
