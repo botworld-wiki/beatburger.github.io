@@ -24,7 +24,7 @@
 {% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
   <meta property="og:image" content="{{page.imageUrl}}"/>
 {% else %}
-  <meta property="og:image" content="https://cdn.discordapp.com/emojis/918669937214640269.png"/>
+  <meta property="og:image" content="https://www.botworld.wiki/assets/img/icons/cog.png"/>
 {% endif %}
 <script type="application/ld+json">
 {"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
@@ -76,7 +76,7 @@
 	section h2 {
 		background-repeat: no-repeat;
 	    background-size: 100% 100% !important;
-	    background: url(https://cdn.discordapp.com/attachments/918419557792776202/921139136134541312/undertitle3.png);	
+	    background: url(https://www.botworld.wiki/assets/img/bg/title-bg.png);	
 	    margin-top: 10px;
 	    margin-bottom: 0px;
 	    padding-bottom: 15px;	
@@ -88,7 +88,7 @@
 	    */
 	    margin-top: 0px;
 	    margin-bottom: 0px;
-	    background: url(https://cdn.discordapp.com/attachments/918419557792776202/921139136381984768/sidep2.png);	
+	    background: url(https://www.botworld.wiki/assets/img/bg/text-bg.png);	
 		background-repeat: no-repeat;
 	    background-position: right;
 	    padding: 0px 10px 20px 5px;
@@ -119,7 +119,7 @@
        background-color: #202020;
      }
      body {
-        background: url('https://cdn.discordapp.com/attachments/918419557792776202/918683916867629066/BotpediaBackgroundAlt2.png') no-repeat center center fixed ; 
+        background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed ; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -219,7 +219,7 @@
       		.toc-block {
 			background-repeat: no-repeat;
 	    background-size: 100% 100% !important;
-	    background: url(https://cdn.discordapp.com/attachments/918419557792776202/920733766484381776/test0.png);			
+	    background: url(https://www.botworld.wiki/assets/img/bg/block-bg.png);			
 	    border:  0px !important;
 	    max-width: 250px !important;
 	    /*max-width: 350px !important;*/
@@ -362,7 +362,7 @@
 
 /* header, menu, banner */
 #banner {
-	background-image: url('https://cdn.discordapp.com/attachments/918419557792776202/921218158877110322/crop.png') ;
+	background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') ;
   background-repeat:   no-repeat;
   background-position: top center;              
   height: 350px;
@@ -411,7 +411,7 @@ nav img {
 	}
 .mini-menu .wiki-title { margin: 0 auto; }
 .mini-menu .tab-label {    
-	background-image: url(https://cdn.discordapp.com/attachments/917809790284079114/920075280364744734/1639433429467.png);
+	background-image: url(https://www.botworld.wiki/assets/img/icons/hamburger-icon.png);
 	background-position: center;
 	background-size: cover;
 	width: 50px;
@@ -435,7 +435,7 @@ nav.fixed .menu { display: none }
 #menu-checkbox:checked + .menu { display: flex };
 	   
 .discord-link {
-	background: url(https://cdn.discordapp.com/attachments/918419557792776202/921199741331726336/1639701519624.png);
+	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
 	background-size: cover;	
 	background-repeat: no-repeat;
 	height: 25px;
@@ -443,7 +443,7 @@ nav.fixed .menu { display: none }
 }
 	   
 span.wtf-discord {
-	background: url(https://cdn.discordapp.com/attachments/918419557792776202/921199741331726336/1639701519624.png);
+	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
 	background-size: cover;	
 	background-repeat: no-repeat;
 	height: 25px;
@@ -509,7 +509,7 @@ span.wtf-discord {
     	<div id="title-container">
 				<div>
 					<a href="{{ site.url }}{{ site.baseurl }}" class="over_banner" title="Home Page of the Botworld Wiki">
-						<img src="https://cdn.discordapp.com/emojis/918669937214640269.png" alt="Botworld Wiki logo">
+						<img src="https://www.botworld.wiki/assets/img/icons/cog.png" alt="Botworld Wiki logo">
 						{% if page.url == "/" %}
 							<h1 class="wiki-title"> {{site.title}} </h1>
 						{% else %}
@@ -522,7 +522,7 @@ span.wtf-discord {
 		 	<nav id="nav" class="override">
 		 		<div class="mini-menu">
 					<a href="{{ site.url }}{{ site.baseurl }}" title="Home Page of the Botworld Wiki">
-			 			<img src="https://cdn.discordapp.com/emojis/918669937214640269.png" alt="Botworld Wiki logo">
+			 			<img src="https://www.botworld.wiki/assets/img/icons/cog.png" alt="Botworld Wiki logo">
 					</a>
 					<span class="wiki-title">
 						<a href="{{ site.url }}{{ site.baseurl }}" title="Home Page of the Botworld Wiki"> {{site.title}} </a>
