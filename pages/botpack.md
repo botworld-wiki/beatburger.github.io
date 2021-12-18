@@ -25,7 +25,7 @@ Unlock all your module slots by defeating the [Arena Masters](https://www.botwor
 	 </ul>
 </div>
 
-![Image](/assets/img/banners/botpack.png)
+<img src="/assets/img/banners/botpack.png" alt="Botpack Modules" style="width: 100%">
 
 
 
@@ -41,34 +41,6 @@ How well you use your Abilities will make or break difficult fights. Try and hav
 Find a detailled table with [all the info about every Ability](/abilities)
 
 </div>
-
-<style type="text/css">
-
-	.botpack .toc-block-list{
-		padding: 0px;
-		display: flex;
-		flex-wrap: wrap;
-		flex-direction: row;
-		padding: 0 40px 0 0px;
-	}
-	.botpack .toc-block-entry {
-		flex-grow: 1;
-		min-width: 50px;
-		max-width: 300px;
-		width:  auto;
-		padding: 0 20px;
-		margin: 3px;
-	}
-	.botpack .toc-block-entry img {margin-right: 10px;}
-
-	.toc-block-list.links { padding: 0px; }
-	.toc-block-list.links .toc-block-entry{
-		margin: 0 auto;
-		flex-grow: 0;
-		padding: 0 10px;
-	}
-</style>
-
 
 <div class="botpack">
         <ul class="toc-block-list">
