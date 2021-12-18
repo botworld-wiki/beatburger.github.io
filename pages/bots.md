@@ -55,7 +55,15 @@ Tanks soak up damage and protect weaker bots --- Best placed up front
 		      <td>
 			      <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
 		      </td>
-		      <td>{{bot.botAcquisition}}</td>
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
 		      <td>{{bot.botOpinion}}</td>
 		    </tr>
 		{% endif %}
@@ -93,7 +101,16 @@ Splashers damage multiple bots that are close together --- best placed at the ba
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
@@ -131,7 +148,16 @@ Snipers do a lot of damage from a distance --- protect this bot as much as possi
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
@@ -169,7 +195,16 @@ Chasers are fast melee bots that are good at getting close to ranged enemies ---
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
@@ -207,7 +242,16 @@ Evaders are fast bots that are good at staying away from melee enemies --- distr
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
@@ -245,7 +289,16 @@ Brawlers are good at fighting other melee bots --- 1v1 is their specialty
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
@@ -283,7 +336,16 @@ Supports make your other bots more effective --- best placed beside tanks
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-          <td>{{bot.botAcquisition}}</td>
+
+			{% if page.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
+			{% elsif page.botAcquisition contains "season" or page.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{page.botAcquisition}}</td>
+			{% endif %}
           <td>{{bot.botOpinion}}</td>
         </tr>
     {% endif %}
