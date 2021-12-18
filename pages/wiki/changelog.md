@@ -22,6 +22,7 @@ breadcrumbs:
 - search urls proper fix
 - homepage lists grid layout
 - new contribute/credits page
+- resized, compressed img assets hosted locally
 
 
 ## Day 8
