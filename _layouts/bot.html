@@ -70,12 +70,14 @@ layout: breadcrumbs
 			    <p><h3>{{page.ability1Name}}</h3><code class="language-plaintext highlighter-rouge">{{page.ability1Info}}</code></p>
 			    <p>{{page.ability1Description}}</p>
 			  </li>
-			  <li>
-			    <p><h3>{{page.ability2Name}}</h3><code class="language-plaintext highlighter-rouge">{{page.ability2Info}}</code></p>
-			    <p>{{page.ability2Description}}</p>
-			  </li>
+			  {% if page.ability2Name And page.ability2Name != "" And page.ability2Name != nil %}
+				<li>
+					<p><h3>{{page.ability2Name}}</h3><code class="language-plaintext highlighter-rouge">{{page.ability2Info}}</code></p>
+					<p>{{page.ability2Description}}</p>
+				</li>
+			{% endif %}
 		  	  <li>
-			    <p><h3>{{page.ability3Name}}</h3><code class="language-plaintext highlighter-rouge">{{page.ability3Info}}</code></p>
+			    <p><h3>{{page.ability3Name}}</h3> (ultimate) <code class="language-plaintext highlighter-rouge">{{page.ability3Info}}</code></p>
 			    <p>{{page.ability3Description}}</p>
 			  </li>
 			</ul>
