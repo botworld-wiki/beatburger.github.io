@@ -6,6 +6,7 @@ layout: none
     {
       "title"    : "{{ bot.botName | escape }}",
       "path"    : "{{ bot.path }}",
+      "permalink"    : "{{ bot.permalink }}",
       "url"      : "/{{ bot.botName | slugify }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
