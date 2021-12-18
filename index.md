@@ -13,7 +13,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 <div id="site_toc">
 
     <div class="toc-block" id="home_Tanks">
-        <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
+        <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img src="/assets/img/logos/tanks.png" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Tank' %}
@@ -28,7 +28,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Brawlers">
-        <a class="toc-block-title" href="/bots#brawlers" title="All the Brawlers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Brawler bots logo"><h2 id="Brawlers">Brawlers</h2></a>
+        <a class="toc-block-title" href="/bots#brawlers" title="All the Brawlers bots in our Robopedia"><img src="/assets/img/logos/brawlers.png" title="Brawler bots logo"><h2 id="Brawlers">Brawlers</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Brawler' %}
@@ -43,7 +43,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Chasers">
-        <a class="toc-block-title" href="/bots#chasers" title="All the Chasers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Chaser bots logo"><h2 id="Chasers">Chasers</h2></a>
+        <a class="toc-block-title" href="/bots#chasers" title="All the Chasers bots in our Robopedia"><img src="/assets/img/logos/chasers.png" title="Chaser bots logo"><h2 id="Chasers">Chasers</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Chaser' %}
@@ -58,7 +58,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Splashers">
-        <a class="toc-block-title" href="/bots#splashers" title="All the Splashers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Splasher bots logo"><h2 id="Splashers">Splashers</h2></a>
+        <a class="toc-block-title" href="/bots#splashers" title="All the Splashers bots in our Robopedia"><img src="/assets/img/logos/splashers.png" title="Splasher bots logo"><h2 id="Splashers">Splashers</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Splasher' %}
@@ -73,7 +73,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Snipers">
-        <a class="toc-block-title" href="/bots#snipers" title="All the Snipers bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Sniper bots logo"><h2 id="Snipers">Snipers</h2></a>
+        <a class="toc-block-title" href="/bots#snipers" title="All the Snipers bots in our Robopedia"><img src="/assets/img/logos/snipers.png" title="Sniper bots logo"><h2 id="Snipers">Snipers</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Sniper' %}
@@ -88,7 +88,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Evaders">
-        <a class="toc-block-title" href="/bots#evaders" title="All the Evaders bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Evader bots logo"><h2 id="Evaders">Evaders</h2></a>
+        <a class="toc-block-title" href="/bots#evaders" title="All the Evaders bots in our Robopedia"><img src="/assets/img/logos/evaders.png" title="Evader bots logo"><h2 id="Evaders">Evaders</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Evader' %}
@@ -103,7 +103,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </ul>
     </div>
     <div class="toc-block" id="home_Supports">
-        <a class="toc-block-title" href="/bots#supports" title="All the Supports bots in our Robopedia"><img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" title="Support bots logo"><h2 id="Supports">Supports</h2></a>
+        <a class="toc-block-title" href="/bots#supports" title="All the Supports bots in our Robopedia"><img src="/assets/img/logos/supports.png" title="Support bots logo"><h2 id="Supports">Supports</h2></a>
         <ul class="toc-block-list">
             {% for bot in site.bots %}
                 {% if bot.botType == 'Support' %}
@@ -119,7 +119,7 @@ description: All the best the Botworld Adventure community has to offer to help 
     </div>
     <div class="toc-block toc-block-big" id="home_Botmaster">
         <a class="toc-block-title" href="#botmaster" title="Everything about becoming a great Botmaster">
-            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Botmaster articles logo">
+            <img src="/assets/img/logos/botpack.png" alt="Botmaster articles logo">
             <h2 id="Botmasters">Botmasters</h2>
         </a>
         <ul class="toc-block-list">
@@ -151,7 +151,7 @@ description: All the best the Botworld Adventure community has to offer to help 
     </div>
     <div class="toc-block toc-block-big" id="home_Botworld">
         <a class="toc-block-title" href="#botworld" title="Everything about the Botworld universe">
-            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Botworld articles logo">
+            <img src="/assets/img/logos/boat.png" alt="Botworld articles logo">
             <h2 id="Botworld">Botworld</h2>
         </a>
         <ul class="toc-block-list">
@@ -183,7 +183,7 @@ description: All the best the Botworld Adventure community has to offer to help 
     </div>
     <div class="toc-block toc-block-big" id="home_Guide">
         <a class="toc-block-title" href="#guides" title="Every guide we have here">
-            <img src="https://cdn.discordapp.com/attachments/918419557792776202/920689577503653908/type.png" alt="Guides articles logo">
+            <img src="/assets/img/logos/list.png" alt="Guides articles logo">
             <h2 id="Guides">Guides</h2>
         </a>
         <ul class="toc-block-list">
