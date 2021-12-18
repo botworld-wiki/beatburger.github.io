@@ -124,19 +124,19 @@ description: All the best the Botworld Adventure community has to offer to help 
         </a>
         <ul class="toc-block-list">
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/bots">
+                <a href="/bots">
                 <span>Bots</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/botpack">
+                <a href="/botpack">
                 <span>Botpack</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/abilities">
+                <a href="/abilities">
                 <span>Abilities</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/boosters">
+                <a href="/boosters">
                 <span>Boosters</span></a>
             </li>
             <li class="toc-block-entry">
@@ -144,7 +144,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Recruits</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/#botmasters">
+                <a href="/#botmasters">
                 <span>More...</span></a>
             </li>
         </ul>
@@ -160,7 +160,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Exploration & DZ Tips</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/maps">
+                <a href="/maps">
                 <span>Maps</span></a>
             </li>
             <li class="toc-block-entry">
@@ -168,7 +168,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Business Boat upgrades</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/arena-masters">
+                <a href="/arena-masters">
                 <span>Arena Masters</span></a>
             </li>
             <li class="toc-block-entry">
@@ -176,7 +176,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Boat Materials</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/#botworld">
+                <a href="/#botworld">
                 <span>More...</span></a>
             </li>
         </ul>
@@ -188,7 +188,7 @@ description: All the best the Botworld Adventure community has to offer to help 
         </a>
         <ul class="toc-block-list">
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/getting-started">
+                <a href="/getting-started">
                 <span>Getting Started</span></a>
             </li>
             <li class="toc-block-entry">
@@ -204,7 +204,7 @@ description: All the best the Botworld Adventure community has to offer to help 
                 <span>Arena Crown</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="https://www.botworld.wiki/#guides">
+                <a href="/#guides">
                 <span>More...</span></a>
             </li>
         </ul>
@@ -223,7 +223,7 @@ Check out [Starter Bots](</starter-bots>) if you want, for example, but rest ass
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
-Alternatively, have a look at [all the new bots you’ll encounter soon](<https://www.botworld.wiki/bots>) or go and read [Getting Started](<https://www.botworld.wiki/guides/getting-started>). 
+Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/guides/getting-started). 
 
 </div>
 <span class="menu-link-target" id="all"></span>
@@ -235,12 +235,12 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 ## Botmasters
 
-- [Bots](https://www.botworld.wiki/bots): bots detailed list & types/roles presentation
+- [Bots](/bots): bots detailed list & types/roles presentation
     - [Starter Bots](/starter-bots)
-- [Botpack](https://www.botworld.wiki/botpack): botpack presentation (& concise module lists for easy access from the menu) 
-    - [Abilities](https://www.botworld.wiki/abilities): abilities detailed list
-    - [Boosters](https://www.botworld.wiki/boosters): booster detailed list
-    - [Gadgets](https://www.botworld.wiki/gadgets): gadget list
+- [Botpack](/botpack): botpack presentation (& concise module lists for easy access from the menu) 
+    - [Abilities]/abilities): abilities detailed list
+    - [Boosters](/boosters): booster detailed list
+    - [Gadgets](/gadgets): gadget list
 - [Recruits](/contribute#tbw): why you need to show them some love in general
     - [Jobs](/contribute#tbw): advice, mechanics, listing
 - ...
@@ -253,8 +253,8 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 ## Botworld
 
-- Exploration & DZ Tips: Critters, Mega, bosses, DZs tips...
-    - [Maps](https://www.botworld.wiki/maps): full pics, annotations, unlocks
+- [Exploration & Danger Zones](/contribute#tbw): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
+    - [Maps](/maps): full pics, annotations, unlocks
     - [Boat Materials](/contribute#tbw):
     - [Upgrade materials](/contribute#tbw): 
     - [Contracts](/contribute#tbw):
@@ -262,7 +262,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 - [Scavenger Landing](/contribute#tbw): shop, hair draisser, aunty... mentions arena etc
     - [Business Boat upgrades](/contribute#tbw): boat pictures & unlocks per level...
     - [Arena](/arena):
-    - [Arena Masters](https://www.botworld.wiki/arena-masters): List, descriptions, rewards, tips
+    - [Arena Masters](/arena-masters): List, descriptions, rewards, tips
     - [Seasons](/seasons): Starter Season vs Global Season, most notable rewards etc.
     - [Notable characters](/contribute#tbw): the cool npcs
 - [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
@@ -275,11 +275,22 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](<https:
 
 ## Guides
 
-- [Getting Started](https://www.botworld.wiki/guides/getting-started): 
+- [Getting Started](/guides/getting-started): 
 - [Grouper Comp](/contribute#tbw):
 - [Farming Guide &amp; Routes](/contribute#tbw):
 - [Arena Crown](/contribute#tbw):
 - ...
+
+</div>
+    
+<div markdown="1" class="grid-box ghcms ghcms-wiki">
+
+## Wiki
+
+- [Contribute](/contribute)): **We need help**, there's so much still to write about !
+- [Changelog](/changelog): What's new on the wiki ?
+- [Credits](/credits): A big thank you to everyone!
+- [Roadmap](/roadmap): What's planned? Ideas for later go there.
 
 </div>
 
