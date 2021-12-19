@@ -19,6 +19,7 @@ breadcrumbs:
       <th>Ability</th>
       <th>Name</th>
       <th>Power</th>
+      <th>Description</th>
       <th>Overview</th>
     </tr>
   </thead>
@@ -35,6 +36,7 @@ breadcrumbs:
 			      <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> {{ ability.abilityName }} </a>
 		      </td>
 					<td>{{ability.abilityCost}}</td>
+					<td>{{ability.abilityDescription}}</td>
 		      <td class="overview">{{ability.abilityOpinion}}</td>
 		    </tr>
 		{% endif %}
@@ -51,6 +53,7 @@ breadcrumbs:
 			      <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> {{ ability.abilityName }} </a>
 		      </td>
 					<td>{{ability.abilityCost}}</td>
+					<td>{{ability.abilityDescription}}</td>
 		      <td class="overview">{{ability.abilityOpinion}}</td>
 		    </tr>
 		{% endif %}
@@ -67,6 +70,7 @@ breadcrumbs:
 			      <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> {{ ability.abilityName }} </a>
 		      </td>
 					<td>{{ability.abilityCost}}</td>
+					<td>{{ability.abilityDescription}}</td>
 		      <td class="overview">{{ability.abilityOpinion}}</td>
 		    </tr>
 		{% endif %}
@@ -83,6 +87,7 @@ breadcrumbs:
 			      <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> {{ ability.abilityName }} </a>
 		      </td>
 					<td>{{ability.abilityCost}}</td>
+					<td>{{ability.abilityDescription}}</td>
 		      <td class="overview">{{ability.abilityOpinion}}</td>
 		    </tr>
 		{% endif %}
