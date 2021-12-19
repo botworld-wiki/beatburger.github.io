@@ -25,7 +25,7 @@ Unlock all your module slots by defeating the [Arena Masters](https://www.botwor
 	 </ul>
 </div>
 
-<img src="/assets/img/banners/botpack.png" alt="Botpack Modules" style="width: 100%">
+<img src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
 
 
 
