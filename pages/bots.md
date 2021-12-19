@@ -16,16 +16,18 @@ breadcrumbs:
 
 </div>
 
+
 <ul class="toc-block-list links">
-  <li><a href="#tanks" class="toc-block-entry" title="See every Tank">Tanks</a></li>
-  <li><a href="#splashers" class="toc-block-entry" title="See every Splasher">Splashers</a></li>
-  <li><a href="#snipers" class="toc-block-entry" title="See every Sniper">Snipers</a></li>
-  <li><a href="#chasers" class="toc-block-entry" title="See every Chaser">Chasers</a></li>
-  <li><a href="#evaders" class="toc-block-entry" title="See every Evader">Evaders</a></li>
-  <li><a href="#brawlers" class="toc-block-entry" title="See every Brawler">Brawlers</a></li>
-  <li><a href="#supports" class="toc-block-entry" title="See every Support">Supports</a></li>
-  <li><a href="#costs" class="toc-block-entry" title="See every Upgrade Cost">Upgrade Costs</a></li>
+  <li class="toc-block-entry" ><a href="#tanks" title="See every Tank">Tanks <img src="/assets/img/icons/tanks.png" alt="Tank bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#splashers" title="See every Splasher">Splashers <img src="/assets/img/icons/splashers.png" alt="Splasher bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#snipers" title="See every Sniper">Snipers <img src="/assets/img/icons/snipers.png" alt="Sniper bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#chasers" title="See every Chaser">Chasers <img src="/assets/img/icons/chasers.png" alt="Chaser bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#evaders" title="See every Evader">Evaders <img src="/assets/img/icons/evaders.png" alt="Evader bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#brawlers" title="See every Brawler">Brawlers <img src="/assets/img/icons/brawlers.png" alt="Brawler bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#supports" title="See every Support">Supports <img src="/assets/img/icons/supports.png" alt="Support bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#costs" title="See every Upgrade Cost">Upgrade Costs</a></li>
 </ul>
+
 
 
 ## Tanks
