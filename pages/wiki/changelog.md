@@ -23,6 +23,8 @@ breadcrumbs:
 - homepage lists grid layout
 - new contribute/credits page
 - resized, compressed img assets hosted locally
+- [Botpack](/botpack) designed & written
+- [Abilities](/abilities) & [Boosters](/boosters) designed 
 
 
 ## Day 8
