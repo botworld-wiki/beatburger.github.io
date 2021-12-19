@@ -1,7 +1,8 @@
 ---
 layout: bot
-contributors: "MrGold, the wonderboy"
-updatedAt: "2021-12-17"
+contributors: "Groovy"
+updatedAt: "2021-12-15"
+
 
 title: "Gusto"
 name: "Gusto"
@@ -9,17 +10,19 @@ description: "Epic Support - A timid bot that throws its allies into the fray. L
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/912341631666106448/1637589480024.png"
 breadcrumbs:
   Bots: "/bots"
-  Tanks: "/bots#support"
+  Support: "/bots#tanks"
+
 
 botName: "Gusto"
 botDescription: "A timid bot that throws its allies into the fray. Loves to go bowling."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/912341631666106448/1637589480024.png"
 botType: "Support"
 botRarity: "Epic"
-botRarityNumber: "4"
-botAcquisition: "Random Drop"
+botRaritySortOrder: "3"
+botAcquisition: "drop"
 botOpinion: "Kobe"
-searchKeywords: "gusto, support, throw, shoot, hurl, epic, physical, ranged"
+searchKeywords: "gusto, support, throw, shoot, Hurl"
+
 
 ability1Name: "Puff"
 ability1Info: "Range: 8 , Attack Speed: 0.7s , Physical Damage: 100%"
@@ -30,6 +33,7 @@ ability2Description: "Pushes enemies away when they get too close"
 ability3Name: "Hurl"
 ability3Info: "Range: 12 , Cooldown: 8s , Impact Radius: 3 , Stun Duration: 1.75s , Physical Damage: 501%"
 ability3Description: "Sucks in the nearest ally and launches them at an enemy, stunning and damaging all enemies in the area."
+
 
 ai1aName: "A: Heavy Landing "
 ai1aDescription: "Hurl damage increased by 35%"
@@ -49,8 +53,9 @@ ai4bName: "B: Compressed Air"
 ai4bDescription: "Blowback pushes enemies back further"
 ai5aName: "C: Vacuum Tubing "
 ai5aDescription: "Hurl starts 60% charged"
-ai5bName: " "
+ai5bName: ""
 ai5bDescription: ""
+
 
 lvl1Hp: "1400"
 lvl1Dmg: "36"
@@ -66,6 +71,7 @@ lvl25Hp: "12312"
 lvl25Dmg: "355"
 lvl25Dps: "507"
 
+
 epicMat: "Gusto Essence"
 rareMat: "Support Chip"
 specialMat: "Thick Oil"
@@ -73,10 +79,3 @@ commonMat1: "Cold Battery"
 commonMat2: "Double Cog"
 commonMat3: "Mini Sensor"
 ---
-
-### Tips
-Don't put Snipers or Splashers near Gusto or Gusto will throw them at the enemy.
-Put Brawlers near Gusto, so that Gusto can launch them at the enemy.
-
-### Suggested Ai Build
-ABAAC
