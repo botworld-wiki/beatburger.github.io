@@ -36,8 +36,7 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Important Content Pages / Features
 
-- /news#1.1.5
-- /news#2021-12-18
+- refresh credentials
 - rarity sorted
 - 2nd font?
 - Complete lists of Abilities & Boosters
