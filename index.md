@@ -7,7 +7,7 @@ description: All the best the Botworld Adventure community has to offer to help 
 
 ---
 
-<img src="/assets/img/banners/welcome.png" style="width:80%" />
+<img src="/assets/img/banners/welcome.png" style="width:100%" />
 
 
 <div id="site_toc">
