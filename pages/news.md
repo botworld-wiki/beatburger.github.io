@@ -24,13 +24,8 @@ We're excited to have you check it out!
 
 ### New Bot coming soon!
 
-![New Bot 2021-12-18](https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg | width=100) 
+![New Bot 2021-12-18](https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg) 
 
-![New Bot 2021-12-18](https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg =100x50) 
-
-[[ https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg | height = 100px ]]
-
-![New Bot 2021-12-18]][[[https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg | height = 100px ]]
 
 ## 0.16
 
@@ -43,3 +38,10 @@ We're excited to have you check it out!
 - Bug fixes
 
 </div>
+
+<style>
+	section img { max-width: 60% }
+	@media (max-width: 600px) {
+		section img { max-width: 100% }
+	}
+</style>
