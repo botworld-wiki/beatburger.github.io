@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /news
 title: Botworld Adventure News
-description: New bots announcements, new versions... All the News about Botworld Adventure!
+description: New bots announcements, updates, balance changes... All the News about Botworld Adventure!
 breadcrumbs:
 
 ---
