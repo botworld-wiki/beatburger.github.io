@@ -9,7 +9,7 @@ breadcrumbs:
   
 ---
 
-<img src="/assets/img/banner/abilities.png" style="width:100%" />
+<img src="/assets/img/banners/abilities.png" style="width:100%" />
 
 # Botpack Abilities
 
