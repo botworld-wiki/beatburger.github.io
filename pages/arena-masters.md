@@ -77,7 +77,7 @@ Ps: I believe Proximity Translocator can be used instead of CT and work consider
 
 Then, tip your comp heavily towards **ranged bots so you can kill from afar**. Some Chasers are cool, but def no tanks.
 
-**Must-have abilities**: CT, imobilize. **Good to have**: Gust, Freeze, Overcharge
+**Must-have abilities**: CT, [Imobilize](/immobilize). **Good to have**: [Gust](/gust), [Freeze](/freeze), Overcharge
 
 - Boosters to help generate power.
 
@@ -86,8 +86,8 @@ The more snipers you have, the better. **Longshot is king and easy to get**, Cho
 
 Some hidden gems amongst bots:
 
-- **Rocketeer AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo Brute, and then some.
-- **Slicer AI4**: immune to slow and freeze. Great Frosty counter (thanks )
+- **[Rocketeer](/rocketeer) AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo [Brute](/brute), and then some.
+- **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
 
 
 
