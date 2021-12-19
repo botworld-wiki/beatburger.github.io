@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /abilities
-title: Botpack Abilities
+title: Abilities
 description: The place to learn everything there is to know about the powerful abilities you can find and use in Botworld Adventure!
 breadcrumbs:
   Botpack: /botpack
