@@ -32,13 +32,14 @@ description: The place to learn everything there is to know about the powerful a
 		      <td>
 			      <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> {{ ability.abilityName }} </a>
 		      </td>
-					<td>{{ability.abilityAcquisition}}</td>
+					<td>{{ability.abilityCost}}</td>
 		      <td class="overview">{{ability.abilityOpinion}}</td>
 		    </tr>
 		{% endif %}
     {% endfor %}
   </tbody>
 </table>
+
 
 <div markdown="1" class=" ghcms ghcms-main">
 
