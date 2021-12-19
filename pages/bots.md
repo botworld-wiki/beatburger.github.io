@@ -16,14 +16,16 @@ breadcrumbs:
 
 </div>
 
-- [Tanks](#tanks)
-- [Splashers](#splashers)
-- [Snipers](#snipers)
-- [Chasers](#chasers)
-- [Evaders](#evaders)
-- [Brawlers](#brawlers)
-- [Supports](#supports)
-- [Upgrade Costs](#costs)
+<ul class="toc-block-list links">
+  <li><a href="#tanks" class="toc-block-entry" title="See every Tank">Tanks</a></li>
+  <li><a href="#splashers" class="toc-block-entry" title="See every Splasher">Splashers</a></li>
+  <li><a href="#snipers" class="toc-block-entry" title="See every Sniper">Snipers</a></li>
+  <li><a href="#chasers" class="toc-block-entry" title="See every Chaser">Chasers</a></li>
+  <li><a href="#evaders" class="toc-block-entry" title="See every Evader">Evaders</a></li>
+  <li><a href="#brawlers" class="toc-block-entry" title="See every Brawler">Brawlers</a></li>
+  <li><a href="#supports" class="toc-block-entry" title="See every Support">Supports</a></li>
+  <li><a href="#costs" class="toc-block-entry" title="See every Upgrade Cost">Upgrade Costs</a></li>
+</ul>
 
 
 ## Tanks
