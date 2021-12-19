@@ -643,24 +643,18 @@ span.wtf-discord {
 </div>
 	  
  <script type="text/javascript">
- 	// todo duplicate the menu instead to fix the layout shift on flex/fixed change
-window.onscroll = function() {changeMenu()};
+  
+ window.onscroll = function() {changeMenu()};
 
-var onScrollLock = false;
 var $nav = document.getElementById("nav");
 var $bb = document.getElementById("meet-bb");
-function removeLock(){onScrollLock = false};
 function changeMenu() {
-	if (!onScrollLock){
-		if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-			$nav.classList.add('fixed');
-			$bb.style.display = 'block';
-		} else {
-			$nav.classList.remove('fixed');
-			$bb.style.display = 'none';
-		}
-	onScrollLock = true;
-	setTimeout(removeLock, 100);
+	if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+		$nav.classList.add('fixed');
+		$bb.style.display = 'block';
+	} else {
+		$nav.classList.remove('fixed');
+		$bb.style.display = 'none';
 	}
 }
 </script>
