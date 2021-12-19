@@ -17,7 +17,7 @@ breadcrumbs:
 </div>
 
 
-<ul class="toc-block-list links">
+<ul class="bots toc-block-list links">
   <li class="toc-block-entry" ><a href="#tanks" title="See every Tank">Tanks <img src="/assets/img/icons/tanks.png" alt="Tank bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#splashers" title="See every Splasher">Splashers <img src="/assets/img/icons/splashers.png" alt="Splasher bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#snipers" title="See every Sniper">Snipers <img src="/assets/img/icons/snipers.png" alt="Sniper bots logo"></a></li>
