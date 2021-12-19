@@ -24,7 +24,7 @@ breadcrumbs:
   </thead>
   <tbody>
     {% for ability in site.abilities %}
-	    {% if ability.abilityType == 'Common' %}
+	    {% if ability.abilityRarity == 'Common' %}
 		  <tr class="collection-list-entry rarity_{{ability.abilityRarity}}">
 		      <td class="table-pic">
 			 <a href="{{ site.baseurl }}{{ ability.url }}" title="Everything about the ability {{ ability.abilityName }}"> 
