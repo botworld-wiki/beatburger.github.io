@@ -1,10 +1,12 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /abilities
 title: Botpack Abilities
 description: The place to learn everything there is to know about the powerful abilities you can find and use in Botworld Adventure!
-
+breadcrumbs:
+  Botpack: /botpack
+  
 ---
 
 <img src="/assets/img/banner/abilities.png" style="width:100%" />
@@ -43,6 +45,5 @@ description: The place to learn everything there is to know about the powerful a
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-## Abilities are cool idk
 
 </div>
