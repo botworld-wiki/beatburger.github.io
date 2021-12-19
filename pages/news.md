@@ -26,6 +26,8 @@ We're excited to have you check it out!
 
 ![New Bot 2021-12-18](https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg) 
 
+[Official Annoucement](https://twitter.com/BotworldGame/status/1472189909188300802)
+
 
 ## 0.16
 
