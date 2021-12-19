@@ -10,7 +10,7 @@ breadcrumbs:
 
 ---
 
-# Development Roadmap
+# Roadmap
 
 ## Explanations
 I've started to receive bug reports, suggestions, ideas, all sorts of contributions. I obviously can't do everything at once so I need some kind of todo-list, and this page is where I'll share it with you so you can:
@@ -32,27 +32,36 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Major tech fixes
 
-- Search design
-- #links (home!)
+- 
 
 ### Important Content Pages / Features
 
+- /news#1.1.5
+- /news#2021-12-18
 - rarity sorted
+- 2nd font?
+- Complete lists of Abilities & Boosters
+- editor/maintainer doc
 
 
 ### Minor tech fixes
 
 - Editor Mode edits merge process (converter ?)
-- minified menu glitch at the top of the page
 - distorded BB logo
-- images compression
 - alt/titles
 -  extract inline css & js
 -  json cache busters
 -  Search -> dispatcher.js
+- GA
+- ghcms & libs liquid generate (cf search.json)
+- Editor Mode commits history -> edits.json
+- pickers hardening
+- md pic sizes
 
 ### Secondary content & features ideas
 
+- tech stack doc
+- videos ? 
 - advanced search
 - inter-linking
 - materials collection 
@@ -62,8 +71,4 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ## Notes
 
-- **Updating**: I'll update this list regularly, but the main version is locally on my laptop so don't be surprised is the published one is a few hours behind.
-
 - **Priority levels**: represented here from High (top) to low (bottom). Open to discussion about it obv, you know where to ping me.
-
-- **Exhaustivity**: I'm doing lots of tech stuff as they go and pop in my mind, so don't be surprised if you see stuff on changelof that weren't in here before. It'll slowly die over time as the website gets ready and doesn't need as much small fixes everywhere.
