@@ -5,7 +5,8 @@ permalink: /guides/farming
 title: "Farming Guide & Routes"
 description: Leverage your recruits to the maximum by running the routes with the highest return
 breadcrumbs:
-	Guides: "/#guides"
+  Guides: "/#guides"
+  
 ---
 
 
