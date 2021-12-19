@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /arena-masters
 title: The Arena Masters
 description: The place to learn everything there is to know about the Arena Master you'll have to face in Botworld Adventure!
+breadcrumbs:
+  "Scavenger Landing": "/scavenger-landing"
 
 ---
 
