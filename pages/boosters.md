@@ -17,7 +17,6 @@ breadcrumbs:
     <tr>
       <th>Booster</th>
       <th>Name</th>
-      <th>Power</th>
       <th>Description</th>
       <th>Overview</th>
     </tr>
@@ -34,7 +33,6 @@ breadcrumbs:
 		      <td>
 			      <a href="{{ site.baseurl }}{{ booster.url }}" title="Everything about the Booster {{ booster.boosterName }}"> {{ booster.boosterName }} </a>
 		      </td>
-					<td>{{booster.boosterCost}}</td>
 					<td class="overview">{{booster.boosterDescription}}</td>
 		      <td class="overview">{{booster.boosterOpinion}}</td>
 		    </tr>
@@ -51,7 +49,6 @@ breadcrumbs:
 		      <td>
 			      <a href="{{ site.baseurl }}{{ booster.url }}" title="Everything about the Booster {{ booster.boosterName }}"> {{ booster.boosterName }} </a>
 		      </td>
-					<td>{{booster.boosterCost}}</td>
 					<td class="overview">{{booster.boosterDescription}}</td>
 		      <td class="overview">{{booster.boosterOpinion}}</td>
 		    </tr>
@@ -68,7 +65,6 @@ breadcrumbs:
 		      <td>
 			      <a href="{{ site.baseurl }}{{ booster.url }}" title="Everything about the Booster {{ booster.boosterName }}"> {{ booster.boosterName }} </a>
 		      </td>
-					<td>{{booster.boosterCost}}</td>
 					<td class="overview">{{booster.boosterDescription}}</td>
 		      <td class="overview">{{booster.boosterOpinion}}</td>
 		    </tr>
@@ -85,7 +81,6 @@ breadcrumbs:
 		      <td>
 			      <a href="{{ site.baseurl }}{{ booster.url }}" title="Everything about the Booster {{ booster.boosterName }}"> {{ booster.boosterName }} </a>
 		      </td>
-					<td>{{booster.boosterCost}}</td>
 					<td class="overview">{{booster.boosterDescription}}</td>
 		      <td class="overview">{{booster.boosterOpinion}}</td>
 		    </tr>
