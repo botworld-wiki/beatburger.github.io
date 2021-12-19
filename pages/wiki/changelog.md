@@ -11,7 +11,11 @@ breadcrumbs:
 
 # Changelog
 
-[Development Roadmap](https://www.botworld.wiki/roadmap)
+[Roadmap](https://www.botworld.wiki/roadmap)
+
+## Day 10
+
+- [Botworld Adventures News](/news), also added to homepage
 
 ## Day 9
 
