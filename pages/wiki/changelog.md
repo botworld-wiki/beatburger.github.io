@@ -25,6 +25,7 @@ breadcrumbs:
 - resized, compressed img assets hosted locally
 - [Botpack](/botpack) designed & written
 - [Abilities](/abilities) & [Boosters](/boosters) designed 
+- fixed fixed menu & "fixed" search
 
 
 ## Day 8
