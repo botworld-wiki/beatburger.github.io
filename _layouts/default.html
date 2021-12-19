@@ -469,6 +469,9 @@ h2 {padding-top: 27px;} /* fix anchor links */
  	.wiki-title{font-size: 25px;}
  }
 
+ #nav-container{height:125px !important;}
+ nav.override {display: block;}
+
 nav img { 
 	height: 40px;
 }
@@ -484,7 +487,6 @@ nav img {
 	width: 50px;
 	cursor: pointer;
 }
-#nav-container { height:86px !important} /* fix layout shift on fixed */
 nav.fixed .mini-menu {display: flex;}
 nav.fixed {
 	  position: fixed;
@@ -498,14 +500,15 @@ nav.fixed {
     z-index: 100;
     height: 60px;
 }
-.menu { background-color: #202020; }
+@media (max-width: 800px) {
+	nav.fixed {left: 0;}
+}
+
 nav.fixed .mini-menu img { position: relative; top:10px; left: 10px; }
-nav.fixed .menu { display: none; position: relative; bottom: 1px; }
+nav.fixed .menu { display: none; position: relative; bottom: 1px; background-color: #202020;}
 #menu-checkbox:checked + .menu { display: flex };
 
-#results-container { 
-	background-color: #202020;
-}
+.result { background-color: #202020 }
 	   
 .discord-link {
 	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
