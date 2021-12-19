@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /boosters
-title: Botpack Boosters
+title: Boosters
 description: The place to learn everything there is to know about the powerful Boosters you can find and use in Botworld Adventure!
 breadcrumbs:
   Botpack: /botpack
