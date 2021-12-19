@@ -163,27 +163,40 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 <div markdown="1" class=" ghcms ghcms-gadgets">
 
-Incorrect Data. Please share the right info [Contribute](/contribute#tbw)
+[Upgrades & unlocks](/contribute#tbw)
+### Damage Amplifier 
 
-- **Extra dmg**:
-	- *Activate when a combat starts for +50% bot dmg* 
-	- 4/5 charges
-	- boat lvl req: 3/7
-- **Extra power**:
-	- *Activate when a combat starts for +30% botpack power* 
-	- 4/5 charges
-	- boat lvl req: 4/9
-- **Extra speed**:
-	-
-- **Invisibility**:
-	- Activate when out of combat to turn invisible
-	- 1 charge
-	- boat lvl req: 9
-- **Shockwave generator**:
-	- Activate when out of combat to push back mobs
-	- 5 charge
-	- boat lvl req: 11
-- **Disruptor**:
-- **Mines**:
+![Image](/assets/img/gadgets/amplifier.png)
+
+### Botpack Overclocker 
+
+![Image](/assets/img/gadgets/overclocker.png)
+
+
+### Bombardment 
+
+![Image](/assets/img/gadgets/bombardment.png)
+
+### Speed Amplifier
+
+![Image](/assets/img/gadgets/speed-upg.png)
+
+
+### Invisibility 
+
+![Image](/assets/img/gadgets/invisibility.png)
+
+### Shockwave Generator 
+
+![Image](/assets/img/gadgets/shockwave.png)
+
+### Mine 
+
+![Image](/assets/img/gadgets/mines.png)
+
+### Ability Jammer 
+
+![Image](/assets/img/gadgets/jammer.png)
+
 </div>
 
