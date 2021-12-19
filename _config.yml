@@ -14,8 +14,8 @@ collections:
     permalink: /:path
     
 title: Botworld Wiki
-description: Robopedia, Guides & Tips collected by the community
-logo: https://cdn.discordapp.com/emojis/918669937214640269.png
+description: Robopedia, Guides & Tips collected by the Community
+logo: https://www.botworld.wiki/assets/img/icons/cog.png
 
 plugins:
   - jekyll-sitemap
