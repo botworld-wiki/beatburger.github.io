@@ -157,7 +157,7 @@ description: All the best the Botworld Adventure Community has to offer to help 
         <ul class="toc-block-list">
             <li class="toc-block-entry">
                 <a href="/contribute#tbw">
-                <span>Exploration & DZ Tips</span></a>
+                <span>Exploration & Danger Zones Tips</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/maps">
@@ -172,8 +172,8 @@ description: All the best the Botworld Adventure Community has to offer to help 
                 <span>Arena Masters</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Boat Materials</span></a>
+                <a href="/materials">
+                <span>Bots & Boat Materials</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/#botworld">
@@ -267,8 +267,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 - [Exploration & Danger Zones](/contribute#tbw): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
     - [Maps](/maps): full pics, annotations, unlocks
-    - [Boat Materials](/contribute#tbw):
-    - [Upgrade materials](/contribute#tbw): 
+    - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
     - [Contracts](/contribute#tbw):
     - [Exterminator squads](/contribute#tbw):
 - [Scavenger Landing](/contribute#tbw): shop, hair draisser, aunty... mentions arena etc
