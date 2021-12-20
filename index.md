@@ -125,7 +125,7 @@ description: All the best the Botworld Adventure Community has to offer to help 
         <ul class="toc-block-list">
             <li class="toc-block-entry">
                 <a href="/bots">
-                <span>Bots</span></a>
+                <span>Robopedia</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/botpack">
