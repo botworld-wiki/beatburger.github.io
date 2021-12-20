@@ -76,8 +76,8 @@ What you need to upgrade your boat.
 	    {% if material.matType == 'Boat' %}
 		  <tr class="collection-list-entry rarity_{{material.matRarity}}">
 		      <td class="table-pic">
-			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
-				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.matName }}"> 
+			  <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
+				<img src="/assets/img/materials/{{ material.matName | slugify }}.png" alt="Image of the material {{ material.matName }}"> 
 			 </a>
 		      </td>
 		      <td>
