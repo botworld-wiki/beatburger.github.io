@@ -36,7 +36,13 @@
 {% endif %}
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=cf56747e20c372760b23189e10db18236bea9f91">
+	  <!-- default midnight theme -->
+    <!-- <link rel="stylesheet" href="/assets/css/style.css?v=cf56747e20c372760b23189e10db18236bea9f91"> -->
+	  
+	  
+    <link rel="stylesheet" href="/assets/css/wiki-style.css">
+	  
+	  
    <!-- idk about that js doug...
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="/assets/js/respond.js"></script>
@@ -64,7 +70,6 @@
 
 <!-- end custom head snippets -->
 
-	  
 <!-- google font async-optimized -->
 <link rel="preconnect" href="https://fonts.gstatic.com/" />
 <link
@@ -73,9 +78,20 @@
     as="style"
     onload="this.onload=null;this.rel='stylesheet'"
 />
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Abel"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
 <noscript>
     <link
         href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+        rel="stylesheet"
+        type="text/css"
+    />
+    <link
+        href="https://fonts.googleapis.com/css?family=Abel"
         rel="stylesheet"
         type="text/css"
     />
@@ -87,7 +103,9 @@
 	.wrapper h1, .wrapper h2, .wrapper .toc-block-title *, .toc-block-entry *, nav#nav *, nav#nav a {
 	  font-family: "Luckiest Guy";
 	}
-	   
+	.toc-block-entry *, nav#nav .menu *{
+		font-size: 14px;
+	}
 /* BWA theme text sections: p, ul */
 	   
 	section h2 {
