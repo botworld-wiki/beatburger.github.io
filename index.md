@@ -7,8 +7,11 @@ description: All the best the Botworld Adventure Community has to offer to help 
 
 ---
 
-<img src="/assets/img/banners/welcome.png" style="width:100%" alt="Welcome to the Wiki banner"/>
-
+<picture>
+  <source type="image/webp" srcset="/assets/img/banners/welcome.webp" style="width:100%">
+  <source type="image/jpeg" srcset="/assets/img/banners/welcome.png" style="width:100%">
+  <img src="/assets/img/banners/welcome.png" alt="Welcome to the Wiki banner" style="width:100%">
+</picture>
 
 <div id="site_toc">
 
