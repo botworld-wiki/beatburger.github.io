@@ -15,6 +15,7 @@ breadcrumbs:
 
 ## Day 11
 
+- New font for regular text & paragraphs
 - [Materials](/materials), fully ready and online (with WikiSheet & Converter)
 - Converters now support Freeform comments
 - Also sorting by Rarity
