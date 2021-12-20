@@ -68,6 +68,8 @@ function loadSearch(){
 }
 
 $(document).ready(loadSearch);
+// webp fallback for css backgrounds
+$(document).ready(function(){$.getScript('/assets/js/webp-modernizr.js')});
 
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
 if (typeof afterDispatch !== 'undefined') { afterDispatch() }
