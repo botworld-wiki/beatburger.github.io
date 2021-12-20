@@ -22,3 +22,7 @@ abilityAcquisition: ""
 abilityOpinion: "A must-have"
 searchKeywords: "cc, placement, mobility, aoe"
 ---
+
+### Tips by Pix
+
+Use Gust right after the battle start if you have obstacles on the way of your Chainer pull. 
