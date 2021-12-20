@@ -243,14 +243,26 @@ layout: breadcrumbs
 			<table>
 			  <tbody>
 			    <tr>
-			      <td class="rarity_Epic">{{page.epicMat}}</td>
-			      <td class="rarity_Rare">{{page.rareMat}}</td>
-			      <td class="rarity_Special">{{page.specialMat}}</td>
+			      <td class="rarity_Epic">
+			      	<img src="/assets/img/materials/{{page.epicMat | slugify}}.png" alt="{{page.epicMat}}" title="{{page.epicMat}}" >
+			      </td>
+			      <td class="rarity_Rare">
+			      	<img src="/assets/img/materials/{{page.rareMat | slugify}}.png" alt="{{page.rareMat}}" title="{{page.rareMat}}" >
+			      </td>
+			      <td class="rarity_Special">
+			      	<img src="/assets/img/materials/{{page.specialMat | slugify}}.png" alt="{{page.specialMat}}" title="{{page.specialMat}}" >
+			      </td>
 			    </tr>
 				<tr>
-			      <td class="rarity_Common">{{page.commonMat1}}</td>
-			      <td class="rarity_Common">{{page.commonMat2}}</td>
-			      <td class="rarity_Common">{{page.commonMat3}}</td>
+			      <td class="rarity_Common">
+			      	<img src="/assets/img/materials/{{page.commonMat1 | slugify}}.png" alt="{{page.commonMat1}}" title="{{page.commonMat1}}" >
+			      </td>
+			      <td class="rarity_Common">
+			      	<img src="/assets/img/materials/{{page.commonMat2 | slugify}}.png" alt="{{page.commonMat2}}" title="{{page.commonMat2}}" >
+			      </td>
+			      <td class="rarity_Common">
+			      	<img src="/assets/img/materials/{{page.commonMat3 | slugify}}.png" alt="{{page.commonMat3}}" title="{{page.commonMat3}}" >
+			      </td>
 			    </tr>
 			  </tbody>
 			</table>
