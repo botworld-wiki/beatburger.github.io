@@ -23,9 +23,9 @@ If you want to become part of any team of ours, here's an overview below. Rest a
 Here's what we do, tell us where you think you'd fit best:
 
 - **Data Collectors, Writers**: Find us that info or picture that's missing. Write that paragraph that's still empty or poor. *No formation required*
-- **Editors**: Have access to the Editor Mode to quicly edit Wiki pages, with your own contributions or others. *Formation: 5-15 minutes*
+- **Editors**: Have access to the Editor Mode to quicly edit Wiki pages, with your own contributions or others. *Formation: 5-15 minutes - no coding experience*
 - **Artists**: Make us some lovely art, like banners ? *Formation: a lifetime* 
-- **Maintainers**: Can create new bots, abilities, pages etc, and update from WikiSheets. *Formation: 15-30min*
+- **Maintainers**: Can create new bots, abilities, pages etc, and update from WikiSheets. *Formation: 15-30min - no coding experience*
 - **Developper**: Build the Wiki. New features for our users & workflows for our contributors. *Formation: a lifetime*
 
 
