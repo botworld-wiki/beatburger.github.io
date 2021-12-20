@@ -462,6 +462,7 @@ cost to reset
   </tbody>
 </table>
 
+Credits: debb !
 
 
 <span id="costs"></span>
