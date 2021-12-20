@@ -25,6 +25,8 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#evaders" title="See every Evader">Evaders <img src="/assets/img/icons/evaders.png" alt="Evader bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#brawlers" title="See every Brawler">Brawlers <img src="/assets/img/icons/brawlers.png" alt="Brawler bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#supports" title="See every Support">Supports <img src="/assets/img/icons/supports.png" alt="Support bots logo"></a></li>
+  <li class="toc-block-entry" ><a href="#ai" title="Everything about AI trees & xp">AI trees & XP</a></li>
+  <li class="toc-block-entry" ><a href="#crafting" title="See the materials needed by each bot">Crafting Table</a></li>
   <li class="toc-block-entry" ><a href="#costs" title="See every Upgrade Cost">Upgrade Costs</a></li>
 </ul>
 
@@ -366,9 +368,12 @@ Supports make your other bots more effective --- best placed beside tanks
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-more">
 
-## Upgrades, botframes, "random drops" ?
+
+
+<span id="ai"></span>
+
+<div markdown="1" class=" ghcms ghcms-more">
 
 ## XP & AI explanations
 
@@ -378,6 +383,86 @@ cost to reset
 ## ... ?
 
 </div>
+
+
+
+<span id="crafting"></span>
+
+## Crafting Table
+
+<table class="collection-list">
+  <thead>
+    <tr>
+      <th>Bot</th>
+      <th>Name</th>
+      <th>Acquisition</th>
+      <th>Common 1</th>
+      <th>Common 2</th>
+      <th>Common 3</th>
+      <th>Special</th>
+      <th>Rare</th>
+      <th>Essence</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
+    {% for bot in bots_by_rarity %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td class="table-pic">
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+			{% if bot.botAcquisition == "drop" %}
+				<td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+			{% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
+				<td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{bot.botAcquisition}}</a></td>
+			{% elsif bot.botAcquisition contains "season" or bot.botAcquisition contains "Season" %}
+				<td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% elsif bot.botAcquisition contains "starter" or bot.botAcquisition contains "Starter" %}
+				<td><a href="/starter-bots" title="The 3 starter bots in Botworld Adventure">Starter Bot</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+			{% else %}
+				<td>{{bot.botAcquisition}}</td>
+			{% endif %}
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
+                <img src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
+              </a>
+            </td>
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat2 | slugify}}" title="{{bot.commonMat2}}">
+                <img src="/assets/img/materials/{{bot.commonMat2 | slugify}}.png" alt="{{bot.commonMat2}}" >
+              </a>
+            </td>
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat3 | slugify}}" title="{{bot.commonMat3}}">
+                <img src="/assets/img/materials/{{bot.commonMat3 | slugify}}.png" alt="{{bot.commonMat3}}" >
+              </a>
+            </td>
+            <td class="rarity_Special">
+              <a href="/{{bot.specialMat | slugify}}" title="{{bot.specialMat}}">
+                <img src="/assets/img/materials/{{bot.specialMat | slugify}}.png" alt="{{bot.specialMat}}" >
+              </a>
+            </td>
+            <td class="rarity_Rare">
+              <a href="/{{bot.rareMat | slugify}}" title="{{bot.rareMat}}">
+                <img src="/assets/img/materials/{{bot.rareMat | slugify}}.png" alt="{{bot.rareMat}}" >
+              </a>
+            </td>
+            <td class="rarity_Epic">
+              <a href="/essence" title="Default Essence page">
+                <img src="/assets/img/materials/essence.png" alt="Default Essence pic" >
+              </a>
+            </td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
 
 <span id="costs"></span>
 
