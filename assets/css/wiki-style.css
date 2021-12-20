@@ -150,7 +150,7 @@ nav{display:none}
 	scroll-padding-top: 70px; /* fix anchor links */
      }
      body {
-        background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed ; 
+        background: url('https://www.botworld.wiki/assets/img/bg/background.webp') no-repeat center center fixed ; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -459,7 +459,7 @@ nav{display:none}
 
 /* header, menu, banner */
 #banner {
-	background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') ;
+	background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.webp') ;
   background-repeat:   no-repeat;
   background-position: top center;              
   height: 350px;
@@ -623,3 +623,9 @@ span.wtf-discord {
 
 	   /* tbw: to be written */
 	   a[href^="https://www.botworld.wiki/contribute#tbw"], a[href^="/contribute#tbw"] { color: #ff9bb7 !important}
+
+
+// webp fallback for css backgrounds, using webp-modernizr.js
+body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
+#banner.no-webp{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
+
