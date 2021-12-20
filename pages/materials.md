@@ -36,14 +36,14 @@ What you need to upgrade your bots.
 		  <tr class="collection-list-entry rarity_{{material.matRarity}}">
 		      <td class="table-pic">
 			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
-				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.matName }}"> 
+				<img src="/assets/img/materials/{{ material.matName | slugify }}.png" alt="Image of the material {{ material.matName }}"> 
 			 </a>
 		      </td>
 		      <td>
 			      <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
 		      </td>
 					<td class="overview">{{material.matDescription}}</td>
-		      <td class="overview">{{material.matOpinion}}</td>
+		      <td class="overview">{{material.matOverview}}</td>
 		    </tr>
 		{% endif %}
     {% endfor %}
