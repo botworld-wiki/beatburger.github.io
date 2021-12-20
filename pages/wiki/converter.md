@@ -18,4 +18,5 @@ It's very much a quick'n dirty prototype hacked together hastily. Can be improve
 - [bots](/converter-bots)
 - [abilities](/converter-abilities)
 - [boosters](/converter-boosters)
+- [materials](/converter-materials)
 
