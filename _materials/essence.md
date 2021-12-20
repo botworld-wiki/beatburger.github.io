@@ -1,11 +1,12 @@
 ---
 layout: material
-contributors: "Pix"
+contributors: "Pix, Pavle, Devil"
 updatedAt: "2021-12-20"
 
 
 title: "Essence"
 name: "Essence"
+description: "Every bot has their own Essences - "
 imageUrl: "/assets/img/materials/essence.png"
 breadcrumbs:
   Materials: "/materials"
@@ -14,8 +15,8 @@ breadcrumbs:
 matName: "Essence"
 matRarity: "Epic"
 matImageUrl: "/assets/img/materials/essence.png"
-matRaritySortOrder: "1"
+matRaritySortOrder: "3"
 matType: "Bot"
-matDescription: "Used to upgrade Bots past lvl 20"
-matOverview: "Every bot has their own Essences"
+matDescription: "Every bot has their own Essences"
+matOverview: "Upgrade Bots past level 20"
 ---
