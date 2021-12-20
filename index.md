@@ -157,7 +157,7 @@ description: All the best the Botworld Adventure Community has to offer to help 
         <ul class="toc-block-list">
             <li class="toc-block-entry">
                 <a href="/contribute#tbw">
-                <span>Exploration & Danger Zones Tips</span></a>
+                <span>Explo & Danger Zones Tips</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/maps">
