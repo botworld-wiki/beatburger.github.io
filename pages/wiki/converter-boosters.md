@@ -51,8 +51,10 @@ function formatStr(str){
 		)
 }
 function convertFromFields(){
-	var str = formatStr(document.querySelector('#input-boosters').value);
-	document.querySelector('#output-boosters').value = str.replace('breadcrumbs: ""', 'breadcrumbs:');
+	var input = document.querySelector('#input-boosters').value;
+	var freeform = input.split('__end__').length > 1 ? input.split('__end__')[1] : '';
+	var str = formatStr(input);
+	document.querySelector('#output-boosters').value = str.replace('breadcrumbs: ""', 'breadcrumbs:')+'\n\n'+freeform.replace(/^\s*"/,'').replace(/"\s*$/,'')+'\n';
 }
 document.querySelector('#convert-boosters').onclick = convertFromFields;
 
