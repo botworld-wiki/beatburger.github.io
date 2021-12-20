@@ -302,7 +302,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Community Wiki
 
-- [Contribute](/contribute): **We need help**, there's so much still to write about !
+- [Contribute](/contribute): **It's easy to contribute!** Simply sending us missing infos or pictures helps a lot!
 - [Changelog](/changelog): What's new on the wiki ?
 - [Credits](/credits): A big thank you to everyone!
 - [Roadmap](/roadmap): What's planned? Ideas for later go there.
