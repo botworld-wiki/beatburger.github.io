@@ -102,7 +102,7 @@ nav{display:none}
 		font-weight: 100;
 	}
 /* BWA theme text sections: p, ul */
-	   
+	h3 { font-size: 24px; font-weight: bold} 
 	section h2 {
 		background-repeat: no-repeat;
 	    background-size: 100% 100% !important;
