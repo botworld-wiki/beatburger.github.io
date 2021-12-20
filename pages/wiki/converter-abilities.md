@@ -33,7 +33,7 @@ sitemap: false
 
 <script type="text/javascript">
 	
-var abilityRows = ["contributors","updatedAt","# Wiki page infos","title","name","description","imageUrl","breadcrumbs","  Botpack","  Abilities","# Ability infos","abilityName","abilityDescription","abilityImageUrl","abilityCost","abilityRarity","abilityAcquisition","abilityOpinion","searchKeywords"]	;
+var abilityRows = ["contributors","updatedAt","# Wiki page infos","title","name","description","imageUrl","breadcrumbs","  Botpack","  Abilities","# Ability infos","abilityName","abilityDescription","abilityImageUrl","abilityCost","abilityRarity","abilityRarityOrder","abilityAcquisition","abilityOpinion","searchKeywords"]	;
 
 function select(s){
 	return s.split('__begin__\n')[1].split('\n__end__')[0]
