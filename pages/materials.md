@@ -32,18 +32,18 @@ What you need to upgrade your bots.
   </thead>
   <tbody>
     {% for material in site.materials %}
-	    {% if material.materialType == 'Bot' %}
-		  <tr class="collection-list-entry rarity_{{material.materialRarity}}">
+	    {% if material.matType == 'Bot' %}
+		  <tr class="collection-list-entry rarity_{{material.matRarity}}">
 		      <td class="table-pic">
-			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.materialName }}"> 
-				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.materialName }}"> 
+			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
+				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.matName }}"> 
 			 </a>
 		      </td>
 		      <td>
-			      <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.materialName }}"> {{ material.materialName }} </a>
+			      <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
 		      </td>
-					<td class="overview">{{material.materialDescription}}</td>
-		      <td class="overview">{{material.materialOpinion}}</td>
+					<td class="overview">{{material.matDescription}}</td>
+		      <td class="overview">{{material.matOpinion}}</td>
 		    </tr>
 		{% endif %}
     {% endfor %}
@@ -72,18 +72,18 @@ What you need to upgrade your boat.
   </thead>
   <tbody>
     {% for material in site.materials %}
-	    {% if material.materialType == 'Boat' %}
-		  <tr class="collection-list-entry rarity_{{material.materialRarity}}">
+	    {% if material.matType == 'Boat' %}
+		  <tr class="collection-list-entry rarity_{{material.matRarity}}">
 		      <td class="table-pic">
-			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.materialName }}"> 
-				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.materialName }}"> 
+			 <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
+				<img src="/assets/img/materials/{{ material.imageUrl }}.png" alt="Image of the material {{ material.matName }}"> 
 			 </a>
 		      </td>
 		      <td>
-			      <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.materialName }}"> {{ material.materialName }} </a>
+			      <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
 		      </td>
-					<td class="overview">{{material.materialDescription}}</td>
-		      <td class="overview">{{material.materialOpinion}}</td>
+					<td class="overview">{{material.matDescription}}</td>
+		      <td class="overview">{{material.matOpinion}}</td>
 		    </tr>
 		{% endif %}
     {% endfor %}
