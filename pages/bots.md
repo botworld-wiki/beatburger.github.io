@@ -31,7 +31,7 @@ breadcrumbs:
 
 </div>
 
-### **Bots Upgrades**: see [Crafting Table](/materials#crafting) and [Upgrade Costs](/materials#costs), on the [Materials](/materials) page. 
+**Bots Upgrades**: see [Crafting Table](/materials#crafting) and [Upgrade Costs](/materials#costs), on the [Materials](/materials) page. 
 
 ## Tanks
 
