@@ -9,7 +9,7 @@ collections:
   boosters:
     output: true
     permalink: /:path
-  gadgets:
+  materials:
     output: true
     permalink: /:path
     
