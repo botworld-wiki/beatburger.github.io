@@ -68,6 +68,32 @@ function loadSearch(){
 }
 
 $(document).ready(loadSearch);
+
+
+// GA
+/* hardened privacy settings
+https://developers.google.com/tag-platform/devguides/privacy#disable_google_analytics
+https://support.google.com/analytics/answer/2763052
+https://support.google.com/analytics/answer/9626162
+https://support.google.com/analytics/answer/9626162
+https://business.safety.google/adscookies/
+https://developers.google.com/tag-platform/devguides/cookies
+*/
+function loadGA(){
+    $.getScript('https://www.googletagmanager.com/gtag/js?id=G-G41DGXTVLB', function(){
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag ( 'set', { 'restricted_data_processing': true });
+  	  gtag('config', 'G-G41DGXTVLB', { 
+  	  'anonymize_ip': true,
+  	  'cookie_expires': 259200 // 3 * 24 * 60 * 60 - 3 days, in seconds
+  	  });
+    })
+}
+
+$(document).ready(loadGA);
+
 // webp fallback for css backgrounds
 $(document).ready(function(){$.getScript('/assets/js/webp-modernizr.js')});
 
