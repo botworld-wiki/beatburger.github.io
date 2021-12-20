@@ -15,7 +15,7 @@ matName: "Botframe"
 matRarity: "Depends upon the Bot"
 matImageUrl: "/assets/img/materials/botframe.png"
 matRaritySortOrder: "0"
-matType: ""
+matType: "Bot"
 matDescription: "Used to build some Bots"
 matOverview: ""
 ---
