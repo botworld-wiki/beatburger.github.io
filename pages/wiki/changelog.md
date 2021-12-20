@@ -13,6 +13,14 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
+## Day 11
+
+- [Materials](/materials), fully ready and online (with WikiSheet & Converter)
+- Converters now support Freeform comments
+- Also sorting by Rarity
+- JS/CSS extract/defer
+- WebP for bg, wiki banner, home welcome banner 
+
 ## Day 10
 
 - [Botworld Adventures News](/news), also added to homepage
