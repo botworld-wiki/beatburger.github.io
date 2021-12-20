@@ -33,7 +33,7 @@ sitemap: false
 
 <script type="text/javascript">
 	
-var materialRows = ["contributors", "updatedAt", "# Wiki page infos", "title", "name", "imageUrl", "breadcrumbs", "  Materials", "# Upgrade Materials", "matName", "matRarity", "matImageUrl", "matRaritySortOrder", "matType", "matDescription", "matOverview"]	;
+var materialRows = ["contributors", "updatedAt", "# Wiki page infos", "title", "name", "description", "imageUrl", "breadcrumbs", "  Materials", "# Upgrade Materials", "matName", "matRarity", "matImageUrl", "matRaritySortOrder", "matType", "matDescription", "matOverview"]	;
 
 function select(s){
 	return s.split('__begin__\n')[1].split('\n__end__')[0]
