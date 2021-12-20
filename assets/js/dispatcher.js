@@ -57,6 +57,18 @@ async function fetchEdits(){
 
 $(document).ready(fetchEdits);
 
+function loadSearch(){
+    $.getScript('https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js', function(){
+      var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/assets/js/search.json?cachebuster='+Math.random()
+      })
+    })
+}
+
+$(document).ready(loadSearch);
+
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
 if (typeof afterDispatch !== 'undefined') { afterDispatch() }
 editorModeOn()? $.getModule('/assets/js/ghcms.js') : 0;
