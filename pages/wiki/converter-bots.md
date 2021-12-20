@@ -1,18 +1,703 @@
----
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://www.botworld.wiki/converter-bots -->
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-layout: breadcrumbs
-permalink: /converter-bots
-title: Bots Converter
-description: Assisting tool to convert bot entries from collective wiki sheets to wiki pages
-breadcrumbs:
-  Converter: "/converter"
-robots: "NOINDEX, NOFOLLOW"
-sitemap: false
+<!-- Begin Jekyll SEO tag v2.7.1 -->
 
----
+	<title>Bots Converter - Botworld Wiki</title>
 
-# Bots WikiSheets Converter
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Bots Converter">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Assisting tool to convert bot entries from collective wiki sheets to wiki pages">
+<meta property="og:description" content="Assisting tool to convert bot entries from collective wiki sheets to wiki pages">
+<link rel="canonical" href="https://www.botworld.wiki/converter-bots">
+<meta property="og:url" content="https://www.botworld.wiki/converter-bots">
+<meta property="og:site_name" content="Botworld Community Wiki">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Bots Converter">
+<meta name="twitter:description" content="Assisting tool to convert bot entries from collective wiki sheets to wiki pages">
 
+  <meta property="og:image" content="https://www.botworld.wiki/assets/img/icons/cog.png">
+
+<script type="application/ld+json">
+{"description":"Assisting tool to convert bot entries from collective wiki sheets to wiki pages","url":"https://www.botworld.wiki/converter-bots","@type":"WebPage","headline":"Bots Converter","@context":"https://schema.org"}</script>
+<meta name="google-site-verification" content="RhLHJEi3hAsfqwSwE-lzaF1r4TXxF_ss7Ho4z4S-lWA">
+
+  	<meta name="robots" content="NOINDEX, NOFOLLOW">
+
+<!-- End Jekyll SEO tag -->
+
+	  <!-- default midnight theme -->
+    <!-- <link rel="stylesheet" href="/assets/css/style.css?v=cf56747e20c372760b23189e10db18236bea9f91"> -->
+	  
+	  
+    <link rel="stylesheet" href="./Bots Converter - Botworld Wiki_files/wiki-style.css">
+	  
+	  
+   <!-- idk about that js doug...
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.botworld.wiki/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.botworld.wiki/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.botworld.wiki/favicon-16x16.png">
+<link rel="manifest" href="https://www.botworld.wiki/site.webmanifest">
+
+<!-- end custom head snippets -->
+
+<!-- google font async-optimized -->
+<link rel="preconnect" href="https://fonts.gstatic.com/">
+<link rel="stylesheet" href="./Bots Converter - Botworld Wiki_files/css" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+<link rel="stylesheet" href="./Bots Converter - Botworld Wiki_files/css(1)" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+        rel="stylesheet"
+        type="text/css"
+    />
+    <link
+        href="https://fonts.googleapis.com/css?family=Abel"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+	  
+<!-- end google font async-optimized -->
+
+   <style type="text/css">
+	.wrapper h1, .wrapper h2, .wrapper .toc-block-title *, .toc-block-entry *, nav#nav *, nav#nav a {
+	  font-family: "Luckiest Guy";
+	}
+	.toc-block-entry *, nav#nav .menu *{
+		font-size: 14px;
+	}
+/* BWA theme text sections: p, ul */
+	   
+	section h2 {
+		background-repeat: no-repeat;
+	    background-size: 100% 100% !important;
+	    background: url(https://www.botworld.wiki/assets/img/bg/title-bg.png);	
+	    margin-top: 10px;
+	    margin-bottom: 0px;
+	    padding-bottom: 15px;	
+	    
+	}
+	section p, section ul {
+		/*
+		background-repeat: no-repeat;
+	    */
+	    margin-top: 0px;
+	    margin-bottom: 0px;
+	    background: url(https://www.botworld.wiki/assets/img/bg/text-bg.png);	
+		background-repeat: no-repeat;
+	    background-position: right;
+	    padding: 0px 10px 20px 5px;
+	}
+	section ul {
+		padding: 5px 10px 5px 10px;
+	}
+	   
+	/* resets */
+	.toc-block h2, .toc-block p, .toc-block ul, #contribs p, .intro p{
+		background-repeat: no-repeat;
+	    background-size: none;
+	    background: none;		
+	    padding: none;		
+	}
+	.toc-block-title h2 { 
+	    margin-top: 0px;
+	}
+
+	ul.toc-block-list { 
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	}
+
+	#site_toc, .wiki-toc { margin-bottom: 30px; }
+/* end BWA theme text sections: p, ul */
+     html {
+       background-color: #202020;
+	scroll-padding-top: 70px; /* fix anchor links */
+     }
+     body {
+        background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed ; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover; 
+      }
+      .wrapper {
+          min-width: 55%;
+          max-width: 800px !important;
+      }
+      section {
+          max-width: 100% !important;
+	  margin: 10px 0;
+	  padding-top: 10px;
+      }
+	   
+	   
+	   
+	   /* pages banners */
+	   /* markdown puts our banner image inside a <p>, so I gotta target & style that rather than the image itself */
+
+		section>p:first-child{
+			width: 80%;
+			margin: 0 auto;
+			min-width: 260px;
+		}
+		section>p:first-child img{
+			width: 100%;
+		}
+
+	   /* end pages banners */
+	   
+      table {
+        display: block;
+        max-width: -moz-fit-content;
+        max-width: fit-content;
+        overflow-x: auto;
+      }
+      table .overview{min-width:200px;}
+     .menu {
+          display: flex;
+          flex-wrap: wrap;
+      }
+      .menu span {
+          padding: 10px;
+          flex-grow: 1;
+          text-align: center
+      }
+     
+      .rarity_Common {
+	border-radius: 5px;
+        border: 5px solid #d3e1f3;
+      }
+      .rarity_Special {
+        border-radius: 5px;
+        border: 5px solid #00ff79;
+      }
+      .rarity_Rare {
+        border-radius: 5px;
+        border: 5px solid #ff485a;
+      }
+      .rarity_Epic {
+        border-radius: 5px;
+        border: 5px solid #c706ff;
+      }
+
+      .toc-block-entry.rarity_Common {
+        border: 2px solid #d3e1f3;
+      }
+      .toc-block-entry.rarity_Special {
+        border: 2px solid #00ff79;
+      }
+      .toc-block-entry.rarity_Rare {
+        border: 2px solid #ff485a;
+      }
+      .toc-block-entry.rarity_Epic {
+        border: 2px solid #c706ff;
+      }
+      tr.rarity_Common {
+        border: 5px solid #d3e1f390;
+      }
+      tr.rarity_Special {
+        border: 5px solid #00ff7990;
+      }
+      tr.rarity_Rare {
+        border: 5px solid #ff485a90;
+      }
+      tr.rarity_Epic {
+        border: 5px solid #c706ff90;
+      }
+     
+     /* homepage bwa toc */
+      #site_toc, .wiki-toc {
+        display: flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+      }
+      		.toc-block {
+			background-repeat: no-repeat;
+	    background-size: 100% 100% !important;
+	    background: url(https://www.botworld.wiki/assets/img/bg/block-bg.png);			
+	    border:  0px !important;
+	    max-width: 250px !important;
+	    /*max-width: 350px !important;*/
+	    margin: 10px auto !important;
+	    padding: 15px 30px 0px 30px !important;
+		}
+		.toc-block-title {
+			background-color: cyan;
+			border-radius: 5px;
+			padding: 4px;
+			display: flex;
+			height: 20px;
+			margin: 0px 22px 0px 17px;
+		}
+		.toc-block-title img {
+			position: relative;
+			height: 50px;
+			top: -9px;
+			left: -15px;
+		}
+		.toc-block-title h2 {
+			color: #02468b;
+			padding: 0px !important;
+			text-shadow: 2px 2px 1px #5b8a8e;
+		}
+		.toc-block-list {
+			list-style: none;
+			padding: 10px 20px 0px 10px;
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.toc-block-entry {
+			width: 40%;
+			min-width: 105px;
+			margin: 2px auto;
+			border:  2px solid #00f778;
+			border-radius: 10px;
+			background: linear-gradient(340deg, rgb(13 138 126) 0%, rgb(27 20 100) 80%);
+		}
+		.toc-block-entry a {
+			flex-grow: 1;
+			display: flex;
+			align-items: center;
+		}
+		.toc-block-entry img {
+			width: 30px;
+		}
+
+		.toc-block-entry span {
+			flex-grow: 1;
+			line-height: 3em;
+		}
+		.toc-block-big .toc-block-entry {
+			width: 100%;
+			background: rgb(27 20 100);
+			height: 25px;
+			padding: 0px 0px 10px 10px;
+		}
+     /* end homepage bwa toc */
+	   
+	   /* begin home lists grid layout */
+
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			grid-gap: 30px;
+		}
+		.tall {
+			grid-row: 1 / 3;
+			grid-column: 2;
+		}
+		@media (max-width: 600px) {
+			.grid { display: flex; flex-direction: column;}
+			.grid-box { flex-grow: 1; }
+		}
+		.grid-box ul {
+			padding: 0 20px; 
+		}
+	   /* end home lists grid layout */
+
+	   
+	   /* botpack page styles */
+	   
+	.botpack .toc-block-list{
+		padding: 0px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		padding: 0 28px 0 0px;
+		margin-top: 0px;
+		margin-bottom: 60px;
+	}
+	.botpack .toc-block-entry {
+		flex-grow: 1;
+		min-width: 20px;
+		max-width: 300px;
+		width:  auto;
+		padding: 3px 6px;
+		margin: 3px;
+	}
+	.botpack .toc-block-entry img {margin-right: 10px;}
+	   
+		.botpack .toc-block-entry span {
+			line-height: 1em;
+			padding-top: 4px;
+		}
+
+	.toc-block-list.links { padding: 0px; margin:0;}
+	.toc-block-list.links .toc-block-entry{
+		margin: 0 auto;
+		flex-grow: 0;
+		padding: 0 10px;
+		padding-top: 5px;
+		border-color: cyan;
+		position:relative;
+		top: 15px;
+	}
+	/* end botpack page styles */
+	   
+	   /* collection list layout */
+	   
+	   .collection-list-entry img { width: 80px; max-width: 80px !important;}
+	   .table-pic {background: linear-gradient(160deg, #1b1a6b54 50%, #00ffff3b);}
+	   
+
+	/* todo remove next time */
+	.bots.toc-block-list.links {margin-bottom:50px}
+	.bots.toc-block-list.links .toc-block-entry { 
+		width: auto; 
+		min-width: auto;
+		margin: 5px;
+	}
+	.bots.toc-block-list.links .toc-block-entry img { 
+		position: relative; 
+		bottom: 2px; 
+		left:5px;
+	}
+	/* end todo remove next time */
+
+	.page-toc.toc-block-list.links {margin-bottom:50px}
+	.page-toc.toc-block-list.links .toc-block-entry { 
+		width: auto; 
+		min-width: auto;
+		margin: 5px;
+	}
+	.page-toc.toc-block-list.links .toc-block-entry img { 
+		position: relative; 
+		bottom: 2px; 
+		left:5px;
+	}
+	   
+	   /* end collection list layout */
+	   
+	   
+	   
+	   
+	   
+ 			/*bot page layout*/
+			.bot-infos {
+			    display: flex;
+			    max-width: 100%;
+			    flex-wrap: wrap;
+			    flex-direction: row;
+
+			}
+			.bot-infos {
+			    padding: 20px;
+			}
+			.bot_bloc_1 {
+			    display: flex;
+			    flex-wrap: wrap;
+			    flex: 0 0 100% !important;
+			    flex-grow: 1;
+					max-width: 100%;
+			}
+			.intro { flex: 1 0 100%; }
+			.bot_bloc_1 h3 { display: inline; }
+			.bot_bloc_1 .pic img { width: 250px; height: auto; }
+			.bot_bloc_1 .pic table { margin: 0 0 0px !important }
+			.bot_bloc_1 .abilities code { float:  right; }
+			.bot_bloc_1 .abilities p { clear: right;}
+			.pic, .intro { margin: 0 auto; }
+			.abilities { 
+				padding: 20px; 
+				max-width: 450px;
+				margin: 0 auto;
+			}
+			.bot_bloc_2 {
+			    flex-grow: 1;
+			}
+			.bot_bloc_3 {
+					max-width: 100%;
+			}
+			.tips {
+			    max-width: 400px;
+			}
+
+			.bot_bloc_3 > div {
+			    padding: 20px;
+			}
+			.bot_bloc_3 table {
+			    margin: 0 auto;
+			}
+			/* end bot page layout*/
+
+/* header, menu, banner */
+#banner {
+	background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') ;
+  background-repeat:   no-repeat;
+  background-position: top center;              
+  height: 350px;
+}
+.wrapper{
+          position: relative;
+          top: -130px;
+}
+h2 {padding-top: 27px;} /* fix anchor links */
+ #title-container{ 
+ 	padding: 5px;
+ }
+ #title-container a { margin: 0 auto }
+ #title-container img {
+  max-width: 80px;
+  position: relative;
+  top: 25px;
+  right: 10px;
+ }
+ #title-container div {
+  display: flex;
+ }
+ #title-container h3 {
+  text-align: center;
+  margin-top: 20px;
+ }
+  .wiki-title {
+ 	font-family: 'Trebuchet MS', sans-serif;
+ 	text-shadow: 4px -5px 5px #202020, -4px -5px 5px #202020;
+
+ 	font-size: 40px;
+ 	font-weight: 800;
+ 	display: inline;
+ }
+ @media print, screen and (max-width: 480px){
+ 	.wiki-title{font-size: 25px; line-height:2.5em}
+	.
+ }
+
+ #nav-container{height:125px !important;}
+ nav.override {display: block;}
+
+nav img { 
+	height: 40px;
+}
+.mini-menu {
+	display: none; width: 100%; 
+	z-index:100;
+	}
+.mini-menu .wiki-title { margin: 0 auto; }
+.mini-menu .tab-label {    
+	background-image: url(https://www.botworld.wiki/assets/img/icons/hamburger-icon.png);
+	background-position: center;
+	background-size: cover;
+	width: 50px;
+	cursor: pointer;
+}
+nav.fixed .mini-menu {display: flex;}
+nav.fixed {
+	  position: fixed;
+    top: 0;
+    background: #202020;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    min-width: 55%;
+    z-index: 100;
+    height: 60px;
+}
+@media (max-width: 800px) {
+	nav.fixed {left: 0;}
+}
+
+nav.fixed .mini-menu img { position: relative; top:10px; left: 10px; }
+nav.fixed .menu { display: none; position: relative; bottom: 1px; background-color: #202020;}
+#menu-checkbox:checked + .menu { display: flex };
+
+/* wtf search */
+	/* targeting search & results like wtf */
+	nav ul{ /* actually have to inline that...*/
+	    background: #403d3d;
+	    display: flex;
+	    justify-content: right;
+	    z-index: 300;
+	    position: relative;
+	    flex-wrap: wrap;
+	    bottom:3px;
+	}
+	nav ul li {
+	    margin: 10px 20px
+    	}
+/* end wtf search */
+
+	   
+.discord-link {
+	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
+	background-size: cover;	
+	background-repeat: no-repeat;
+	height: 25px;
+	width: 25px;
+}
+	   
+span.wtf-discord {
+	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
+	background-size: cover;	
+	background-repeat: no-repeat;
+	height: 25px;
+	width: 25px;
+}
+	   
+/* end header, menu, banner */
+	   
+	   /* breadcrumbs */
+	  
+	   moved to _layout
+	   
+	   /* end breadcrumbs */
+	   
+  	/*meet bb*/
+
+	div#meet-bb {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		z-index: 100;
+		display: none;
+	}
+	   
+	.wtf {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		z-index: 100;
+		display: none;
+	}
+	#meet-bb img {
+		cursor: pointer;
+		height: 60px;
+		width: 60px;
+		/*border: 1px solid #ffcc00;
+    		border-radius: 10px;*/
+	;}
+	#meet-bb h3 {
+		display: none;
+		position: relative;
+		bottom: 20px;
+		background-color: #3f414d;
+		border-radius: 5px;
+		padding: 20px;
+	}
+
+	#meet-bb input:checked + h3 {
+		display: inline !important;
+	}
+
+	/*end meet bb*/
+	   
+	   /* idk, let's try some stuff and see if people like it or complain */
+	   h1, h2, .menu a, .wiki-title a {text-shadow: 2px 2px 1px #ad5522}
+
+	   /* tbw: to be written */
+	   a[href^="https://www.botworld.wiki/contribute#tbw"], a[href^="/contribute#tbw"] { color: #ff9bb7 !important}
+    </style>
+
+  </head>
+  <body>
+    <div id="banner"></div>
+    <div class="wrapper">
+    	<div id="title-container">
+				<div>
+					<a href="https://www.botworld.wiki/" class="over_banner" title="Home Page of the Botworld Wiki">
+						<img src="./Bots Converter - Botworld Wiki_files/cog.png" alt="Botworld Wiki logo">
+						
+							<h2 class="wiki-title"> Botworld Wiki </h2>
+						
+					</a>
+				</div>
+	      <h3 class="over_banner">Robopedia, Guides &amp; Tips collected by the Community</h3>
+			</div>
+
+<div id="nav-container" style="height:86px !important">
+		 	<nav id="nav" class="override">
+		 		<div class="mini-menu">
+					<a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki">
+			 			<img src="./Bots Converter - Botworld Wiki_files/cog.png" alt="Botworld Wiki logo">
+					</a>
+					<span class="wiki-title">
+						<a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki"> Botworld Wiki </a>
+					</span>
+	        <label class="tab-label" for="menu-checkbox"></label>
+			 	</div>
+	      <input style="display: none;" type="checkbox" id="menu-checkbox">
+        <div class="menu">
+          <span><a href="https://www.botworld.wiki/bots" title="All the Bots">Bots</a></span>
+          <span><a href="https://www.botworld.wiki/botpack" title="All the Abilities, Boosters, and Gadgets">Botpack modules</a></span>
+          <span><a href="https://www.botworld.wiki/#all" title="Every Infos, Tips, and Guides on the wiki">Tips &amp; Guides</a></span>
+		
+        <span>
+	  <a href="https://www.botworld.wiki/#community-wiki" title="Everything about the Community Wiki project">Contribute</a>  
+	  <span class="discord-link wtf-discord"><a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">- -</a></span>
+	</span>
+		
+	  <!-- search -->
+	  <span><input type="text" id="search-input" placeholder="Bots, abilities.."></span>
+         
+    		</div>
+		<ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 300;position: relative;flex-wrap: wrap;bottom:3px;"></ul>
+      </nav>
+</div>
+	<hr>
+
+      <section>
+	      
+        <style type="text/css">
+    h1 { margin-bottom: 0px; }
+    ul#breadcrumbs {
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        min-width: 250px;
+        background: none !important;
+        padding: 0px;
+        margin-bottom: 20px;
+
+    }
+    ul#breadcrumbs li {
+        margin: 0px 10px 0px 10px;
+        padding: 0px 10px 0px 0px;
+    }
+    section { margin-top: 0px !important; padding-top: 0px !important; }
+</style>
+<!--
+    (opt) titleShort: "" 
+    breadcrumbs:
+      "anchor": url
+      "anchor2": url2 -->
+
+<ul id="breadcrumbs">
+  <li><a href="https://www.botworld.wiki/">Wiki</a></li>
+  
+    <li><a href="https://www.botworld.wiki/converter">Converter</a></li>
+  
+  
+    <li>Bots Converter</li>
+  
+  
+</ul>
+
+<h1 id="bots-wikisheets-converter">Bots WikiSheets Converter</h1>
 
 <h2 id="bots">Bots</h2>
 
@@ -51,9 +736,11 @@ function formatStr(str){
 		)
 }
 function convertFromFields(){
-	var str = formatStr(document.querySelector('#input-bots').value);
+	var input = document.querySelector('#input-bots').value;
+	var freeform = input.split('__end__').length > 1 ? input.split('__end__')[1] : '';
+	var str = formatStr(input);
 	var botClass = str.split('botType: "')[1].split('"')[0]
-	document.querySelector('#output-bots').value = str.replace('-_class_-: "', botClass+': "').replace('breadcrumbs: ""', 'breadcrumbs:');
+	document.querySelector('#output-bots').value = str.replace('-_class_-: "', botClass+': "').replace('breadcrumbs: ""', 'breadcrumbs:')+'\n\n'+freeform.replace(/^\s*"/,'').replace(/"\s*$/,'')+'\n';
 }
 document.querySelector('#convert-bots').onclick = convertFromFields;
 
@@ -63,3 +750,53 @@ function trimInput(){
 }
 document.querySelector('#input-bots').addEventListener('input', trimInput, false);
 </script>
+
+
+
+
+      </section>
+
+    </div>
+
+<div id="meet-bb" class="wtf">
+      <input style="display: none;" type="checkbox" id="bb-checkbox">
+      <h3>Meet us <a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">on discord</a> !</h3>
+      <label for="bb-checkbox" title="Meet Beat Burger">
+      	<img src="./Bots Converter - Botworld Wiki_files/beatburger-mini.png" alt="Beat Burger logo by Lollitree">
+      </label>
+</div>
+	  
+ <script type="text/javascript">
+  
+ window.onscroll = function() {changeMenu()};
+
+var $nav = document.getElementById("nav");
+var $bb = document.getElementById("meet-bb");
+function changeMenu() {
+	if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
+		$nav.classList.add('fixed');
+		$bb.style.display = 'block';
+	} else {
+		$nav.classList.remove('fixed');
+		$bb.style.display = 'none';
+	}
+}
+</script>
+	  
+
+<script defer="defer" async="async" src="./Bots Converter - Botworld Wiki_files/dispatcher.js"></script>
+
+<!-- search -->
+<script src="./Bots Converter - Botworld Wiki_files/simple-jekyll-search.min.js"></script>
+
+<script type="text/javascript">
+	
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/assets/js/search.json?cachebuster='+Math.random()
+})
+</script>
+  
+
+</body></html>
