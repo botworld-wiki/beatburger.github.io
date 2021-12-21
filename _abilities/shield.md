@@ -7,7 +7,7 @@ updatedAt: "2021-12-14"
 title: "Shield"
 name: "Shield"
 description: "Prevents all incoming damage for a short duration"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861911442767932/Screenshot_20211218-212545_Discord.jpg"
+imageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787231482146856/Shield.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,10 +15,10 @@ breadcrumbs:
 
 abilityName: "Shield"
 abilityDescription: "Prevents all incoming damage for a short duration"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861911442767932/Screenshot_20211218-212545_Discord.jpg"
+abilityImageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787231482146856/Shield.png"
 abilityCost: "3"
 abilityRarity: "Common"
-abilityAcquisition: ""
+abilityAcquisition: "Scrap pile, Chest"
 abilityOpinion: ""
-searchKeywords: ""
+searchKeywords: "shield"
 ---
