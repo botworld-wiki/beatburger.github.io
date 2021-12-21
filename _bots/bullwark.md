@@ -18,7 +18,7 @@ botDescription: "Bullwark's front-facing shield makes it great at taking on a si
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397823192842281/bullwark.png"
 botType: "Tank"
 botRarity: "Rare"
-botRarityNumber: "3"
+botRaritySortOrder: "3"
 botAcquisition: "Random Drop"
 botOpinion: "Frontliner"
 searchKeywords: "shield, tank, rare, stun"
