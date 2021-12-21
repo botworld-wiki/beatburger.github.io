@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /botpack
 title: Botpack & Modules
-description: The place to learn everything there is to know about your Botpack and its Modules!
+description: Your Botpack, how it works, every Ability, Booster, and Gadget... The best place to learn everything there is to know about your what really makes you a True Botmaster!
 breadcrumbs:
 ---
 
@@ -48,7 +48,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
     		{% for ability in abilities_by_rarity %}
                 <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                     <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                        <img loading="lazy"   src="{{ ability.abilityImageUrl }}">
+                        <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Picture of {{ ability.abilityName }}">
                         <span>{{ ability.abilityName }}</span>
                     </a>
                 </li>
@@ -80,7 +80,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
     		{% for booster in boosters_by_rarity %}
                 <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
                     <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                        <img loading="lazy"   src="{{ booster.boosterImageUrl }}">
+                        <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Picture of {{ booster.boosterName }}">
                         <span>{{ booster.boosterName }}</span>
                     </a>
                 </li>
