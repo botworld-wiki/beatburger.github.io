@@ -71,7 +71,7 @@ epicMat: "Halo Essence"
 rareMat: "Support Chip"
 specialMat: "Heavy Steel"
 commonMat1: "Thick Tube"
-commonMat2: "Sputtering Generators"
+commonMat2: "Sputtering Generator"
 commonMat3: "Sparky Wires"
 ---
 
