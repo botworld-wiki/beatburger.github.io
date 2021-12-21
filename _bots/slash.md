@@ -77,7 +77,7 @@ epicMat: "Slash Essence"
 rareMat: "Chaser Core"
 specialMat: "Hard Botplates"
 commonMat1: "Double Cog"
-commonMat2: "Sputtering Generators"
+commonMat2: "Sputtering Generator"
 commonMat3: "Sparky Wires"
 ---
 
