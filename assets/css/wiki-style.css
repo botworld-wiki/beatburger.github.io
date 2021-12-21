@@ -464,6 +464,16 @@ nav{display:none}
   background-position: top center;              
   height: 350px;
 }
+ @media print, screen and (max-width: 480px){
+ 	#banner {
+ 		background-position: -290px -30px;
+ 		height: 320px;
+ 	}
+ 	#title-container h3 { margin-top: 0px !important;}
+ 	ul#breadcrumbs { margin-bottom: 5px !important; }
+ 	.toc-block-entry *, nav#nav .menu * { padding: 5px !important; }
+ }
+
 .wrapper{
           position: relative;
           top: -130px;
@@ -496,7 +506,6 @@ h2 {padding-top: 27px;} /* fix anchor links */
  }
  @media print, screen and (max-width: 480px){
  	.wiki-title{font-size: 25px; line-height:2.5em}
-	.
  }
 
  #nav-container{height:125px !important;}
@@ -535,7 +544,7 @@ nav.fixed {
 }
 
 nav.fixed .mini-menu img { position: relative; top:10px; left: 10px; }
-nav.fixed .menu { display: none; position: relative; bottom: 1px; background-color: #202020;}
+nav.fixed .menu { display: none; position: relative; bottom: 3px; background-color: #202020;}
 #menu-checkbox:checked + .menu { display: flex };
 
 /* wtf search */
@@ -550,8 +559,12 @@ nav.fixed .menu { display: none; position: relative; bottom: 1px; background-col
 	    bottom:3px;
 	}
 	nav ul li {
-	    margin: 10px 20px
-    	}
+    margin: 5px 20px;
+  }
+	nav ul li * {
+    font:18px/1 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  	font-weight: bold !important;
+  }
 /* end wtf search */
 
 	   
