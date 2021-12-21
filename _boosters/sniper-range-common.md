@@ -7,7 +7,7 @@ updatedAt: "2021-12-21"
 title: "Sniper Range (Common)"
 name: "Sniper Range"
 description: "Sniper bots range increased by 20% - "
-imageUrl: ""
+imageUrl: "/assets/img/boosters/sniper-range-common.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Sniper Range"
 boosterDescription: "Sniper bots range increased by 20%"
-boosterImageUrl: ""
+boosterImageUrl: "/assets/img/boosters/sniper-range-common.png"
 boosterStacks: "Multiplicative"
 boosterRarity: "Common"
 boosterRaritySortOrder: "1"
