@@ -8,15 +8,19 @@ title: "Ram"
 name: "Ram"
 description: "Amazing bot that can carry in early game due to high health, damage, mobility but falls off in late game. Ruins chainer combos"
 imageUrl: "https://media.discordapp.net/attachments/917809790284079114/922218246881562635/Screenshot_20211219-210527_Chrome.jpg"
-
+breadcrumbs:
+ Bots: "/bots"
+ Chaser: "/bots#chasers"
 
 botName: "Ram"
 botDescription: "Charges head-first into battle and knocks its enemies all over the arena. High mobility and high damage."
 botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885548229196906536/ram.png"
 botType: "Chaser"
 botRarity: "Rare"
+botRaritySortOrder: "3"
 botAcquisition: "Starter bot or Random Drop"
 botOpinion: "Amazing bot that can carry in early game due to high health, damage, mobility but falls off in late game. Ruins chainer combos"
+searchKeywords: "ram, op, best, combo break, break, burst, crit, critical, starter, newbie, annoying"
 
 
 ability1Name: "Headbutt"
@@ -73,7 +77,7 @@ specialMat: "Dull Steel"
 commonMat1: "Clear Oil"
 commonMat2: "Sputtering Generator"
 commonMat3: "Cold Battery"
-undefined: ""
-undefined: "### suggested ai build"
-undefined: ""
 ---
+
+### Suggested AI Build
+BBCAB
