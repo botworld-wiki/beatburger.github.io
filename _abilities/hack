@@ -7,7 +7,7 @@ updatedAt: "2021-12-21"
 title: "Hack"
 name: "Hack"
 description: "Hack an enemy bot, tricking it into attacking its teammates for 4 seconds"		
-imageUrl: "https://drive.google.com/file/d/1xrj6btOvTmuxC3s6_DSv9qa8zto41ppr/view?usp=sharing"
+imageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787453687971850/Hack.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 abilityName: "Hack"
 abilityDescription: "Hack an enemy bot, tricking it into attacking its teammates for 4 seconds"
-abilityImageUrl: "https://drive.google.com/file/d/1xrj6btOvTmuxC3s6_DSv9qa8zto41ppr/view?usp=sharing"
+abilityImageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787453687971850/Hack.png"
 abilityCost: "6"
 abilityRarity: "Rare"
 abilityAcquisition: ""
