@@ -8,16 +8,19 @@ title: "Bombee"
 name: "Bombee"
 description: "Special Splasher - Makes an explosion entrance when it enters the arena. Self-destructs when fully charged"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397789688729670/bombee.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Splasher: "/bots#splashers"
 
 botName: "Bombee"
 botDescription: "Makes an explosion entrance when it enters the arena. Self-destructs when fully charged"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397789688729670/bombee.png"
 botType: "Splasher"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Random Drop"
 botOpinion: "1-Time use only"
-
+searchKeywords: "special, bombee, splasher, suicide, bomber, aoe, splash, weak, 1, useless"
 
 ability1Name: "Headbutt"
 ability1Info: "Range: Melee , Attack Speed: 1.4s , Physical Damage: 100%"
