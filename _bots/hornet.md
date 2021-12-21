@@ -18,9 +18,10 @@ botDescription: "Relies on staying out of combat and keeping its enemies poisone
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547873377345556/hornet.png"
 botType: "Evader"
 botRarity: "Epic"
+botRaritySortOrder: "5"
 botAcquisition: "Arena (5000)"
 botOpinion: "Team Player"
-searchKeywords: ""
+searchKeywords: "useless, poison, stun, dot, weak"
 
 
 ability1Name: "Stinger"
