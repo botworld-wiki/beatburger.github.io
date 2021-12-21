@@ -755,7 +755,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 300;
 		border-radius: 0px !important;
 	}
-	.dropdown-block {width: 100%;}
+	.dropdown-block {width: 100% !important;}
 	.extended-menu ul{ 
 		margin: 0px;
 		padding: 0px;
@@ -778,7 +778,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 	#dropdown-checkbox:checked + .menu .dropdown-menu { padding-bottom: 30px;}
 
 	/* okay now I'm being clever to cover my stupid ass */
-	
+
   .mask { position: fixed; top: 0; left: 0; background-color: #403d3d; width: 75%; max-width:400px; height: 70px }
   nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: block; }
   nav .menu .mask.hide-on-fixed { display: none; }
@@ -816,12 +816,12 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     justify-content: left;
     font-family: "Luckiest Guy" !important;
     font-size: 24px !important;
-    font-weight: bold !important;
+    font-weight: normal !important;
     text-shadow: 2px 2px 1px #ad5522;
 		text-align: left !important;
     display: block;
-    line-height: 2.5em;
     min-height: 30px;
+    padding-top: 20px;
 }
 .dropdown-block{
 		width: 200px;
@@ -834,7 +834,11 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     flex-direction: column;
     justify-content: left
 }
-	   
+.dropdown-link * {
+	font-family: "Abel" !important;
+	font-size: 20px !important;
+	font-weight: normal;
+}
 .discord-link {
 	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
 	background-size: cover;	
