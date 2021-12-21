@@ -8,16 +8,19 @@ title: "Pluggie"
 name: "Pluggie"
 description: "Rare Splasher - With a chain lightning attack that bounces to nearby enemies, Pluggie is amped for battle"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396927117557771/pluggie.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Splasher: "/bots#splashers"
 
 botName: "Pluggie"
 botDescription: "With a chain lightning attack that bounces to nearby enemies, Pluggie is amped for battle"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396927117557771/pluggie.png"
 botType: "Splasher"
 botRarity: "Rare"
+botRaritySortOrder: "3"
 botAcquisition: "Solo Arena 2000 rating"
 botOpinion: "Best Splasher at close range"
-
+searchKeywords: "splasher, stun, electric, chain, lightning, rare, pluggie"
 
 ability1Name: "Chain Lightning"
 ability1Info: "Max Enemies Hit: 3 , Bounce Range: 4 , Range: 5 , Attack Speed: 1.1s , Energy Damage: 75% - 125%"
