@@ -1,20 +1,28 @@
 ---
 layout: bot
 contributors: "Hex"
+updatedAt: 2021-12-15
+
 # Wiki page infos: ""
 title: "Brute"
 name: "Brute"
 description: "Special Brawler - Equipped with a massive mace, Brute lumbers slowly towards its enemies to deal huge damage."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397488160223302/brute.png"
+breadcrumbs: 
+ Bots: "/bots"
+ Brawler: "/bots#brawlers"
+ 
 # Bot infos: ""
 botName: "Brute"
 botDescription: "Equipped with a massive mace, Brute lumbers slowly towards its enemies to deal huge damage."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397488160223302/brute.png"
 botType: "Brawler"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Random Drop"
 botOpinion: "Dangerous up close"
-searchKeywords: "aoe melee"
+searchKeywords: "aoe melee, special, aoe, brute, swing, smash, brawler"
+
 # Abilities infos: ""
 ability1Name: "Mace"
 ability1Info: "Range: Melee , Attack Speed: 1.4s , Physical Damage: 100% , Knockback: Small"
@@ -25,6 +33,7 @@ ability2Description: "Quicly spins the mace around, stunning and damaging nearby
 ability3Name: "Overclock"
 ability3Info: "Range: Melee , Cooldown: 11s , Stun Duration: 3.5s , Damage: +150% , Duration: 4s , Damage Taken: +150% , Physical Damage: 59% , Knockback: Small"
 ability3Description: "Stuns the nearest enemy and becomes enraged, dealing and taking much more damage than usual"
+
 # AI tree infos: ""
 ai1aName: "A: Speed Boost"
 ai1aDescription: "Move speed increased by 20%"
@@ -46,6 +55,7 @@ ai5aName: "A: Ready to Spin"
 ai5aDescription: "Spawns with spin ready"
 ai5bName: "B: Reinforced Mace"
 ai5bDescription: "Spin stun duration increased by 50%"
+
 # Stats infos: ""
 lvl1Hp: "1456"
 lvl1Dmg: "170"
@@ -60,6 +70,7 @@ lvl20Dps: "743"
 lvl25Hp: "12805"
 lvl25Dmg: "1674"
 lvl25Dps: "1196"
+
 # Upgrade infos: ""
 epicMat: "Brute Essence"
 rareMat: "Brawler Battery"
