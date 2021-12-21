@@ -8,15 +8,19 @@ title: "K.O."
 name: "K.O."
 description: "Rare Brawler - Gets stronger and stronger the longer the battle lasts. K.O. can deliver a knockout blow"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397302184804372/KO.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Brawler: "/bots#brawlers"
 
 botName: "K.O."
 botDescription: "Gets stronger and stronger the longer the battle lasts. K.O. can deliver a knockout blow"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397302184804372/KO.png"
 botType: "Brawler"
 botRarity: "Rare"
+botRaritySortOrder: "3"
 botAcquisition: "Starter Season, Random drop after Starter Season"
 botOpinion: "Boxer"
+searchKeywords: "stack, damage, burst, crit, critical, thicc, brawler, rare, knock-out"
 
 
 ability1Name: "Punch"
@@ -74,3 +78,6 @@ commonMat1: "Sputtering Generator"
 commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
+
+### Suggested Ai Build
+- ABCAB
