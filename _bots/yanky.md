@@ -1,12 +1,16 @@
 ---
 layout: bot
 contributors: "Hex"
+updatedAt: "2021-12-16"
 
 
 title: "Yanky"
 name: "Yanky"
 description: "Common Brawler - Equipped with a grappling hook, this bot keeps its enemies close."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397854083883018/yanky.png"
+breadcrumbs:
+  Bots: "/bots"
+  Brawler: "/bots#brawlers"
 
 
 botName: "Yanky"
@@ -14,8 +18,10 @@ botDescription: "Equipped with a grappling hook, this bot keeps its enemies clos
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397854083883018/yanky.png"
 botType: "Brawler"
 botRarity: "Common"
-botAcquisition: "Random Drop"
+botRaritySortOrder: "1"
+botAcquisition: "drop"
 botOpinion: "Best bot in 1v1 Stun lock"
+searchKeywords: ""
 
 
 ability1Name: "Punch"
