@@ -8,16 +8,19 @@ title: "Longshot"
 name: "Longshot"
 description: "Special Sniper - Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Sniper: "/bots#snipers"
 
 botName: "Longshot"
 botDescription: "Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
 botType: "Sniper"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Solo Arena 500 rating"
 botOpinion: "A must use in the early game"
-
+searchKeywords: "dmg, burst, ranged, instakill, special, newbie, sniper, longshot, shooter"
 
 ability1Name: "Blaster"
 ability1Info: "Range: 10 , Attack Speed: 0.85s , Physical Damage: 100%"
