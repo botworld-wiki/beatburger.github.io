@@ -68,7 +68,7 @@ lvl25Dps: "422"
 
 
 epicMat: "Bombee Essences"
-rareMat: "Splasher Explosive"
+rareMat: "Splasher Explosives"
 specialMat: "Tangled Wires"
 commonMat1: "Double Cog"
 commonMat2: "Hardened Fiberglass"
