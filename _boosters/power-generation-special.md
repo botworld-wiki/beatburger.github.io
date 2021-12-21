@@ -7,7 +7,7 @@ updatedAt: "2021-12-21"
 title: "Power Generation (Special)"
 name: "Power Generation"
 description: "Increases botpack power generation rate by 15% - "
-imageUrl: ""
+imageUrl: "/assets/img/boosters/power-generation-special.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Power Generation"
 boosterDescription: "Increases botpack power generation rate by 15%"
-boosterImageUrl: ""
+boosterImageUrl: "/assets/img/boosters/power-generation-special.png"
 boosterStacks: "Multiplicative"
 boosterRarity: "Special"
 boosterRaritySortOrder: "2"
