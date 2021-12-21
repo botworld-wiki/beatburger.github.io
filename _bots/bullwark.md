@@ -71,7 +71,7 @@ lvl25Dps: "458"
 epicMat: "Bullwark Essence"
 rareMat: "Tank Plating"
 specialMat: "Matte Coating"
-commonMat1: "Double Cogs"
+commonMat1: "Double Cog"
 commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cog"
 ---
