@@ -44,49 +44,14 @@ Find a detailled table with [all the info about every Ability](/abilities)
 
 <div class="botpack">
         <ul class="toc-block-list">
-
-            {% for ability in site.abilities %}
-                {% if ability.abilityRarity == 'Common' %}
-                    <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
-                        <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
-                            <span>{{ ability.abilityName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for ability in site.abilities %}
-                {% if ability.abilityRarity == 'Special' %}
-                    <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
-                        <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
-                            <span>{{ ability.abilityName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for ability in site.abilities %}
-                {% if ability.abilityRarity == 'Rare' %}
-                    <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
-                        <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
-                            <span>{{ ability.abilityName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for ability in site.abilities %}
-                {% if ability.abilityRarity == 'Epic' %}
-                    <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
-                        <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
-                            <span>{{ ability.abilityName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
+            {% assign abilities_by_rarity = site.abilities | sort: "abilityRaritySortOrder" %}
+    		{% for ability in abilities_by_rarity %}
+                <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
+                    <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
+                        <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                        <span>{{ ability.abilityName }}</span>
+                    </a>
+                </li>
             {% endfor %}
         </ul>
 
@@ -111,48 +76,14 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 <div class="botpack">
         <ul class="toc-block-list">
-            {% for booster in site.boosters %}
-                {% if booster.boosterRarity == 'Common' %}
-                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
-                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
-                            <span>{{ booster.boosterName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for booster in site.boosters %}
-                {% if booster.boosterRarity == 'Special' %}
-                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
-                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
-                            <span>{{ booster.boosterName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for booster in site.boosters %}
-                {% if booster.boosterRarity == 'Rare' %}
-                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
-                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
-                            <span>{{ booster.boosterName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-
-            {% for booster in site.boosters %}
-                {% if booster.boosterRarity == 'Epic' %}
-                    <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
-                        <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
-                            <span>{{ booster.boosterName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
+            {% assign boosters_by_rarity = site.boosters | sort: "boosterRaritySortOrder" %}
+    		{% for booster in boosters_by_rarity %}
+                <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
+                    <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
+                        <img loading="lazy"   src="{{ booster.boosterImageUrl }}">
+                        <span>{{ booster.boosterName }}</span>
+                    </a>
+                </li>
             {% endfor %}
         </ul>
 
