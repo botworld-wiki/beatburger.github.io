@@ -75,7 +75,7 @@ rareMat: "Chaser Core"
 specialMat: "Layered Fiberglass"
 commonMat1: "Thick Tube"
 commonMat2: "Frost Fuel"
-commonMat3: "Sputtering Generators"
+commonMat3: "Sputtering Generator"
 ---
 
 ### Tips
