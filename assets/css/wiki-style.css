@@ -603,7 +603,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 .dropdown-menu ul {
     margin: 0px !important;
     padding: 0px 20px !important;
-    background: linear-gradient(270deg, cyan 0%, #403d3d 8%) !important;
+    background: linear-gradient(270deg, cyan 0%, #8b717100 8%) !important;
     list-style-image: url("/assets/images/bullet.png") !important;
 }
 #dropdown-checkbox:checked + .menu .dropdown-menu { display: flex !important; padding-right: 0px; }
@@ -612,17 +612,27 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 .extended-menu {
 	width: 100%;
 	z-index: 100;
+}
+
+.extended-menu, .dropdown-menu, .dropdown-block
+ {
 	border-radius: 5px 5px 10px 10px;
 }
 
 .extended-menu * {
 		z-index: 300;
 }
-.extended-menu, .dropdown-menu, .dropdown-block{
+.extended-menu, .dropdown-menu{
 	background-color: #403d3d !important;
+}
+.dropdown-block {
+	background-color: #403d3d !important;
+	/*linear-gradient(340deg,rgb(13 138 126 / 62%) 0%,rgb(27 20 100) 80%) !important;*/
 }
 .dropdown-block * { background: none !important; }
 
+
+/* start media query */
 @media print, screen and (max-width: 800px){
 
 	#dropdown-checkbox:checked + .menu .extended-menu {
@@ -648,7 +658,9 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 300;
 		border-radius: 0px !important;
 	}
-	.dropdown-block {width: 100% !important;}
+	.dropdown-block {width: 100% !important; padding-right: 5px !important;}
+	.dropdown-block ul { margin-left: 20px !important }
+
 	.extended-menu ul{ 
 		margin: 0px;
 		padding: 0px;
@@ -678,6 +690,9 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
   nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none !important; }
 }
   nav .menu .mask.hide-on-fixed { display: none; }
+  /*end media query*/
+
+
 /* wtf search */
 	/* targeting search & results like wtf */
 	nav ul{ /* actually have to inline that...*/
