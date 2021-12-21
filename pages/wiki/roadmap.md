@@ -36,8 +36,6 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Important Content Pages / Features
 
-- rarity sorted
-- Complete lists of Abilities & Boosters
 - editor/maintainer doc
 
 
@@ -55,7 +53,7 @@ Basically, I want to focus on building the project & team first, the website sec
 
 - tech stack doc
 - videos ? 
-- advanced search
+- advanced search (incl pages titles)
 - inter-linking
 - essences per bot 
 - sortable lists
