@@ -1,13 +1,13 @@
 ---
 layout: booster
-contributors: "Pix"
-updatedAt: "2021-12-18"
+contributors: "Pix, debb, Kartoffel, GlareFacer"
+updatedAt: "2021-12-21"
 
 
 title: "Power Start (Common)"
 name: "Power Start"
-description: "Gives 2 botpack power at the beginning of a battle"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861833269325854/Screenshot_20211218-212841_Discord.jpg"
+description: "Gives 2 botpack power at the beginning of a battle - One of the best boosters early on"
+imageUrl: ""
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,10 +15,13 @@ breadcrumbs:
 
 boosterName: "Power Start"
 boosterDescription: "Gives 2 botpack power at the beginning of a battle"
-boosterImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861833269325854/Screenshot_20211218-212841_Discord.jpg"
+boosterImageUrl: ""
 boosterStacks: "Additive"
 boosterRarity: "Common"
+boosterRaritySortOrder: "1"
 boosterAcquisition: ""
 boosterOpinion: "One of the best boosters early on"
 searchKeywords: ""
 ---
+
+
