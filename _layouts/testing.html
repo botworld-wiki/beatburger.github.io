@@ -702,17 +702,25 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     font-family: "Luckiest Guy" !important;
     font-size: 24px !important;
     font-weight: bold !important;
+    text-shadow: 2px 2px 1px #ad5522;
+    line-height: 3em;
+		text-align: left !important;
+
 }
 .dropdown-link { 
     font-family: "Abel" !important;
     font-size: 18px !important;
     font-weight: normal !important;
 }
+.dropdown-menu > ul {
+    position: relative;
+    bottom: 10px;
+}
 .dropdown-menu ul {
     margin: 0px !important;
-    padding: 5px 10px !important;
+    padding: 0px 10px !important;
 }
-#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; }
+#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; padding-bottom: 30px;}
 #dropdown-checkbox:checked + .menu { display: flex !important}
 
 .extended-menu {
@@ -732,20 +740,21 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 
 	#dropdown-checkbox:checked + .menu .extended-menu {
 		left: 0px;
-		top: 0px;
+		top: 60px;
 		position: fixed;
 		display: flex;
 		flex-direction: column;
 		width: 75%;
 		max-width: 400px;
-		padding-top: 85px !important;
+		height: 40px;
+		/*padding-top: 85px !important;*/
 	}
 	.extended-menu .dropdown-menu{
 		flex-direction: column;
 		overflow: scroll;
 		/* height: 400px; */
 		position: fixed;
-		top: 100px;
+		top: 95px;
 		bottom: 0px;
 		width: 75%;
 		max-width: 400px;
@@ -761,15 +770,16 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
   }
   nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
 	nav #dropdown-checkbox:checked + .menu .menu-links .menu-search{ 
-		display: block !important;
+		display: flex !important;
+		justify-content: center;
 		width: 75%;
 		max-width: 400px;
 		position: fixed;
-		top: 50px;
+		top: 60px;
 		left: 0;
 		z-index: 301;
 	}
-	.menu-search input { width: 80%; }
+	.menu-search input { height: 25px; width: 80%; }
 
 }
 /* wtf search */
@@ -808,7 +818,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 .dropdown-block{
     display: flex;
     flex-direction: column;
-    padding: 20px !important; 
+    padding: 0 20px !important; 
 }
 .dropdown-block ul {
     display: flex;
@@ -930,7 +940,7 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
             <nav id="nav" class="override">
                 <div class="mini-menu">
                     <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki">
-                        <img loading="lazy" src="/assets/img/icons/cog.png" alt="Botworld Wiki logo">
+                        <img loading="lazy" src="./Botworld Adventure community Wiki_files/cog.png" alt="Botworld Wiki logo">
                     </a>
                     <span class="wiki-title">
                         <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki"> Botworld Wiki </a>
@@ -952,8 +962,9 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
                 <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
             </div>
             <div class="extended-menu">
-                <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto">
-
+                <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto; padding:0px; border-radius: 5px;border-bottom: 3px dotted grey;border-right: 3px dotted grey;border-left: 3px dotted grey;">
+                    <li>Result 1</li>
+                    <li>Result 2</li>
                 </ul>
                 <div class="dropdown-menu">
                     <div class="dropdown-block">
