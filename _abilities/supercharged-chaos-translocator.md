@@ -6,8 +6,8 @@ updatedAt: "2021-12-14"
 
 title: "Supercharged Chaos Translocator"
 name: "Supercharged Chaos Translocator"
-description: "Teleports an ally to a random part of the arena and increases their damage for 4 seconds"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861952018460692/Screenshot_20211218-212310_Discord.jpg"
+description: "3P - Teleports an ally to a random part of the arena and increases their damage for 4 seconds"
+imageUrl: "/assets/img/abilities/supercharged-chaos-translocator.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,10 +15,13 @@ breadcrumbs:
 
 abilityName: "Supercharged Chaos Translocator"
 abilityDescription: "Teleports an ally to a random part of the arena and increases their damage for 4 seconds"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861952018460692/Screenshot_20211218-212310_Discord.jpg"
+abilityImageUrl: "/assets/img/abilities/supercharged-chaos-translocator.png"
 abilityCost: "3"
 abilityRarity: "Epic"
+abilityRaritySortOrder: "4"
 abilityAcquisition: ""
 abilityOpinion: ""
 searchKeywords: "teleport, boost damage, placement, mobility"
 ---
+
+
