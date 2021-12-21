@@ -1,14 +1,16 @@
 ---
 layout: bot
 contributors: "Diamond"
-updatedAt: ""
+updatedAt: "2021-12-15"
 
 
 title: "Berseker"
 name: "Berserker"
 description: "Special Tank - A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Tank: "/bots#tanks"
 
 botName: "Berserker"
 botDescription: "A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
@@ -18,7 +20,7 @@ botRarity: "Special"
 botRarityNumber: "3"
 botAcquisition: "Random Drop"
 botOpinion: "a good tank all around"
-
+searchKeywords: "berserker, tank, special, fast, brawler"
 
 ability1Name: "Punch"
 ability1Info: "Range: Melee , Physical Damage: 100% , Attack Speed: 0.85s"
@@ -75,3 +77,9 @@ commonMat1: "Hardened Fiberglass"
 commonMat2: "Rusty Cog"
 commonMat3: "Mini Sensor"
 ---
+
+### Tips
+Do not underestimate Berserker, he is very tanky and fast.
+
+### Suggested AI Build
+ABCAB
