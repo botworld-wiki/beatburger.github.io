@@ -6,8 +6,8 @@ updatedAt: "2021-12-14"
 
 title: "Icewall"
 name: "Icewall"
-description: "Creates a wall of ice that freezes enemy bots caught in it"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861951552880660/Screenshot_20211218-212412_Discord.jpg"
+description: "5P - Creates a wall of ice that freezes enemy bots caught in it"
+imageUrl: "/assets/img/abilities/icewall.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,10 +15,13 @@ breadcrumbs:
 
 abilityName: "Icewall"
 abilityDescription: "Creates a wall of ice that freezes enemy bots caught in it"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861951552880660/Screenshot_20211218-212412_Discord.jpg"
+abilityImageUrl: "/assets/img/abilities/icewall.png"
 abilityCost: "5"
 abilityRarity: "Rare"
+abilityRaritySortOrder: "3"
 abilityAcquisition: ""
 abilityOpinion: ""
 searchKeywords: ""
 ---
+
+
