@@ -18,7 +18,7 @@ botDescription: "A timid bot that throws its allies into the fray. Loves to go b
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/912341631666106448/1637589480024.png"
 botType: "Support"
 botRarity: "Epic"
-botRaritySortOrder: "3"
+botRaritySortOrder: "4"
 botAcquisition: "drop"
 botOpinion: "Kobe"
 searchKeywords: "gusto, support, throw, shoot, Hurl"
