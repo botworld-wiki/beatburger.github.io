@@ -70,7 +70,7 @@ lvl25Dps: "985"
 epicMat: "Flamer Essence"
 rareMat: "Evader Spray"
 specialMat: "Jet Fuel"
-commonMat1: "Thicc Tube"
+commonMat1: "Thick Tube"
 commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
