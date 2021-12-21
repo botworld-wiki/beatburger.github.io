@@ -6,7 +6,7 @@ updatedAt: "2021-12-21"
 
 title: "Bot Effect Area (Rare)"
 name: "Bot Effect Area"
-description: ""
+description: "All bot area attacks radius increased by 20%"
 imageUrl: "/assets/img/boosters/bot-effect-area-rare.png"
 breadcrumbs:
   Botpack: "/botpack"
