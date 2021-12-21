@@ -52,7 +52,7 @@ layout: breadcrumbs
                     <tr>
                       <td><a href="/bots#{{page.botType | slugify}}s" title="Every {{page.botType}} bot">{{page.botType}}</a></td>
                       <td>{{page.botRarity}}</td>
-            {% if page.botAcquisition == "drop" %}
+            {% if page.botAcquisition == "Random Drop" %}
                 <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
             {% elsif page.botAcquisition contains "arena" or page.botAcquisition contains "Arena" %}
                 <td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{page.botAcquisition}}</a></td>
