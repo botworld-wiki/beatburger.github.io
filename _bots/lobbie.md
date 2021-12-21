@@ -1,6 +1,7 @@
 ---
 layout: bot
 contributors: "Diamond Gold"
+updatedAt: "2021-12-15"
 
 # Wiki page infos: ""
 title: "Lobbie"
@@ -20,7 +21,7 @@ botRarity: "Common"
 botRaritySortOrder "1"
 botAcquisition: "Random Drop"
 botOpinion: "best paired with chainer"
-searchKeywords: "aoe, range, ranged, common, splasher, splash, stun, over, combo"
+searchKeywords: " aoe, range, ranged, common, splasher, splash, stun, over, combo"
 
 # Abilities infos: ""
 ability1Name: "Orb"
