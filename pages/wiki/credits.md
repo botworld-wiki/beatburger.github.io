@@ -44,6 +44,10 @@ breadcrumbs:
 
 - Pix (@Pix#6773)
 
+### Fruits and Vegetables
+
+- Kartoffel
+
 </div>
 
 ### Art & visual assets
