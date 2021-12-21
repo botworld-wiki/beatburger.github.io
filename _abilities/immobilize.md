@@ -6,8 +6,8 @@ updatedAt: "2021-12-14"
 
 title: "Immobilize"
 name: "Immobilize"
-description: "Holds an enemy bot in place for 4 seconds"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861911727984660/Screenshot_20211218-212521_Discord.jpg"
+description: "3P - Holds an enemy bot in place for 4 seconds"
+imageUrl: "/assets/img/abilities/immobilize.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,10 +15,13 @@ breadcrumbs:
 
 abilityName: "Immobilize"
 abilityDescription: "Holds an enemy bot in place for 4 seconds"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861911727984660/Screenshot_20211218-212521_Discord.jpg"
+abilityImageUrl: "/assets/img/abilities/immobilize.png"
 abilityCost: "3"
 abilityRarity: "Common"
+abilityRaritySortOrder: "1"
 abilityAcquisition: ""
 abilityOpinion: ""
 searchKeywords: "cc"
 ---
+
+
