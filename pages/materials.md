@@ -48,7 +48,8 @@ What you need to upgrade your boat.
     </tr>
   </thead>
   <tbody>
-    {% for material in site.materials %}
+    {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
+    {% for material in mats_by_rarity %}
         {% if material.matType == 'Boat' %}
           <tr class="collection-list-entry rarity_{{material.matRarity}}">
               <td class="table-pic">
