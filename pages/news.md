@@ -20,6 +20,8 @@ breadcrumbs:
 
 We're excited to have you check it out!
 
+![Beat Burger by Lollitree](/assets/img/pics/beatburger.png)
+
 ## 2021-12-21
 
 The event is called **Teddies of Scrapyard** and your goal is to find all of the hidden teddy bears in the Scrapyard Danger Zone! This event begins now and ends on January 3rd, 2022. You can submit your video until that date. [Official link](https://docs.google.com/forms/d/e/1FAIpQLSeEieIPZpQEYwryNs32m-ovHbPqGx3oLC1AsCF6FfwR-9tvCw/viewform)
