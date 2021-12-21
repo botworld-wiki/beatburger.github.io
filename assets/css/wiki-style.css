@@ -592,6 +592,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 	background-color: #403d3d !important; 
 	z-index: 300;
 	border-radius: 30px;
+	padding-bottom: 30px;
 }
 
 .dropdown-link { 
@@ -601,9 +602,11 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 }
 .dropdown-menu ul {
     margin: 0px !important;
-    padding: 0px 10px !important;
+    padding: 0px 20px !important;
+    background: linear-gradient(270deg, cyan 0%, #403d3d 8%) !important;
+    list-style-image: url("/assets/images/bullet.png") !important;
 }
-#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; padding-right: 0px; }
+#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex !important; padding-right: 0px; }
 #dropdown-checkbox:checked + .menu { display: flex !important}
 
 .extended-menu {
@@ -626,7 +629,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		left: 0px;
 		top: 60px;
 		position: fixed;
-		display: flex;
+		display: flex !important;
 		flex-direction: column;
 		width: 75%;
 		max-width: 400px;
@@ -665,15 +668,14 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 301;
 	}
 	.menu-search input { height: 25px; width: 80%; }
-	#dropdown-checkbox:checked + .menu .dropdown-menu { padding-bottom: 30px;}
 
 	/* okay now I'm being clever to cover my stupid ass */
 
   .mask { position: fixed; top: 0; left: 0; background-color: #403d3d; width: 75%; max-width:400px; height: 70px ;
     padding-top: 10px;
     justify-content: right;}
-  nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex; }
-  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
+  nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex !important; }
+  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none !important; }
 }
   nav .menu .mask.hide-on-fixed { display: none; }
 /* wtf search */
