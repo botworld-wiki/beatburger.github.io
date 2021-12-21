@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 boosterName: "Physical Resistance"
-boosterDescription: "Reduces physical damage taken by all bots by 15"
+boosterDescription: "Reduces physical damage taken by all bots by 15%"
 boosterImageUrl: "/assets/img/boosters/physical-resistance-epic.png"
 boosterStacks: "Additive"
 boosterRarity: "Epic"
