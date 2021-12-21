@@ -2,18 +2,28 @@
 layout: bot
 contributors: "Hex"
 # Wiki page infos: ""
+
+
 title: "Slash"
 name: "Slash"
 description: "Common Chaser - A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
+breadcrumbs: 
+ Bots: "/bots"
+ Chaser: "/bots#chasers"
+
+
 # Bot infos: ""
 botName: "Slash"
 botDescription: "A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
 botType: "Chaser"
 botRarity: "Common"
+botRaritySortOrder: "1"
 botAcquisition: "Random Drop"
 botOpinion: "Glass Melee"
+searchKeywords: "common, slash, chaser, shredder, glass"
+
 # Abilities infos: ""
 ability1Name: "Slash"
 ability1Info: "Range: Melee , Attack Speed: 0.5s , Physical Damage: 100%"
@@ -24,6 +34,7 @@ ability2Description: ""
 ability3Name: "Super Slash"
 ability3Info: "Range: Melee , Cooldown: 8s , Physical Damage: 294%"
 ability3Description: "An extra powerful melee attack"
+
 # AI tree infos: ""
 ai1aName: "A: Slow down"
 ai1aDescription: "Attacks slow enemy movement by 40%"
@@ -45,6 +56,7 @@ ai5aName: "A: Evasive Maneuvers"
 ai5aDescription: "Bot has a 25% chance to dodge melee attacks"
 ai5bName: "B: Critical Strikes"
 ai5bDescription: "Attacks have 15% critical chance (critical hits deals double damage)"
+
 # Stats infos: ""
 lvl1Hp: "896"
 lvl1Dmg: "85"
@@ -59,6 +71,7 @@ lvl20Dps: "1485"
 lvl25Hp: "7880"
 lvl25Dmg: "837"
 lvl25Dps: "2392"
+
 # Upgrade infos: ""
 epicMat: "Slash Essence"
 rareMat: "Chaser Core"
