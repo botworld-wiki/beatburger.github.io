@@ -6,8 +6,8 @@ updatedAt: "2021-12-14"
 
 title: "Barrier Wall"
 name: "Barrier Wall"
-description: "Drops a temporary barrier into the arena"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861952211402752/Screenshot_20211218-212241_Discord.jpg"
+description: "3P - Drops a temporary barrier into the arena"
+imageUrl: "/assets/img/abilities/barrier-wall.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,10 +15,13 @@ breadcrumbs:
 
 abilityName: "Barrier Wall"
 abilityDescription: "Drops a temporary barrier into the arena"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861952211402752/Screenshot_20211218-212241_Discord.jpg"
+abilityImageUrl: "/assets/img/abilities/barrier-wall.png"
 abilityCost: "3"
 abilityRarity: "Rare"
+abilityRaritySortOrder: "3"
 abilityAcquisition: ""
 abilityOpinion: ""
 searchKeywords: ""
 ---
+
+
