@@ -22,7 +22,7 @@ botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "Random Drop"
 botOpinion: "Glass Melee"
-searchKeywords: "common, slash, chaser, shredder, glass, critical"
+searchKeywords: "common, slash, chaser, shredder, glass, critical, burst"
 
 # Abilities infos: ""
 ability1Name: "Slash"
