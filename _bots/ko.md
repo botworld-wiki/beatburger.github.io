@@ -70,7 +70,7 @@ lvl25Dps: "788"
 epicMat: "K.O. Essence"
 rareMat: "Brawler Battery"
 specialMat: "Layered Fiberglass"
-commonMat1: "Sputtering Generators"
+commonMat1: "Sputtering Generator"
 commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
