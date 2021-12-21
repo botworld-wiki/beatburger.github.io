@@ -14,11 +14,11 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
 </picture></p>
 
 <div id="site_toc">
-
+    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     <div class="toc-block" id="home_Tanks">
         <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/tanks.png" alt="Tank bots logo" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Tank' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -33,7 +33,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Brawlers">
         <a class="toc-block-title" href="/bots#brawlers" title="All the Brawlers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/brawlers.png" alt="Brawler bots logo" title="Brawler bots logo"><h2 id="Brawlers">Brawlers</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Brawler' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -48,7 +48,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Chasers">
         <a class="toc-block-title" href="/bots#chasers" title="All the Chasers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/chasers.png" alt="Chaser bots logo" title="Chaser bots logo"><h2 id="Chasers">Chasers</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Chaser' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -63,7 +63,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Splashers">
         <a class="toc-block-title" href="/bots#splashers" title="All the Splashers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/splashers.png" alt="Splasher bots logo" title="Splasher bots logo"><h2 id="Splashers">Splashers</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Splasher' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -78,7 +78,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Snipers">
         <a class="toc-block-title" href="/bots#snipers" title="All the Snipers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/snipers.png" alt="Sniper bots logo" title="Sniper bots logo"><h2 id="Snipers">Snipers</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Sniper' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -93,7 +93,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Evaders">
         <a class="toc-block-title" href="/bots#evaders" title="All the Evaders bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/evaders.png" alt="Evader bots logo" title="Evader bots logo"><h2 id="Evaders">Evaders</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Evader' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
@@ -108,7 +108,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     <div class="toc-block" id="home_Supports">
         <a class="toc-block-title" href="/bots#supports" title="All the Supports bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/supports.png" alt="Support bots logo" title="Support bots logo"><h2 id="Supports">Supports</h2></a>
         <ul class="toc-block-list">
-            {% for bot in site.bots %}
+            {% for bot in bots_by_rarity %}
                 {% if bot.botType == 'Support' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
