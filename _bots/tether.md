@@ -8,16 +8,19 @@ title: "Tether"
 name: "Tether"
 description: "Special Support - Digs its cables into the ground to grab enemies from afar and hold them in place. Tether isn't afraid to get its hands dirty."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/902085059228618782/1635144196654.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Support: "/bots#supports"
 
 botName: "Tether"
 botDescription: "Digs its cables into the ground to grab enemies from afar and hold them in place. Tether isn't afraid to get its hands dirty."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/902085059228618782/1635144196654.png"
 botType: "Support"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Random Drop"
-botOpinion: ""
-
+botOpinion: "Dr. Octopus"
+searchKeywords: "Immobilize, hold, support, special"
 
 ability1Name: "Glance"
 ability1Info: "Range: 7 , Attack Speed: 0.7s , Energy Damage: 100%"
@@ -82,4 +85,5 @@ Put Tether in the back, he's useless if Tether is in the front. (Someone change 
 ### Suggested AI Build
 
 BCBBB - Full Support
+
 ACAAB - Contain and Damage
