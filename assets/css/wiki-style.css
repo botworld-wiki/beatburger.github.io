@@ -471,7 +471,7 @@ nav{display:none}
  	}
  	#title-container h3 { margin-top: 0px !important;}
  	ul#breadcrumbs { margin-bottom: 5px !important; }
- 	.toc-block-entry *, nav#nav .menu * { padding: 5px !important; }
+ 	nav#nav .menu * { padding: 5px !important; }
  }
 
 .wrapper{
