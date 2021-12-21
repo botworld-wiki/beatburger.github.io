@@ -15,8 +15,12 @@ breadcrumbs:
 matName: "Essence"
 matRarity: "Epic"
 matImageUrl: "/assets/img/materials/essence.png"
-matRaritySortOrder: "3"
+matRaritySortOrder: "4"
 matType: "Bot"
 matDescription: "Every bot has their own Essences"
 matOverview: "Upgrade Bots past level 20"
 ---
+
+
+
+ -
