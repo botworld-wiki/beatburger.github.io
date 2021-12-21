@@ -18,6 +18,7 @@ botDescription: "Extremely agile desert bot that rolls circles around its oppone
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 botType: "Evader"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "<a href='/dune-bug#story-quest' title='Story quest to get Dune Bug'>Story Quest</a>"
 botOpinion: "Slippery Boi, Survivor"
 searchKeywords: ""
@@ -84,3 +85,4 @@ Following the main story line in the Great Desert will have you go and search fo
 
 ### Suggested AI build
 BABCA
+
