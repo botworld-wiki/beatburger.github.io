@@ -18,14 +18,14 @@ Unlock all your module slots by defeating the [Arena Masters](https://www.botwor
 </div>
 
 <div class="botpack">
-	<ul class="toc-block-list links">
-	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#boosters">Boosters</a></li>
-	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#abilities">Abilities</a></li>
-	    <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#gadgets">Gadgets</a></li>
-	 </ul>
+    <ul class="toc-block-list links">
+        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#boosters">Boosters</a></li>
+        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#abilities">Abilities</a></li>
+        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#gadgets">Gadgets</a></li>
+     </ul>
 </div>
 
-<img src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
+<img loading="lazy"   src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
 
 
 
@@ -49,7 +49,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
                 {% if ability.abilityRarity == 'Common' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                         <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
                             <span>{{ ability.abilityName }}</span>
                         </a>
                     </li>
@@ -60,7 +60,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
                 {% if ability.abilityRarity == 'Special' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                         <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
                             <span>{{ ability.abilityName }}</span>
                         </a>
                     </li>
@@ -71,7 +71,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
                 {% if ability.abilityRarity == 'Rare' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                         <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
                             <span>{{ ability.abilityName }}</span>
                         </a>
                     </li>
@@ -82,7 +82,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
                 {% if ability.abilityRarity == 'Epic' %}
                     <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                         <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                            <img src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                            <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
                             <span>{{ ability.abilityName }}</span>
                         </a>
                     </li>
@@ -115,7 +115,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
                 {% if booster.boosterRarity == 'Common' %}
                     <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
                         <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
                             <span>{{ booster.boosterName }}</span>
                         </a>
                     </li>
@@ -126,7 +126,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
                 {% if booster.boosterRarity == 'Special' %}
                     <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
                         <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
                             <span>{{ booster.boosterName }}</span>
                         </a>
                     </li>
@@ -137,7 +137,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
                 {% if booster.boosterRarity == 'Rare' %}
                     <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
                         <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
                             <span>{{ booster.boosterName }}</span>
                         </a>
                     </li>
@@ -148,7 +148,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
                 {% if booster.boosterRarity == 'Epic' %}
                     <li class="toc-block-entry rarity_{{booster.boosterRarity}}">
                         <a href="{{ site.baseurl }}{{ booster.url }}" title="Page about the booster {{ booster.boosterName }}">
-                            <img src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
+                            <img loading="lazy"   src="{{ booster.boosterImageUrl }}" alt="Image of the booster {{ booster.boosterName }}">
                             <span>{{ booster.boosterName }}</span>
                         </a>
                     </li>
