@@ -19,8 +19,12 @@ breadcrumbs:
 - [Materials](/materials), fully ready and online (with WikiSheet & Converter)
 - Converters now support Freeform comments
 - Also sorting by Rarity
-- JS/CSS extract/defer
+- JS/CSS/imgs extract/defer/lazy
+- critical CSS
 - WebP for bg, wiki banner, home welcome banner 
+- So many design fixes
+- "Tips & Guides" menu link -> "Full Menu"
+- refreshed mats & some bots, getting the pre-launch batch-update started 
 
 ## Day 10
 
