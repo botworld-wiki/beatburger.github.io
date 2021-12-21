@@ -73,7 +73,7 @@ rareMat: "Tank Plating"
 specialMat: "Matte Coating"
 commonMat1: "Double Cogs"
 commonMat2: "Hardened Fiberglass"
-commonMat3: "Rusty Cogs"
+commonMat3: "Rusty Cog"
 ---
 
 ### Tips
