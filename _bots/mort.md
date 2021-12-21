@@ -65,9 +65,9 @@ lvl25Dmg: "739"
 lvl25Dps: "943"
 
 epicMat: "Mort Essence"
-rareMat: "Splasher Explosive"
+rareMat: "Splasher Explosives"
 specialMat: "Jet Fuel"
-commonMat1: "Sputtering Generators"
+commonMat1: "Sputtering Generator"
 commonMat2: "Cold Battery"
 commonMat3: "Clear Oil"
 
