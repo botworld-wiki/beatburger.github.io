@@ -9,8 +9,8 @@ name: "Beat"
 description: "Epic Support - Plays music that inspires its allies to fight better. Comes with a built-in karaoke mode."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397691709804574/beat.png"
 breadcrumbs:
-Bots: "/bots/"
-Support: "/bots#support"
+ Bots: "/bots"
+ Support: "/bots#supports"
 
 
 botName: "Beat"
