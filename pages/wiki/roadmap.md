@@ -36,7 +36,6 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Important Content Pages / Features
 
-- refresh credentials
 - rarity sorted
 - Complete lists of Abilities & Boosters
 - editor/maintainer doc
@@ -48,9 +47,7 @@ Basically, I want to focus on building the project & team first, the website sec
 - distorded BB logo
 - alt/titles
 - json cache busters
-- GA
 - ghcms & libs liquid generate (cf search.json)
-- Editor Mode commits history -> edits.json
 - pickers hardening
 - md pic sizes
 
