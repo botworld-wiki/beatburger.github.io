@@ -18,7 +18,7 @@ botDescription: "Throws explosive orbs over obstacles at groups of enemies. Trie
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397346233352252/lobbie.png"
 botType: "Splasher"
 botRarity: "Common"
-botRaritySortOrder "1"
+botRaritySortOrder: "1"
 botAcquisition: "Random Drop"
 botOpinion: "best paired with chainer"
 searchKeywords: " aoe, range, ranged, common, splasher, splash, stun, over, combo"
