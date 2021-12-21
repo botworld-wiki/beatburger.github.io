@@ -13,6 +13,13 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
+## Day 12
+
+- Mass update: all [Bots](/bots)
+- All [Abilities](/abilities) & [Boosters](/boosters)
+- ...
+- Release !?
+
 ## Day 11
 
 - New font for regular text & paragraphs
