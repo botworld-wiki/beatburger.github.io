@@ -1,24 +1,27 @@
 ---
 layout: booster
-contributors: "Pix"
-updatedAt: "2021-12-18"
+contributors: "Pix, debb, Kartoffel, GlareFacer"
+updatedAt: "2021-12-21"
 
 
 title: "Power Start (Epic)"
 name: "Power Start"
-description: "Gives 4 botpack power at the beginning of a battle"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861834284347422/Screenshot_20211218-212708_Discord.jpg"
+description: ""
+imageUrl: "/assets/img/boosters/power-start-epic.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
 
 
 boosterName: "Power Start"
-boosterDescription: "Gives 3 botpack power at the beginning of a battle"
-boosterImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861834284347422/Screenshot_20211218-212708_Discord.jpg"
+boosterDescription: "Gives 4 botpack power at the beginning of a battle"
+boosterImageUrl: "/assets/img/boosters/power-start-epic.png"
 boosterStacks: "Additive"
 boosterRarity: "Epic"
+boosterRaritySortOrder: "4"
 boosterAcquisition: ""
-boosterOpinion: "Top booster, BiS"
+boosterOpinion: ""
 searchKeywords: ""
 ---
+
+
