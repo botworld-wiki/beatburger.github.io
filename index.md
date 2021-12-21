@@ -143,7 +143,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 <span>Boosters</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
+                <a href="/recruits">
                 <span>Recruits</span></a>
             </li>
             <li class="toc-block-entry">
@@ -159,8 +159,8 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
         </a>
         <ul class="toc-block-list">
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Explo & Danger Zones Tips</span></a>
+                <a href="/exploring">
+                <span>Exploring & Danger Zones</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/maps">
@@ -255,8 +255,8 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Abilities](/abilities): abilities detailed list
     - [Boosters](/boosters): booster detailed list
     - [Gadgets](/botpack#gadgets): gadgets list
-- [Recruits](/contribute#tbw): why you need to show them some love in general
-    - [Jobs](/contribute#tbw): advice, mechanics, listing
+- [Recruits](/recruits): why you need to show them some love in general
+    - [Jobs](/jobs): advice, mechanics, listing
 - ...
 
 </div>
@@ -267,7 +267,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Botworld
 
-- [Exploration & Danger Zones](/contribute#tbw): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
+- [Explorating & Danger Zones Tips](/exploring): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
     - [Maps](/maps): full pics, annotations, unlocks
     - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
     - [Contracts](/contribute#tbw):
