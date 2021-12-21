@@ -57,7 +57,7 @@ Basically, I want to focus on building the project & team first, the website sec
 - videos ? 
 - advanced search
 - inter-linking
-- materials collection 
+- essences per bot 
 - sortable lists
 - dedicated favicon
 - dynamic maps
