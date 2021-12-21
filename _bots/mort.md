@@ -7,7 +7,7 @@ description: "Rare Splasher - A cannon on legs. Can fire over obstacles, making 
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 breadcrumbs:
   Bots: "/bots"
-  Tanks: "/bots#splashers"
+  Splasher: "/bots#splashers"
 
 botName: "Mort"
 botDescription: "A cannon on legs. Can fire over obstacles, making it a potent bot from almost anywhere in the arena."
