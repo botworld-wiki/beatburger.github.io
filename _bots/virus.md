@@ -74,7 +74,7 @@ lvl25Dps: "782"
 epicMat: "Virus Essence"
 rareMat: "Brawler Battery"
 specialMat: "Glass Tube"
-commonMat1: "Sparky Wire"
+commonMat1: "Sparky Wires"
 commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
