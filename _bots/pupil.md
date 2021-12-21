@@ -8,16 +8,19 @@ title: "Pupil"
 name: "Pupil"
 description: "Rare Sniper - Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547091991080970/pupil.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Sniper: "/bots#snipers"
 
 botName: "Pupil"
 botDescription: "Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547091991080970/pupil.png"
 botType: "Sniper"
 botRarity: "Rare"
+botRaritySortOrder: "3"
 botAcquisition: "Random Drop"
 botOpinion: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents"
-
+searchKeywords: "melt, burst, single, damage, laser, eye, pupil, rare, sniper"
 
 ability1Name: "Laser Beam"
 ability1Info: "Beam hit rate: 0,3s , Charge time: 2s , Range: 4-8 , Energy Damage: 30-60"
