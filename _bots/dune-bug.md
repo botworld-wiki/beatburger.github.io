@@ -31,7 +31,7 @@ ability2Name: "Evasive Roll"
 ability2Info: "Teleport Distance: 7 , Cooldown: 5s"
 ability2Description: "Rolls away when enemies get too close"
 ability3Name: "Omni Roll"
-ability3Info: "Atk:   Teleport Distance: 7, Cooldown:13s, Range: 8"
+ability3Info: "Atk: Teleport Distance: 7, Cooldown:13s, Range: 8"
 ability3Description: "Rapidly rolls around and fires at enemies"
 
 
