@@ -673,9 +673,9 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     padding-top: 10px;
     justify-content: right;}
   nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex; }
-  nav .menu .mask.hide-on-fixed { display: none; }
   nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
 }
+  nav .menu .mask.hide-on-fixed { display: none; }
 /* wtf search */
 	/* targeting search & results like wtf */
 	nav ul{ /* actually have to inline that...*/
@@ -716,7 +716,8 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     padding: 20px 0px 0px 0px !important;
 }
 .dropdown-block{
-		width: 210px;
+		min-width: 210px;
+		width: 30%;
 		margin: 0 auto;
     display: block;
     padding: 0 20px !important; 
