@@ -20,7 +20,7 @@ botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "Starter Season (Tier 10)"
 botOpinion: "Shredder, Hunter of Splasher, Sniper and Evader"
-searchKeywords: "common, slicer, chaser, crit, critical, immune, slow, immobilize, paper, shredder"
+searchKeywords: "common, slicer, chaser, crit, critical, immune, slow, immobilize, paper, shredder, burst"
 
 ability1Name: "Slice"
 ability1Info: "Range: Melee , Attack Speed: 0.5s , Physical Damage: 100%"
