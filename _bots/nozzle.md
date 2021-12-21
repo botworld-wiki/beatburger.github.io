@@ -8,7 +8,9 @@ title: "Nozzle"
 name: "Nozzle"
 description: "Epic Tank - Shy and sturdy. The more it's attacked, the more of in its shell. Great at being focus of the entire enemy team."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396953956896868/nozzle.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Tank: "/bots#tanks"
 
 botName: "Nozzle"
 botDescription: "Shy and sturdy. The more it's attacked, the more of in its shell. Great at being focus of the entire enemy team."
@@ -18,7 +20,7 @@ botRarity: "Epic"
 botRarityNumber: "1"
 botAcquisition: "Solo Arena 4000 Rating"
 botOpinion: "Distraction Turtle"
-
+searchKeywords: "tank, distraction, range, ranged, stun, tough, epic, nozzle"
 
 ability1Name: "Squirt"
 ability1Info: "Range: 10 , Attack Speed: 1s , Energy Damage: 100%"
