@@ -17,7 +17,7 @@ botType: "Support"
 botRarity: "Epic"
 botAcquisition: "Solo Arena 3000 rating"
 botOpinion: "Best Support"
-
+searchKeywords: "beat, epic, support, stun, aoe, boost, best"
 
 ability1Name: "Beat"
 ability1Info: "Range: Melee , Attack Speed: 0.67s , Physical Damage: 100%"
