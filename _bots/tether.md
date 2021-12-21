@@ -72,7 +72,7 @@ rareMat: "Support Chip"
 specialMat: "Hard Botplates"
 commonMat1: "Clear Oil"
 commonMat2: "Frost Fuel"
-commonMat3: "Sputtering Generators"
+commonMat3: "Sputtering Generator"
 ---
 
 ### Tips
