@@ -18,7 +18,8 @@ botDescription: "A loyal companion who loves to shoot at enemies from a distance
 botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 botType: "Sniper"
 botRarity: "Common"
-botAcquisition: "Random drop"
+botRaritySortOrder: "1"
+botAcquisition: "drop"
 botOpinion: "Mostly outclassed by other snipers"
 searchKeywords: "range, burst , sniper , common"
 
@@ -78,3 +79,8 @@ commonMat1: "Sparky Wires"
 commonMat2: "Clear Oil"
 commonMat3: "Frost Fuel"
 ---
+
+### Suggested AI build
+- A?C?A. AI4 is the most important choice.
+### Notes
+- Chomp is a trusty early bot, but quite overshadowed by every other snipers pretty soon
