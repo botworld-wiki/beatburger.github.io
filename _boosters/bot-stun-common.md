@@ -7,7 +7,7 @@ updatedAt: "2021-12-21"
 title: "Bot Stun (Common)"
 name: "Bot Stun"
 description: "All bot stun attacks duration increased by 12% - "
-imageUrl: ""
+imageUrl: "/assets/img/boosters/bot-stun-common.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Bot Stun"
 boosterDescription: "All bot stun attacks duration increased by 12%"
-boosterImageUrl: ""
+boosterImageUrl: "/assets/img/boosters/bot-stun-common.png"
 boosterStacks: "Multiplicative"
 boosterRarity: "Common"
 boosterRaritySortOrder: "1"
