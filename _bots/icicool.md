@@ -21,7 +21,7 @@ botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
 botOpinion: "Goodest bot, period."
-searchKeywords: ""
+searchKeywords: "Goodest, best, good, weak, strong, dodge, slow, freeze, evader, common, icicool, supremacy, epic, bestest"
 
 
 ability1Name: "Icicle"
