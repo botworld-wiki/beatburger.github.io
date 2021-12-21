@@ -8,16 +8,19 @@ title: "Bigshot"
 name: "Bigshot"
 description: "Epic Sniper - Its attack takes a while to charge up, but it's worth the wait"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547177638772776/bigshot.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Sniper: "/bots#snipers"
 
 botName: "Bigshot"
 botDescription: "Its attack takes a while to charge up, but it's worth the wait"
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547177638772776/bigshot.png"
 botType: "Sniper"
 botRarity: "Epic"
+botRaritySortOrder: "4"
 botAcquisition: "Random Drop"
 botOpinion: "Extreme finisher "
-
+searchKeywords: "epic, sniper, critical, crit, bigshot, aoe"
 
 ability1Name: "Megablast"
 ability1Info: "Range: 6,4 , Attack Speed: 4s , Energy Damage: 4403 , Knockback: small , Stun Duration: 1s"
