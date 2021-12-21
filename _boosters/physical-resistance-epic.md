@@ -6,7 +6,7 @@ updatedAt: "2021-12-21"
 
 title: "Physical Resistance (Epic)"
 name: "Physical Resistance"
-description: ""
+description: "Reduces physical damage taken by all bots by 15%"
 imageUrl: "/assets/img/boosters/physical-resistance-epic.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 boosterName: "Physical Resistance"
-boosterDescription: ""
+boosterDescription: "Reduces physical damage taken by all bots by 15"
 boosterImageUrl: "/assets/img/boosters/physical-resistance-epic.png"
 boosterStacks: "Additive"
 boosterRarity: "Epic"
