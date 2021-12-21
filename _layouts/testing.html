@@ -753,6 +753,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		width: 75%;
 		max-width: 400px;
 		z-index: 300;
+		border-radius: 0px !important;
 	}
 	.dropdown-block {width: 100%;}
 	.extended-menu ul{ 
@@ -763,7 +764,6 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		margin: 0px;
 		padding: 5px;
   }
-  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
 	nav #dropdown-checkbox:checked + .menu .menu-links .menu-search{ 
 		display: flex !important;
 		justify-content: center;
@@ -776,6 +776,13 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 	}
 	.menu-search input { height: 25px; width: 80%; }
 	#dropdown-checkbox:checked + .menu .dropdown-menu { padding-bottom: 30px;}
+
+	/* okay now I'm being clever to cover my stupid ass */
+	
+  .mask { position: fixed; top: 0; left: 0; background-color: #403d3d; width: 75%; max-width:400px; height: 70px }
+  nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: block; }
+  nav .menu .mask.hide-on-fixed { display: none; }
+  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
 }
 /* wtf search */
 	/* targeting search & results like wtf */
@@ -912,7 +919,6 @@ body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background
 #banner.no-webp{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
 
 
-
       </style>
 <noscript><style>
 /* in case no webp support AND no js for webp-modernizr.js... */
@@ -951,6 +957,7 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
                 </div>
         <input style="display: none;" type="checkbox" id="dropdown-checkbox">
         <div class="menu">
+            <div class="mask hide-on-fixed"></div>
             <div class="menu-first-row">
                 <div class="menu-links">
                     <span class="hide-on-fixed"><a href="https://www.botworld.wiki/bots" title="All the Bots">Bots</a></span>
@@ -964,7 +971,7 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
                 <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
             </div>
             <div class="extended-menu">
-                <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto; padding:0px; border-radius: 5px;border-bottom: 3px dotted grey;border-right: 3px dotted grey;border-left: 3px dotted grey;">
+                <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto; padding:0px; border-radius: 5px;border-bottom: 3px dotted grey;border-right: 3px dotted grey;border-left: 3px dotted grey; margin: 0px 0px 0px 0px !important;">
                 </ul>
                 <div class="dropdown-menu">
                     <div class="dropdown-block">
