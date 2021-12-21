@@ -71,7 +71,7 @@ epicMat: "Pupil Essence"
 rareMat: "Sniper Gyro"
 specialMat: "Thick Oil"
 commonMat1: "Sputtering generator"
-commonMat2: "Sparky Wire"
+commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 ---
 
