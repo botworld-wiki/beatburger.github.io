@@ -73,7 +73,7 @@ lvl25Dps: "616"
 
 
 epicMat: "Icicool Essence"
-rareMat: "Evader Sprays"
+rareMat: "Evader Spray"
 specialMat: "Sticky Goo"
 commonMat1: "Frost Fuel"
 commonMat2: "Mini Sensor"
