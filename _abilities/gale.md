@@ -1,13 +1,13 @@
 ---
 layout: ability
-contributors: "Hehe"
+contributors: "Hex"
 updatedAt: "2021-12-21"
 
 
 title: "Gale"
 name: "Gale"
 description: "Pushes enemy bots in a specified direction and damages them"
-imageUrl: "https://media.discordapp.net/attachments/917809790284079114/922760246726914068/Gale.png"
+imageUrl: "https://drive.google.com/file/d/1xrj6btOvTmuxC3s6_DSv9qa8zto41ppr/view?usp=sharing"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 abilityName: "Gale"
 abilityDescription: "Pushes enemy bots in a specified direction and damages them"
-abilityImageUrl: "https://media.discordapp.net/attachments/917809790284079114/922760246726914068/Gale.png"
+abilityImageUrl: "https://drive.google.com/file/d/1xrj6btOvTmuxC3s6_DSv9qa8zto41ppr/view?usp=sharing"
 abilityCost: "4"
 abilityRarity: "Epic"
 abilityAcquisition: ""
