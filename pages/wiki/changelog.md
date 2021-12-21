@@ -29,6 +29,7 @@ breadcrumbs:
 ## Day 10
 
 - [Botworld Adventures News](/news), also added to homepage
+- Carlbot integration
 
 ## Day 9
 
