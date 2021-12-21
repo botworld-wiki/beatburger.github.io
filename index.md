@@ -3,7 +3,7 @@
 layout: default
 permalink: /
 title: Botworld Adventure community Wiki
-description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
+description: Everything about every Bot, Ability, Map,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
 
 ---
 
