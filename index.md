@@ -226,8 +226,6 @@ description: All the best the Botworld Adventure Community has to offer to help 
 
 </div>
 
-[News & Updates Archive](/news)
-
 <div markdown="1" class=" ghcms ghcms-main">
 
 ## New player ?
@@ -282,7 +280,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Notable characters](/contribute#tbw): the cool npcs
 - [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
     - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
-- [Botworld Adventure News](/news): New bots, updates, anything that's happening.
+- [Botworld Adventure News archive](/news): New bots, updates, anything that's happening.
 - ...
 
 </div>
