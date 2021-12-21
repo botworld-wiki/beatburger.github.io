@@ -705,15 +705,15 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     font-size: 18px !important;
     font-weight: normal !important;
 }
-.dropdown-menu > ul {
+.dropdown-menu .dropdown-block > ul {
     position: relative;
-    bottom: 10px;
+    bottom: 20px;
 }
 .dropdown-menu ul {
     margin: 0px !important;
     padding: 0px 10px !important;
 }
-#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; padding-bottom: 30px;}
+#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; padding-right: 0px; }
 #dropdown-checkbox:checked + .menu { display: flex !important}
 
 .extended-menu {
@@ -775,7 +775,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 301;
 	}
 	.menu-search input { height: 25px; width: 80%; }
-
+	#dropdown-checkbox:checked + .menu .dropdown-menu { padding-bottom: 30px;}
 }
 /* wtf search */
 	/* targeting search & results like wtf */
@@ -813,6 +813,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     text-shadow: 2px 2px 1px #ad5522;
 		text-align: left !important;
     display: block;
+    line-height: 2.5em;
     min-height: 30px;
 }
 .dropdown-block{
