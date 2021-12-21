@@ -1,19 +1,29 @@
 ---
 layout: bot
 contributors: "Gold, Hex"
+updatedAt: "2021-12-16"
+
 # Wiki page infos: ""
 title: "Rocketeer"
 name: "Rocketeer"
 description: "Common Splasher - Fires explosive rockets at its enemies. Especially effective against enemies that are grouped up. "
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397107522928650/rocketeer.png"
+breadcrumbs: 
+ Bots: "/bots"
+ Splasher: "/bots#splashers"
+ 
+ 
 # Bot infos: ""
 botName: "Rocketeer"
 botDescription: "Fires explosive rockets at its enemies. Especially effective against enemies that are grouped up."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397107522928650/rocketeer.png"
 botType: "Splasher"
 botRarity: "Common"
+botRaritySortOrder: "1"
 botAcquisition: "Random Drop"
 botOpinion: "knockback expert"
+searchKeywords: "rocketeer, rocket, common, splasher, aoe, area of effect, area damage"
+
 # Abilities infos: ""
 ability1Name: "Rocket Launcher"
 ability1Info: "Range: 2-10 , Attack Speed: 0.83s , Impact Radius: 2.5 , Energy Damage: 100%"
@@ -24,6 +34,7 @@ ability2Description: "Blast enemies away"
 ability3Name: "Rocket Swarm"
 ability3Info: "Rockets Fired: 10 , Impact Radius: 2.5 , Energy Damage: 43% , Range: 3-10 , Cooldown: 14s"
 ability3Description: "Fires a volley of rockets at an enemy"
+
 # AI tree infos: ""
 ai1aName: "A: Concussive Blast"
 ai1aDescription: "Knockback stun duration increased by 100%"
@@ -45,6 +56,7 @@ ai5aName: "A: Unstoppable"
 ai5aDescription: "Immune to slow and immobilizing effects"
 ai5bName: "B: Fast Reload"
 ai5bDescription: "Rocket swarm cooldown reduced by 20%"
+
 # Stats infos: ""
 lvl1Hp: "1120"
 lvl1Dmg: "70"
@@ -59,6 +71,7 @@ lvl20Dps: "514"
 lvl25Hp: "9850"
 lvl25Dmg: "689"
 lvl25Dps: "828"
+
 # Upgrade infos: ""
 epicMat: "Rocketeer Essence"
 rareMat: "Splasher Explosives"
