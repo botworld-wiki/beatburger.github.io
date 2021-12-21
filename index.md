@@ -220,8 +220,9 @@ description: All the best the Botworld Adventure Community has to offer to help 
 
 ## Botworld Adventures News
 
-- **Community Wiki Launch**: We’re excited to have you check it out!
-- **New Bot Coming soon**: there's also a gems giveaway on the official socials.
+- [Community Wiki Launch](/news): We’re excited to have you check it out!
+- [Teddies of Scrapyard](/news): Find all of the hidden teddy bears in the Scrapyard Danger Zone! Event ends Jan. 3rd.
+- [New Bot Coming soon](/news): there's also a gems giveaway on the official socials.
 
 </div>
 
