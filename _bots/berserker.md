@@ -17,7 +17,7 @@ botDescription: "A solid all around tank. Armed with a shield and rocket pack th
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
 botType: "Tank"
 botRarity: "Special"
-botRarityNumber: "3"
+botRarityNumber: "2"
 botAcquisition: "Random Drop"
 botOpinion: "a good tank all around"
 searchKeywords: "berserker, tank, special, fast, brawler"
