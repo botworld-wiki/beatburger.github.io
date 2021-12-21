@@ -754,6 +754,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		max-width: 400px;
 		z-index: 300;
 	}
+	.dropdown-block {width: 100%;}
 	.extended-menu ul{ 
 		margin: 0px;
 		padding: 0px;
@@ -806,13 +807,13 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
     width: 100%;
     padding-bottom: 15px;
     justify-content: left;
-    text-align: left;
     font-family: "Luckiest Guy" !important;
     font-size: 24px !important;
     font-weight: bold !important;
     text-shadow: 2px 2px 1px #ad5522;
-    line-height: 3em;
 		text-align: left !important;
+    display: block;
+    min-height: 30px;
 }
 .dropdown-block{
 		width: 200px;
@@ -940,7 +941,7 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
             <nav id="nav" class="override">
                 <div class="mini-menu">
                     <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki">
-                        <img loading="lazy" src="./Botworld Adventure community Wiki_files/cog.png" alt="Botworld Wiki logo">
+                        <img loading="lazy" src="/assets/img/icons/cog.png" alt="Botworld Wiki logo">
                     </a>
                     <span class="wiki-title">
                         <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki"> Botworld Wiki </a>
@@ -963,8 +964,6 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
             </div>
             <div class="extended-menu">
                 <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto; padding:0px; border-radius: 5px;border-bottom: 3px dotted grey;border-right: 3px dotted grey;border-left: 3px dotted grey;">
-                    <li>Result 1</li>
-                    <li>Result 2</li>
                 </ul>
                 <div class="dropdown-menu">
                     <div class="dropdown-block">
