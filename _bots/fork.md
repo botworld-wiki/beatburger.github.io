@@ -8,16 +8,19 @@ title: "Fork"
 name: "Fork"
 description: "Epic Chaser - A sneaky bot who moves around the battlefield, dodging attacks and leaving enemies poisoned"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548328291557386/fork.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Chaser: "/bots#chasers"
 
 botName: "Fork"
 botDescription: "A sneaky bot who moves around the battlefield, dodging attacks and leaving enemies poisoned"
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548328291557386/fork.png"
 botType: "Chaser"
 botRarity: "Epic"
+botRaritySortOrder: "4"
 botAcquisition: "Random Drop"
 botOpinion: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight"
-
+searchKeywords: "poison, dodge, fork, epic, chaser, dot"
 
 ability1Name: "Poison Strike"
 ability1Info: "Range: Melee , Attack Speed: 0,5s , Physical Damage: 31 , Poison Duration: 5s , Poison Damage per Second: 62 "
