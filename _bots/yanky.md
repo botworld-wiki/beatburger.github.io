@@ -21,7 +21,7 @@ botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
 botOpinion: "Best bot in 1v1 Stun lock"
-searchKeywords: ""
+searchKeywords: "brawler, common, yanky, hook, stun"
 
 
 ability1Name: "Punch"
