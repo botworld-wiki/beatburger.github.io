@@ -7,7 +7,7 @@ updatedAt: "2021-12-21"
 title: "Ult Cooldowns (Common)"
 name: "Ult Cooldowns"
 description: "All bots ultimate cooldowns reduced by 10% - "
-imageUrl: ""
+imageUrl: "/assets/img/boosters/ult-cooldowns-common.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Ult Cooldowns"
 boosterDescription: "All bots ultimate cooldowns reduced by 10%"
-boosterImageUrl: ""
+boosterImageUrl: "/assets/img/boosters/ult-cooldowns-common.png"
 boosterStacks: "Multiplicative"
 boosterRarity: "Common"
 boosterRaritySortOrder: "1"
