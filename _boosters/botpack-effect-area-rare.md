@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 boosterName: "Botpack Effect Area"
-boosterDescription: ""
+boosterDescription: "All botpack area abilities radius increased by 25%"
 boosterImageUrl: "/assets/img/boosters/botpack-effect-area-rare.png"
 boosterStacks: "Additive"
 boosterRarity: "Rare"
