@@ -8,7 +8,9 @@ title: "Thump"
 name: "Thump"
 description: "Rare Tank - A tough bot that leaps into the fray to protects its teammates"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
-
+breadcrumbs:
+ Bots: "/bots"
+ Tank: "/bots#tanks"
 
 botName: "Thump"
 botDescription: "A tough bot that leaps into the fray to protects its teammates"
@@ -18,7 +20,7 @@ botRarity: "Rare"
 botRarityNumber: "2"
 botAcquisition: "Starter Bot, Random Drop"
 botOpinion: "Brawler Tank"
-
+searchKeywords: "tank, brawler"
 
 ability1Name: "Punch"
 ability1Info: "Range: Melee , Attack Speed: 0.85s , Physical Damage: 100%"
@@ -75,3 +77,6 @@ commonMat1: "Mini Sensor"
 commonMat2: "Clear Oil"
 commonMat3: "Frost Fuel"
 ---
+
+### Suggested Ai Build
+ABACB
