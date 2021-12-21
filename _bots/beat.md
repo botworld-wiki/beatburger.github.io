@@ -8,6 +8,9 @@ title: "Beat"
 name: "Beat"
 description: "Epic Support - Plays music that inspires its allies to fight better. Comes with a built-in karaoke mode."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397691709804574/beat.png"
+breadcrumbs:
+Bots: "/bots/"
+Support: "/bots#support"
 
 
 botName: "Beat"
@@ -15,6 +18,7 @@ botDescription: "Plays music that inspires its allies to fight better. Comes wit
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397691709804574/beat.png"
 botType: "Support"
 botRarity: "Epic"
+botRaritySortOrder: "4"
 botAcquisition: "Solo Arena 3000 rating"
 botOpinion: "Best Support"
 searchKeywords: "beat, epic, support, stun, aoe, boost, best"
