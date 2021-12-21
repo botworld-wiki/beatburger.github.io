@@ -68,9 +68,9 @@ lvl25Dps: "1773"
 
 
 epicMat: "Pluggie Essence"
-rareMat: "Splasher Explosive"
-specialMat: "Tangled Wire"
-commonMat1: "Sparky Wire"
+rareMat: "Splasher Explosives"
+specialMat: "Tangled Wires"
+commonMat1: "Sparky Wires"
 commonMat2: "Mini Sensor"
 commonMat3: "Clear Oil"
 ---
