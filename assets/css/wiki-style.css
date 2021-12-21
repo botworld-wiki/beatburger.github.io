@@ -189,16 +189,7 @@ nav{display:none}
         overflow-x: auto;
       }
       table .overview{min-width:200px;}
-     .menu {
-          display: flex;
-          flex-wrap: wrap;
-      }
-      .menu span {
-          padding: 10px;
-          flex-grow: 1;
-          text-align: center
-      }
-     
+
       .rarity_Common {
 	border-radius: 5px;
         border: 5px solid #d3e1f3;
@@ -471,7 +462,9 @@ nav{display:none}
  	}
  	#title-container h3 { margin-top: 0px !important;}
  	ul#breadcrumbs { margin-bottom: 5px !important; }
- 	nav#nav .menu * { padding: 5px !important; }
+ 	nav#nav .menu-first-row span { padding: 5px !important; }
+
+
  }
 
 .wrapper{
@@ -508,6 +501,15 @@ h2 {padding-top: 27px;} /* fix anchor links */
  	.wiki-title{font-size: 25px; line-height:2.5em}
  }
 
+
+
+
+
+
+
+
+
+
  #nav-container{height:125px !important;}
  nav.override {display: block;}
 
@@ -516,10 +518,10 @@ nav img {
 }
 .mini-menu {
 	display: none; width: 100%; 
-	z-index:100;
+	z-index:200;
 	}
 .mini-menu .wiki-title { margin: 0 auto; }
-.mini-menu .tab-label {    
+nav .tab-label {    
 	background-image: url(https://www.botworld.wiki/assets/img/icons/hamburger-icon.png);
 	background-position: center;
 	background-size: cover;
@@ -543,31 +545,192 @@ nav.fixed {
 	nav.fixed {left: 0;}
 }
 
+
+.menu {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.menu span {
+    padding: 10px;
+    flex-grow: 1;
+    text-align: center
+}
+
+.menu .menu-first-row{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.menu .menu-links {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+}
+.menu .menu-links > *{
+	flex-grow: 1;
+}
+.regular-menu-label { 
+	width: 80px; 
+	flex-grow: 0 !important; 
+}
+
+
 nav.fixed .mini-menu img { position: relative; top:10px; left: 10px; }
 nav.fixed .menu { display: none; position: relative; bottom: 3px; background-color: #202020;}
-#menu-checkbox:checked + .menu { display: flex };
 
+nav.fixed .menu .regular-menu-label { display: none; }
+nav.fixed .menu{ justify-content: right; }
+nav.fixed .menu .menu-search{ max-width: 20%; }
+
+
+.menu .tab-label { padding: 20px !important}
+
+
+.dropdown-menu { 
+	display: none; 
+	background-color: #403d3d !important; 
+	z-index: 300;
+	border-radius: 30px;
+}
+
+.dropdown-link { 
+    font-family: "Abel" !important;
+    font-size: 18px !important;
+    font-weight: normal !important;
+}
+.dropdown-menu ul {
+    margin: 0px !important;
+    padding: 0px 10px !important;
+}
+#dropdown-checkbox:checked + .menu .dropdown-menu { display: flex; padding-right: 0px; }
+#dropdown-checkbox:checked + .menu { display: flex !important}
+
+.extended-menu {
+	width: 100%;
+	z-index: 100;
+	border-radius: 5px 5px 10px 10px;
+}
+
+.extended-menu * {
+		z-index: 300;
+}
+.extended-menu, .dropdown-menu, .dropdown-block{
+	background-color: #403d3d !important;
+}
+.dropdown-block * { background: none !important; }
+
+@media print, screen and (max-width: 800px){
+
+	#dropdown-checkbox:checked + .menu .extended-menu {
+		left: 0px;
+		top: 60px;
+		position: fixed;
+		display: flex;
+		flex-direction: column;
+		width: 75%;
+		max-width: 400px;
+		height: 40px;
+		/*padding-top: 85px !important;*/
+	}
+	.extended-menu .dropdown-menu{
+		flex-direction: column;
+		overflow: scroll;
+		/* height: 400px; */
+		position: fixed;
+		top: 95px;
+		bottom: 0px;
+		width: 75%;
+		max-width: 400px;
+		z-index: 300;
+		border-radius: 0px !important;
+	}
+	.dropdown-block {width: 100% !important;}
+	.extended-menu ul{ 
+		margin: 0px;
+		padding: 0px;
+  }
+	.extended-menu > ul, .extended-menu > ul > li{ 
+		margin: 0px;
+		padding: 5px;
+  }
+	nav #dropdown-checkbox:checked + .menu .menu-links .menu-search{ 
+		display: flex !important;
+		justify-content: center;
+		width: 75%;
+		max-width: 400px;
+		position: fixed;
+		top: 60px;
+		left: 0;
+		z-index: 301;
+	}
+	.menu-search input { height: 25px; width: 80%; }
+	#dropdown-checkbox:checked + .menu .dropdown-menu { padding-bottom: 30px;}
+
+	/* okay now I'm being clever to cover my stupid ass */
+
+  .mask { position: fixed; top: 0; left: 0; background-color: #403d3d; width: 75%; max-width:400px; height: 70px ;
+    padding-top: 10px;
+    justify-content: right;}
+  nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex; }
+  nav .menu .mask.hide-on-fixed { display: none; }
+  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none; }
+}
 /* wtf search */
 	/* targeting search & results like wtf */
 	nav ul{ /* actually have to inline that...*/
 	    background: #403d3d;
 	    display: flex;
 	    justify-content: right;
-	    z-index: 300;
-	    position: relative;
+	    z-index: 500;
 	    flex-wrap: wrap;
-	    bottom:3px;
+
 	}
-	nav ul li {
+
+	nav .extended-menu > ul li {
     margin: 5px 20px;
   }
-	nav ul li * {
+	nav .extended-menu > ul li * {
     font:18px/1 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   	font-weight: bold !important;
   }
 /* end wtf search */
 
-	   
+
+.dropdown-title {
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background: url(https://www.botworld.wiki/assets/img/bg/title-bg.png) !important;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding-bottom: 15px;
+    justify-content: left;
+    font-family: "Luckiest Guy" !important;
+    font-size: 24px !important;
+    font-weight: normal !important;
+    text-shadow: 2px 2px 1px #ad5522;
+		text-align: left !important;
+    display: block;
+    min-height: 30px;
+    padding: 20px 0px 0px 0px !important;
+}
+.dropdown-block{
+		width: 210px;
+		margin: 0 auto;
+    display: block;
+    padding: 0 20px !important; 
+}
+.dropdown-block ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: left
+}
+.dropdown-link * {
+	font-family: "Abel" !important;
+	font-size: 20px !important;
+	font-weight: normal;
+}
 .discord-link {
 	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
 	background-size: cover;	
@@ -583,6 +746,15 @@ span.wtf-discord {
 	height: 25px;
 	width: 25px;
 }
+
+
+
+
+
+
+
+
+
 	   
 /* end header, menu, banner */
 	   
