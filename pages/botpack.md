@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /botpack
 title: Botpack & Modules
-description: Your Botpack, how it works, every Ability, Booster, and Gadget... The best place to learn everything there is to know about your what really makes you a True Botmaster!
+description: Your Botpack, how it works, every Ability, Booster, and Gadget... The best place to learn everything there is to know about what really makes you a True Botmaster!
 breadcrumbs:
 ---
 
