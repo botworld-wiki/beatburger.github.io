@@ -21,7 +21,7 @@ botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
 botOpinion: "Meatbag"
-searchKeywords: ""
+searchKeywords: "tank, Barrie, common, Hp, health"
 
 
 ability1Name: "Headbutt"
