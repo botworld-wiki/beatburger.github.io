@@ -14,11 +14,17 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-## 2021-12-??
+## 2021-12-22
 
 ### Botworld Wiki Launch
 
 We're excited to have you check it out!
+
+## 2021-12-21
+
+The event is called **Teddies of Scrapyard** and your goal is to find all of the hidden teddy bears in the Scrapyard Danger Zone! This event begins now and ends on January 3rd, 2022. You can submit your video until that date. [Official link](https://docs.google.com/forms/d/e/1FAIpQLSeEieIPZpQEYwryNs32m-ovHbPqGx3oLC1AsCF6FfwR-9tvCw/viewform)
+
+![Teddies of Scrapeyard event](https://cdn.discordapp.com/attachments/824813164142788619/922458360907985016/BA_Teddies_Scrapyard.jpg)
 
 ## 2021-12-18
 
