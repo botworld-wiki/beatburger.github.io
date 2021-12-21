@@ -8,16 +8,19 @@ title: "Flamer"
 name: "Flamer"
 description: "Special Evader - Evades enemies while it engulfs them in fire. Voted hottest bot three years in a row."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397575686955028/flamer.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Evader: "/bots#evaders"
 
 botName: "Flamer"
 botDescription: "Evades enemies while it engulfs them in fire. Voted hottest bot three years in a row."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397575686955028/flamer.png"
 botType: "Evader"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Starter Season (Tier 4)"
 botOpinion: "Let it Burn"
-searchKeywords: "aoe melee"
+searchKeywords: "aoe melee, aoe, special, evader, flamer, fire, stun, heal"
 
 ability1Name: "Flamethrower"
 ability1Info: "Hit Rate: 0.4s , Range: 5 , Energy Damage: 100%"
