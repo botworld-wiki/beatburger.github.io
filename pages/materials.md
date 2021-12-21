@@ -146,7 +146,7 @@ What you need to upgrade your bots.
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-            {% if bot.botAcquisition == "Random Drop" %}
+            {% if bot.botAcquisition == "Random Drop" or bot.botAcquisition == "drop" %}
                 <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
             {% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
                 <td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{bot.botAcquisition}}</a></td>
