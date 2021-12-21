@@ -7,7 +7,7 @@ updatedAt: "2021-12-14"
 title: "Hypercharge"
 name: "Hypercharge"
 description: "Rapidly charges up a bot’s ultimate ability"
-imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861951779381268/Screenshot_20211218-212347_Discord.jpg"
+imageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787453977387038/Hypercharge.png"
 breadcrumbs:
   Botpack: "/botpack"
   Abilities: "/abilities"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 abilityName: "Hypercharge"
 abilityDescription: "Rapidly charges up a bot’s ultimate ability"
-abilityImageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/921861951779381268/Screenshot_20211218-212347_Discord.jpg"
+abilityImageUrl: "https://cdn.discordapp.com/attachments/871656325447295016/922787453977387038/Hypercharge.png"
 abilityCost: "2"
 abilityRarity: "Rare"
 abilityAcquisition: ""
