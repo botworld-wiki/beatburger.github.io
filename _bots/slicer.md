@@ -8,16 +8,19 @@ title: "Slicer"
 name: "Slicer"
 description: "Special Brawler - With swords for arms this bot is all about damage. Also good in the kitchen."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397058445385738/slicer.png"
-
+breadcrumbs:
+  Bots: "/bots"
+  Chaser: "/bots#chasers"
 
 botName: "Slicer"
 botDescription: "With swords for arms this bot is all about damage. Also good in the kitchen."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397058445385738/slicer.png"
 botType: "Chaser"
 botRarity: "Special"
+botRaritySortOrder: "2"
 botAcquisition: "Starter Season (Tier 10)"
 botOpinion: "Shredder, Hunter of Splasher, Sniper and Evader"
-
+searchKeywords: "common, slicer, chaser, crit, critical, immune, slow, immobilize, paper, shredder"
 
 ability1Name: "Slice"
 ability1Info: "Range: Melee , Attack Speed: 0.5s , Physical Damage: 100%"
