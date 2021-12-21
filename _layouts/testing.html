@@ -695,7 +695,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 
 .dropdown-menu { 
 	display: none; 
-	background-color: #202020; 
+	background-color: #403d3d !important; 
 	z-index: 300;
 }
 .dropdown-title { 
@@ -724,7 +724,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 300;
 }
 .extended-menu, .dropdown-menu, .dropdown-block{
-	background-color: #202020 !important;
+	background-color: #403d3d !important;
 }
 .dropdown-block * { background: none !important; }
 
@@ -792,6 +792,29 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
   }
 /* end wtf search */
 
+
+.dropdown-title {
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background: url(https://www.botworld.wiki/assets/img/bg/title-bg.png) !important;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding-bottom: 15px;
+    justify-content: left;
+    text-align: left;
+
+}
+.dropdown-block{
+    display: flex;
+    flex-direction: column;
+    padding: 20px !important; 
+}
+.dropdown-block ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: left
+}
 	   
 .discord-link {
 	background: url(https://www.botworld.wiki/assets/img/icons/discord.png);
@@ -875,6 +898,7 @@ span.wtf-discord {
 // webp fallback for css backgrounds, using webp-modernizr.js
 body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
 #banner.no-webp{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
+
 
 
       </style>
