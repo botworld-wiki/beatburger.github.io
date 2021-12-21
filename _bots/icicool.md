@@ -1,18 +1,28 @@
 ---
-
 layout: bot
+contributors: "Hex"
+updatedAt: "2021-12-16"
+
+
 title: "Icicool"
 name: "Icicool"
 description: "Common Evader - A quick bot who slows enemies from a distance with its icicle shots."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
+breadcrumbs:
+  Bots: "/bots"
+  Evader: "/bots#evaders"
+
 
 botName: "Icicool"
 botDescription: "A quick bot who slows enemies from a distance with its icicle shots."
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
 botType: "Evader"
 botRarity: "Common"
-botAcquisition: "Random Drop"
+botRaritySortOrder: "1"
+botAcquisition: "drop"
 botOpinion: "Goodest bot, period."
+searchKeywords: ""
+
 
 ability1Name: "Icicle"
 ability1Info: "Range: 2-9 , Atk Spd: 0.8s , Energy Dmg: 100% , Slow: 50%"
@@ -21,8 +31,9 @@ ability2Name: ""
 ability2Info: ""
 ability2Description: ""
 ability3Name: "Blizzard"
-ability3Info: "Icicles Fired: 12 , Energy damage: ? , Range: 9 , Slow: 50% , Cooldown: 10s"
+ability3Info: "Icicles Fired: 12 , Energy damage: 60% of Damage , Range: 9 , Slow: 50% , Cooldown: 10s"
 ability3Description: "Shoots lots of icicles in a wide arc"
+
 
 ai1aName: "A: Faster Icicles"
 ai1aDescription: "Icicle range increased by 20%"
@@ -45,6 +56,7 @@ ai5aDescription: "Icicles have 10% chance to freeze"
 ai5bName: "B: Splintered Icicles"
 ai5bDescription: "Icicles slows nearby enemies"
 
+
 lvl1Hp: "1344"
 lvl1Dmg: "50"
 lvl1Dps: "62"
@@ -59,13 +71,13 @@ lvl25Hp: "11825"
 lvl25Dmg: "492"
 lvl25Dps: "616"
 
+
 epicMat: "Icicool Essence"
 rareMat: "Evader Sprays"
 specialMat: "Sticky Goo"
 commonMat1: "Frost Fuel"
 commonMat2: "Mini Sensor"
 commonMat3: "Cold Battery"
-
 ---
 
 ### Suggested AI build
