@@ -10,7 +10,7 @@ description: "Epic Support - A timid bot that throws its allies into the fray. L
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/912341631666106448/1637589480024.png"
 breadcrumbs:
   Bots: "/bots"
-  Support: "/bots#tanks"
+  Support: "/bots#supports"
 
 
 botName: "Gusto"
@@ -79,3 +79,10 @@ commonMat1: "Cold Battery"
 commonMat2: "Double Cog"
 commonMat3: "Mini Sensor"
 ---
+
+### Tips
+Don't put Snipers or Splashers near Gusto or Gusto will throw them at the enemy.
+Put Brawlers near Gusto, so that Gusto can launch them at the enemy.
+
+### Suggested Ai Build
+ABAAC
