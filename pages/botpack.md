@@ -48,7 +48,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
     		{% for ability in abilities_by_rarity %}
                 <li class="toc-block-entry rarity_{{ability.abilityRarity}}">
                     <a href="{{ site.baseurl }}{{ ability.url }}" title="Page about the ability {{ ability.abilityName }}">
-                        <img loading="lazy"   src="{{ ability.abilityImageUrl }}" alt="Image of the ability {{ ability.abilityName }}">
+                        <img loading="lazy"   src="{{ ability.abilityImageUrl }}">
                         <span>{{ ability.abilityName }}</span>
                     </a>
                 </li>
