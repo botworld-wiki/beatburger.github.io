@@ -14,7 +14,7 @@ botDescription: "A cannon on legs. Can fire over obstacles, making it a potent b
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 botType: "Splasher"
 botRarity: "Rare"
-botRarityNumber: "4"
+botRarityNumber: "3"
 botAcquisition: "Random Drop"
 botOpinion: "Dum mort, Coward Mort, Nuke Combo"
 searchKeywords: "dumb, Mort, Aoe, Nuke, combo, rare, splasher, knockback"
