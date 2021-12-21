@@ -8,15 +8,19 @@ title: "Froggy"
 name: "Froggy"
 description: "Rare Evader - A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
-
+breadcrumbs: 
+ Bots: "/bots"
+ Evader: "/bots#evaders"
 
 botName: "Froggy"
 botDescription: "A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
 botType: "Evader"
 botRarity: "Rare"
+botRaritySortOrder: "3"
 botAcquisition: "Starter Bot , Random Drop"
-botOpinion: "Waddles, Does not Hop"
+botOpinion: "Cutest Bot in Botworld"
+searchKeywords: "aoe, slow, poison, distance, ranged, dot, damage over time"
 
 
 ability1Name: "Slime Ball"
@@ -74,3 +78,8 @@ commonMat1: "Sparky Wires"
 commonMat2: "Mini Sensor"
 commonMat3: "Double Cog"
 ---
+### Tips
+
+
+### Suggested Ai Build
+AABCB
