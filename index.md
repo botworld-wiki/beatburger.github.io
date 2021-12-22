@@ -272,7 +272,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
     - [Contracts](/contracts):
     - [Loot](/loot): Ancient Ruins, botframes, materials, loot piles, zoning, drop rates...
-    - [Exterminator squads](/exterminator-squads):
+    - [Exterminator squads](/contribute#tbw):
 - [Scavenger Landing](/town): shop, hair draisser, aunty... mentions arena etc
     - [Business Boat Upgrades](/boat): boat pictures & unlocks per level...
     - [Arena](/arena):
