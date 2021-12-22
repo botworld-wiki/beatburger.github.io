@@ -220,7 +220,15 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
-- [Community Wiki Launch](/news): We’re excited to have you check it out!
+- [Community Wiki Launch](/news): We, *Beat Burger & Friends*, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
+
+It's been a project running strong for the last 10 days or so, and today we believe it is ready enough to present it to you!
+It is *ready*, but **far from complete**! Many (most?) of the pages are shadows of what we want them to be, created as placeholder so we can fill them up together over the weeks to come.
+
+We have some very nice and rich ones already though!
+
+We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have the info.
+
 - [Teddies of Scrapyard](/news): Find all of the hidden teddy bears in the Scrapyard Danger Zone! Event ends Jan. 3rd.
 - [New Bot Coming soon](/news): there's also a gems giveaway on the official socials.
 
