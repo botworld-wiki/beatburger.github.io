@@ -17,7 +17,7 @@ breadcrumbs:
 
 - [All the past updates](/news)
 - [Recruits comps tips](/recruits#composition)
-- [Carlbot integration](/cog)
+- [Carlbot integration](/coggy-meets-cog)
 
 ## Day 12
 
