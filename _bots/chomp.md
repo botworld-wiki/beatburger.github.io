@@ -84,5 +84,5 @@ commonMat3: "Frost Fuel"
 - A?C?A. AI4 is the most important choice.
 
 ### Notes
-Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
+- Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
 
