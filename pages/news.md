@@ -28,7 +28,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-archives">
 
-## 2021-12-22
+## d2021-12-22
 
 ### Botworld Wiki Launch
 
@@ -42,19 +42,35 @@ We have some very nice and rich ones already though!
 
 We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have the info.
 
-## 2021-12-21
+## d2021-12-21
 
 The event is called **Teddies of Scrapyard** and your goal is to find all of the hidden teddy bears in the Scrapyard Danger Zone! This event begins now and ends on January 3rd, 2022. You can submit your video until that date. [Official link](<https://docs.google.com/forms/d/e/1FAIpQLSeEieIPZpQEYwryNs32m-ovHbPqGx3oLC1AsCF6FfwR-9tvCw/viewform>)
 
 ![Teddies of Scrapeyard event](<https://cdn.discordapp.com/attachments/824813164142788619/922458360907985016/BA_Teddies_Scrapyard.jpg>)
 
-## 2021-12-18
+## d2021-12-18
 
 ### New Bot coming soon!
 
 ![New Bot 2021-12-18](<https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg>)
 
 [Official Annoucement](<https://twitter.com/BotworldGame/status/1472189909188300802>)
+
+
+## v1.1.1
+
+**Bug Fixes:**
+
+- Longshot's attacks should now hit more reliably.
+- Fork's Backstab is fixed again.
+- Fixed missing model in Arena Master.
+- Fixed a bug where the game would freeze when offline. 
+
+
+**Balance Changes:**
+
+- Dune Bug's Critical Strikes AI upgrade decreased from 25% to 20% and now affects all attacks.
+- Slicer's Critical Strikes AI upgrade increased from 10% to 20%.
 
 ## v1.1.0
 
@@ -82,24 +98,7 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 - Hornet's health increased.
 - Frosty's Ice Shards AI upgrade improved from 20% to 25%, Energy Shielding AI upgrade improved from 25% to 35%, Cold and Defenceless AI upgrade improved from 15% to 20%. Cold Snap stun duration increased from 3s to 3.5s. 
 
-
-## 1.1.1
-
-**Bug Fixes:**
-
-- Longshot's attacks should now hit more reliably.
-- Fork's Backstab is fixed again.
-- Fixed missing model in Arena Master.
-- Fixed a bug where the game would freeze when offline. 
-
-
-**Balance Changes:**
-
-- Dune Bug's Critical Strikes AI upgrade decreased from 25% to 20% and now affects all attacks.
-- Slicer's Critical Strikes AI upgrade increased from 10% to 20%.
-
-
-## 2021-11-13
+## d2021-11-13
 
 ### Gusto
 
@@ -109,7 +108,9 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/909080454207000617>)
 
-## 2021-10-20 (1.0.1)
+## v1.0.1
+
+**Released:** 2021-10-20
 
 ### New bot: [Tether](<https://www.botworld.wiki/tether>)
 
@@ -133,7 +134,7 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 - Yanky’s damage reduced.
 
 
-## 2021-10-19
+## d2021-10-19
 
 ### [Tether](<https://www.botworld.wiki/tether>)
 
@@ -143,7 +144,9 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/899960086687014992>)
 
-## 2021-10-5 (1.0.0)
+## v1.0.0
+
+**Released:** 2021-10-5
 
 **Bug Fixes:**
 
@@ -151,7 +154,10 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 - Fixed dust clouds from battles sometimes sticking around after a battle ends.
 
 
-## 2021-10-1 (0.16.35)
+## v0.16.35
+
+**Released:** 2021-10-01
+
 
 **Features:**
 
@@ -173,7 +179,9 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 - Fork’s Backstab damage increased by 25%.
 
 
-## 2021-9-27 (0.16.34)
+## v0.16.34
+
+**Released:** 2021-9-27
 
 **Features:**
 
@@ -201,7 +209,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 - Ram health reduced slightly.
 
 
-## 2021-9-21
+## d2021-9-21
 
 ### Halo
 
@@ -211,7 +219,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/889828555683397673>)
 
-## 2021-9-14 (0.16.33)
+## v0.16.33
+
+**Released:** 2021-9-14
 
 **Features:**
 
@@ -233,7 +243,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Snowball turrets in the Frozen Wastes now shoot less frequently.
 
 
-## 2021-9-9 (0.16.31)
+## v0.16.31
+
+**Released:** 2021-9-9
 
 **Features:**
 
@@ -250,7 +262,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Fixed invisible wall in the Parched Sea.
 
 
-## 2021-9-6 (0.16.30)
+## v0.16.30
+
+**Release:** 2021-9-6 
 
 **Features:**
 
@@ -262,7 +276,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Fixed bug causing game to get stuck on load screen.
 
 
-## 2021-9-2 (0.16.29)
+## v0.16.29
+
+**Released:** 2021-9-2
 
 **Features:**
 
@@ -285,7 +301,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Fixed a Virus AI upgrade not working as intended.
 
 
-## 2021-8-30 (0.16.28)
+## v0.16.28
+
+**Released:** 2021-8-30
 
 **Bug Fixes:**
 
@@ -296,7 +314,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Max Level bots no longer show upgrade ingredient slots in the Robopedia.
 
 
-## 2021-8-27 (0.16.27)
+## v0.16.27
+
+**Released:** 2021-8-27
 
 **Features:**
 
@@ -316,7 +336,9 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 - Icicool: Movement speed and health both increased slightly.
 
 
-## 2021-5-22 (0.16)
+## v0.16
+
+**Released:** 2021-5-22
 
 ### New Bot: [Fork](<https://www.botworld.wiki/fork>)
 
