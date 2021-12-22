@@ -12,8 +12,6 @@ breadcrumbs:
 
 # Seasons
 
-**Contracts**: we got a page for them, with a [list of every Contract](/contracts)
-
 <div markdown="1" class=" ghcms ghcms-intro">
 
 ## Starter Season vs Global Season
@@ -22,6 +20,10 @@ You have to go through the Starter Season before you can get into the current Gl
 
 Any bot that's available as a reward in your current season, you can't find it as a random drop or in any chest. 
 When the season expires however, it'll become available this way (including premium rewards)
+
+
+**Contracts**: we got a page for them, with a [list of every Contract](/contracts)
+**Season Tokens while exploring**: check out [Explo & Danger Zones Tips](/exploring)
 
 </div>
 
