@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Groovy"
-updatedAt: "2021-12-12"
+updatedAt: "2020-12-12"
 
 
 title: "Chomp"
 name: "Chomp"
-description: "Common Sniper - A loyal companion who loves to shoot at enemies from a distance"
+description: "Common Sniper: Mostly outclassed by other snipers - A loyal companion who loves to shoot at enemies from a distance"
 imageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 breadcrumbs:
   Bots: "/bots"
@@ -82,5 +82,7 @@ commonMat3: "Frost Fuel"
 
 ### Suggested AI build
 - A?C?A. AI4 is the most important choice.
+
 ### Notes
-- Chomp is a trusty early bot, but quite overshadowed by every other snipers pretty soon
+Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
+
