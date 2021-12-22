@@ -6,7 +6,7 @@ updatedAt: "2020-12-12"
 
 title: "Chainer"
 name: "Chainer"
-description: "Rare Tank - Not the most mobile bot, but that doesn't matter when it can bring the fight to itself."
+description: "Rare Tank: Best combo enabler - top meta pick - Not the most mobile bot, but that doesn't matter when it can bring the fight to itself."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png"
 breadcrumbs:
   Bots: "/bots"
@@ -44,8 +44,8 @@ ai2aDescription: "Chain cooldown reduced by 25%"
 ai2bName: "B: Multi-chain Efficiency"
 ai2bDescription: "Multi-chain cooldown reduced by 20%"
 ai3aName: "C: Fortitude"
-ai3aDescription: ""
-ai3bName: "Health increased by 20%"
+ai3aDescription: "Health increased by 20%"
+ai3bName: ""
 ai3bDescription: ""
 ai4aName: "A: Power Slam"
 ai4aDescription: "Ground slam damage increased by 20%"
@@ -80,7 +80,11 @@ commonMat2: "Thick Tube"
 commonMat3: "Frost Fuel"
 ---
 
-### By Groovy
+### Suggested AI Build
+- BBCAB
+
+### Notes
+- Chainer is an aggressive tank that yoinks enemies away from your bots, this also allows for the popular ""grouper"" teams with splashers that quickly sweep enemy teams. Unfortunately he's also anti-synergetic with many of the other bots, take [Brute](/brute) or [Bigshot](/bigshot) for example, pulling enemies away from them or out of their line of fire. A niche pick that deserves a high tier, recently nerfed with the botpack changes.
 
 - Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
