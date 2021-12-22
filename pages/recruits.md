@@ -28,12 +28,13 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
   <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
   <li class="toc-block-entry" ><a href="#jobs">Jobs</a></li>
   <li class="toc-block-entry" ><a href="#reinforcments">Reinforcments</a></li>
-  <li class="toc-block-entry" ><a href="#tips-and-tricks">Tips and Tricks</a></li>
+  <li class="toc-block-entry" ><a href="#composition">Composition</a></li>
+  <li class="toc-block-entry" ><a href="#priorities">Priorities</a></li>
 </ul>
 
 **Jobs**: they're all listed in [Jobs](/jobs)
-**Squad Cup**: is described in [Arena](/arena)
 
+**Squad Cup**: is described in [Arena](/arena)
 
 <div markdown="1" class=" ghcms ghcms-acquisition">
 
@@ -104,23 +105,69 @@ if you're waiting for Uberbot, try and pick short jobs so you know you'll have a
 That's not your job, let them do it for you! [Farming](/farming)
 </div>
 
-<div markdown="1" class=" ghcms ghcms-tips">
+<div markdown="1" class=" ghcms ghcms-comp">
 
-## Tips 
+
+## Composition
 
 ### "Hard to mess up" objective
 
 Recruits are dumb. It's less about giving them a powerful comp, than it is about giving them tools they won't hurt themselves with. 
 
-### Try to avoid
+Don't think *can this bot/ability do good with this recruit?* but rather *can my recruit use this bot/ability so poorly it doesn't even help it win a fight ?* 
 
-- bots: Mort, Brute, Scatter
-- abilities: CT/SCT
 
-### Try to prioritize:
 
-- bots: Rocketeer, Dune Bug
-- abilities: Hypercharge
+### Avoid: easily-disabled bots
+
+You'll see a recruit place a [Mort](/mort) in melee range of a bot, or fail to protect Mort if it's too close. Placing [Scatter](/scatter) or [Brute](/brute) too far away from the fight achieve the same result of doing absolutely nothing.
+
+Any bot that needs a combo or some kind of help from the player (placement, supporting bots or abilities, etc) will do poorly in the hand of a recruit
+
+**Suggested list of Bots to Avoid on your recruits:** [Mort](/mort), [Brute](/brute), [Scatter](/scatter),... [more to add](/contribute#tbw)
+
+
+### Prioritize: self-reliant bots
+
+On the other hand, bots like [Rocketeer](/Rocketeer) and [Dune Bug](/dune-bug) are very self-reliant bots, as most [Evaders](/bots#evaders) and [Splashers](/bots#splashers) (veto Mort) tend to be. Their **reliable damage, mobility, and effectiveness in hands-off situations** lend them to be more beneficial for recruits to pilot.
+
+
+**Suggested list of Bots to Prioritize on your recruits:** [Rocketeer](/Rocketeer), [Dune Bug](/dune-bug), [Virus](/virus),... [more to add](/contribute#tbw)
+
+
+### Abilities
+
+The same reasoning applies, give them abilities that require anything like planning ahead and watch them fail miserably.
+
+Ever seen a recruit using [SCT](/sct) endlessly on [Brute](/brute) ? I have, that's fun, but achieve exactly nothing good:
+
+- Brute never gets in range of anything to hit
+- Spend every ounce of power available
+
+All of a sudden the fight is **3 bots + botpack** (the opponent) *vs* **2 bots + no botpack** (your recruit). Not great.
+
+Thinking of giving your recruit Hasty Ground ? Well here's hoping it uses it on [KO](/ko) and not [Bigshot](/bigshot). etc.
+
+
+**Avoid abilities that *can easily* be wasted:** [Chaos Translocator](/chaos-translocator), [Supercharged Chaos Translocator](/supercharged-chaos-translocator),... [more to add](/contribute#tbw)
+
+**Prioritize abilities that *will always* have a beneficial outcome:** [Hypercharge](/hypercharge), Direct damage or Poison, [Shield](/shield),... [more to add](/contribute#tbw)
+
+
+### Try it out!
+
+The best way to figure out what works and what doesn't for a recruit comps, is *simply* to just go and **spectate it in action**. Either:
+
+- **Squad Cup:** whenever available. Take notes, maybe even record ?
+- **Autobattle:** load up the 4 bots you have in mind for your recruit comp, add 2 lvl 1 bots you have left in your boat, and have a few fights in the wild. It's not the exact same thing but close enough that you will surely learn a lot, I know I have!
+
+
+
+## AI Priorities
+
+The recruits/autobattle AI clearly has favorite bots/abilities and its own priority rules. 
+
+[Anyone got data on that?](/contribute#tbw)
 
 </div>
 
