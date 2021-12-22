@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /jobs
 title: Recruits Jobs
-description: "All the Jobs your Botworld Recruits can do you you - Everything there is to know about it on the Botworld Community Wiki!"
+description: "All the Jobs your Botworld Recruits can do for you - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
   Recruits: "/recruits"
   
@@ -16,7 +16,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-[To Be Written](/jobs)
+[To Be Written](/contribute#tbw)
 
 
 </div>
