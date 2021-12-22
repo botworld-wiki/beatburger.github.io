@@ -167,7 +167,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 <span>Maps</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
+                <a href="/boat">
                 <span>Business Boat upgrades</span></a>
             </li>
             <li class="toc-block-entry">
@@ -270,17 +270,16 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Explorating & Danger Zones Tips](/exploring): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
     - [Maps](/maps): full pics, annotations, unlocks
     - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
-    - [Contracts](/contribute#tbw):
-    - [Exterminator squads](/contribute#tbw):
-- [Scavenger Landing](/contribute#tbw): shop, hair draisser, aunty... mentions arena etc
-    - [Business Boat upgrades](/contribute#tbw): boat pictures & unlocks per level...
+    - [Contracts](/contracts):
+    - [Loot](/loot): Ancient Ruins, botframes, materials, loot piles, zoning, drop rates...
+    - [Exterminator squads](/exterminator-squads):
+- [Scavenger Landing](/town): shop, hair draisser, aunty... mentions arena etc
+    - [Business Boat Upgrades](/boat): boat pictures & unlocks per level...
     - [Arena](/arena):
     - [Arena Masters](/arena-masters): List, descriptions, rewards, tips
     - [Seasons](/seasons): Starter Season vs Global Season, most notable rewards etc.
     - [Notable characters](/contribute#tbw): the cool npcs
 - [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
-    - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
-- [Botworld Adventure News archive](/news): New bots, updates, anything that's happening.
 - ...
 
 </div>
@@ -301,6 +300,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Community Wiki
 
+- [Botworld Adventure News archive](/news): New bots, updates, anything that's happening.
 - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
 - [Changelog](/changelog): What's new on the wiki ?
 - [Credits](/credits): A big **Thank You** to everyone!
