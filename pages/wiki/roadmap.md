@@ -51,6 +51,7 @@ Basically, I want to focus on building the project & team first, the website sec
 
 ### Secondary content & features ideas
 
+- update breadcrumbs with [Botmasters](/#botmasters) [Botworld](/#botworld) [Community Adventure?](/#wiki)
 - tech stack doc
 - videos ? 
 - advanced search (incl pages titles)
