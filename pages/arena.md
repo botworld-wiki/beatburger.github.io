@@ -19,7 +19,7 @@ breadcrumbs:
 
 - [Arena Masters](/arena-masters): fight your way through the Masters to become the best of Botworld and unlock new Botpack slots.
 - **Solo Arena**: climb the ladder for [cool rewards](#rewards)
-- **Squad Cup**: move up the brackets into the next league, alongside your trusted [recruits](/contribute#tbw)!
+- **Squad Cup**: move up the brackets into the next league, alongside your trusted [Recruits](/recruits)!
 
 </div>
 
