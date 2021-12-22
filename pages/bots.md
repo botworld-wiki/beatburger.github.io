@@ -405,4 +405,7 @@ Getting your bot to AI5 will make it so much better, AI trees are very powerful.
 - **Use your [Gadgets](/botpack#gadgets):** especially mines! but anything to shorten the fights will help, you want to churn them out fast.
 - **Regular exploring tricks:** check out [Exploring & Danger Zones Tips](/exploring#tips-and-tricks)
 
+
+*Credit: cloud9*
+
 </div>
