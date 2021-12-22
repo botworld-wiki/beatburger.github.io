@@ -13,13 +13,14 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
-## Day 13
+## 2021-12-22
 
 - [All the past updates](/news)
 - [Recruits comps tips](/recruits#composition)
 - [Carlbot integration](/coggy-meets-cog)
+- [AI Training](/bots#ai)
 
-## Day 12
+## Day 12 - 2021-12-21
 
 - Mass update: all [Bots](/bots)
 - All [Abilities](/abilities) & [Boosters](/boosters)
