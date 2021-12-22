@@ -17,7 +17,7 @@ layout: none
   {% for booster in site.boosters %}
     {
       "title"    : "{{ booster.boosterName | escape }}",
-      "url"      : "{{ botoster.path | replace:'.md', '' | remove: '_boosters' }}"
+      "url"      : "{{ booster.path | replace:'.md', '' | remove: '_boosters' }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {
