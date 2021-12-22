@@ -5,12 +5,14 @@ permalink: /seasons
 title: Seasons
 description: The place to learn everything there is to know about the seasons in Botworld Adventure!
 breadcrumbs:
-  Scavenger Landing: "/contribute#tbw"
+  Botworld: "/#botworld"
+  Scavenger Landing: "/town"
   
 ---
 
 # Seasons
 
+**Contracts**: we got a page for them, with a [list of every Contract](/contracts)
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
