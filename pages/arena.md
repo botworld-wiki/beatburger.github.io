@@ -5,7 +5,8 @@ permalink: /arena
 title: The Arena
 description: The place to learn everything there is to know about the arena in Botworld Adventure!
 breadcrumbs:
-  Scavenger Landing: "/contribute#tbw"
+  Botworld: "/#botworld"
+  Scavenger Landing: "/town"
   
 ---
 
