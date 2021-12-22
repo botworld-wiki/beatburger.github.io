@@ -166,3 +166,9 @@ A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the 
 [Virus](/virus) + [Hypercharge](/hypercharge) = GG.
 
 </div>
+
+<div markdown="1" class=" ghcms ghcms-credits">
+
+Credit to GlareFacer for the orinigal work of listing all the masters on discord!
+
+</div>
