@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+      <meta charset="utf-8">
+      <title>Redirecting&hellip;</title>
+      <link rel="canonical" href="{{ page.redirectTo }}">
+      <script>location="{{ page.redirectTo }}"</script>
+      <meta http-equiv="refresh" content="0; url={{ page.redirectTo }}">
+      <meta name="robots" content="noindex">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+    <title>{{page.title}} - {{site.title}}</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="{{page.description}}" />
+<meta property="og:description" content="{{page.description}}" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:site_name" content="Unoffical Community Wiki" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{{page.description}}"/>
+{% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
+  <meta property="og:image" content="{{page.imageUrl}}"/>
+{% else %}
+  <meta property="og:image" content="https://cdn.discordapp.com/emojis/918669937214640269.png"/>
+{% endif %}
+<script type="application/ld+json">
+{"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    </head>
+    <body>
+      <h1>Redirecting&hellip;</h1>
+      <a href="{{ page.redirectTo }}">Click here if you are not redirected.</a>
+    </body>
+</html>
