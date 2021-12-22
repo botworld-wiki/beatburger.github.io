@@ -18,7 +18,8 @@ breadcrumbs:
 - Mass update: all [Bots](/bots)
 - All [Abilities](/abilities) & [Boosters](/boosters)
 - New dropdown responsive menu (full css :p)
-- [Scavenger Landing](/town), [Recruits](/recruits), [Jobs](/jobs)
+- [Scavenger Landing](/town), [Recruits](/recruits), [Jobs](/jobs), [Contracts](/contracts), [Explo & Danger Zones Tips](/exploring), [Boat](/boat), [Ancient Ruins](/loot#ancient-ruins)
+- [News](/news) completed with past updates
 - ...
 - Release !?
 
