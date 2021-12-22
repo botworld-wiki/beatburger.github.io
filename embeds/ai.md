@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: embed
 permalink: "/ai"
 redirectTo: "https://www.botworld.wiki/bots#ai"
 
