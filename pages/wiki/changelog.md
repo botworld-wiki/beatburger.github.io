@@ -18,7 +18,7 @@ breadcrumbs:
 - Mass update: all [Bots](/bots)
 - All [Abilities](/abilities) & [Boosters](/boosters)
 - New dropdown responsive menu (full css :p)
-- [Scavenger Landing](/town)
+- [Scavenger Landing](/town), [Recruits](/recruits), [Jobs](/jobs)
 - ...
 - Release !?
 
