@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: embed
 permalink: "/recruit-comp"
 redirectTo: "https://www.botworld.wiki/recruits#composition"
 
