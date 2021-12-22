@@ -56,7 +56,9 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 
 [Official Annoucement](<https://twitter.com/BotworldGame/status/1472189909188300802>)
 
-## 2021-11-17 (1.1.0)
+## v1.1.0
+
+**Released:** 2021-11-17
 
 **Features:**
 
