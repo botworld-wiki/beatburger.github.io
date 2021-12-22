@@ -24,7 +24,7 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#costs" title="Upgrade Costs by level">Upgrade Costs</a></li>
 </ul>
 
-
+**Ancient Ruins**: Check out our [explanation & maps about Ancient Ruins](/loot#ancient-ruins) 
 
 
 <span id="boat"></span>
