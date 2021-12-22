@@ -23,7 +23,7 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#evaders" title="See every Evader">Evaders <img loading="lazy"   src="/assets/img/icons/evaders.png" alt="Evader bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#brawlers" title="See every Brawler">Brawlers <img loading="lazy"   src="/assets/img/icons/brawlers.png" alt="Brawler bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#supports" title="See every Support">Supports <img loading="lazy"   src="/assets/img/icons/supports.png" alt="Support bots logo"></a></li>
-  <li class="toc-block-entry" ><a href="#ai" title="Everything about AI trees & xp">AI trees & XP</a></li>
+  <li class="toc-block-entry" ><a href="#ai" title="Everything about AI trees & xp">AI Training</a></li>
 </ul>
 
 
@@ -372,15 +372,37 @@ Supports make your other bots more effective --- best placed beside tanks
 
 
 
-<span id="ai"></span>
-
 <div markdown="1" class=" ghcms ghcms-more">
 
-## XP & AI explanations
+</div>
 
-farming technique
-cost to reset
 
-## ... ?
+
+<span id="ai"></span>
+
+<div markdown="1" class=" ghcms ghcms-ai">
+
+## AI 
+
+Getting your bot to AI5 will make it so much better, AI trees are very powerful. For some bots and some combos ([Chainer!](/chainer)) AI5 is an absolute game-changer
+
+### Reset
+
+- It costs 100 gold per bot AI level. 
+- You can only reset them all at once.
+
+### XP costs
+
+| AI level | 1 | 2 | 3 | 4 | 5 |
+| - | - | - | - | - | - |  
+| xp req | 500 | 2000 | 5000 | 14000 | 30000 |
+
+### Training
+
+- **Have [the right business perk](/contribute#tbw):** +15% will help a lot!
+- **Focus on wild bots:** you gain XP for beating bots, it's more efficient if you don't have to endure adverse abilities while doing so
+- **Fight above your level:** The higher the level, the more the XP gain. Aim for at least 2 levels above yours.
+- **Use your [Gadgets](/botpack#gadgets):** especially mines! but anything to shorten the fights will help, you want to churn them out fast.
+- **Regular exploring tricks:** check out [Exploring & Danger Zones Tips](/exploring#tips-and-tricks)
 
 </div>
