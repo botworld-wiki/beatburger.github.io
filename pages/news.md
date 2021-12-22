@@ -17,10 +17,27 @@ breadcrumbs:
 ## 2021-12-22
 
 ### Botworld Wiki Launch
+__**Hello Everyone!**__
 
-We're excited to have you check it out!
+We, Beat Burger & Friends, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
 
 ![Beat Burger by Lollitree](/assets/img/pics/beatburger.png)
+
+It's been a project running strong for the last 10 days or so, and today we believe it is ready enough to present it to you!
+
+It is *ready*, but **far from complete**! Many (most?) of the pages are shadows of what we want them to be, created as placeholder so we can fill them up together over the weeks to come.
+
+We have some very nice and rich ones though, have a look at:
+
+- [Bots](/bots)
+- [Botpack](/botpack)
+- [Materials](/materials) 
+
+For example. 
+
+We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have some info.
+
+**Have a look at it now, and tell us what you think!**
 
 ## 2021-12-21
 
