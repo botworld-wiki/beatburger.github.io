@@ -13,6 +13,12 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
+## Day 13
+
+- [All the past updates](/news)
+- [Recruits comps tips](/recruits#composition)
+- [Carlbot integration](/cog)
+
 ## Day 12
 
 - Mass update: all [Bots](/bots)
