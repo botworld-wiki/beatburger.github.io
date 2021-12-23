@@ -6,7 +6,7 @@ updatedAt: "2021-12-16"
 
 title: "Virus"
 name: "Virus"
-description: "Epic Brawler"
+description: "Epic Brawler - Virus hacks into it's foes, turning them against each other."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
