@@ -6,11 +6,12 @@ updatedAt: "2021-12-14"
 
 title: "Pupil"
 name: "Pupil"
-description: "Rare Sniper - Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
+description: "Rare Sniper: Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents - Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547091991080970/pupil.png"
 breadcrumbs:
- Bots: "/bots"
- Sniper: "/bots#snipers"
+  Bots: "/bots"
+  Sniper: "/bots#snipers"
+
 
 botName: "Pupil"
 botDescription: "Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
@@ -18,9 +19,10 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554709
 botType: "Sniper"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Random Drop"
+botAcquisition: "Starter Season"
 botOpinion: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents"
-searchKeywords: "melt, burst, single, damage, laser, eye, pupil, rare, sniper"
+searchKeywords: ""
+
 
 ability1Name: "Laser Beam"
 ability1Info: "Beam hit rate: 0,3s , Charge time: 2s , Range: 4-8 , Energy Damage: 30-60"
@@ -73,10 +75,10 @@ lvl25Dps: "1477"
 epicMat: "Pupil Essence"
 rareMat: "Sniper Gyro"
 specialMat: "Thick Oil"
-commonMat1: "Sputtering generator"
+commonMat1: "Sputtering Generator"
 commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 ---
 
 ### suggested ai build
-- AACAA
+AACAA
