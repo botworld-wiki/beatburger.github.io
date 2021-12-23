@@ -18,9 +18,12 @@ breadcrumbs:
 
 You have to go through the Starter Season before you can get into the current Global Season with the rest of the older players.
 
-Any bot that's available as a reward in your current season, you can't find it as a random drop or in any chest. 
-When the season expires however, it'll become available this way (including premium rewards)
+### How else can I get the bots ?
 
+Any bot that's available as a reward in your current season, you can't find it as a random drop or in any chest. 
+**When the season expires** however, they all **become available from [Random Drops](/loot#botframes)** (including premium rewards).
+
+### Related pages
 
 **Contracts**: we got a page for them, with a [list of every Contract](/contracts)
 **Season Tokens while exploring**: check out [Explo & Danger Zones Tips](/exploring)
