@@ -55,9 +55,9 @@ ai5bName: "B: Sharpened Shield"
 ai5bDescription: "Shield slam damage increased by 50%"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "2240"
+lvl1Dmg: "42"
+lvl1Dps: "49"
 lvl1Speed: "15"
 lvl10Hp: "4716"
 lvl10Dmg: "99"
