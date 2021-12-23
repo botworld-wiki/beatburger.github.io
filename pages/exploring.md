@@ -76,9 +76,17 @@ Same. You get [Season Reward Tokens](/seasons) for beating them!
 
 ## Critters
 
-Catch them by walking on them. You'll get scraps and sometimes even rare [Brawler Batteries](/brawler-battery). Some are cute, some will hurt you.
+All the **rabbits, scarabs, snakes**, etc.
 
-They spawn/despawn when you enter a fight
+- Catch them by walking upon them
+- They drop scraps & sometimes [Brawler Batteries](/brawler-battery)
+- They spawn/despawn when you start a fight
+- Some flee, some attack and hurt
+
+### Catching Tips
+
+- To catch a lot easily, hunt the aggressive ones
+- Saltwater Swamp is packed with snakes
 
 </div>
 
