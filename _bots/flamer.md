@@ -55,9 +55,9 @@ ai5bName: "B: Thermoelectric Generator"
 ai5bDescription: "Flamefield heals Flamer for 25% of the damage dealt"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1008"
+lvl1Dmg: "40"
+lvl1Dps: "100"
 lvl1Speed: "10"
 lvl10Hp: "2122"
 lvl10Dmg: "94"
