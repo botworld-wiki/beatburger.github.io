@@ -55,9 +55,9 @@ ai5bName: "B: Locked and Loaded"
 ai5bDescription: "Railgun starts 50% charged"
 
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "952"
+lvl1Dmg: "90"
+lvl1Dps: "106"
 lvl1Speed: "12"
 lvl10Hp: "2004"
 lvl10Dmg: "212"
