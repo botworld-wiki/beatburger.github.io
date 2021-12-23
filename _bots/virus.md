@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-16"
+contributors: "Kurt, Soft, O.J"
+updatedAt: "2021-12-23"
 
 
 title: "Virus"
 name: "Virus"
-description: "Epic Brawler: Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them. - Virus hacks into its foes, turning them against each other"
+description: "Epic Brawler: Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone. One of the effective ways to use Virus is spamming Hypercharge on it so that the bot can use its ult quickly. In the other hand, you can equip 2 or more rare ultimate cooldown boosters to help Virus casting its ultimate faster. - Virus hacks into its foes, turning them against each other"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
-botOpinion: "Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them."
+botOpinion: "Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone. One of the effective ways to use Virus is spamming Hypercharge on it so that the bot can use its ult quickly. In the other hand, you can equip 2 or more rare ultimate cooldown boosters to help Virus casting its ultimate faster."
 searchKeywords: ""
 
 
@@ -79,6 +79,8 @@ commonMat1: "Sparky Wires"
 commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
+
+Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them.
 
 ### Uberbot
 
