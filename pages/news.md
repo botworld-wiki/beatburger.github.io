@@ -24,10 +24,6 @@ breadcrumbs:
 </div>
 
 
-
-
-<div markdown="1" class=" ghcms ghcms-archives">
-
 ## d2021-12-22
 
 ### Botworld Wiki Launch
@@ -56,21 +52,21 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 
 [Official Annoucement](<https://twitter.com/BotworldGame/status/1472189909188300802>)
 
-
 ## v1.1.1
 
 **Bug Fixes:**
 
-- Longshot's attacks should now hit more reliably.
-- Fork's Backstab is fixed again.
+- Longshot’s attacks should now hit more reliably.
+- Fork’s Backstab is fixed again.
 - Fixed missing model in Arena Master.
-- Fixed a bug where the game would freeze when offline. 
+- Fixed a bug where the game would freeze when offline.
 
 
 **Balance Changes:**
 
-- Dune Bug's Critical Strikes AI upgrade decreased from 25% to 20% and now affects all attacks.
-- Slicer's Critical Strikes AI upgrade increased from 10% to 20%.
+- Dune Bug’s Critical Strikes AI upgrade decreased from 25% to 20% and now affects all attacks.
+- Slicer’s Critical Strikes AI upgrade increased from 10% to 20%.
+
 
 ## v1.1.0
 
@@ -83,20 +79,21 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 - Added hats.
 - Added two new abilities: [Gale](<https://www.botworld.wiki/gale>) & [Tornado Bolt](<https://www.botworld.wiki/tornado-bolt>).
 - New season pass: *Season of the Wind*.
-- Added new Side Quests to Scrapper's Coast.
-- Auto turrets and aggressive plant traps now drop a piece of scrap when you disable them. 
+- Added new Side Quests to Scrapper’s Coast.
+- Auto turrets and aggressive plant traps now drop a piece of scrap when you disable them.
 
 
 **Bug Fixes:**
 
 - Fixed: not enough mystery points of interest were spawning in Scrap Yard Danger Zone.
-- Fixed: various colliders in the wilds. 
+- Fixed: various colliders in the wilds.
 
 
 **Balance Changes:**
 
-- Hornet's health increased.
-- Frosty's Ice Shards AI upgrade improved from 20% to 25%, Energy Shielding AI upgrade improved from 25% to 35%, Cold and Defenceless AI upgrade improved from 15% to 20%. Cold Snap stun duration increased from 3s to 3.5s. 
+- Hornet’s health increased.
+- Frosty’s Ice Shards AI upgrade improved from 20% to 25%, Energy Shielding AI upgrade improved from 25% to 35%, Cold and Defenceless AI upgrade improved from 15% to 20%. Cold Snap stun duration increased from 3s to 3.5s.
+
 
 ## d2021-11-13
 
@@ -122,9 +119,9 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 **Balance Changes:**
 
-- Berserker's Shield Slam stun duration increased from 1s to 1.5s. Berserker's Concussive Slam AI upgrade decreased by 40%.
-- Bullwark's Shockwave now does energy damage instead of physical damage.
-- Chainer's Ground Slam damage reduced slightly. Chainer's Chain Efficiency AI upgrade increased by 5%.
+- Berserker’s Shield Slam stun duration increased from 1s to 1.5s. Berserker’s Concussive Slam AI upgrade decreased by 40%.
+- Bullwark’s Shockwave now does energy damage instead of physical damage.
+- Chainer’s Ground Slam damage reduced slightly. Chainer’s Chain Efficiency AI upgrade increased by 5%.
 - Dune Bug’s Evasive Roll and Omni Roll now travel the same distance (slight increase to Evasive Roll distance), Tail Gun and Omni Roll now have the same range (slight decrease to Omni Roll range).
 - Fork’s damage (and poison damage) slightly reduced.
 - Virus no longer uses Disable on hacked enemies.
@@ -138,7 +135,7 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 ### [Tether](<https://www.botworld.wiki/tether>)
 
-Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joining Botworld Adventure this week! It digs its cables into the ground to grab enemies from afar and hold them in place. It sure isn't afraid to get its hands dirty.
+Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joining Botworld Adventure this week! It digs its cables into the ground to grab enemies from afar and hold them in place. It sure isn’t afraid to get its hands dirty.
 
 ![Tether](<https://media.discordapp.net/attachments/824813164142788619/899960084199772170/Character_Reveal_Tether.jpg>)
 
@@ -150,7 +147,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 **Bug Fixes:**
 
-- Fixed fast moving projectiles (e.g. Longshot's attacks) from passing right through enemy bots without doing damage.
+- Fixed fast moving projectiles (e.g. Longshot’s attacks) from passing right through enemy bots without doing damage.
 - Fixed dust clouds from battles sometimes sticking around after a battle ends.
 
 
@@ -158,19 +155,18 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 **Released:** 2021-10-01
 
-
 **Features:**
 
 - Removed existing player hat selection (to make way for more hats in future updates).
-- A bot's ultimate charge bar now turns orange while an ultimate ability is active. Hopefully this makes it much clearer when spells like Hypercharge will have no effect on the bot.
-- Bullwark's shield is now always visible, but very faint when not in use.
+- A bot’s ultimate charge bar now turns orange while an ultimate ability is active. Hopefully this makes it much clearer when spells like Hypercharge will have no effect on the bot.
+- Bullwark’s shield is now always visible, but very faint when not in use.
 
 
 **Bug Fixes:**
 
 - The glitchy ground near the table in Scrapper Coast should look a lot better now.
 - Fixed visual glitches when jetpacking home while Invisible. — Fixed Chomp playing its full ultimate animation even when the attack was interrupted.
-- Fixed some of Fork's AI upgrades which weren't working correctly.
+- Fixed some of Fork’s AI upgrades which weren’t working correctly.
 - Fixed some bots occasionally getting stuck on the outer edge of the arena.
 
 
@@ -203,7 +199,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 - Firewall damage increased.
 - Stun resistance boosters now give slightly less resistance.
 - Stun duration increase is now additive instead of multiplicative.
-- Nozzle's Water Tanks AI upgrade has its stun duration bonus decreased from 50% to 40%.
+- Nozzle’s Water Tanks AI upgrade has its stun duration bonus decreased from 50% to 40%.
 - Chainer health reduced slightly.
 - Virus health reduced slightly, and Hack cooldown increased from 11 to 12 seconds.
 - Ram health reduced slightly.
@@ -251,7 +247,7 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 
 - Recruit results pop-up now shows more info about the job they succeeded or failed at.
 - World map: added a pulsing marker for player location and faded out labels for zones that have not been unlocked yet.
-- Added a few cinematic camera moves to Scavenger's Landing.
+- Added a few cinematic camera moves to Scavenger’s Landing.
 
 
 **Bug Fixes:**
@@ -264,7 +260,7 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 
 ## v0.16.30
 
-**Release:** 2021-9-6 
+**Release:** 2021-9-6
 
 **Features:**
 
@@ -290,7 +286,7 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 **Bug Fixes:**
 
 - Enemies can no longer see Invisible player after defeating a recruit.
-- Enemies no longer start fighting recruits before they've landed.
+- Enemies no longer start fighting recruits before they’ve landed.
 - Fixed pathfinding in various locations.
 - Fixed glitches when running back and forth through the gate on Starting Island.
 - Fixed incorrect recruit name sometimes appearing on the warning pop-up.
@@ -321,13 +317,13 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 **Features:**
 
 - Character Makeover menu improved. Confirm and Cancel buttons have been added and you cannot pay for a makeover without making changes.
-- Chinese translations. 
+- Chinese translations.
 
 
 **Bug Fixes:**
 
 - Defeating enemies with gadgets should now count towards contracts.
-- Characters in the wilds that want to talk to the player will no longer be affected by environmental damage. 
+- Characters in the wilds that want to talk to the player will no longer be affected by environmental damage.
 
 
 **Balance Changes:**
@@ -343,14 +339,10 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 ### New Bot: [Fork](<https://www.botworld.wiki/fork>)
 
 - Arena Team Names, Uniforms and Banners
-- Fork + 6 new abilities
+- 6 new abilities: [Immobilize](<https://www.botworld.wiki/immobilize>), [Poison Bolt](<https://www.botworld.wiki/poison-bolt>), [Ball Lightning](<https://www.botworld.wiki/ball-lightning>), [Poison Trail](<https://www.botworld.wiki/poison-trail>), [Corrode](<https://www.botworld.wiki/corrode>), [Immobilize Field](<https://www.botworld.wiki/immobilize-field>)
 - UI improvements
 - Bot Balance
 - Bug fixes
 - Fixed the bug that kept Virus from appearing
-
-</div>
-
-
 
 
