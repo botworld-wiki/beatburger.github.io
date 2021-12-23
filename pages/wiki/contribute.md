@@ -29,15 +29,25 @@ Here's what we do, tell us where you think you'd fit best:
 - **Developper**: Build the Wiki. New features for our users & workflows for our contributors. *Training: a lifetime*
 
 
-## Maintainers
+## Contacts
 
-Ask us if you have content ready and need a new page created for it.
+Tell us if you have content ready and need someone to add it into the wiki. and Thanks!
 
-- @HexSanity#7490 
-- @Kurt Cabage#2089 
+### Editors
+
+- @It's Diamond#4218 
+- @Mr.Gold_𝔽ish#0461 
+- Every maintainer 
+
+### Maintainers
+
+- @debb#0810 
+- Kartoffel (mykenception#6532)
+- @HexSanity#7490
+- @Kurt Cabage#2089
 - @Groovy#1791
 - @Pix#6773
-- ...?
+
 
 ## Links
 
