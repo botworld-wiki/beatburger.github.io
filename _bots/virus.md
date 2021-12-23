@@ -6,7 +6,7 @@ updatedAt: "2021-12-23"
 
 title: "Virus"
 name: "Virus"
-description: "Epic Brawler: Having higher health in exchange of damage reduction. Virus is one of the best bots in general. Virus acts potentially as a game changer in the arena, as well as performing extremely well in danger zone. Way to use Virus is spamming Hypercharge on it to release the ult quickly. Or else, equipping several rare ultimate cooldown boosters can makes Virus uses its ult rapidly. - Virus hacks into its foes, turning them against each other"
+description: "Epic Brawler: Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone. - Virus hacks into its foes, turning them against each other"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
-botOpinion: "Having higher health in exchange of damage reduction. Virus is one of the best bots in general. Virus acts potentially as a game changer in the arena, as well as performing extremely well in danger zone. Way to use Virus is spamming Hypercharge on it to release the ult quickly. Or else, equipping several rare ultimate cooldown boosters can makes Virus uses its ult rapidly."
+botOpinion: "Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone."
 searchKeywords: ""
 
 
