@@ -71,8 +71,6 @@ Any bot that's available as a reward in your current season, you can't find it a
 | **Mayoral** | [Gust](/gust) | [Hood White](/contribute#tbw) | 200g | [Bandana Yellow](/contribute#tbw) | [Lightning Rod](/lightning-rod) | [Googles Blue Raised](/contribute#tbw) | [Bot Effect Area](/bot-effect-area-rare) | 250g | [Tornado Bolt](/tornado-bolt) |
 | **Citizen** | [Ult Charge](/ult-charge-special) | [Hood Gold Trim](/contribute#tbw) | [Snowball](/snowball) | [Big Chest]](/contribute#tbw) | [Gusto](/gusto) | [Big Chest](/contribute#tbw) | [Big Chest](/contribute#tbw) | [Gale](/gale) | [Goggle Monocle](/contribute#tbw) |
 
-*Credits: cloud9, Pix*
-
 </div>
 
 
