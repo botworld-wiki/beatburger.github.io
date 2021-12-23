@@ -37,6 +37,15 @@ When the season expires however, it'll become available this way (including prem
 
 ### Rewards
 
+**Curated list**
+
+| Rank    | 4 | 10 | 30 | 60 |
+| -       | - | -  | -  | -  |
+| Mayoral | [Random Rare Ability](/abilities) | [Pupil](/pupil)  | [K.O.](/ko)  | [Supercharged Chaos Translocator](/supercharged-chaos-translocator)  |
+| Citizen | [Flamer](/flamer) | [Slicer](/slicer)  | [Random Rare Ability](/abilities)  | [Super Chest](/contribute#tbw)  |
+
+**Full list**
+
 | Rank | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Mayoral** | - | [Super Chest](/contribute#tbw) | - | [Random Rare Ability](/abilities) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Pupil](/pupil) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Chaser Speed](/chaser-speed-rare) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Bot Damage (Rare)](/bot-damage-rare) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Super Chest](/contribute#tbw) | - | [K.O.](/ko) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Super Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Random Rare Booster](/boosters) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Super Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Big Chest](/contribute#tbw) | - | [Random Rare Ability](/abilities) | - | [Big Chest](/contribute#tbw) | - | [Super Chest](/contribute#tbw) | - | [Supercharged Chaos Translocator](/supercharged-chaos-translocator)
