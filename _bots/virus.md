@@ -6,7 +6,7 @@ updatedAt: "2021-12-16"
 
 title: "Virus"
 name: "Virus"
-description: "Epic Brawler"
+description: "Epic Brawler: Best bot - Virus hacks into its foes, turning them against each other"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
@@ -21,7 +21,7 @@ botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
 botOpinion: "Best bot"
-searchKeywords: "brawler, hack, burst, useful, best, meta"
+searchKeywords: ""
 
 
 ability1Name: "Whack"
@@ -80,6 +80,8 @@ commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
 
+Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them.
+
 ### Uberbot
 
 You get Virus from a special Epic quest (Uberbot) that you have to send your recruits to
@@ -89,4 +91,6 @@ You get Virus from a special Epic quest (Uberbot) that you have to send your rec
 - Use 4 Ult Cooldown boosters and it will allow your virus to have permanent hack without needed of hypercharge
 
 ### Suggested Ai Build
-- ABCBA
+ABCBA
+
+
