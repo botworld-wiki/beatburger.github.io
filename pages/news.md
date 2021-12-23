@@ -207,7 +207,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 ## d2021-9-21
 
-### Halo
+### [Halo](https://www.botworld.wiki/halo)
 
 We wanted to share with you how our latest bot looks like. Welcome Halo, a new Support Bot that will be joining Botworld Adventure this October 2nd! We will fully reveal this bot in action and demonstrate its abilities in battles
 
