@@ -36,8 +36,6 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 [To Be Written](/contribute#tbw)
 
-</div>
-
 ### Rewards
 
 **Curated list**
@@ -46,6 +44,8 @@ Any bot that's available as a reward in your current season, you can't find it a
 | -       | - | -  | -  | -  |
 | Mayoral | [Random Rare Ability](/abilities) | [Pupil](/pupil)  | [K.O.](/ko)  | [Supercharged Chaos Translocator](/supercharged-chaos-translocator)  |
 | Citizen | [Flamer](/flamer) | [Slicer](/slicer)  | [Random Rare Ability](/abilities)  | [Super Chest](/contribute#tbw)  |
+
+</div>
 
 **Full list**
 
@@ -62,7 +62,19 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 [To Be Written](/contribute#tbw)
 
+### Rewards
+
+**Curated list**
+
+| Rank | 4 | 10 | 22 | 24 | 30 | 44 | 52 | 54 | 60 |
+| - | - | - | - | - | - | - | - | - | - |
+| **Mayoral** | [Gust](/gust) | [Hood White](/contribute#tbw) | 200g | [Bandana Yellow](/contribute#tbw) | [Lightning Rod](/lightning-rod) | [Googles Blue Raised](/contribute#tbw) | [Bot Effect Area](/bot-effect-area-rare) | 250g | [Tornado Bolt](/tornado-bolt) |
+| **Citizen** | [Ult Charge](/ult-charge-special) | [Hood Gold Trim](/contribute#tbw) | [Snowball](/snowball) | [Big Chest]](/contribute#tbw) | [Gusto](/gusto) | [Big Chest](/contribute#tbw) | [Big Chest](/contribute#tbw) | [Gale](/gale) | [Goggle Monocle](/contribute#tbw) |
+
+*Credits: cloud9, Pix*
+
 </div>
+
 
 
 <div markdown="1" class=" ghcms ghcms-previousseasons">
