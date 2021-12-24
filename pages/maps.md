@@ -24,7 +24,7 @@ breadcrumbs:
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slash](/slash), [Flamer](/flamer),
 [Rocketeer](/rocketeer), [Icycool](/icycool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
 - **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Canons),.. ?
-- **[Critter](/exploring#critters):**  White Rabbits (fleeing) 
+- **[Critters](/exploring#critters):**  White Rabbits (fleeing) 
 - **[Ancient Ruins](/loot#ancient-ruins):** None.
 - **Points of interest:** [Blue Tarp](/boat#blue-tarp), [Bandit Camp](/contribute#tbw), [Melanie](/contribute#tbw),..
 
@@ -41,7 +41,7 @@ breadcrumbs:
 - **Mobs lvl:** 
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Rocketeer](/rocketeer), [Dunebug](/dunebug), [Bombee](/bombee), [Pupil](/pupil), [Scatter](/scatter)
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** Black Scorpions (aggressive)
+- **[Critters](/exploring#critters):** Black Scorpions (aggressive)
 - **[Ancient Ruins](/loot#ancient-ruins):** Strange monument, Green Roundhouse
 - **Points of interest:** [Satellite Control Panel?](/contribute#tbw), [Larry's Renting Cabin](/larry]..
 
@@ -58,7 +58,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Gre
 - **Mobs lvl:** 12-15
 - **[Wild bots](/exploring#mob-encounters):** [Mort](/mort), [Bulwark](/bulwark), [Ram](/ram), [Slicer](/slicer), [Bombee](/bombee), [Lobbie](/lobbie), [Thump](/thump) 
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** White Rabbits (fleeing)
+- **[Critters](/exploring#critters):** White Rabbits (fleeing)
 - **[Ancient Ruins](/loot#ancient-ruins):** Crater Dome
 - **Points of interest:** [Mia's Home](/mia), [Tyres](/contribute#tbw),..
 
@@ -76,7 +76,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/905195631470059530/163
 - **Mobs lvl:** 16-18
 - **[Wild bots](/exploring#mob-encounters):** [Scatter](/scatter), [Dunebug](/dunebug), [Yanky](/yanky), [Froggy](/froggy), [Brute](/brute)
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** Green Frogs (meek), Red Snakes (aggressive)
+- **[Critters](/exploring#critters):** Green Frogs (meek), Red Snakes (aggressive)
 - **[Ancient Ruins](/loot#ancient-ruins):** Abandoned Factory
 - **Points of interest:** [Ghost Bots](/contribute#tbw),..
 
@@ -94,7 +94,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Sal
 - **Mobs lvl:** 19-21
 - **[Wild bots](/exploring#mob-encounters):** [Berseker](/berseker), [Thump](/thump), [KO](/KO), [Pluggie](/pluggie), [Icycool](/Icycool), [Rocketeer](/rocketeer), [Scatter](/scatter)
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** Blue bettles (meek), Snakes (aggressive)
+- **[Critters](/exploring#critters):** Blue bettles (meek), Snakes (aggressive)
 - **[Ancient Ruins](/loot#ancient-ruins):** ? 
 - **Points of interest:** [Rani](/contribute#tbw), [Melanie](/contribute#tbw),..
 
@@ -112,7 +112,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138008202121216/Par
 - **Mobs lvl:** 21-23
 - **[Wild bots](/exploring#mob-encounters):** [Bigshot](/bigshot), [Rocketeer](/rocketeer), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Nozzle](/nozzle), [Halo](/halo)
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** Black Rats (fleeing)
+- **[Critters](/exploring#critters):** Black Rats (fleeing)
 - **[Ancient Ruins](/loot#ancient-ruins):**?
 - **Points of interest:** [MegaShrooms](/contribute#bw),..
 
@@ -130,7 +130,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 - **Mobs lvl:** 24-27 
 - **[Wild bots](/exploring#mob-encounters):** [Bulwark](/bulwark), [Slicer](/slicer), [Halo](/Halo), [Beat](/beat), [Chomp](/chomp), [Frosty](/frosty),..? 
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critter](/exploring#critters):** White Rabbits (fleeing)
+- **[Critters](/exploring#critters):** White Rabbits (fleeing)
 - **[Ancient Ruins](/loot#ancient-ruins):** ?? 
 - **Points of interest:** [Giant Squeleton](/contribute#tbw), [Moutain Peaks](/contribute#tbw),..
 
