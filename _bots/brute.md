@@ -6,11 +6,11 @@ updatedAt: 2021-12-15
 # Wiki page infos: ""
 title: "Brute"
 name: "Brute"
-description: "Special Brawler - Equipped with a massive mace, Brute lumbers slowly towards its enemies to deal huge damage."
+description: "Special Brawler: Dangerous up close - Equipped with a massive mace, Brute lumbers slowly towards its enemies to deal huge damage."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397488160223302/brute.png"
-breadcrumbs: 
- Bots: "/bots"
- Brawler: "/bots#brawlers"
+breadcrumbs:
+  Bots: "/bots"
+  Brawler: "/bots#brawlers"
  
 # Bot infos: ""
 botName: "Brute"
@@ -19,7 +19,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339748
 botType: "Brawler"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Dangerous up close"
 searchKeywords: "aoe melee, special, aoe, brute, swing, smash, brawler"
 
