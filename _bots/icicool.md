@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-16"
+updatedAt: "2021-12-24"
 
 
 title: "Icicool"
 name: "Icicool"
-description: "Common Evader - A quick bot who slows enemies from a distance with its icicle shots."
+description: "Common Evader: Goodest bot, period. - A quick bot who slows enemies from a distance with its icicle shots."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
 breadcrumbs:
   Bots: "/bots"
