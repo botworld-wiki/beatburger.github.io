@@ -2,7 +2,7 @@
 
 layout: default
 permalink: /
-title: Botworld Adventure community Wiki
+title: Botworld Adventure Wiki, by the community
 description: Everything about every Bot, Ability, Map,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
 
 ---
