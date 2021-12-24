@@ -13,12 +13,21 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
+## 2021-12-23
+
+- New #wiki-work-public thread on discord.
+- [Season Rewards](/seasons)
+- [Critters embed](/critters)
+- [Larry] & [Mia] pages by Stan
+
 ## 2021-12-22
 
 - [All the past updates](/news)
 - [Recruits comps tips](/recruits#composition)
 - [Carlbot integration](/coggy-meets-cog)
 - [AI Training](/bots#ai)
+- [AI Training embed](/ai)
+- [Recruit Comp embed](/recruit-comp)
 
 ## Day 12 - 2021-12-21
 
