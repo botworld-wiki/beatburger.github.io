@@ -1,9 +1,12 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /maps
-title: All the maps
-description: Compilation of all the maps you will encounter while you venture forth in Botworld ! 
+title: Maps
+description: Every info about every map you will encounter while you venture forth in Botworld ! 
+breadcrumbs:
+	"Botworld": "/#botworld"
+	"Exploring": "/exploring"
 
 ---
 
@@ -170,3 +173,4 @@ https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Viv
 
 </div>
 
+*Credit: Hex, cloud9*
