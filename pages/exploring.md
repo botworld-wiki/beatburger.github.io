@@ -83,6 +83,14 @@ All the **rabbits, scarabs, snakes**, etc.
 - They spawn/despawn when you start a fight
 - Some flee, some attack and hurt
 
+See their every locations at [Maps)(/maps)
+
+### Behaviors
+
+-**Fleeing:** White Rabbits, Black Rats
+-**Meek:** Blue Beetles, Green Frogs 
+-**Aggressive**: Black Scorpions, Red Snakes, Snakes
+
 ### Catching Tips
 
 - To catch a lot easily, hunt the aggressive ones
