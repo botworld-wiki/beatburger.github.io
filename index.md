@@ -303,7 +303,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Getting Started](/guides/getting-started): 
 - [Grouper Comp](/contribute#tbw):
 - [Farming Guide &amp; Routes](/contribute#tbw):
-- [Arena Crown](/contribute#tbw):
+- [Play on Windows](/play-on-windows):
 - ...
 
 </div>
