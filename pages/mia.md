@@ -56,9 +56,7 @@ The player eventually discovers that [Mia has been programmed to remember the me
 [^3]**Player:** *Goodbye, Mia*
 
 
-
- 
-
 </div>
 
 
+*Credits: Stan*
