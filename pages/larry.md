@@ -74,4 +74,4 @@ When looking out for batteries to [recharge Coggy](/contribute#tbw) and save all
 
 </div>
 
-
+*Credits: Stan*
