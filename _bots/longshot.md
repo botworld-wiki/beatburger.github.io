@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-13"
+updatedAt: "2021-12-24"
 
 
 title: "Longshot"
 name: "Longshot"
-description: "Special Sniper - Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
+description: "Special Sniper: A must use in the early game - Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
-breadcrumbs: 
- Bots: "/bots"
- Sniper: "/bots#snipers"
+breadcrumbs:
+  Bots: "/bots"
+  Sniper: "/bots#snipers"
 
 botName: "Longshot"
 botDescription: "Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
@@ -18,7 +18,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339738
 botType: "Sniper"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Solo Arena 500 rating"
+botAcquisition: "Arena (500)"
 botOpinion: "A must use in the early game"
 searchKeywords: "dmg, burst, ranged, instakill, special, newbie, sniper, longshot, shooter"
 
