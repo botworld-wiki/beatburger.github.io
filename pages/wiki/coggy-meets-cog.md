@@ -5,12 +5,13 @@ permalink: /help
 title: Cog is here to help!
 description: "- Caps are converted, spaces are replaced with '-'\n- Bots, Abilities, Materials: !w icicool, !w gust, !w chaser core\n- Boosters need the Rarity, always: !w ult-start-special\n- No Embed = 'wiki-id' doesn't exist\n- FAQ: ancient ruin(s), critters, ai (training), recruit(s) comp, arena masters\nFollow the link for the list of all pages"
 breadcrumbs:
-  Community Wiki: "#wiki"
-  Contribute: "/contribute"
+  Community Wiki: "/community-wiki"
 
 ---
 
 # Coggy meets Cog
+
+Documentation & help command embed for the Coggy (carlbot) integration on the [Official Discord Server](https://discord.gg/FsJzvtFrgq)
 
 ## Command
 
