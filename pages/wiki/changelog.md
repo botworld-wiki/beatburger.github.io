@@ -17,6 +17,7 @@ breadcrumbs:
 - ![Holydays Cog](/assets/img/icons/holydays-cog.png) by Diamond
 - [Maps Contents](</maps>) by cloud9
 - New embed [ancient ruin(s)](/ancient-ruins)
+- [Play Botworld on Windows from Android](/play-on-windows) by Masked Critic
 
 ## 2021-12-23
 
