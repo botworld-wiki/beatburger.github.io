@@ -6,7 +6,7 @@ title: Mia
 description: "Mia is a talking bot the player encounters in Fall Grove. She is then hired by Larry, who requests that all of her belongings be brought to her. While doing this quest, Larry hosts shows with Mia. They host five a day, and Larry calls her his Star Attraction"
 breadcrumbs:
   "Botworld": "/#botworld"
-  "Scavenger Landing": "/town"
+  "Scavenger's Landing": "/town"
   
 ---
 
@@ -27,9 +27,11 @@ Mia is a [Barrie](/barrie) bot found in [Fall Grove](/maps) in Owl’s Nest. She
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-### First Encounter
+## First Encounter
 
-Auntie Patch wanted you to search for a *fairy* in Owl's Nest, [Fall Grove](/maps). Turns out you found a friendly bot instead!
+[Auntie sent us looking for a fairy or something, right?](/contribute#tbw)
+
+[Mia is eating fish at her table ;)](/contribute#tbw)
 
 
 ## Working for Larry
@@ -38,7 +40,7 @@ After finding Mia, she will be contacted by [Larry](/larry) and will work for hi
 
 [Larry](/larry) hosts shows with Mia. They host five a day, and Larry calls her his *Star Attraction*. 
 
-
+[There are other quests too, I believe ?](/contribute#tbw)
 
 ## Past Memories
 
@@ -49,9 +51,13 @@ Mia struggles with her identity, halfway between a bot and a Human. She runs awa
 The player eventually discovers that [Mia has been programmed to remember the memories of a Human[^1](/contribute#tbw). The player then either tells her to keep the memories[^2] or to delete them[^3]. After this interaction, Mia leaves, saying that Larry was *fleecing [her] with his outrageous contract*.
 
 
-- [^1] **Mia Chen, Passenger ID XX-523786**. A Human who traveled on Arkship 2 but did not make it to Botworld.
-- [^2] **Mia:** *(Deep breath). You’re right, little friend. I should share my stories with everyone in Botworld. I'm going to take my speaking tour on the road.*
-- [^3] **Player:** *Goodbye, Mia*
+[^1]**Mia Chen, Passenger ID XX-523786**. A Human who traveled on Arkship 2 but did not make it to Botworld.
+[^2]**Mia:** *(Deep breath). You’re right, little friend. I should share my stories with everyone in Botworld. I'm going to take my speaking tour on the road.*
+[^3]**Player:** *Goodbye, Mia*
+
+
+
+ 
 
 </div>
 
