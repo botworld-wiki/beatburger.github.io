@@ -317,6 +317,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Changelog](/changelog): What's new on the wiki ?
 - [Credits](/credits): A big **Thank You** to everyone!
 - [Roadmap](/roadmap): What's planned? Ideas for later go there.
+- [Coggy meets Cog](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
 
 </div>
 
