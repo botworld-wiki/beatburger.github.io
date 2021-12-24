@@ -20,7 +20,8 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
 
-
+- **Requirements:** Tutorial Island
+- **Mobs lvl:** 
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slash](/slash), [Flamer](/flamer),
 [Rocketeer](/rocketeer), [Icycool](/icycool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
 - **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Canons),.. ?
