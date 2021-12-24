@@ -13,6 +13,10 @@ breadcrumbs:
 
 [Roadmap](https://www.botworld.wiki/roadmap)
 
+## 2021-12-24
+- ![Holydays Cog](/assets/img/icons/holydays-cog.png) by Diamond
+- [Maps Contents](</maps>) by cloud9
+
 ## 2021-12-23
 
 - New #wiki-work-public thread on discord.
