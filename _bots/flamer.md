@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-15"
+updatedAt: "2021-12-24"
 
 
 title: "Flamer"
 name: "Flamer"
-description: "Special Evader - Evades enemies while it engulfs them in fire. Voted hottest bot three years in a row."
+description: "Special Evader: Having damage that is nothing to laugh at with well-picked AI, Flamer s DPS is fantastic and splashes in a wide arc. Ontop of that, his Flamefield ability deals extremely high damage, optionally heals him and forces enemies to run away from him, allowing Flamer to continue kiting if previously slowed or rooted."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397575686955028/flamer.png"
 breadcrumbs: 
  Bots: "/bots"
