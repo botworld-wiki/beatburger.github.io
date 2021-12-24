@@ -31,6 +31,7 @@ breadcrumbs:
 - **Pix:** [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>)
 - **Kartoffel:** [News & Updates](</news>)
 - **Stan:** [Larry](</larry>), [Mia](</mia>)
+- **Masked Critic:** [Play Botworld on Windows from Android](/play-on-windows)
 
 
 ## Editors
