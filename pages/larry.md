@@ -32,16 +32,13 @@ Larry is a mostly red lizard with white spikes. He has two sets of spikes on his
 
 ## Locations 
 
-The player can usually find Larry standing to the right of the garden in Scavenger’s Landing. When first encountered, Larry will greet the player, saying:
+The player can usually find Larry standing to the right of the garden in Scavenger’s Landing. When first encountered, Larry will greet the player: *Welcome to Larry’s Luxury Leathergoods and Largely Legitimate Loansharking! What can I do ya for?*
 
-```
-Welcome to Larry’s Luxury Leathergoods and Largely Legitimate Loansharking! What can I do ya for?
-```
 
 
 (PIC2: Introductory screenshot)
 
-His *Luxury Leathergoods* are referenced in a few npc-to-npc dialogues where he says his banners are dyed with scarab beetle dye. He uses this to justify taking extra money for his sales.
+His *Luxury Leathergoods* are referenced in a few NPC-to-NPC dialogues where he says his banners are dyed with scarab beetle dye. He uses this to justify taking extra money for his sales.
 
 You can also stumble upon him [in Danger Zones](/exploring#spots) offering [Cold Batteries](/cold-battery) for some reason.
 
@@ -72,7 +69,7 @@ To kick off [the ghost bot quest](/contribute#tbw) in [Saltwater Swamp](/maps), 
 
 ### Coggy Batteries
 
-When looking out for batteries to [recharche Coggy](/contribute#tbw) and save all of Botworld, Larry asks you to sell them to him instead!
+When looking out for batteries to [recharge Coggy](/contribute#tbw) and save all of Botworld, Larry asks you to sell them to him instead!
 
 
 </div>
