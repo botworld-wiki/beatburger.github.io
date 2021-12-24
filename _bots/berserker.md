@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Diamond"
-updatedAt: "2021-12-15"
+updatedAt: "2021-12-24"
 
 
-title: "Berseker"
+title: "Berserker"
 name: "Berserker"
-description: "Special Tank - A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
+description: "Special Tank: a good tank all around - A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
-breadcrumbs: 
- Bots: "/bots"
- Tank: "/bots#tanks"
+breadcrumbs:
+  Bots: "/bots"
+  Tank: "/bots#tanks"
 
 botName: "Berserker"
 botDescription: "A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
@@ -18,7 +18,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554569
 botType: "Tank"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "a good tank all around"
 searchKeywords: "berserker, tank, special, fast, brawler"
 
