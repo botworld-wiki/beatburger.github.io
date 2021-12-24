@@ -18,7 +18,7 @@ Documentation & help command embed for the Coggy (carlbot) integration on the [O
 ```
 !w wiki-page
 !w wiki page
-!w Wiki page
+!w WIKI Page
 ```
 
 All create a link to:
