@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Kurt"
-updatedAt: "2021-12-14"
+updatedAt: "2021-12-24"
 
 
 title: "Fork"
@@ -18,7 +18,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554832
 botType: "Chaser"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight"
 searchKeywords: "poison, dodge, fork, epic, chaser, dot"
 
