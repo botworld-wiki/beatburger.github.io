@@ -24,7 +24,7 @@ Larry is a mostly red lizard with white spikes. He has two sets on his head whic
 
 
 
-<div markdown="1" class=" ghcms ghcms-boat">
+<div markdown="1" class=" ghcms ghcms-main">
 
 
 
