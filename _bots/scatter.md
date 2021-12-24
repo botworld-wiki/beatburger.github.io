@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Diamond, Kurt"
-updatedAt: "2020-12-14"
+updatedAt: "2020-12-24"
 
 
 title: "Scatter"
 name: "Scatter"
-description: ""
+description: "Special Brawler: dangerous when close - Shoots garbage at its enemies. Wildly inaccurately, but hurts when it's up close."
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548818374991872/scatter.png"
 breadcrumbs:
- Bots: "/bots"
- Brawler: "/bots#brawlers"
+  Bots: "/bots"
+  Brawler: "/bots#brawlers"
 
 botName: "Scatter"
 botDescription: "Shoots garbage at its enemies. Wildly inaccurately, but hurts when it's up close."
@@ -18,7 +18,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554881
 botType: "Brawler"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "dangerous when close"
 searchKeywords: "shotgun, close, range, ranged, special, brawler"
 
