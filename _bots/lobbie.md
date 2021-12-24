@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Diamond Gold"
-updatedAt: "2021-12-15"
+updatedAt: "2020-12-24"
 
 # Wiki page infos: ""
 title: "Lobbie"
 name: "Lobbie"
-description: "Common Splasher - Throws explosive orbs over obstacles at groups of enemies. Tries to do its best."
+description: "Common Splasher: best paired with chainer - Throws explosive orbs over obstacles at groups of enemies. Tries to do its best."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397346233352252/lobbie.png"
 breadcrumbs:
- Bots: "/bots"
- Splasher: "/bots#splashers"
+  Bots: "/bots"
+  Splasher: "/bots#splashers"
  
 # Bot infos: ""
 botName: "Lobbie"
@@ -19,7 +19,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339734
 botType: "Splasher"
 botRarity: "Common"
 botRaritySortOrder: "1"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "best paired with chainer"
 searchKeywords: " aoe, range, ranged, common, splasher, splash, stun, over, combo"
 
