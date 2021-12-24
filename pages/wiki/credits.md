@@ -11,46 +11,56 @@ breadcrumbs:
 
 # Credits
 
-## Contributors
-
 <div markdown="1" class="ghcms ghcms-contributors">
 
-
-### Data Collectors
+## Data Collectors
 
 - Lekoi & Soft: half of our data & knowledge comes from their previous works!
 - Groovy
 - ChaelBlaze
-- …add your name here…
+- Kurt Halo Pizza
+- Mrgold
+- cloud9: AI tips, starter season
 
-### Writers
 
-- …add your name here…
+## Writers
 
-### Editors
+- Pix: [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>)
+- Kartoffel: [News & Updates](</news>)
+- Stan: [Larry](</larry>), [Mia](</mia>)
 
-- Groovy
-- Hex
-- …add your name here…
 
-### Maintainers
+## Editors
 
+- @It's Diamond#4218 
+- @Mr.Gold\_𝔽ish#0461 
+- Every maintainer 
+
+</div>
+
+## Maintainers
+
+<div markdown="1" class="ghcms ghcms-maintainers">
+
+- @debb#0810 
+- Kartoffel (mykenception#6532)
 - @HexSanity#7490
-- @Kurt Cabage#2089
 - @Groovy#1791
 - @Pix#6773
+- @Kurt Cabage#2089 ![Halo Pizza](</assets/img/icons/halo-pizza.png> "Halo Pizza best delivery service for Delicious Pizzas all over Botworld!")
 
-### Developper
-
-- Pix (@Pix#6773)
-
-### Fruits and Vegetables
+## Fruits and Vegetables
 
 - Kartoffel
 
 </div>
 
-### Art & visual assets
+## Developper
+
+- Pix (@Pix#6773)
+
+
+## Art & visual assets
 
 <div markdown="1" class="ghcms ghcms-art">
 
@@ -67,3 +77,5 @@ breadcrumbs:
 
 
 ![Image](/assets/img/pics/beatburger.png)
+
+<style type="text/css">.ghcms-maintainers img{display:block;}</style>
