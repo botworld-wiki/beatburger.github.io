@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Kurt"
-updatedAt: "2021-12-14"
+updatedAt: "2021-12-24"
 
 
 title: "Frosty"
 name: "Frosty"
-description: "Rare Evader - Frosty slows down its enemies and then freeze them in places. Particulary strong against melee bots"
+description: "Rare Evader: a good crowd control bot - Frosty slows down its enemies and then freeze them in places. Particulary strong against melee bots"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547678686142534/frosty.png"
-breadcrumbs: 
- Bots: "/bots"
- Evader: "/bots#evaders"
+breadcrumbs:
+  Bots: "/bots"
+  Evader: "/bots#evaders"
 
 botName: "Frosty"
 botDescription: "Frosty slows down its enemies and then freeze them in places. Particulary strong against melee bots"
