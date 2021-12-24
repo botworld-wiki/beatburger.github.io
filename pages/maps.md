@@ -112,7 +112,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138008202121216/Par
 - **Mobs lvl:** 21-23
 - **[Wild bots](/exploring#mob-encounters):** [Bigshot](/bigshot), [Rocketeer](/rocketeer), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Nozzle](/nozzle), [Halo](/halo)
 - **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** Black Rats (fleeing)
+- **[Critters](/exploring#critters):** Black Rats (fleeing), Frogs (meek)
 - **[Ancient Ruins](/loot#ancient-ruins):**?
 - **Points of interest:** [MegaShrooms](/contribute#bw),..
 
