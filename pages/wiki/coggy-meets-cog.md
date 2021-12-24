@@ -49,13 +49,16 @@ They are not wiki pages, but custom-made replies to frequent answers. They link 
 
 Freshness may vary, I'll try and update regularly.
 
-- [ancient ruin(s)](/ancient-ruins)
-- [critters](/critters)
+
 - [ai (training)](/ai)
 - [recruit(s) comp](/recruit-comp)
+- [gadgets](/gadgets)
+
+- [critters](/critters)
+- [ancient ruin(s)](/ancient-ruins)
 
 
-## Flat Sitemap
+## Pages
 
 Freshness may vary, I'll try and update regularly.
 
