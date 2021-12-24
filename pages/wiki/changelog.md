@@ -16,12 +16,13 @@ breadcrumbs:
 ## 2021-12-24
 - ![Holydays Cog](/assets/img/icons/holydays-cog.png) by Diamond
 - [Maps Contents](</maps>) by cloud9
+- New embed [ancient ruin(s)](/ancient-ruins)
 
 ## 2021-12-23
 
 - New #wiki-work-public thread on discord.
 - [Season Rewards](/seasons)
-- [Critters embed](/critters)
+- New embed: [critters](/critters)
 - [Larry](/larry) & [Mia](/mia) pages by Stan
 
 ## 2021-12-22
@@ -30,8 +31,8 @@ breadcrumbs:
 - [Recruits comps tips](/recruits#composition)
 - [Carlbot integration](/coggy-meets-cog)
 - [AI Training](/bots#ai)
-- [AI Training embed](/ai)
-- [Recruit Comp embed](/recruit-comp)
+- New embed [ai (training)](/ai)
+- New embed: [recruit(s) comp](/recruit-comp)
 
 ## Day 12 - 2021-12-21
 
