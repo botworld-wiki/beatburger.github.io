@@ -18,7 +18,7 @@ breadcrumbs:
 - New #wiki-work-public thread on discord.
 - [Season Rewards](/seasons)
 - [Critters embed](/critters)
-- [Larry] & [Mia] pages by Stan
+- [Larry](/larry) & [Mia](/mia) pages by Stan
 
 ## 2021-12-22
 
