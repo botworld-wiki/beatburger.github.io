@@ -26,6 +26,8 @@ breadcrumbs:
 
 ### Cog says Happy Holidays!
 
+![Holydays Cog](/assets/img/icons/holydays-cog.png)
+
 Have a great time everyone :)
 
 </div>
