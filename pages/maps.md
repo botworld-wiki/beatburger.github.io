@@ -43,7 +43,7 @@ breadcrumbs:
 - **[Bandits](/exploring#mob-encounters):**
 - **[Critters](/exploring#critters):** Black Scorpions (aggressive)
 - **[Ancient Ruins](/loot#ancient-ruins):** Strange monument, Green Roundhouse
-- **Points of interest:** [Satellite Control Panel?](/contribute#tbw), [Larry's Renting Cabin](/larry]..
+- **Points of interest:** [Satellite Control Panel?](/contribute#tbw), [Larry's Renting Cabin](/larry)..
 
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Great_Desert.png)
