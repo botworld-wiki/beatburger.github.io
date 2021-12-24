@@ -218,6 +218,10 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div markdown="1" class=" ghcms ghcms-news">
 
+## Happy Holydays!
+
+<img src="/assets/img/icons/holydays-cog.png" style="display:block;" alt="Holydays Cog" title="Holydays Cog">
+
 ## Botworld Adventures News
 
 - [Community Wiki Launch](/news): We, *Beat Burger & Friends*, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
