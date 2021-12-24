@@ -24,7 +24,7 @@ breadcrumbs:
 - **Mobs lvl:** 
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slash](/slash), [Flamer](/flamer),
 [Rocketeer](/rocketeer), [Icycool](/icycool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
-- **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Canons),.. ?
+- **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Cannons),.. ?
 - **[Critters](/exploring#critters):**  White Rabbits (fleeing) 
 - **[Ancient Ruins](/loot#ancient-ruins):** None.
 - **Points of interest:** [Blue Tarp](/boat#blue-tarp), [Bandit Camp](/contribute#tbw), [Melanie](/contribute#tbw),..
