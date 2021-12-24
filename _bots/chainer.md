@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Lekoi, Groovy, Pix"
-updatedAt: "2020-12-12"
+updatedAt: "2020-12-24"
 
 
 title: "Chainer"
@@ -21,7 +21,7 @@ botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Arena (1000)"
 botOpinion: "Best combo enabler - top meta pick"
-searchKeywords: ""
+searchKeywords: "Combo, tank, rare"
 
 
 ability1Name: "Ground Slam"
