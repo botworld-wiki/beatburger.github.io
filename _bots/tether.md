@@ -18,7 +18,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/90208505
 botType: "Support"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Dr. Octopus"
 searchKeywords: "Immobilize, hold, support, special"
 
@@ -80,7 +80,7 @@ commonMat3: "Sputtering Generator"
 
 ### Tips
 
-Put Tether in the back, he's useless if Tether is in the front. (Someone change my tips)
+Put Tether in the back
 
 ### Suggested AI Build
 
