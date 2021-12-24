@@ -19,6 +19,7 @@ breadcrumbs:
 - New embed [ancient ruin(s)](/ancient-ruins)
 - [Play Botworld on Windows from Android](/play-on-windows) by Masked Critic
 - New embed [help](/help)
+- New embed [gadgets](/gadgets)
 
 ## 2021-12-23
 
