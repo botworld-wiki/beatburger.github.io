@@ -21,8 +21,9 @@ breadcrumbs:
 - **ChaelBlaze:** 
 - **Kurt Halo Pizza:** 
 - **Mrgold:**
-- **cloud9:** AI tips, starter season
+- **cloud9:** [AI tips](</ai>), [Seasons Rewards](</seasons>), [Maps Contents](</maps>)
 - **Kartoffel:** [Bot Upgrade Costs](/materials#costs)
+- **Hex:** [Maps original montages](/maps)
 
 
 ## Writers
