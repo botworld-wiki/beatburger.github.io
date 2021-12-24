@@ -6,11 +6,11 @@ updatedAt: "2021-12-16"
 # Wiki page infos: ""
 title: "Rocketeer"
 name: "Rocketeer"
-description: "Common Splasher - Fires explosive rockets at its enemies. Especially effective against enemies that are grouped up. "
+description: "Common Splasher: knockback expert - Fires explosive rockets at its enemies. Especially effective against enemies that are grouped up."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397107522928650/rocketeer.png"
-breadcrumbs: 
- Bots: "/bots"
- Splasher: "/bots#splashers"
+breadcrumbs:
+  Bots: "/bots"
+  Splasher: "/bots#splashers"
  
  
 # Bot infos: ""
@@ -20,7 +20,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339710
 botType: "Splasher"
 botRarity: "Common"
 botRaritySortOrder: "1"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "knockback expert"
 searchKeywords: "rocketeer, rocket, common, splasher, aoe, area of effect, area damage"
 
