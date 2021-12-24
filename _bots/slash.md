@@ -1,16 +1,17 @@
 ---
 layout: bot
 contributors: "Hex"
+updatedAt: "2021-12-24"
 # Wiki page infos: ""
 
 
 title: "Slash"
 name: "Slash"
-description: "Common Chaser - A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
+description: "Common Chaser: Glass Melee - A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
-breadcrumbs: 
- Bots: "/bots"
- Chaser: "/bots#chasers"
+breadcrumbs:
+  Bots: "/bots"
+  Chaser: "/bots#chasers"
 
 
 # Bot infos: ""
@@ -20,7 +21,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339742
 botType: "Chaser"
 botRarity: "Common"
 botRaritySortOrder: "1"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Glass Melee"
 searchKeywords: "common, slash, chaser, shredder, glass, critical, burst"
 
