@@ -5,8 +5,8 @@ permalink: /maps
 title: Maps
 description: Every info about every map you will encounter while you venture forth in Botworld ! 
 breadcrumbs:
-	"Botworld": "/#botworld"
-	"Exploring": "/exploring"
+  "Botworld": "/#botworld"
+  "Exploring": "/exploring"
 
 ---
 
