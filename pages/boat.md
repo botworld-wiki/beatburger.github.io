@@ -17,10 +17,15 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-[To Be Written](/jobs)
-
 Upgrading your Boat is cool for lotsa reasons.
 
+## Boat materials locations
+
+Just creating this section real quick, gonna figure out where it goes best later on
+
+### Blue Tarp
+
+![blue tarp map](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
 
 </div>
 
