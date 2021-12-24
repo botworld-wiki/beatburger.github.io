@@ -1,24 +1,24 @@
 ---
 layout: bot
 contributors: "MrGold and Diamond, the 2 shiniest out there that gives us light in our darkest moment"
-updatedAt: "2021-21-14"
+updatedAt: "2021-21-24"
 
 
 title: "Halo"
 name: "Halo"
-description: "Rare Support - Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
-imageUrl: "https://cdn.discordapp.com/attachments/880748627910332467/921048664351338516/1635145157855.png"
+description: "Rare Support: Team Player - Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
+imageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
 breadcrumbs:
- Bots: "/bots"
+  Bots: "/bots"
  Support: "/bots#supports"
 
 botName: "Halo"
 botDescription: "Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
-botImageUrl: "https://cdn.discordapp.com/attachments/880748627910332467/921048664351338516/1635145157855.png"
+botImageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
 botType: "Support"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Team Player"
 searchKetwords: "Teamwork, boost, shield, support, rare, glass, weak"
 
