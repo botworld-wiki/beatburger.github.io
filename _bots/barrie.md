@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2020-12-16"
+updatedAt: "2020-12-24"
 
 
 title: "Barrie"
 name: "Barrie"
-description: "Common Tank - A defensive bot with an energy barrier for extra survivability. Always has a headache"
+description: "Common Tank: Meatbag - A defensive bot with an energy barrier for extra survivability. Always has a headache"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
 breadcrumbs:
   Bots: "/bots"
