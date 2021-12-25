@@ -10,7 +10,7 @@ breadcrumbs:
 ---
 
 
-# Exploring & Danger Zones Tips
+# Exploring
 
 
 
@@ -28,12 +28,12 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
   <li class="toc-block-entry" ><a href="#critters">Critters</a></li>
   <li class="toc-block-entry" ><a href="#contracts">Contracts</a></li>
   <li class="toc-block-entry" ><a href="#random-encounters">Random Encounters</a></li>
-  <li class="toc-block-entry" ><a href="#danger-zones">Danger Zones</a></li>
   <li class="toc-block-entry" ><a href="#tips-and-tricks">Tips and Tricks</a></li>
 </ul>
 
-**Maps**: they're all in [Maps](/maps)
-**Contracts**: See the full list on the [dedicated Contracts page](/contracts)
+- **Maps**: they're all in [Maps](/maps)
+- **MDanger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
+- **Contracts**: See the full list on the [dedicated Contracts page](/contracts)
 
 <div markdown="1" class=" ghcms ghcms-cannister">
 
@@ -128,45 +128,6 @@ Also, some special contracts are actually quests... New page?
 ## Random Encounters
 
 Quizzes, prisoners, etc
-
-</div>
-
-
-<div markdown="1" class=" ghcms ghcms-dz">
-
-## Danger Zones
-
-Tip: use the environment to harm your foes!
-
-- plan your route carefully
-- keep your priorities straight
-- every bit of energy is precious, avoid & dodge as many fights as you can
-- use your [Recruits](/recruits) as decoy to dodge Megas and Bosses
-- any gadget left when you die is a wasted slot
-
-### Danger Zones Fuel
-
-### Spots
-
-- Repair Stations
-- Gadget Repair
-- Random
-
-### Frozen Wastes
-
-Snowball Canons
-
-### Molten Rocks
-
-Floor is lava
-
-### Vivid Valley
-
-Sneks
-
-### Scrapeyard
-
-Teddy Bears (check [the Event](/news))
 
 </div>
 
