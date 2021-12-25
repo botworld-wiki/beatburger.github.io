@@ -22,6 +22,7 @@ Unlock all your module slots by defeating the [Arena Masters](https://www.botwor
     <ul class="toc-block-list links">
         <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#boosters">Boosters</a></li>
         <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#abilities">Abilities</a></li>
+        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#fusing">Fusing</a></li>
         <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#gadgets">Gadgets</a></li>
      </ul>
 </div>
@@ -89,6 +90,17 @@ Find a detailled table with [all the info about every Booster](/boosters)
         </ul>
 
 </div>
+
+## Fusing
+
+Kindly ask your dear [Auntie](/contribute#tbw) 
+
+- You can only fuse **3 of the exact same module**. Eg: 3 [Shields](/shield)
+- Fusing will get you a module of the **same type** of the **rarity one higher**
+- Fusing is **always random**
+
+**Tip:** don't be too eager to fuse anything you might want to use later!
+
 
 ## Gadgets
 
