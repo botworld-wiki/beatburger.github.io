@@ -14,21 +14,26 @@ breadcrumbs:
 
 Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](/bots), cast powerful abilities, equip useful boosters and use fun gadgets.
 
-Unlock all your module slots by defeating the [Arena Masters](https://www.botworld.wiki/arena-masters)
+Unlock all your module slots by defeating the [Arena Masters](/arena#arena-masters)
 
 </div>
 
 <div class="botpack">
     <ul class="toc-block-list links">
-        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#boosters">Boosters</a></li>
-        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#abilities">Abilities</a></li>
-        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#fusing">Fusing</a></li>
-        <li class="toc-block-entry"><a href="https://www.botworld.wiki/botpack#gadgets">Gadgets</a></li>
+        <li class="toc-block-entry"><a href="#boosters">Boosters</a></li>
+        <li class="toc-block-entry"><a href="#abilities">Abilities</a></li>
+        <li class="toc-block-entry"><a href="#gadgets">Gadgets</a></li>
      </ul>
 </div>
 
 <img loading="lazy"   src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
 
+<div class="botpack">
+    <ul class="toc-block-list links">
+        <li class="toc-block-entry"><a href="#fusing">Fusing</a></li>
+        <li class="toc-block-entry"><a href="#botpack-level">Botpack Level</a></li>
+     </ul>
+</div>
 
 
 ## Abilities
@@ -101,6 +106,12 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 **Tip:** don't be too eager to fuse anything you might want to use later!
 
+
+## Botpack Level
+
+- The value you see on your botpack in the top-left corner
+- Impacts your damage abilities & [mobs level scaling](/exploring#level-scaling)
+- Is equal to the **average of the 6 highest level bots *you own***. Even if you're not using them. Rounded up.
 
 ## Gadgets
 
