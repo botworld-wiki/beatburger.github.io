@@ -1,6 +1,6 @@
 ---
 layout: bot
-contributors: "Pix, o.J, Gold"
+contributors: "O.J, Pix, Gold"
 updatedAt: "2021-12-25"
 
 
@@ -17,21 +17,21 @@ botName: "Sheller"
 botDescription: "Launches deadly mines around the arena. Sheller traded out any semblance of accuracy in favour of raw firepower."
 botImageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 botType: "Splasher"
-botRarity: ""
-botRaritySortOrder: ""
+botRarity: "Epic"
+botRaritySortOrder: "4"
 botAcquisition: "Unknown"
 botOpinion: "Just revealed!"
 searchKeywords: ""
 
 
 ability1Name: "Mine"
-ability1Info: ""
+ability1Info: "Range: 3-12, Cooldown: 2.5s, Impact Radius: 2.5, Energy Damage: TBA, Knockback: Large"
 ability1Description: "Launches a mine in a random direction. The mine explodes once an enemy bot gets close enough"
 ability2Name: "Shell Shock"
-ability2Info: ""
+ability2Info: "Impact Radius: 2.5, Cooldown: 6s, Knockback: Large, Physical Damage: TBA"
 ability2Description: "Slams the ground and knocks nearby enemy bots back"
 ability3Name: "Mine Cluster"
-ability3Info: ""
+ability3Info: "Mines Launched: 3, Impact Radius: 2.5, Energy Damage: TBA, Knockback: Large, Range: 2-13, Cooldown: 11s"
 ability3Description: "Launches three mines at the nearest enemy. The mines explode as soon as they hit the ground"
 
 
