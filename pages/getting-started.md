@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /getting-started
 title: Getting Started
-description: How vest to start exploring Botworld!
+description: How best to start exploring Botworld!
+breadcrumbs:
+  Botmasters: "/#botmasters"
 
 ---
 
