@@ -220,6 +220,10 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
+- [New Bot Reveal](/news): [Sheller](/sheller) 
+
+<img src="/assets/img/bots/small/sheller.png" style="display:block;" alt="New Bot Sheller" title="New Bot Sheller">
+
 - **Happy Holydays!**
 
 <img src="/assets/img/icons/holydays-cog.png" style="display:block;" alt="Holydays Cog" title="Holydays Cog">
@@ -232,9 +236,6 @@ It is *ready*, but **far from complete**! Many (most?) of the pages are shadows 
 We have some very nice and rich ones already though!
 
 We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have the info.
-
-- [Teddies of Scrapyard](/news): Find all of the hidden teddy bears in the Scrapyard Danger Zone! Event ends Jan. 3rd.
-- [New Bot Coming soon](/news): there's also a gems giveaway on the official socials.
 
 </div>
 
