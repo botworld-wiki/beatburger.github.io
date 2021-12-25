@@ -23,6 +23,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#cannisters">Cannisters</a></li>
   <li class="toc-block-entry" ><a href="#mob-encounters">Mob Encounters</a></li>
+  <li class="toc-block-entry" ><a href="#level-scaling">Level Scaling</a></li>
   <li class="toc-block-entry" ><a href="#critters">Critters</a></li>
   <li class="toc-block-entry" ><a href="#contracts">Contracts</a></li>
   <li class="toc-block-entry" ><a href="#random-encounters">Random Encounters</a></li>
@@ -45,6 +46,15 @@ Don't worry, you don't actually die or lose anything besides you Can Energy left
 
 
 </div>
+
+## Level Scaling
+
+<div markdown="1" class=" ghcms ghcms-scaling">
+
+Mobs level grows to be at minimun **3 below your [Botpack level](/botpack#botpack-level)**
+
+</div>
+
 
 ## Mob Encounters
 
