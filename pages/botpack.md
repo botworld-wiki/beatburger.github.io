@@ -101,31 +101,31 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 ![Image](/assets/img/gadgets/amplifier.png)
 
--**Level 1:** +25%, 2 uses
--**Level 2:** +30%, 3 uses
+- **Level 1:** +25%, 2 uses
+- **Level 2:** +30%, 3 uses
 
 ### Botpack Overclocker 
 
 ![Image](/assets/img/gadgets/overclocker.png)
 
--**Level 1:** +35%, 3 uses
--**Level 2:** +50%, 4 uses
+- **Level 1:** +35%, 3 uses
+- **Level 2:** +50%, 4 uses
 
 
 ### Bombardment 
 
 ![Image](/assets/img/gadgets/bombardment.png)
 
--**Level 1:** range 10, 2 uses
--**Level 2:** range 14, 2 uses
--**Level 3:** range 14, 3 uses
+- **Level 1:** range 10, 2 uses
+- **Level 2:** range 14, 2 uses
+- **Level 3:** range 14, 3 uses
 
 ### Speed Amplifier
 
 ![Image](/assets/img/gadgets/speed-upg.png)
 
--**Level 1:** +30%, 3 uses
--**Level 2:** +50%, 3 uses
+- **Level 1:** +30%, 3 uses
+- **Level 2:** +50%, 3 uses
 
 
 ### Invisibility 
@@ -140,8 +140,8 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 ![Image](/assets/img/gadgets/mines.png)
 
--**Level 1:** ? uses
--**Level 2:** 5 uses
+- **Level 1:** ? uses
+- **Level 2:** 5 uses
 
 ### Ability Jammer 
 
