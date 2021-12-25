@@ -22,6 +22,14 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-main">
 
 
+## d2021-12-25
+
+### New Bot Revealed: [Sheller](/sheller)
+
+![Sheller reveal poster by FW](https://cdn.discordapp.com/attachments/824813164142788619/924285482442051604/Character_Reveal_Sheller.jpg)
+
+Official announcement & demo clip on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1474726625262510080)
+
 ## d2021-12-24
 
 ### Cog says Happy Holidays!
