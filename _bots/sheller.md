@@ -7,7 +7,7 @@ updatedAt: "2021-12-25"
 title: "Sheller"
 name: "Sheller"
 description: "Just revealed ! This bot has traded out any semblance of accuracy in favour of raw firepower"
-imageUrl: ""
+imageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 breadcrumbs:
   Bots: "/bots"
   Splasher: ""
@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "Sheller"
 botDescription: "This bot has traded out any semblance of accuracy in favour of raw firepower"
-botImageUrl: ""
+botImageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 botType: "Splasher"
 botRarity: ""
 botRaritySortOrder: ""
