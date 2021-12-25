@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Pix"
+contributors: "Pix, o.J, Gold"
 updatedAt: "2021-12-25"
 
 
 title: "Sheller"
 name: "Sheller"
-description: "Just revealed ! This bot has traded out any semblance of accuracy in favour of raw firepower"
+description: "Launches deadly mines around the arena. Sheller traded out any semblance of accuracy in favour of raw firepower."
 imageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 breadcrumbs:
   Bots: "/bots"
@@ -14,25 +14,25 @@ breadcrumbs:
 
 
 botName: "Sheller"
-botDescription: "This bot has traded out any semblance of accuracy in favour of raw firepower"
+botDescription: "Launches deadly mines around the arena. Sheller traded out any semblance of accuracy in favour of raw firepower."
 botImageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 botType: "Splasher"
 botRarity: ""
 botRaritySortOrder: ""
 botAcquisition: "Unknown"
-botOpinion: ""
+botOpinion: "Just revealed!"
 searchKeywords: ""
 
 
-ability1Name: ""
+ability1Name: "Mine"
 ability1Info: ""
-ability1Description: ""
-ability2Name: ""
+ability1Description: "Launches a mine in a random direction. The mine explodes once an enemy bot gets close enough"
+ability2Name: "Shell Shock"
 ability2Info: ""
-ability2Description: ""
-ability3Name: ""
+ability2Description: "Slams the ground and knocks nearby enemy bots back"
+ability3Name: "Mine Cluster"
 ability3Info: ""
-ability3Description: ""
+ability3Description: "Launches three mines at the nearest enemy. The mines explode as soon as they hit the ground"
 
 
 ai1aName: ""
