@@ -22,7 +22,7 @@ breadcrumbs:
 
 - **Requirements:** Tutorial Island
 - **Mobs lvl:** 
-- **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slash](/slash), [Flamer](/flamer),
+- **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slicer](/slicer), [Flamer](/flamer),
 [Rocketeer](/rocketeer), [Icycool](/icycool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
 - **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Cannons),.. ?
 - **[Critters](/exploring#critters):**  White Rabbits (fleeing) 
@@ -57,7 +57,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Gre
 
 - **Requirements:** Boat Level 7
 - **Mobs lvl:** 12-15
-- **[Wild bots](/exploring#mob-encounters):** [Mort](/mort), [Bulwark](/bulwark), [Ram](/ram), [Slicer](/slicer), [Bombee](/bombee), [Lobbie](/lobbie), [Thump](/thump) 
+- **[Wild bots](/exploring#mob-encounters):** [Mort](/mort), [Bulwark](/bulwark), [Ram](/ram), [Slash](/slash), [Bombee](/bombee), [Lobbie](/lobbie), [Thump](/thump) 
 - **[Bandits](/exploring#mob-encounters):**
 - **[Critters](/exploring#critters):** White Rabbits (fleeing)
 - **[Ancient Ruins](/loot#ancient-ruins):** Crater Dome
@@ -129,7 +129,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 
 - **Requirements:** Boat lvl 14
 - **Mobs lvl:** 24-27 
-- **[Wild bots](/exploring#mob-encounters):** [Bulwark](/bulwark), [Slicer](/slicer), [Halo](/Halo), [Beat](/beat), [Chomp](/chomp), [Frosty](/frosty),..? 
+- **[Wild bots](/exploring#mob-encounters):** [Bulwark](/bulwark), [Slash](/slash), [Halo](/Halo), [Beat](/beat), [Chomp](/chomp), [Frosty](/frosty),..? 
 - **[Bandits](/exploring#mob-encounters):**
 - **[Critters](/exploring#critters):** White Rabbits (fleeing)
 - **[Ancient Ruins](/loot#ancient-ruins):** ?? 
