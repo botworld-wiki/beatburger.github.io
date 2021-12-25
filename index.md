@@ -220,13 +220,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
-- [New Bot Reveal](/news): [Sheller](/sheller) 
-
-<img src="/assets/img/bots/small/sheller.png" style="display:block;" alt="New Bot Sheller" title="New Bot Sheller">
-
-- **Happy Holydays!**
-
-<img src="/assets/img/icons/holydays-cog.png" style="display:block;" alt="Holydays Cog" title="Holydays Cog">
+- [New Bot Reveal](/news): [Sheller](/sheller) ![New Bot Sheller](/assets/img/bots/small/sheller.png)
 
 - [Community Wiki Launch](/news): We, *Beat Burger & Friends*, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
 
