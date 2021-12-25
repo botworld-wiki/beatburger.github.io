@@ -7,7 +7,6 @@ layout: breadcrumbs
         width: 240px;
         display: flex;
         flex-direction: column;
-        height: 350px;
         margin: 0 auto;
     }
     .actual-card{
@@ -18,10 +17,7 @@ layout: breadcrumbs
     background: linear-gradient(160deg, #1b1a6b 50%, cyan);
 }
     .cardinfos {
-        padding: 10px;
         background: #246eff;
-        position: relative;
-        bottom: 25px;
     }
     .cardinfos * {
         font-weight: 1000;
@@ -79,10 +75,10 @@ layout: breadcrumbs
           </div>
           <div>
             <h3 id="overview">Overview</h3>
-            <p>
+            <div>
               {{page.botOpinion}}
               <p><a href="#comments" title="Comments, AI Builds, tips & tricks...">AI Builds, Tips, etc.</a></p>
-            </p>
+            </div>
 
           </div>
         </div>
