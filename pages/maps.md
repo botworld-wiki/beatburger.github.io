@@ -23,7 +23,7 @@ breadcrumbs:
 - **Requirements:** Tutorial Island
 - **Mobs lvl:** 
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slicer](/slicer), [Flamer](/flamer),
-[Rocketeer](/rocketeer), [Icycool](/icycool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
+[Rocketeer](/rocketeer), [Icicool](/icicool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
 - **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Cannons),.. ?
 - **[Critters](/exploring#critters):**  White Rabbits (fleeing) 
 - **[Ancient Ruins](/loot#ancient-ruins):** None.
@@ -93,7 +93,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Sal
 
 - **Requirements:** Boat Level 12
 - **Mobs lvl:** 19-21
-- **[Wild bots](/exploring#mob-encounters):** [Berseker](/berseker), [Thump](/thump), [KO](/KO), [Pluggie](/pluggie), [Icycool](/Icycool), [Rocketeer](/rocketeer), [Scatter](/scatter)
+- **[Wild bots](/exploring#mob-encounters):** [Berseker](/berseker), [Thump](/thump), [KO](/KO), [Pluggie](/pluggie), [Icicool](/Icicool), [Rocketeer](/rocketeer), [Scatter](/scatter)
 - **[Bandits](/exploring#mob-encounters):**
 - **[Critters](/exploring#critters):** Blue bettles (meek), Snakes (aggressive)
 - **[Ancient Ruins](/loot#ancient-ruins):** ? 
