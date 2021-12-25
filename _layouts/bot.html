@@ -10,6 +10,10 @@ layout: breadcrumbs
         height: 350px;
         margin: 0 auto;
     }
+    .actual-card{
+      height: 100%;
+      margin-bottom: 20px;
+    }
     .pic {
     background: linear-gradient(160deg, #1b1a6b 50%, cyan);
 }
@@ -25,6 +29,7 @@ layout: breadcrumbs
     
     .cardinfos table {
         overflow-x: hidden;
+        margin: 0px;
     }
 </style>
 
@@ -36,7 +41,7 @@ layout: breadcrumbs
             <p><code>{{page.botDescription}}</code></p>
         </div>
         <div class="botcard">
-          <div class="rarity_{{page.botRarity}}">
+          <div class="actual-card rarity_{{page.botRarity}}">
             <div class="pic">
                 <p><img loading="lazy"   src="/assets/img/bots{{page.url}}.png" alt="Image of {{page.botName}} bot" title="Image of {{page.botName}} bot"/></p>
             </div>
@@ -73,7 +78,7 @@ layout: breadcrumbs
             <h3 id="overview">Overview</h3>
             <p>
               {{page.botOpinion}}
-              <p><a href="#comments" title="Comments, AI Builds, tips & tricks...">AI Builds, Tips, etc.</a></p>p>
+              <p><a href="#comments" title="Comments, AI Builds, tips & tricks...">AI Builds, Tips, etc.</a></p>
             </p>
 
           </div>
