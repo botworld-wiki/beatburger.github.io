@@ -2,9 +2,10 @@
 
 layout: breadcrumbs
 permalink: /exploring
-title: Exploring & Danger Zones Tips
+title: Exploring
 description: The best Tips to go out exploring Botworld Adventure, its wilderness and Danger Zones - Everything there is to know about it on the Botworld Community Wiki!
 breadcrumbs:
+  Botworld: "/#botworld"
   
 ---
 
@@ -47,14 +48,6 @@ Don't worry, you don't actually die or lose anything besides you Can Energy left
 
 </div>
 
-## Level Scaling
-
-<div markdown="1" class=" ghcms ghcms-scaling">
-
-Mobs level grows to be at minimun **3 below your [Botpack level](/botpack#botpack-level)**
-
-</div>
-
 
 ## Mob Encounters
 
@@ -81,6 +74,17 @@ Same. You get [Season Reward Tokens](/seasons) for beating them!
 
 
 </div>
+
+
+## Level Scaling
+
+<div markdown="1" class=" ghcms ghcms-scaling">
+
+Mobs level grows to be at minimun **3 below your [Botpack level](/botpack#botpack-level)**
+
+</div>
+
+
 
 <div markdown="1" class=" ghcms ghcms-critters">
 
@@ -176,3 +180,5 @@ Teddy Bears (check [the Event](/news))
 reset any map by leaving/rentering them. Everything will respawn
 
 </div>
+
+*Credit: Pix, Diamond*
