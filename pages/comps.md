@@ -21,7 +21,7 @@ Powerful combos are the cornerstone of any good comp, and some will only involve
 
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#general-comp-tips">General Comp Tips</a></li>
-  <li class="toc-block-entry" ><a href="#grouper-comp"Grouper Comp</a></li>
+  <li class="toc-block-entry" ><a href="#grouper-comp">Grouper Comp</a></li>
   <li class="toc-block-entry" ><a href="#combos">Combos</a></li>
 </ul>
 
@@ -67,3 +67,5 @@ Go full [Energy Resistance boosters](/energy-resistance-epic) with bots that can
 Gather the most devastating Melee-range bots [Brute](/brute), [Scatter](/scatter), [Flamer](/flamer), that are usually held back by their lack of mobility. Add [Team Translocator](/team-translocator), and watch them melt down the opposition.
 
 </div>
+
+*Credit: Lekoi, Pix, Kart*
