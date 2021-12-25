@@ -36,7 +36,7 @@ Top priority
 
 ## Other
 
-![Other Upgrades](https://cdn.discordapp.com/attachments/923510071026155550/924333348447465502/Screenshot_20211225-130004_Botworld.jpg)
+![Other Upgrades](https://cdn.discordapp.com/attachments/923510071026155550/924333348732665876/Screenshot_20211225-130039_Botworld.jpg)
 
 
 </div>
