@@ -2,14 +2,14 @@
 
 layout: breadcrumbs
 permalink: /comps
-title: Comps & Combos
+title: Strategy Guide & Combos
 description: "Having the right Bots & Botpack Composition is what got the best Botmasters where they are today. Learn everything you need to be one of them in here!" 
 breadcrumbs:
   Botmasters: "/#botmasters"
 
 ---
 
-# Comps & Combos
+# Comps & Combos: Strategy Guide
   
 <div markdown="1" class=" ghcms ghcms-main">
 
