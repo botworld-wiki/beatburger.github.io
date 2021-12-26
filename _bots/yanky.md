@@ -81,7 +81,7 @@ commonMat3: "Double Cog"
 ---
 
 ### Suggested AI build
-AAACA - For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps it company.
+AAACA - Full Damage Build. For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
 
 ABBCB - For Tanky Brawler. Reduce physical and energy damage taken by 30% each.
 
