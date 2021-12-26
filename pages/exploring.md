@@ -16,13 +16,13 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-Not to be confused with [Farming](/farming), Exploring is when you need to make the most out of every bit of Cannister juice you got!
+Not to be confused with [Farming](/farming), Exploring is when you need to make the most out of every bit of Canister juice you got!
 
 </div>
 
 
 <ul class="page-toc toc-block-list links">
-  <li class="toc-block-entry" ><a href="#cannisters">Cannisters</a></li>
+  <li class="toc-block-entry" ><a href="#canisters">Canisters</a></li>
   <li class="toc-block-entry" ><a href="#mob-encounters">Mob Encounters</a></li>
   <li class="toc-block-entry" ><a href="#multiple-enemies">Multiple Enemies</a></li>
   <li class="toc-block-entry" ><a href="#level-scaling">Level Scaling</a></li>
@@ -36,11 +36,11 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 - **Danger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
 - **Contracts**: See the full list on the [dedicated Contracts page](/contracts)
 
-<div markdown="1" class=" ghcms ghcms-cannister">
+<div markdown="1" class=" ghcms ghcms-canister">
 
-## Cannister
+## Canister
 
-You get 1 Cannister bar, and 1 HP bar. You los HP in a fight, and your Cannister Energy heals you up between fights.
+You get 1 Canister bar, and 1 HP bar. You los HP in a fight, and your Canister Energy heals you up between fights.
 
 If you fight multiple mobs simultanously or to fast to heal in-between, you can die and get sent back to town with Can Energy left!
 
@@ -85,7 +85,7 @@ Same. You get [Season Reward Tokens](/seasons) for beating them!
 - Doing multi-fights can be great for extra scrap thanks to the [Risk Reward Business Upgrade](/business#scrap). 
 - Also some [Bots](/materials) or [Boat](/boat-materials) can only be found by winning multi-fights
 - It doesn't seem to benefit to do 3+ fights at once.
-- Your [Cannister](#cannister) can't heal you between fights, so be careful!
+- Your [Canister](#canister) can't heal you between fights, so be careful!
 - **Tip:** When expecting a difficult multi-fight, be proactive and use your best gadgets early on so your A-team is still up for the next fights!
 
 </div>
