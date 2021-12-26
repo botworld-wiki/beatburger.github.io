@@ -82,4 +82,8 @@ commonMat3: "Double Cog"
 A must use in the early game
 
 ### Suggested Ai Build
-BAACB
+Option 1: BAACB - Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
+
+Option 2: AABCB - Long range Sniper with moderate damage. If it finishes an enemy, it recharges railgun by 35%.
+
+Option 3: BBACA - Short range with high defense sniper. A mix of Options 1 and 2.
