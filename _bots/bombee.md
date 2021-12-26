@@ -82,6 +82,8 @@ commonMat3: "Rusty Cog"
 Great for farming Ai Xp, only used in grouped wild bots. It is also a great if combo with flamer and bombee. Bombee pushes enemy which also a great 1-time use tank.
 
 ### Suggested AI Build
-BABCB - Bombee Tank. Ai1 and Ai3 are Health.
+Option 1: BABCB - Bombee Tank. Ai1 and Ai3 are Health.
 
-BAACB - Speedy Bombee. Follows enemy till death. Drop and pray it picks a glass bot.
+Option 2: BAACB - Speedy Bombee. Drop and pray it picks a glass bot, with its speed boost it can follow a target or pushes a target and self destructs on a distance.
+
+Option 3: ABACA - Melee Bombee. A different option for bombee but still explodes in the end. 
