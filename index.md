@@ -301,11 +301,10 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 - [Botworld News & Updates](/news): New Bots, Game Updates, anything that's happening.
 - [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
-- Wiki
-    - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
-    - [Credits](/credits): A big **Thank You** to everyone!
-    - [Changelog](/changelog): What's new on the wiki ?
-    - [Coggy meets Cog](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
+- [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
+- [Credits](/credits): A big **Thank You** to everyone!
+- [Changelog](/changelog): What's new on the wiki ?
+- [Coggy meets Cog](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
 
 </div>
 
