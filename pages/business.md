@@ -20,6 +20,9 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
   
 <div markdown="1" class=" ghcms ghcms-main">
 
+**Tip:** check out [Getting Started](/getting-started)
+
+
 ## Machines
 
 ![Boat Machines](https://cdn.discordapp.com/attachments/923510071026155550/924333347939942471/Screenshot_20211225-125745_Botworld.jpg)
@@ -40,5 +43,12 @@ Top priority
 
 
 </div>
+
+## Level Unlocks
+
+- **Level 4**: 1st [Recruit](/recruit)
+- **Level 7**: 2nd [Recruit](/recruit)
+- **Level 11**: 3rd [Recruit](/recruit)
+
 
 *Credit: Pix*
