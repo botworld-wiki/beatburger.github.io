@@ -11,6 +11,15 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2021-12-26
+
+
+- [Robopedia](/bots): fixed rarity sort and added link to [Strategy Guide: Comps & Combos](/comps)
+- More [Recruit Bots suggestions](/recruits#composition)
+- New Combo: [Stun Immunity](/comps#combos)
+- New [AI Builds & Tips template proposal](/mort#comments) with BloodxReaper
+- New [Mort AI builds](/mort#ai-builds) by BloodxReaper
+
 ## 2021-12-25
 
 - Updated [Gadgets](/gadgets) with low-level values
