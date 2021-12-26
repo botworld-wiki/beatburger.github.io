@@ -11,6 +11,18 @@ breadcrumbs:
 
 # The Arena
 
+<ul class="page-toc toc-block-list links">
+  <li class="toc-block-entry" ><a href="#solo-arena">Solo Arena</a></li>
+  <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
+  <li class="toc-block-entry" ><a href="#astrid">Astrid</a></li>
+  <li class="toc-block-entry" ><a href="#kelvin">Kelvin</a></li>
+  <li class="toc-block-entry" ><a href="#reginald">Reginald</a></li>
+  <li class="toc-block-entry" ><a href="#jack">Jack</a></li>
+  <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
+  <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
+</ul>
+
+
 ## Solo Arena
 
 <div markdown="1" class=" ghcms ghcms-solo">
