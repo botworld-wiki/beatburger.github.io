@@ -5,6 +5,7 @@ permalink: /recruits
 title: Recruits
 description: "Recruits, how do they work ? They're the most useful tool you have in Botworld Adventure once you know how to handle them: with love, care, and watcheful supervision - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
+  "Botmasters": "/#botmasters"
   
 ---
 
@@ -124,7 +125,7 @@ You'll see a recruit place a [Mort](/mort) in melee range of a bot, or fail to p
 
 Any bot that needs a combo or some kind of help from the player (placement, supporting bots or abilities, etc) will do poorly in the hand of a recruit
 
-**Suggested list of Bots to Avoid on your recruits:** [Mort](/mort), [Brute](/brute), [Scatter](/scatter),... [more to add](/contribute#tbw)
+**Suggested list of Bots to Avoid on your recruits:** [Mort](/mort), [Brute](/brute), [Scatter](/scatter), [Flamer](/flamer), [Beat](/beat), [Bigshot](/bigshot) (without [Stun Immunity](/comps#combos)), etc...
 
 
 ### Prioritize: self-reliant bots
@@ -132,7 +133,7 @@ Any bot that needs a combo or some kind of help from the player (placement, supp
 On the other hand, bots like [Rocketeer](/Rocketeer) and [Dune Bug](/dune-bug) are very self-reliant bots, as most [Evaders](/bots#evaders) and [Splashers](/bots#splashers) (veto Mort) tend to be. Their **reliable damage, mobility, and effectiveness in hands-off situations** lend them to be more beneficial for recruits to pilot.
 
 
-**Suggested list of Bots to Prioritize on your recruits:** [Rocketeer](/Rocketeer), [Dune Bug](/dune-bug), [Virus](/virus),... [more to add](/contribute#tbw)
+**Suggested list of Bots to Prioritize on your recruits:** [Rocketeer](/Rocketeer), [Dune Bug](/dune-bug), [Ram](/ram), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Pluggie](/pluggie), [Longshot](/longshot), etc...
 
 
 ### Abilities
