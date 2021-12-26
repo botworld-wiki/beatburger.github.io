@@ -84,6 +84,8 @@ commonMat3: "Sputtering Generator"
 Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
 
 ### Suggested AI Build
-ABCAB
+ABCAB - Full Damage Build. This AI comes with Unstoppable Ai and leap immobilize on enemy for 1s for detaining an enemy.
+
+BBCBB - 1v1 Battle Build. This AI comes with a 15% dodge with melee attack and Hp increase for 20%. 
 
 
