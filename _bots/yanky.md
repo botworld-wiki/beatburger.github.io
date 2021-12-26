@@ -40,7 +40,7 @@ ai1aDescription: "Grapple stun increased by 50%"
 ai1bName: "B: Speed Boost"
 ai1bDescription: "Move Speed increased by 20%"
 ai2aName: "A: Powerful Strikes"
-ai2aDescription: "All attacke damage increased by 20%"
+ai2aDescription: "All attack damage increased by 20%"
 ai2bName: "B: Armor Plated"
 ai2bDescription: "Reduces physical damage taken by 30%"
 ai3aName: "A: Unstoppable"
@@ -81,5 +81,6 @@ commonMat3: "Double Cog"
 ---
 
 ### Suggested AI build
-AAACA
+AAACA - For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration.
+ABBCB - For Tanky Brawler.
 
