@@ -24,6 +24,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#cannisters">Cannisters</a></li>
   <li class="toc-block-entry" ><a href="#mob-encounters">Mob Encounters</a></li>
+  <li class="toc-block-entry" ><a href="#multiple-enemies">Multiple Enemies</a></li>
   <li class="toc-block-entry" ><a href="#level-scaling">Level Scaling</a></li>
   <li class="toc-block-entry" ><a href="#critters">Critters</a></li>
   <li class="toc-block-entry" ><a href="#contracts">Contracts</a></li>
@@ -75,6 +76,19 @@ Same. You get [Season Reward Tokens](/seasons) for beating them!
 
 </div>
 
+
+
+## Multiple Enemies
+
+<div markdown="1" class=" ghcms ghcms-multiple">
+
+- Doing multi-fights can be great for extra scrap thanks to the [Risk Reward Business Upgrade](/business#scrap). 
+- Also some [Bots](/materials) or [Boat](/boat-materials) can only be found by winning multi-fights
+- It doesn't seem to benefit to do 3+ fights at once.
+- Your [Cannister](#cannister) can't heal you between fights, so be careful!
+- **Tip:** When expecting a difficult multi-fight, be proactive and use your best gadgets early on so your A-team is still up for the next fights!
+
+</div>
 
 ## Level Scaling
 
