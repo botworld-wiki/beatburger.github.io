@@ -6,7 +6,7 @@ updatedAt: "2021-12-14"
 
 title: "Dune Bug"
 name: "Dune Bug"
-description: "Special Evader - Extremely agile desert bot that rolls circles around its opponents. Hard to pin down."
+description: "Special Evader: Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well. - Extremely agile desert bot that rolls circles around its opponents. Hard to pin down."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "<a href='/dune-bug#story-quest' title='Story quest to get Dune Bug'>Story Quest</a>"
-botOpinion: "Slippery Boi, Survivor"
+botOpinion: "Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well."
 searchKeywords: ""
 
 
@@ -31,7 +31,7 @@ ability2Name: "Evasive Roll"
 ability2Info: "Teleport Distance: 7 , Cooldown: 5s"
 ability2Description: "Rolls away when enemies get too close"
 ability3Name: "Omni Roll"
-ability3Info: "Atk: Teleport Distance: 7, Cooldown:13s, Range: 8"
+ability3Info: "Atk:   Teleport Distance: 7, Cooldown:13s, Range: 8"
 ability3Description: "Rapidly rolls around and fires at enemies"
 
 
@@ -80,10 +80,11 @@ commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
 
-### Story Quest
+###  'Evader Build' by Hex
+- **BABCA:** Recommended placing early or last (Doesn't really matter cause this bot is a survivor). Can change the tide of battle.
+
+### 'Full Damage Build' by Hex
+- **BBBCB:** It can deal more damage to a cluster of bots. Can change the tide of battle.
+
+## Story Quest
 Following the main story line in the Great Desert will have you go and search for the Dune Bug botframe.
-
-### Suggested AI build
-Option 1: BABCA - Evader Build. Recommended placing early or last (Doesn't really matter cause this bot is a survivor). Can change the tide of battle.
-
-Option 2: BBBCB - Full Damage Build. It can deal more damage to a cluster of bots. Can change the tide of battle.
