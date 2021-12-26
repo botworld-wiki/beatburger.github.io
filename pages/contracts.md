@@ -6,8 +6,7 @@ title: Contracts
 description: "All the Contracts you can get in Botworld, obectives, tips & rewards - Everything there is to know about it on the Botworld Adventure community Wiki!"
 breadcrumbs:
   Botworld: "/#botworld"
-  Exploring: "/exploring"
-  Season: "/seasons/
+  Seasons: "/seasons"
   
 ---
 
