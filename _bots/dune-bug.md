@@ -84,5 +84,6 @@ commonMat3: "Hardened Fiberglass"
 Following the main story line in the Great Desert will have you go and search for the Dune Bug botframe.
 
 ### Suggested AI build
-BABCA
+BABCA - Evader Build. Recommended placing early or last (Doesn't really matter cause this bot is a survivor). Can change the tide of battle.
 
+BBBCB - Full Damage Build. It can deal more damage to a cluster of bots. Can change the tide of battle.
