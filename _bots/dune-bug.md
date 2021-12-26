@@ -1,6 +1,6 @@
 ---
 layout: bot
-contributors: "Hex"
+contributors: "Hex, O.J."
 updatedAt: "2021-12-14"
 
 
