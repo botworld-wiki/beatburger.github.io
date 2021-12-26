@@ -12,7 +12,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](/bots), cast powerful abilities, equip useful boosters and use fun gadgets.
+Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](</bots>), cast powerful abilities, equip useful boosters and use fun gadgets.
 
 - **Unlocking more slots:** [Arena Masters](/arena#arena-masters). 
 - **Getting better Modules:** [Fusing with Auntie](#fusing)
