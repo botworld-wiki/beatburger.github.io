@@ -17,6 +17,15 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 
 **Missing something to upgrade your Boat?**: [Story & Boat Materials](/boat-materials)
 
+## Boat Upgrae Rewards by Level 
+
+- **Every level:** 3 Power units to upgrade your business. You'll have enough by Boat lvl15 to max everything out.
+- **Level 4:** 1st [Recruit](/recruit)
+- **Level 7:** 2nd [Recruit](/recruit)
+- **Level 11:** 3rd [Recruit](/recruit)
+- **Level 15:** Max.
+
+
 </div>
 
   
@@ -66,14 +75,16 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 - **Critter Collector:** When running into [Critters](/exploring#critters) they have 10% chance to drop a burst of bonus scrap
 
 
-
 </div>
 
-## Level Unlocks
 
-- **Level 4**: 1st [Recruit](/recruit)
-- **Level 7**: 2nd [Recruit](/recruit)
-- **Level 11**: 3rd [Recruit](/recruit)
+## Business Walkthrough Suggestion by Young Fung
+
+|            Boat 1            |           Boat 2          |           Boat 3          |            Boat 4            |             Boat 5           |            Boat 6            |          Boat 7           |           Boat 8          |            Boat 9            |            Boat 10           |            Boat 11           |          Boat 12          |          Boat 13          |            Boat 14           |            Boat 15           |
+|------------------------------|---------------------------|---------------------------|------------------------------|------------------------------|------------------------------|---------------------------|---------------------------|------------------------------|------------------------------|------------------------------|---------------------------|---------------------------|------------------------------|------------------------------|
+|    Scrap Collector Lvl 1     |   Scrap Collector Lvl 2   |   Scrap Collector Lvl 3   |     Chip Fabricator  Lvl 2   |       Shakedown     Lvl 1    |   Scavenger Training Lvl 2   |    Shared Scrap Lvl 1     |     Risk Reward lvl 1     |     Metal Detector  Lvl 3    |     Bounty Hunter  Lvl 1     |   Scavenger Training Lvl 3   |      Shakedown   Lvl 3    |    Boss Research Lvl 1    |    Treasure Hunter Lvl 1     |    Chip Fabricator   Lvl 3   |
+|    Arcade Machine  Lvl 1     |   Arcade Machine  Lvl 2   |   Arcade Machine  Lvl 3   |     Metal Detector   Lvl 1   |   Critter Collector Lvl 1    |        Shakedown     Lvl 2   |    Sponsorship  Lvl 1     |     AI Research Lvl 1     |    Canister Storage Lvl 1    |    Contract Master Lvl 1     |    Canister Storage  Lvl 2   |    Recuit Repair Lvl 1    |    Boss Research Lvl 2    |    Treasure Hunter Lvl 2     |   Equipment Upgrades Lvl 1   |
+|    Chip Fabricator Lvl 1     |    Repair Boost   Lvl 1   |    Repair Boost   Lvl 2   |   Scavenger Training Lvl 1   |    Metal Detector   Lvl 2    |         Terrify      Lvl 1   |    Sponsorship  Lvl 2     |     AI Research Lvl 2     |      Negotiation    Lvl 1    |    Contract Master Lvl 2     |      AI Research     Lvl 3   |    Recuit Repair Lvl 2    |    Boss Research Lvl 3    |    Treasure Hunter Lvl 3     |   Equipment Upgrades Lvl 2   |
 
 
 *Credit: Young Fung, Pix*
