@@ -82,4 +82,6 @@ commonMat3: "Hardened Fiberglass"
 Best combo with Bombee for Farming Ai XP
 
 ### Suggested AI Build
-AACAA
+AACAA - Full Damage Build.
+
+BBCBB - Survivor Build. Does not deal more damage. Implies on the name Survivor build.
