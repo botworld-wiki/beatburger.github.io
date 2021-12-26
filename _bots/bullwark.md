@@ -84,5 +84,7 @@ Put Bullwark in the front
 weakness is his rear since his shield is in the front
 
 ### Suggested Ai Build
-ABCBA
+Option 1: BBCBB - Full Tank Build. Strongest Defense is the best offense. Bullwark have a shield that can reflect damage and damage reduction by 30%.
+
+Option 2: ABCAA - Attack Tank Build. You can run but you can't hide from an attack tank, it protects and attacks at the same time.
 
