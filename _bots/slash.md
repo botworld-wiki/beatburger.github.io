@@ -83,6 +83,7 @@ commonMat3: "Sparky Wires"
 ---
 
 ### Suggested AI build
-ABCAB - Fast Chaser Build, for chasing snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit
+ABCAB - Fast Chaser Build, for chasing snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
+
 BACAB - Full Damage Build.
 
