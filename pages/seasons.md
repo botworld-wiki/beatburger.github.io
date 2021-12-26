@@ -6,7 +6,6 @@ title: Seasons
 description: The place to learn everything there is to know about the Seasons in Botworld Adventure!
 breadcrumbs:
   Botworld: "/#botworld"
-  Scavenger Landing: "/town"
   
 ---
 
@@ -26,7 +25,7 @@ Any bot that's available as a reward in your current season, you can't find it a
 ### Related pages
 
 **Contracts**: we got a page for them, with a [list of every Contract](/contracts)
-**Season Tokens while exploring**: check out [Explo & Danger Zones Tips](/exploring)
+**Season Tokens while exploring**: check out [Exploring](/exploring)
 
 </div>
 
