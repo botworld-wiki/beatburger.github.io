@@ -79,7 +79,8 @@ commonMat3: "Double Cog"
 ---
 
 ### Tips
-A must use in the early game
+Equip with Crit Boosters to maximize effect for it's AI "Critical strikes".
+
 
 ### Suggested Ai Build
 Option 1: BAACB - Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
