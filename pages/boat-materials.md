@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /boat-materials
-title: Story & Boat Materials
+title: Boat Materials Guide
 description: The Materials you need to upgrade your Boat and progress through the Story in Botworld Adventure - List, maps & infos
 breadcrumbs:
   Botworld: "/#botworld"
