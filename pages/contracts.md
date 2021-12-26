@@ -6,7 +6,8 @@ title: Contracts
 description: "All the Contracts you can get in Botworld, obectives, tips & rewards - Everything there is to know about it on the Botworld Adventure community Wiki!"
 breadcrumbs:
   Botworld: "/#botworld"
-  Explo & Danger Zones: "/exploring"
+  Exploring: "/exploring"
+  Season: "/seasons/
   
 ---
 
@@ -18,8 +19,9 @@ breadcrumbs:
 Completing contracts is mostly how you progress through a season
 
 
-**Seasons**: find out how they work in [Seasons](/seasons)
-**Earning Season Tokens while exploring**: [Explo & Danger Zones Tips](/exploring)
+- **Seasons**: find out how they work in [Seasons](/seasons)
+- **Earning Season Tokens while exploring**: [Exploring](/exploring)
+- **Critters Hunting Tips**: [Critters](/critters)
 
 ## How to get Contracts
 
