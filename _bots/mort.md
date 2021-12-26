@@ -85,7 +85,7 @@ commonMat3: "Clear Oil"
 
 Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
 
-### 'Consistent Dmg' by 	
+### 'Consistent Dmg' by BloodxReaper
 - **ABCAB:** Focused on basic attack. 
 
 Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldowns-rare)  or are using them on [Recruits](/recruits).
@@ -95,5 +95,8 @@ Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldo
 
 ## Tips
 
-### Superchareged First Strike
-When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge).
+### Supercharged First Strike
+When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge). See [Combos](/comps#combos)
+
+### Group 'em Up
+Bots like [Chainer](/chainer) and [Lobbie](/lobbie) can group the enemies making them a great pair! See [Grouper Comps](/comps#grouper-comp)
