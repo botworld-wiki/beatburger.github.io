@@ -27,7 +27,7 @@ breadcrumbs:
 ## 2021-12-25
 
 - Updated [Gadgets](/gadgets) with low-level values
-- New Bot: [Sheller](/sheller)
+- New Bot: [Sheller](/sheller) by O.J
 - Published Sheller's announcement as a fresh News
 - Reworked bot pages layout: splited Overview (top) & Comments (bottom)  
 - New site map designed with @debb + corresponding menu proposal
