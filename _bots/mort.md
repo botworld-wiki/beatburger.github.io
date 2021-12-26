@@ -80,17 +80,20 @@ commonMat2: "Cold Battery"
 commonMat3: "Clear Oil"
 ---
 
-### 'Nuke' AI Build by BloodxReaper
+### 'Nuke' by BloodxReaper
 - **AACAA:** Heavily focused on its ult. 
 
 Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
 
-### 'Consistent Dmg' AI Build by 	
+### 'Consistent Dmg' by 	
 - **ABCAB:** Focused on basic attack. 
 
 Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldowns-rare)  or are using them on [Recruits](/recruits).
 
 *Mort has the highest atk spd of every splasher(?) at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have cdr abilities*
 
-### Tips
-- **Superchareged First Strike:** When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge).
+
+## Tips
+
+### Superchareged First Strike
+When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge).
