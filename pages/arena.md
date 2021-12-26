@@ -167,6 +167,8 @@ He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee),
 
 A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack power. Prepare to fight, prepare to dodge cause this Arena Master will make your battle, filled with chaos.
 
+![Nicola portrait](https://cdn.discordapp.com/attachments/923510071026155550/924365895319564299/Screenshot_20211225-171841_Botworld.jpg)
+
 - **Level: 20**
 - **Rewards:** revenge
 
@@ -176,8 +178,6 @@ A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack
 - [Firewall!](/firewall)
 
 ### Tips
-
-lol
 
 ### Trivia
 
