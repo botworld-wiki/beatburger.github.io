@@ -2,14 +2,14 @@
 
 layout: breadcrumbs
 permalink: /business
-title: Business Upgrades
+title: Boat Business Guide
 description: "Business Upgrades will offer you lucrative or convenient perks that will all make your life easier in Botworld Adventure" 
 breadcrumbs:
   Botmasters: "/#botmasters"
 
 ---
 
-# Business Upgrades
+# Business Upgrades Guide
   
 <div markdown="1" class=" ghcms ghcms-intro">
 
