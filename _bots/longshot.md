@@ -81,10 +81,11 @@ commonMat3: "Double Cog"
 ### Tips
 Equip with Crit Boosters to maximize effect for it's AI "Critical strikes".
 
+### Full Damage Build by Hex
+BAACB - Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
 
-### Suggested Ai Build
-Option 1: BAACB - Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
+### Sniper Build by Hex
+AABCB - Long range Sniper with moderate damage. If it finishes an enemy, it recharges railgun by 35%.
 
-Option 2: AABCB - Long range Sniper with moderate damage. If it finishes an enemy, it recharges railgun by 35%.
-
-Option 3: BBACA - Short range with high defense sniper. A mix of Options 1 and 2.
+### Close range Build by Hex
+BBACA - Short range with high defense sniper. A mix of Options 1 and 2.
