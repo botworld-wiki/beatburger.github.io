@@ -15,11 +15,30 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-## Loot piles, zoning, etc.
-
-[To be written](/contribute#tbw)
-
 </div>
+
+## Chests
+
+**Common *Battle* Chests**
+
+![Common Battle Chests](https://cdn.discordapp.com/attachments/824807657550381088/892497149747675156/contract-chests.png)
+
+[more data available, and could use a better-looking presentation](/contribute#tbw)
+
+**Special *Big* Chests**
+
+![Rare Super Chests](https://cdn.discordapp.com/attachments/923510071026155550/924334383886893167/Screenshot_20211225-171328_Botworld.jpg)
+
+**Rare *Super* Chests**
+
+![Rare Super Chests](https://cdn.discordapp.com/attachments/923510071026155550/924334449146073088/Screenshot_20211225-171254_Botworld.jpg)
+
+**Epic *??* Chests**
+
+[missing data](/contribute#tbw)
+
+
+## Scrap Piles
 
 ## Botframes
 
@@ -51,8 +70,12 @@ Ancient Ruins are traces of the old civilizations of human. Example: Old train t
 ![Ancient Ruins in the Parched Sea](https://cdn.discordapp.com/attachments/877549224324104212/880353586062712832/IMG_20210826_125938.jpg)
 
 
-
 </div>
+
+## High Grounds
+
+
+[To be written](/contribute#tbw)
 
 
 <div markdown="1" class=" ghcms ghcms-droprates">
