@@ -52,7 +52,8 @@ Tanks soak up damage and protect weaker bots --- Best placed up front
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
+    {% for bot in bots_by_rarity %}
         {% if bot.botType == 'Tank' %}
           <tr class="collection-list-entry rarity_{{bot.botRarity}}">
               <td class="table-pic">
@@ -100,7 +101,7 @@ Splashers damage multiple bots that are close together --- best placed at the ba
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Splasher' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
@@ -148,7 +149,7 @@ Snipers do a lot of damage from a distance --- protect this bot as much as possi
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Sniper' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
@@ -196,7 +197,7 @@ Chasers are fast melee bots that are good at getting close to ranged enemies ---
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Chaser' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
@@ -244,7 +245,7 @@ Evaders are fast bots that are good at staying away from melee enemies --- distr
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Evader' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
@@ -292,7 +293,7 @@ Brawlers are good at fighting other melee bots --- 1v1 is their specialty
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Brawler' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
@@ -340,7 +341,7 @@ Supports make your other bots more effective --- best placed beside tanks
     </tr>
   </thead>
   <tbody>
-    {% for bot in site.bots %}
+    {% for bot in bots_by_rarity %}
       {% if bot.botType == 'Support' %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
