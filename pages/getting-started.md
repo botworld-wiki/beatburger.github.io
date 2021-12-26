@@ -2,14 +2,14 @@
 
 layout: breadcrumbs
 permalink: /getting-started
-title: Getting Started
-description: How best to start exploring Botworld!
+title: Getting Started Guide
+description: How best to start exploring Botworld! A guide made by the community to welcome everyone in this great mobile game. Come & check out our Wiki!
 breadcrumbs:
   Botmasters: "/#botmasters"
 
 ---
 
-# Getting Started
+# Getting Started Guide
 
 ## Hello young Botmaster !
 
