@@ -81,4 +81,7 @@ commonMat3: "Thick Tube"
 ---
 
 ### Suggested AI build
-AAAAC
+AAAAC - Most recommended Ai Build. A Tank Build.
+
+BAAAC - A bit more fast Barrie Tank.
+
