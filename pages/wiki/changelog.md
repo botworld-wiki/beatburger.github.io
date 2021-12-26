@@ -1,9 +1,9 @@
 ---
 
 layout: breadcrumbs
-permalink: /changelog
-title: Wiki Changelog
-description: How's the wiki project going ?
+permalink: "/changelog"
+title: "Wiki Changelog"
+description: "How's the wiki project going ?"
 breadcrumbs:
   "Community Adventure": "/#community"
 
