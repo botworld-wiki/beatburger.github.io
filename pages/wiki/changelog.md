@@ -1,7 +1,7 @@
 ---
 
 layout: breadcrumbs
-permalink: /changelog
+permalink: /changelogbug
 title: Changelog
 description: "What's new on the Wiki ?"
 breadcrumbs:
