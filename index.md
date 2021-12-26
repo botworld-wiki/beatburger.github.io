@@ -248,6 +248,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 </div>
 <span class="menu-link-target" id="all"></span>
+<span class="menu-link-target" id="wiki"></span>
 
 
 <div class="grid">
@@ -256,15 +257,17 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Botmasters
 
-- [Bots](/bots): bots detailed list & types/roles presentation
+- [Bots](/bots): our Robopedia has everything already.
     - [Starter Bots](/starter-bots)
-- [Botpack](/botpack): botpack presentation (& concise module lists for easy access from the menu) 
-    - [Abilities](/abilities): abilities detailed list
-    - [Boosters](/boosters): booster detailed list
-    - [Gadgets](/botpack#gadgets): gadgets list
-- [Recruits](/recruits): why you need to show them some love in general
-    - [Jobs](/jobs): advice, mechanics, listing
-- ...
+- [Botpack](/botpack): infos about Power, Level, Fusing, and compact Modules lists.
+    - [Abilities](/abilities): full list.
+    - [Boosters](/boosters): full list.
+    - [Gadgets](/botpack#gadgets): full list.
+- [Comps & Combos](/comps): general Composition tips, Grouper Comp, and cool Combos.
+- [Recruits](/recruits): how their fights work, usage & comp tips.
+    - [Jobs](/jobs): mechanics, list, & tips.
+- [Business Upgrades](/business): list, selection tips, and level unlocks.
+- [Getting Started](/getting-started): introductory guide to get you started on the right foot.
 
 </div>
 
@@ -274,45 +277,35 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 ## Botworld
 
-- [Explorating & Danger Zones Tips](/exploring): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
-    - [Maps](/maps): full pics, annotations, unlocks
-    - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
-    - [Contracts](/contracts):
-    - [Loot](/loot): Ancient Ruins, botframes, materials, loot piles, zoning, drop rates...
-    - [Exterminator squads](/contribute#tbw):
-- [Scavenger Landing](/town): shop, hair draisser, aunty... mentions arena etc
-    - [Business Boat Upgrades](/boat): boat pictures & unlocks per level...
-    - [Arena](/arena):
-    - [Arena Masters](/arena-masters): List, descriptions, rewards, tips
-    - [Seasons](/seasons): Starter Season vs Global Season, most notable rewards etc.
-    - [Notable characters](/contribute#tbw): the cool npcs
-- [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
-- ...
+- [Exploring](/exploring): Infos and Tips about Canisters, Mobs, Critters, Mega, Bosses, Random Encounters, Level Scaling...
+    - [Maps](/maps): Full Pictures, Wild Bots, Locations of Interest...  
+    - [Danger Zones](/danger-zones): Tips, Random Encounters, Exterminator Squads...
+    - [Farming](/farming): the most efficient ways to get lots of anything.
+    - [Bots Materials](/materials): full list.
+    - [Story & Boat Materials](/boat-materials): list & maps.
+    - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
+- [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
+- [Seasons](/seasons): Starter Season vs Global Season, Rewards.
+    - [Contracts](/contracts): list.
+- [Story](/story): Quests, Characters (NPCs), Lore 
 
 </div>
 
-<div markdown="1" class="grid-box ghcms ghcms-guides">
 
-## Guides
-
-- [Getting Started](/guides/getting-started): 
-- [Grouper Comp](/contribute#tbw):
-- [Farming Guide &amp; Routes](/contribute#tbw):
-- [Play on Windows](/play-on-windows):
-- ...
-
-</div>
+<span class="menu-link-target" id="community"></span>
+<span class="menu-link-target" id="community-wiki"></span>
     
-<div markdown="1" class="grid-box ghcms ghcms-wiki">
+<div markdown="1" class="grid-box ghcms ghcms-community">
 
-## Community Wiki
+## Community Adventure
 
-- [Botworld Adventure News archive](/news): New bots, updates, anything that's happening.
-- [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
-- [Changelog](/changelog): What's new on the wiki ?
-- [Credits](/credits): A big **Thank You** to everyone!
-- [Roadmap](/roadmap): What's planned? Ideas for later go there.
-- [Coggy meets Cog](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
+- [Botworld News & Updates](/news): New Bots, Game Updates, anything that's happening.
+- [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
+- Wiki
+    - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
+    - [Credits](/credits): A big **Thank You** to everyone!
+    - [Changelog](/changelog): What's new on the wiki ?
+    - [Coggy meets Cog](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
 
 </div>
 
