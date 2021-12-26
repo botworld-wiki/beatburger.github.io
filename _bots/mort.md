@@ -1,13 +1,17 @@
 ---
-
 layout: bot
+contributors: "?, BloodxReaper"
+updatedAt: "2021-12-15"
+
+
 title: "Mort"
 name: "Mort"
-description: "Rare Splasher - A cannon on legs. Can fire over obstacles, making it a potent bot from almost anywhere in the arena."
+description: "Rare Splasher: Dum mort, Coward Mort, Nuke Combo - A cannon on legs. Can fire over obstacles, making it a potent bot from almost anywhere in the arena."
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 breadcrumbs:
   Bots: "/bots"
   Splasher: "/bots#splashers"
+
 
 botName: "Mort"
 botDescription: "A cannon on legs. Can fire over obstacles, making it a potent bot from almost anywhere in the arena."
@@ -15,9 +19,10 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339697
 botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Random Drop"
+botAcquisition: "drop"
 botOpinion: "Dum mort, Coward Mort, Nuke Combo"
 searchKeywords: "dumb, Mort, Aoe, Nuke, combo, rare, splasher, knockback"
+
 
 ability1Name: "Explosive Shell"
 ability1Info: "Range: 4-10 , Attack Speed: 0.78s , Impact Radius: 2 , Energy Damage: 100% , Knockback: Small"
@@ -27,12 +32,13 @@ ability2Info: "Range: 5-10 , Cooldown: 6s , Vortex Radius: 2 , Immobilized Durat
 ability2Description: "Creates a vortex on impact, pulling enemies in and temporarily holding them in place"
 ability3Name: "Super Shell"
 ability3Info: "Range: 4-10 , Cooldown: 10s , Impact Radius: 3 , Energy Damage: 533% , Knockback: Small"
-ability3Description: "TDeals massive damage in a large radius"
+ability3Description: "Deals massive damage in a large radius"
+
 
 ai1aName: "A: Power Link"
 ai1aDescription: "Gives 2 botpack power when the bot enters a battle"
 ai1bName: "B: Speed Boost"
-ai1bDescription: "Move speed increased by 20%"
+ai1bDescription: "Move Speed increased by 20%"
 ai2aName: "A: Extra Heavy Payload"
 ai2aDescription: "Super shell damage increased by 40% , Super shell cooldown increased by 20%"
 ai2bName: "B: Enhanced Payload"
@@ -50,6 +56,7 @@ ai5aDescription: "Super shell starts 50% charged"
 ai5bName: "B: Sustained Super "
 ai5bDescription: "Super shell cooldown reduced by 20%"
 
+
 lvl1Hp: "1568"
 lvl1Dmg: "75"
 lvl1Dps: "96"
@@ -64,16 +71,27 @@ lvl25Hp: "13790"
 lvl25Dmg: "739"
 lvl25Dps: "943"
 
+
 epicMat: "Mort Essence"
 rareMat: "Splasher Explosives"
 specialMat: "Jet Fuel"
 commonMat1: "Sputtering Generator"
 commonMat2: "Cold Battery"
 commonMat3: "Clear Oil"
-
 ---
-### Tips
-When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like Supercharged translocator (SCT) or Super charged.
 
-### Suggested Ai Build
-AACAA
+### Tips
+When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge).
+
+### 'Nuke' AI Build by BloodxReaper
+- **AACAA**
+
+Heavily focused on its ult. Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
+
+### 'Consistent Dmg' AI Build by BloodxReaper
+- **ABCAB**
+
+Focused on basic attack. Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldowns-rare)  or are using them on [Recruits](/recruits).
+
+*Mort has the highest atk spd of every splasher(?) at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have cdr abilities*
+
