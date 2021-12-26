@@ -118,7 +118,10 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 <div markdown="1" class=" ghcms ghcms-gadgets">
 
-[Upgrades & unlocks](/contribute#tbw)
+### Hack
+
+She builds your them all for you! She bills you of course, but she's very helpful and just about the only friendly Rat out there so really, you should just consider yourself lucky. 
+
 
 ### Damage Amplifier 
 
