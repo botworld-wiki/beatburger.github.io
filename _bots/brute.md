@@ -83,4 +83,6 @@ commonMat3: "Cold Battery"
 Good for clearing out grouped bots, Best use when Ai is Maxed out
 
 ### Suggested AI Build
-BBCBA
+Option 1: BBCBA - Full Damage Build. Upon drop he spins, crits, stuns and 1 hit an enemy. Would recommend equip with crit boosters.
+
+Option 2: AACAB - A Different Build for Brute. Everything that an option 1 lacks, it got speed, 
