@@ -28,8 +28,6 @@ The Materials you need to upgrade your [Boat & Business](/business) and progress
   <li class="toc-block-entry" ><a href="#maps" title="Where to find everything">Maps</a></li>
 </ul>
 
-**Ancient Ruins**: Check out our [explanation & maps about Ancient Ruins](/loot#ancient-ruins) 
-
 
 <span id="boat"></span>
 
@@ -113,6 +111,11 @@ Anything you need to find at some point to progress through the [Story](/story)
 ## Maps
 
 <div markdown="1" class=" ghcms ghcms-maps">
+
+
+### Ancient Ruins
+
+Check out our [Explanation & Maps about Ancient Ruins](/loot#ancient-ruins) 
 
 ### Blue Tarp
 
