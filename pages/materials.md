@@ -2,72 +2,32 @@
 
 layout: breadcrumbs
 permalink: /materials
-title: Materials
-description: The Materials you need to upgrade your Boat and Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!
+title: Bots Materials
+description: The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!
 breadcrumbs:
+  Botworld: "/#botworld"
+  Exploring: "/exploring"
   
 ---
 
 
-# Materials
+# Bots Materials
 
 
 
-<div markdown="1" class=" ghcms ghcms-main">
+<div markdown="1" class=" ghcms ghcms-intro">
 </div>
 
 
 <ul class="page-toc toc-block-list links">
-  <li class="toc-block-entry" ><a href="#boat" title="Every Boat Material info">Boat Mats</a></li>
   <li class="toc-block-entry" ><a href="#bots" title="Every Bots Material info">Bots Mats</a></li>
   <li class="toc-block-entry" ><a href="#crafting" title="Required Mats for every Bot ">Crafting Table</a></li>
   <li class="toc-block-entry" ><a href="#costs" title="Upgrade Costs by level">Upgrade Costs</a></li>
 </ul>
 
-**Ancient Ruins**: Check out our [explanation & maps about Ancient Ruins](/loot#ancient-ruins) 
 
-
-<span id="boat"></span>
-
-## Boat Materials
-
-
-<div markdown="1" class=" ghcms ghcms-boat">
-
-What you need to upgrade your boat.
-
-</div>
-
-<table class="collection-list">
-  <thead>
-    <tr>
-      <th>Material</th>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Overview</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
-    {% for material in mats_by_rarity %}
-        {% if material.matType == 'Boat' %}
-          <tr class="collection-list-entry rarity_{{material.matRarity}}">
-              <td class="table-pic">
-              <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
-                <img loading="lazy"   src="/assets/img/materials/{{ material.matName | slugify }}.png" alt="Image of the material {{ material.matName }}"> 
-             </a>
-              </td>
-              <td>
-                  <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
-              </td>
-                    <td class="overview">{{material.matDescription}}</td>
-              <td class="overview">{{material.matOpinion}}</td>
-            </tr>
-        {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-
+- **The most efficient ways to get mats**: [Farming](/farming)
+- **Ancient Ruins**: Check out our [explanation & maps about Ancient Ruins](/loot#ancient-ruins) 
 
 
 <span id="bots"></span>
@@ -110,9 +70,6 @@ What you need to upgrade your bots.
     {% endfor %}
   </tbody>
 </table>
-
-
-
 
 
 
