@@ -13,7 +13,9 @@ breadcrumbs:
   
 <div markdown="1" class=" ghcms ghcms-intro">
 
-Business Upgrades will offer you lucrative or convenient perks that will all make your life easie
+Business Upgrades will offer you lucrative or convenient perks that will all make your life easier.
+
+**Missing something to upgrade your Boat?**: [Story & Boat Materials](/boat-materials)
 
 </div>
 
