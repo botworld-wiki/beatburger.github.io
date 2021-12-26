@@ -66,6 +66,10 @@ Go full [Energy Resistance boosters](/energy-resistance-epic) with bots that can
 
 Gather the most devastating Melee-range bots [Brute](/brute), [Scatter](/scatter), [Flamer](/flamer), that are usually held back by their lack of mobility. Add [Team Translocator](/team-translocator), and watch them melt down the opposition.
 
+### Stun Immunity
+
+Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100% stun (and freeze) immunity. That's extremely valuable to [Bigshot](/bigshot)!
+
 </div>
 
 *Credit: Lekoi, Pix, Kart*
