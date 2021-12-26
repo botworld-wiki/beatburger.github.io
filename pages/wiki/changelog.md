@@ -1,15 +1,29 @@
 ---
+
 layout: breadcrumbs
-permalink: "/changelog"
-title: "Wiki Changelog"
-description: "How's the wiki project going ?"
+permalink: /changelog
+title: Changelog
+description: "What's new on the Wiki ?"
 breadcrumbs:
   "Community Adventure": "/#community"
+  
 ---
+
 
 # Wiki Changelog
 
 ## 2021-12-26
+
+- [Robopedia](/bots): fixed rarity sort and added link to [Strategy Guide: Comps & Combos](/comps)
+- More [Recruit Bots suggestions](/recruits#composition)
+- New Combo: [Stun Immunity](/comps#combos)
+- New [AI Builds & Tips template proposal](/mort#comments) with BloodxReaper
+- New [Mort AI builds](/mort#ai-builds) by BloodxReaper
+- Updated [Dune Bug](/dune-bug) overview by O.J.
+- New [Multiple Enemies](/exploring#multiple-enemies) section
+- Detailed [Business Upgrades](/business) list thanks to Young Fung
+- New [Business Full Walkthrough](/business#new-botmasters) suggestion by Young Fung
+
 
 
 ## 2021-12-25
