@@ -35,7 +35,7 @@ breadcrumbs:
 
 ## Squad Cup
 
-- [Recruits](/recruits)!
+- [Recruits Comps](/recruits#composition)
 - [Comps & Combos](/comps)
 
 </div>
