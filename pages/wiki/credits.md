@@ -32,6 +32,7 @@ breadcrumbs:
 - **Kartoffel:** [News & Updates](</news>)
 - **Stan:** [Larry](</larry>), [Mia](</mia>)
 - **Masked Critic:** [Play Botworld on Windows from Android](/play-on-windows)
+- **BloodxReaper:** AI Builds & Tips template for Bot Pages, 2 [Mort AI builds](/mort#ai-builds)
 
 
 ## Editors
