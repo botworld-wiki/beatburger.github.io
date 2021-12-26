@@ -2,18 +2,27 @@
 
 layout: breadcrumbs
 permalink: /changelog
-title: Changelog
+title: Wiki Changelog
 description: How's the wiki project going ?
 breadcrumbs:
-  Contribute: "/contribute"
+  "Community Adventure": "/#community"
 
 ---
 
-# Changelog
+# Wiki Changelog
 
-[Roadmap](https://www.botworld.wiki/roadmap)
+## 2021-12-25
+
+- Updated [Gadgets](/gadgets) with low-level values
+- New Bot: [Sheller](/sheller)
+- Published Sheller's announcement as a fresh News
+- Reworked bot pages layout: splited Overview (top) & Comments (bottom)  
+- New site map designed with @debb + corresponding menu proposal
+- New pages: [Business Upgrade](/business), [Comps & Combos](/comps), [Shop & Services](/shop), [Danger Zonez](/danger-zones), [Farming](/farming), [Story](/story)
+- Consolidated or fleshed out content:  [Fusing](/botpack#fusing), [Botpack Level](/botpack#botpack-level), [Level Scaling](/exploring#scaling), [Loot Chests](/loot#chests), [Unique Jobs](/jobs)
 
 ## 2021-12-24
+
 - ![Holydays Cog](/assets/img/icons/holydays-cog.png) by Diamond
 - [Maps Contents](</maps>) by cloud9
 - New embed [ancient ruin(s)](/ancient-ruins)
