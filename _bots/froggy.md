@@ -82,4 +82,8 @@ commonMat3: "Double Cog"
 
 
 ### Suggested Ai Build
-AABCB
+Option 1: ABBCB - Evader Build. Slows down enemy while maintaining the range. Attack enemy from a safe spot.
+
+Option 2: AAACA - Full Damage Build. 
+
+Option 3: BBACB - Hybrid Build
