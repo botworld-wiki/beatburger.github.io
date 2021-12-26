@@ -77,4 +77,8 @@ commonMat3: "Frost Fuel"
 ---
 
 ### suggested AI Build
-BACBB
+Option 1: BACBA - Full Damage Build. Slow and steady Scatter also very dangerous at close range. Use gust to direct enemy to scatter.
+
+Option 2: ABCBB - StunShot Build. Build for Stun. Great for stunning a cluster of bots.
+
+Option 3: AACBX - Hybrid Build. A mix of Options 1 and 2. You can decide for yourself at Ai5, if you want scatter to have high health or low mvspeed but high damage.
