@@ -2,9 +2,10 @@
 
 layout: breadcrumbs
 permalink: /news
-title: Botworld Adventure News
+title: BWA News & Updates
 description: New bots announcements, updates, balance changes... All the News about Botworld Adventure!
 breadcrumbs:
+  "Community Adventure": "/#community"
 
 ---
 
@@ -15,7 +16,7 @@ breadcrumbs:
 	}
 </style>
 
-# Botworld Adventure News
+# BWA News & Updates
 
 
 
