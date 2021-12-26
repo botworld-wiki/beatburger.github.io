@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /bots
-title: "Bots"
+title: "All the Bots"
 description: The place to learn everything there is to know about the wonderful bots you can encounter and build in Botworld Adventure!
 breadcrumbs:
 
