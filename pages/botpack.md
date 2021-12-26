@@ -14,10 +14,6 @@ breadcrumbs:
 
 Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](</bots>), cast powerful abilities, equip useful boosters and use fun gadgets.
 
-- **Unlocking more slots:** [Arena Masters](/arena#arena-masters). 
-- **Getting better Modules:** [Fusing with Auntie](#fusing)
-- **Level scaling:** [Botpack Level](#botpack-level) & [Mobs Level Scaling](/exploring#level-scaling)
-
 </div>
 
 <div class="botpack">
@@ -29,6 +25,11 @@ Mom gave you a Botpack, now you're a real Botmaster! With it you can control you
 </div>
 
 <img loading="lazy"   src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
+
+
+- **Unlocking more slots:** [Arena Masters](/arena#arena-masters). 
+- **Getting better Modules:** [Fusing with Auntie](#fusing)
+- **Level scaling:** [Botpack Level](#botpack-level) & [Mobs Level Scaling](/exploring#level-scaling)
 
 
 ## Abilities
