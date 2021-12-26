@@ -1,8 +1,8 @@
 ---
 
 layout: breadcrumbs
-permalink: /changelogbug
-title: Changelog
+permalink: /changelog
+title: "Wiki Changelog"
 description: "What's new on the Wiki ?"
 breadcrumbs:
   "Community Adventure": "/#community"
