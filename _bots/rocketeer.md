@@ -82,5 +82,7 @@ commonMat3: "Rusty Cog"
 ---
 
 ### Suggested AI build
-ACABA
+ACABA - Knockback Build.
+
+BCAAA - Build for complete annoyance.
 
