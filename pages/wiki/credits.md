@@ -24,15 +24,17 @@ breadcrumbs:
 - **cloud9:** [AI tips](</ai>), [Seasons Rewards](</seasons>), [Maps Contents](</maps>)
 - **Kartoffel:** [Bot Upgrade Costs](/materials#costs)
 - **Hex:** [Maps original montages](/maps)
-
+- **Young Fung:** Detailed [Business Upgrades](/business) list,
 
 ## Writers
 
-- **Pix:** [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>)
+- **Pix:** [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>), [Multiple Enemies](/exploring#multiple-enemies), 
 - **Kartoffel:** [News & Updates](</news>)
 - **Stan:** [Larry](</larry>), [Mia](</mia>)
 - **Masked Critic:** [Play Botworld on Windows from Android](/play-on-windows)
 - **BloodxReaper:** AI Builds & Tips template for Bot Pages, 2 [Mort AI builds](/mort#ai-builds)
+- **Young Fung:** [Business Full Walkthrough](/business#new-botmasters)
+- **O.J.:** [Sheller reveal infos](/sheller), [Dune Bug overview](/dune-bug)
 
 
 ## Editors
