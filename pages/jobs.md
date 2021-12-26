@@ -5,6 +5,7 @@ permalink: /jobs
 title: Recruits Jobs
 description: "All the Jobs your Botworld Recruits can do for you - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
+  Botmasters: "/#botmasters"
   Recruits: "/recruits"
   
 ---
@@ -31,6 +32,7 @@ breadcrumbs:
 - 8h 125 gold, lvl-6, safe, common
 - 24h 891 gold, lvl-2, dangerous, special
 - 48h 625 gold, lvl-6, safe, common
+- 24h 1146 gold, lvl-3, dangerous, rare
 
 ## Tokens
 
@@ -58,6 +60,12 @@ breadcrumbs:
 - A simple job
 - Robot X
 - Field Work (p2 = barrier)
+
+![Uberbot p2](https://cdn.discordapp.com/attachments/923510071026155550/924366675715973160/Screenshot_2021-12-25-19-16-24-763_com.featherweightgames.fx.jpg)
+
+![Robot X p1](https://cdn.discordapp.com/attachments/923510071026155550/924365653161414666/Screenshot_20211225-131714_Botworld.jpg)
+
+![Field Work p1](https://cdn.discordapp.com/attachments/923510071026155550/924365652494536784/Screenshot_20211225-191351_Botworld.jpg)
 
 ## Replacement
 
