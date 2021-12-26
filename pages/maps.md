@@ -23,7 +23,7 @@ breadcrumbs:
 - **Requirements:** Tutorial Island
 - **Mobs lvl:** 
 - **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Slicer](/slicer), [Flamer](/flamer),
-[Rocketeer](/rocketeer), [Icicool](/icicool), [Brute](/brute), [Longshot](/longshot), [Theter](/theter)
+[Rocketeer](/rocketeer), [Icicool](/icicool), [Brute](/brute), [Longshot](/longshot), [Tether](/tether)
 - **[Bandits](/exploring#mob-encounters):** Dogs, Rats (with Cannons),.. ?
 - **[Critters](/exploring#critters):**  White Rabbits (fleeing) 
 - **[Ancient Ruins](/loot#ancient-ruins):** None.
