@@ -14,7 +14,9 @@ breadcrumbs:
 
 Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](/bots), cast powerful abilities, equip useful boosters and use fun gadgets.
 
-Unlock all your module slots by defeating the [Arena Masters](/arena#arena-masters)
+- **Unlocking more slots:** [Arena Masters](/arena#arena-masters). 
+- **Getting better Modules:** [Fusing with Auntie](#fusing)
+- **Level scaling:** [Botpack Level](#botpack-level) & [Mobs Level Scaling](/exploring#level-scaling)
 
 </div>
 
@@ -27,13 +29,6 @@ Unlock all your module slots by defeating the [Arena Masters](/arena#arena-maste
 </div>
 
 <img loading="lazy"   src="/assets/img/banners/botpack-pix.png" alt="Botpack Modules by Pix" title="Botpack Modules by Pix" style="width: 100%">
-
-<div class="botpack">
-    <ul class="toc-block-list links">
-        <li class="toc-block-entry"><a href="#fusing">Fusing</a></li>
-        <li class="toc-block-entry"><a href="#botpack-level">Botpack Level</a></li>
-     </ul>
-</div>
 
 
 ## Abilities
