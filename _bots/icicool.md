@@ -81,5 +81,8 @@ commonMat3: "Cold Battery"
 ---
 
 ### Suggested AI build
-BACAB
+Option 1: BACAB - Evader Build.
 
+Option 2: AACBB - Sniper Build. Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
+
+Option 3: ABCAA - Hybrid Build. A mix build with options 1 and 2.
