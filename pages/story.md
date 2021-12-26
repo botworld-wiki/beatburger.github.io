@@ -12,11 +12,23 @@ breadcrumbs:
 # The Story
 
 
-<div markdown="1" class=" ghcms ghcms-intro">
+<div markdown="1" class=" ghcms ghcms-main">
 
-- [Quests](/quests)
-- [NPCs](/npcs)
-- [Lore](/lore)
 
+
+## Quests
+
+All you gotta do from Tutorial Island to rebooting you-know-who.
+
+## Characters (NPCs)
+
+Every interesting character you'll meet in the Botworld Adventure
+ 
+- [Larry](/larry)
+- [Mia](/mia)
+
+## Lore 
+
+History and cool Places
 
 </div>
