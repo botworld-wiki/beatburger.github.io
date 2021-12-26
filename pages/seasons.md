@@ -13,6 +13,8 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
+You progress through a Season, and get the corresponding rewards, by earning Tokens.
+
 ## Starter Season vs Global Season
 
 You have to go through the Starter Season before you can get into the current Global Season with the rest of the older players.
@@ -25,7 +27,7 @@ Any bot that's available as a reward in your current season, you can't find it a
 ### Related pages
 
 **Contracts**: we got a page for them, with a [list of every Contract](/contracts)
-**Season Tokens while exploring**: check out [Exploring](/exploring)
+**Earning Tokens in the Wilderness**: check out [Exploring](/exploring)
 
 </div>
 
