@@ -81,6 +81,8 @@ commonMat3: "Mini Sensor"
 ---
 
 ### Suggested AI build
-BACAA - Damage Build.
+Option 1: BACAA - Full Damage Build.
 
-BACBA - Combo Build with Froggy. Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
+Option 2: BACBA - Combo Build with Froggy (or poison missile). Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
+
+Option 3: BBCBB - A different build for Lobbie with 2 botpack power.
