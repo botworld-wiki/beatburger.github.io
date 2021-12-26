@@ -32,7 +32,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 </ul>
 
 - **Maps**: they're all in [Maps](/maps)
-- **MDanger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
+- **Danger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
 - **Contracts**: See the full list on the [dedicated Contracts page](/contracts)
 
 <div markdown="1" class=" ghcms ghcms-cannister">
