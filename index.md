@@ -303,7 +303,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
 - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
 - [Credits](/credits): A big **Thank You** to everyone!
-- [Changelog](/changelog): What's new on the wiki ?
+- [Wiki Changelog](/changelog): What's new on the wiki ?
 - [Discord Bot](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
 
 </div>
