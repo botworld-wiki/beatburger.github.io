@@ -83,7 +83,7 @@ commonMat3: "Cold Battery"
 Good for clearing out grouped bots, Best use when Ai is Maxed out
 
 ### 'Full Damage Build' by Hex
--BBCBB - Upon drop he spins, crits, stuns and 1 hit an enemy. Would recommend equip with crit boosters.
+- **BBCBB:** Upon drop he spins, crits, stuns and 1 hit an enemy. Would recommend equip with crit boosters.
 
 ### 'Different Build' by Hex
--AACAB - Everything that a full damage build lacks, it got speed. 
+- **AACAB:** Everything that a full damage build lacks, it got speed. 
