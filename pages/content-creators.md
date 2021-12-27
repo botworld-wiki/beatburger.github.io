@@ -118,7 +118,7 @@ for (var i = 0; i < shuffleContainers.length; i++) {
     margin-top: 60px;
 }
 .content-creator > div h2+p+p {
-    max-width: 400px;
+    max-width: 500px;
 }
 .content-creator ul {
     width: 100%;
