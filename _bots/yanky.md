@@ -80,8 +80,9 @@ commonMat2: "Thick Tube"
 commonMat3: "Double Cog"
 ---
 
-### Suggested AI build
-AAACA - Full Damage Build. For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
+### 'Full Damage Build' by Hex
+-AAACA - For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
 
-ABBCB - For Tanky Brawler. Reduce physical and energy damage taken by 30% each.
+### 'Tanky Brawler' by Hex
+ABBCB - Reduce physical and energy damage taken by 30% each. Last longer in battle.
 
