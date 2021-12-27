@@ -91,6 +91,7 @@ commonMat3: "Hardened Fiberglass"
 
 ### Comments by O.J.
 *Scorpion of Great Desert, waiting for its next victim to step into the territory.*
+
 Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well.
 
 ### Story Quest
