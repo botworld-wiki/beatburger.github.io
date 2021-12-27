@@ -80,11 +80,11 @@ commonMat3: "Rusty Cog"
 ---
 
 ### Tips
-Put Bullwark in the front
-weakness is his rear since his shield is in the front
+Put Bullwark in the front weakness is his rear since his shield is in the front
 
-### Suggested Ai Build
-Option 1: BBCBB - Full Tank Build. Strongest Defense is the best offense. Bullwark have a shield that can reflect damage and damage reduction by 30%.
+### 'Full Tank Build' by Hex
+- **BBCBB:** Strongest Defense is the best offense. Bullwark have a shield that can reflect damage and damage reduction by 30%.
 
-Option 2: ABCAA - Attack Tank Build. You can run but you can't hide from an attack tank, it protects and attacks at the same time.
+### Attack Tank Build by Hex
+- **ABCAA:** You can run but you can't hide from an attack tank, it protects and attacks at the same time.
 
