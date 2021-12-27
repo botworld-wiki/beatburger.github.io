@@ -13,7 +13,16 @@ breadcrumbs:
 
 The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
 
-**Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
+- **RNG Warning:** 
+
+<ul class="page-toc toc-block-list links">
+    <li class="toc-block-entry"><a href="#ezraden">Ezraden</a></li>
+    <li class="toc-block-entry"><a href="#abilities">Ptage</a></li>
+    <li class="toc-block-entry"><a href="#devils-knights">Devils Knights</a></li>
+</ul>
+
+
 
 <div class="shuffle-container">
 
@@ -27,11 +36,12 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 *Hey everyone! I am an official partner for Botworld Adventure and LOVE making videos for that game and I also do Pokémon UNITE videos as well! If you want to see tips + tricks, gameplays and commentary about those games then give the channel a sub! Thank you all for the support! ❤️*
 
 
-- **Link:** [Ezraden's channel on YouTube](https://www.youtube.com/channel/UCZCFOil-St2U3qbuukGQKBw)
+- **Link:** [Ezraden's Botworld playlist](https://www.youtube.com/playlist?list=PLCqz00hFU4Ny0hU4ras6i4EpZGOXgJwey)
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? 
 - **Showcased Video:** 
 
 </div>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuIZe3Q7zcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -39,21 +49,43 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 <div class="content-creator">
 <div markdown="1">
 
-## Shuffle
+## Ptage
 
-![Nice Profile Pic here](/contribute#tbw)
+![Ptage Profile Pic](https://yt3.ggpht.com/AePsIZHxC5raPUOJOpKKPmO2AWZ0D2o9Vo6hv0JumN4XFUTpIvOdwfYhf_Add27y_Jaj7EqIGYI=s176-c-k-c0x00ffffff-no-rj)
 
-*Cool channel description here*
+*Playing games!*
 
 
-- **Link:** [YouTube channel link there](/contribute#tbw)
+- **Link:** [Ptage's Botworld playlist](https://www.youtube.com/playlist?list=PLrpqWKxRqCmObQMuL--KbPSESUcNfJtLf)
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
 - **Showcased Video:** 
 
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nuIZe3Q7zcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LcI_1gA1LOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<div class="content-creator">
+<div markdown="1">
+
+## Devils Knights
+
+![Devils Knights Profile Pic](https://yt3.ggpht.com/ytc/AKedOLQWHZxfWWCBarV2needTGp1ZzxhvK1jEx1-B730tGg=s176-c-k-c0x00ffffff-no-rj)
+
+*This channel doesn't feature any other channels.*
+
+
+- **Link:** [Devils Knights Botworld playlist](https://www.youtube.com/playlist?list=PLdbSU2saT61vNcEX9RFcp_39oDhDUchG7)
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
+- **Showcased Video:** 
+
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hm_hUCPQ_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 
 </div>
 
