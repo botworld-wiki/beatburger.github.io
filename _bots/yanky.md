@@ -81,8 +81,8 @@ commonMat3: "Double Cog"
 ---
 
 ### 'Full Damage Build' by Hex
--AAACA - For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
+-**AAACA:** For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
 
 ### 'Tanky Brawler' by Hex
-ABBCB - Reduce physical and energy damage taken by 30% each. Last longer in battle.
+-**ABBCB:** Reduce physical and energy damage taken by 30% each. Last longer in battle.
 
