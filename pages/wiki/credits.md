@@ -38,6 +38,7 @@ breadcrumbs:
 
 
 ## Editors
+*Past and present, to find an editor to help you refer to [the updated list](/contribute)*
 
 - **@It's Diamond#4218**
 - **@Mr.Gold\_𝔽ish#0461**
@@ -46,6 +47,7 @@ breadcrumbs:
 </div>
 
 ## Maintainers
+*Past and present, to find a maintainer to help you refer to [the updated list](/contribute)*
 
 <div markdown="1" class="ghcms ghcms-maintainers">
 
