@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Kurt, Soft, O.J"
-updatedAt: "2021-12-23"
+updatedAt: "2021-12-27"
 
 
-title: "Virus"
+title: "Virus (Epic Brawler)"
 name: "Virus"
-description: "Epic Brawler: Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone. - Virus hacks into its foes, turning them against each other"
+description: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone.\n- Speciality: Hacks enemy bots\n- Acquisition: unique Recruits Job serie\n- Combos: Hypercharge, Ult CD boosters\nDetails & Tips on the Wiki"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
-botOpinion: "Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general. Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone."
+botOpinion: "Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general.Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone"
 searchKeywords: ""
 
 
@@ -80,17 +80,22 @@ commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
 
+### '???' by ???
+- **ABCBA:** [To be determined](/contribute#tbw)
+
+## Uberbot
+
+You get Virus from a [unique Epic Jobs serie (Uberbot)](/jobs#uberbot) that you have to send your [Recruits](/recruits) to
+
+## Tips
+- When fighting a [Megabot](/exploring#megabots), place virus near the Megabot and start spamming [Hypercharge](/hyperchage). It will allows Virus to permanently [Hack](/hack) the Megabot so your other bots will be safe from taking unnecessary damage.
+- Use 4 [Ult Cooldown boosters](/ult-cooldowns-rare) and it will allow your Virus to have permanent hack even without hypercharge
+
+## Notes
+
+### Comments by Soft
+*Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general.Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone.*
+
 Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them.
-
-### Uberbot
-
-You get Virus from a special Epic quest (Uberbot) that you have to send your recruits to
-
-### Tips
-- When fighting a Megabot, place virus near the Megabot and start spamming Hypercharge on him. it will allows virus to permanent hack the megabot so your other bots will be safe from taking unnecesarry damage.
-- Use 4 Ult Cooldown boosters and it will allow your virus to have permanent hack without needed of hypercharge
-
-### Suggested Ai Build
-ABCBA
 
 
