@@ -83,9 +83,11 @@ commonMat3: "Sputtering Generator"
 ### Tips
 Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
 
-### Suggested AI Build
-Option 1: ABCAB - Full Damage Build.
+### 'Full Damage Build' by Hex
+- **ABCAB:** Full Damage Build.
 
-Option 2: BBCBB - Close Combat Build. This AI comes with a 15% dodge with melee attack and Hp increase for 20%. 
+### 'Close Combat Build' by Hex
+- **BBCBB:** This AI comes with a 15% dodge with melee attack and Hp increase for 20%. 
 
-Option 3: BACAA - Chaser Build. This AI comes with Unstoppable Ai and Leap immobilize on enemy for 1s ( for detaining enemy).
+### 'Chaser Build' by Hex 
+- **BACAA:** This AI comes with Unstoppable Ai and Leap immobilize on enemy for 1s ( for detaining enemy).
