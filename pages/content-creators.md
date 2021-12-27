@@ -14,12 +14,12 @@ breadcrumbs:
 The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
 
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
-- **RNG Warning:** The lists in this page are shuffled randomly, so you'll find easy-access links right here, just in case: 
+- **RNG Warning:** This page is shuffled randomly, so here's an alphabetical table of content, just in case: 
 
-<ul class="page-toc toc-block-list links shuffle-container">
+<ul class="page-toc toc-block-list links">
     <li class="toc-block-entry"><a href="#ezraden">Ezraden</a></li>
-    <li class="toc-block-entry"><a href="#ptage">Ptage</a></li>
     <li class="toc-block-entry"><a href="#devils-knights">Devils Knights</a></li>
+    <li class="toc-block-entry"><a href="#ptage">Ptage</a></li>
 </ul>
 
 
@@ -91,7 +91,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 <script>
 var shuffleContainers = document.querySelectorAll('.shuffle-container');
-for (var i = shuffleContainers.length; i >= 0; i--) {
+for (var i = 0; i < shuffleContainers.length; i++) {
     var shuffleContainer = shuffleContainers[i];
     for (var j = shuffleContainer.children.length; j >= 0; j--) {
         shuffleContainer.appendChild(shuffleContainer.children[Math.random() * j | 0]);
