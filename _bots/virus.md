@@ -20,7 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
-botOpinion: "Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general.Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone"
+botOpinion: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone."
 searchKeywords: ""
 
 
@@ -94,7 +94,7 @@ You get Virus from a [unique Epic Jobs serie (Uberbot)](/jobs#uberbot) that you 
 ## Notes
 
 ### Comments by Soft
-*Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general.Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone.*
+Having higher amount of health than usual in exchange of damage output reduction. Virus is considered one of the most viable bots in general.Virus performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone.
 
 Virus has been strong ever since he's been introduced and does its job perfectly in any team that he's put in. He has beefy HP and disrupts the enemy team by making them fight eachother through hacking. This also means less damage done on your own team, but when used well with [Hypercharge](/hypercharge), can completely negate an enemy team's burst and use it against them.
 
