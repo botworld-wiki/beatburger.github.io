@@ -80,9 +80,11 @@ commonMat2: "Rusty Cog"
 commonMat3: "Mini Sensor"
 ---
 
-### Suggested AI build
-Option 1: BACAA - Full Damage Build.
+### 'Full Damage Build by' Diamond and Gold
+- **BACAA:** Full Damage Build.
 
-Option 2: BACBA - Combo Build with Froggy (or poison missile). Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
+### 'Combo Build' by Hex
+- **BACBA:** Combo Build with Froggy (or poison missile). Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
 
-Option 3: BBCBB - A different build for Lobbie with 2 botpack power.
+### 'Hybrid Build' by Hex
+- **BBCBB:** - A different build for Lobbie with 2 botpack power.
