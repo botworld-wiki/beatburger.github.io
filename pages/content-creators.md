@@ -9,11 +9,12 @@ breadcrumbs:
   
 ---
 
+
 # YouTubers & Streamers
 
 The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
 
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
+- **Tags:** Commentary, Gameplay, Stream, Tips, English, Full Walkthrough, Beginner, High Level, Tier Lists ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
 - **RNG Warning:** This page is shuffled randomly, so here's an alphabetical table of content, just in case: 
 
 <ul class="page-toc toc-block-list links">
@@ -37,7 +38,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ezraden's Botworld playlist](https://www.youtube.com/playlist?list=PLCqz00hFU4Ny0hU4ras6i4EpZGOXgJwey)
-- **Tags:** ...? 
+- **Tags:**  Commentary, English, Guides, How-To, Gameplay
 - **Showcased Video:** 
 
 </div>
@@ -57,7 +58,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ptage's Botworld playlist](https://www.youtube.com/playlist?list=PLrpqWKxRqCmObQMuL--KbPSESUcNfJtLf)
-- **Tags:** * ...?
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
 - **Showcased Video:** 
 
 </div>
@@ -77,7 +78,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Devils Knights Botworld playlist](https://www.youtube.com/playlist?list=PLdbSU2saT61vNcEX9RFcp_39oDhDUchG7)
-- **Tags:** ...?
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
 - **Showcased Video:** 
 
 </div>
