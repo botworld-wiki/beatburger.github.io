@@ -12,6 +12,13 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2021-12-27
+
+- New embeds-friendly descriptions for [virus](/virus) and [dune bug](/dune-bug). Provided as template with character budget for upcoming descriptions & [overviews](/bots). Thanks O.J. and others!
+- Many bots typos & mistakes corrected by BloodxReaper
+- Work drive & WikiSheets shared to every contributor on Discord
+- Something I can't tell you about yet is ready and just waiting for the final approval :)
+
 ## 2021-12-26
 
 - [Robopedia](/bots): fixed rarity sort and added link to [Strategy Guide: Comps & Combos](/comps)
