@@ -10,7 +10,9 @@ breadcrumbs:
 ---
 
 
-<div class="shuffle">
+<div class="shuffle-container">
+
+<div class="content-creator">
 <div markdown="1">
 
 ## Ezraden 
@@ -29,17 +31,17 @@ breadcrumbs:
 
 </div>
 
-<div class="shuffle">
+<div class="content-creator">
 <div markdown="1">
 
 ## Shuffle
 
-![Ezraden Profile Pic](https://yt3.ggpht.com/KS77N1Vyiu5V2BJYemqxcD_up5IuhbRj-A30qub4Dl6MDkmgQvDlMGid3iP-ujPqP4-mBf7xnQ=s176-c-k-c0x00ffffff-no-rj)
+![Nice Profile Pic here](/contribute#tbw)
 
-*Hey everyone! I am an official partner for Botworld Adventure and LOVE making videos for that game and I also do Pokémon UNITE videos as well! If you want to see tips + tricks, gameplays and commentary about those games then give the channel a sub! Thank you all for the support! ❤️*
+*Cool channel description here*
 
 
-- **Link:** [Ezraden's channel on YouTube](https://www.youtube.com/channel/UCZCFOil-St2U3qbuukGQKBw)
+- **Link:** [YouTube channel link there](/contribute#tbw)
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
 - **Showcased Video:** 
 
@@ -48,9 +50,33 @@ breadcrumbs:
 
 </div>
 
+</div>
+
 <script>
-/*var ul = document.querySelector('.shuffle');
-for (var i = ul.children.length; i >= 0; i--) {
-    ul.appendChild(ul.children[Math.random() * i | 0]);
-}*/
+var shuffleContainer = document.querySelector('.shuffle-container');
+for (var i = shuffleContainer.children.length; i >= 0; i--) {
+    shuffleContainer.appendChild(shuffleContainer.children[Math.random() * i | 0]);
+}
 </script>
+
+<style>
+.content-creator > div {
+    flex-wrap: wrap;
+    display: flex;
+    /* flex-direction: column; */
+}
+.content-creator > div p {
+    margin: 0 auto;
+    background: none;
+}
+.content-creator > div h2+p {
+    width: 100px;
+    height: 100px;
+}
+.content-creator > div h2 {
+    width: 100%;
+}
+.content-creator > div h2+p+p {
+    max-width: 400px;
+}
+</style>
