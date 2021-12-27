@@ -83,8 +83,8 @@ commonMat3: "Sparky Wires"
 ---
 
 ### Chaser Build by Hex
--ABCAB - For chasing support, snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
+-**ABCAB:** For chasing support, snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
 
 ### 'Full Damage Build' by Hex
--BACAB 
+-**BACAB**
 
