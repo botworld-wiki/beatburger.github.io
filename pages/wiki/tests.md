@@ -214,7 +214,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
     </div>
 </div>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuIZe3Q7zcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div markdown="1" class=" ghcms ghcms-news">
 
