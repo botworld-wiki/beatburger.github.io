@@ -827,6 +827,17 @@ span.wtf-discord {
 	   /* tbw: to be written */
 	   a[href^="https://www.botworld.wiki/contribute#tbw"], a[href^="/contribute#tbw"] { color: #ff9bb7 !important}
 
+/* youtube iframe videos */
+
+section iframe{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+/* end youtube iframe videos */
+
 
 // webp fallback for css backgrounds, using webp-modernizr.js
 body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
