@@ -81,8 +81,9 @@ commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cog"
 ---
 
-### Suggested AI build
-ACABA - Knockback Build.
+### Knockback Build by Hex
+- **ACABA:** Pure knockback build. Good for interrupting bigshot.
 
-BCAAA - Build for complete annoyance.
+### 'Troll Build' by Hex
+- **BCAAA:** Build for complete annoyance.
 
