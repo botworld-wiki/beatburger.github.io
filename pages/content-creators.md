@@ -9,6 +9,11 @@ breadcrumbs:
   
 ---
 
+# YouTubers & Streamers
+
+The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
+
+**Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
 
 <div class="shuffle-container">
 
@@ -23,7 +28,7 @@ breadcrumbs:
 
 
 - **Link:** [Ezraden's channel on YouTube](https://www.youtube.com/channel/UCZCFOil-St2U3qbuukGQKBw)
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? 
 - **Showcased Video:** 
 
 </div>
@@ -42,7 +47,7 @@ breadcrumbs:
 
 
 - **Link:** [YouTube channel link there](/contribute#tbw)
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
+- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
 - **Showcased Video:** 
 
 </div>
