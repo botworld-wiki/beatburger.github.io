@@ -37,7 +37,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ezraden's Botworld playlist](https://www.youtube.com/playlist?list=PLCqz00hFU4Ny0hU4ras6i4EpZGOXgJwey)
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? 
+- **Tags:** ...? 
 - **Showcased Video:** 
 
 </div>
@@ -57,7 +57,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ptage's Botworld playlist](https://www.youtube.com/playlist?list=PLrpqWKxRqCmObQMuL--KbPSESUcNfJtLf)
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
+- **Tags:** * ...?
 - **Showcased Video:** 
 
 </div>
@@ -77,7 +77,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Devils Knights Botworld playlist](https://www.youtube.com/playlist?list=PLdbSU2saT61vNcEX9RFcp_39oDhDUchG7)
-- **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...?
+- **Tags:** ...?
 - **Showcased Video:** 
 
 </div>
