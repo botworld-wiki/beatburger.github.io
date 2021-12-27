@@ -175,7 +175,7 @@ A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack
 ### Bots & Abilities
 
 - 2x [Pluggie](/pluggie), 2x [Nozzle](/nozzle), 1x [Bigshot](/bigshot), 1x [Pupil](/pupil)
-- [Firewall!](/firewall)
+- [Zap Tower](/zap-tower), [Charge Bolt](/charge-bolt), [Firewall](/firewall) [Unstable Plasma](/unstable-plasma)
 
 ### Tips
 
