@@ -81,10 +81,10 @@ commonMat3: "Cold Battery"
 ---
 
 ### 'Evader Build' by Hex 
--BACAB
+-**BACAB:** Dodge and Shoot
 
 ### 'Sniper Build' by Hex
--AACBB - Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
+-**AACBB:** Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
 
 ### 'Hybrid Build' by Hex
--ABCAA - A mix build.
+-**ABCAA:** A mix build.
