@@ -81,7 +81,8 @@ commonMat3: "Mini Sensor"
 ### Tips
 Do not underestimate Berserker, he is very tanky and fast.
 
-### Suggested AI Build
-Option 1: ABCAB - Tank Build.
+### 'Tank Build' by Hex
+- **ABCAB** 
 
-Option 2: BBCBA - Speedy Brawler Tank with stun. Made for speed. 
+### 'Speed Tank' by Hex
+- **BBCBA:** Speedy Brawler Tank with stun. Made for speed. 
