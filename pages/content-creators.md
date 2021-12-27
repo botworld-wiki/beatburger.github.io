@@ -14,11 +14,11 @@ breadcrumbs:
 The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
 
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
-- **RNG Warning:** 
+- **RNG Warning:** The lists in this page are shuffled randomly, so you'll find easy-access links right here, just in case: 
 
-<ul class="page-toc toc-block-list links">
+<ul class="page-toc toc-block-list links shuffle-container">
     <li class="toc-block-entry"><a href="#ezraden">Ezraden</a></li>
-    <li class="toc-block-entry"><a href="#abilities">Ptage</a></li>
+    <li class="toc-block-entry"><a href="#ptage">Ptage</a></li>
     <li class="toc-block-entry"><a href="#devils-knights">Devils Knights</a></li>
 </ul>
 
@@ -90,9 +90,12 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 </div>
 
 <script>
-var shuffleContainer = document.querySelector('.shuffle-container');
-for (var i = shuffleContainer.children.length; i >= 0; i--) {
-    shuffleContainer.appendChild(shuffleContainer.children[Math.random() * i | 0]);
+var shuffleContainers = document.querySelectorAll('.shuffle-container');
+for (var i = shuffleContainers.length; i >= 0; i--) {
+    var shuffleContainer = shuffleContainers[i];
+    for (var j = shuffleContainer.children.length; j >= 0; j--) {
+        shuffleContainer.appendChild(shuffleContainer.children[Math.random() * j | 0]);
+    }
 }
 </script>
 
@@ -112,8 +115,12 @@ for (var i = shuffleContainer.children.length; i >= 0; i--) {
 }
 .content-creator > div h2 {
     width: 100%;
+    margin-top: 60px;
 }
 .content-creator > div h2+p+p {
     max-width: 400px;
+}
+.content-creator ul {
+    width: 100%;
 }
 </style>
