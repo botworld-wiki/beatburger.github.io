@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, O.J."
-updatedAt: "2021-12-14"
+updatedAt: "2021-12-27"
 
 
-title: "Dune Bug"
+title: "Dune Bug (Special Evader)"
 name: "Dune Bug"
-description: "Special Evader: Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well. - Extremely agile desert bot that rolls circles around its opponents. Hard to pin down."
+description: "Dune Bug is the fastest yet squishiest bot that ever existed in game. However, both of its rolling abilities provide high surviving capability. Also good damage output.\n- Speciality: very aggressive, requires specific answers\n- Notes: can do AoE damage with Piercing Shots\n- Combos: Hypercharge, Grouping\nDetails & Tips on the Wiki"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "<a href='/dune-bug#story-quest' title='Story quest to get Dune Bug'>Story Quest</a>"
-botOpinion: "Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well."
+botOpinion: "Dune Bug is the fastest yet squishiest bot that ever existed in game. However, both of its rolling abilities provide high surviving capability. Also good damage output."
 searchKeywords: ""
 
 
@@ -80,11 +80,18 @@ commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
 
-###  'Evader Build' by Hex
+### 'Evader Build' by Hex
 - **BABCA:** Recommended placing early or last (Doesn't really matter cause this bot is a survivor). Can change the tide of battle.
 
 ### 'Full Damage Build' by Hex
 - **BBBCB:** It can deal more damage to a cluster of bots. Can change the tide of battle.
 
-## Story Quest
+
+## Notes
+
+### Comments by O.J.
+*Scorpion of Great Desert, waiting for its next victim to step into the territory.*
+Dune Bug is the fastest yet squishiest bot that ever existed in the game. However, both of its rolling abilities provide very high surviving capability, along with decent damaging output. Furthermore, Dune Bug has potential to fight and carry against multiple bots at the same time if managed well.
+
+### Story Quest
 Following the main story line in the Great Desert will have you go and search for the Dune Bug botframe.
