@@ -18,7 +18,6 @@ breadcrumbs:
 
 *Hey everyone! I am an official partner for Botworld Adventure and LOVE making videos for that game and I also do Pokémon UNITE videos as well! If you want to see tips + tricks, gameplays and commentary about those games then give the channel a sub! Thank you all for the support! ❤️*
 
-</div>
 
 - **Link:** [Ezraden's channel on YouTube](https://www.youtube.com/channel/UCZCFOil-St2U3qbuukGQKBw)
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
@@ -36,7 +35,6 @@ breadcrumbs:
 
 *Hey everyone! I am an official partner for Botworld Adventure and LOVE making videos for that game and I also do Pokémon UNITE videos as well! If you want to see tips + tricks, gameplays and commentary about those games then give the channel a sub! Thank you all for the support! ❤️*
 
-</div>
 
 - **Link:** [Ezraden's channel on YouTube](https://www.youtube.com/channel/UCZCFOil-St2U3qbuukGQKBw)
 - **Tags:** Commentary, Gameplay, Tips, English, Walkthrough, Beginner, High Level, ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
