@@ -35,6 +35,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 - **Maps**: they're all in [Maps](/maps)
 - **Danger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
 - **Contracts**: See the full list on the [dedicated Contracts page](/contracts)
+- **Training bots for AI**: See our [AI Grindin Tips](/bots#ai)
 
 <div markdown="1" class=" ghcms ghcms-canister">
 
