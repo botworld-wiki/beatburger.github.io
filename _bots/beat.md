@@ -83,9 +83,11 @@ commonMat3: "Thick Tube"
 Beat can be combo to anyone
 Most recomended combo is Chainer, Beat and Mort/Pluggie
 
-### Suggested Ai Build
-Option 1: AAACA - Full Support Build. Wide range Inspire.
+### 'Full Support Build' by Hex
+- **AAACA:** Wide range Inspire.
 
-Option 2: BAACA - Not so Support Build. Beat a fast support. 
+### 'Fast Support' by Hex
+- **BAACA:** Not so Support Build. Beat a fast support. 
 
-Option 3: BBBCB - Brawler Beat. Beat was a Brawler before it became a Support, now you know.
+### 'Brawler Beat' by Hex
+- **BBBCB:** Beat was a Brawler before it became a Support, now you know.
