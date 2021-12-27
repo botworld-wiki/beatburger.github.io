@@ -87,4 +87,4 @@ commonMat3: "Mini Sensor"
 - **BACBA:** Combo Build with Froggy (or poison missile). Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
 
 ### 'Hybrid Build' by Hex
-- **BBCBB:** - A different build for Lobbie with 2 botpack power.
+- **BBCBB:** A different build for Lobbie with 2 botpack power.
