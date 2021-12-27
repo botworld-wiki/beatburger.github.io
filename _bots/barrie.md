@@ -80,8 +80,9 @@ commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 ---
 
-### Suggested AI build
-Option 1: AAAAC - Most recommended Tank Build.
+### 'Tank Build' by Hex
+-AAAAC - Most recommended Tank Build.
 
-Option 2: BAAAC - A bit fast Barrie.
+### 'Speed Build' by Hex
+-BAAAC - A bit fast Barrie.
 
