@@ -80,9 +80,11 @@ commonMat2: "Mini Sensor"
 commonMat3: "Cold Battery"
 ---
 
-### Suggested AI build
-Option 1: BACAB - Evader Build.
+### 'Evader Build' by Hex 
+-BACAB
 
-Option 2: AACBB - Sniper Build. Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
+### 'Sniper Build' by Hex
+-AACBB - Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
 
-Option 3: ABCAA - Hybrid Build. A mix build with options 1 and 2.
+### 'Hybrid Build' by Hex
+-ABCAA - A mix build.
