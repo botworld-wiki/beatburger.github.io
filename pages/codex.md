@@ -60,6 +60,10 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 
+![Saltwater Swamp Codex](
+https://cdn.discordapp.com/attachments/923510071026155550/925231459483152424/IMG_20211228_103806.png)
+
+*Credit: cloud9*
 
 </div>
 
@@ -84,4 +88,4 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 </div>
 
-*Credit: O.J.*
+*Credit: O.J., cloud9*
