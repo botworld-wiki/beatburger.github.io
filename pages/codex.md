@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /codex
 title: Codex
-description: The brand new Codex missions will get you new Outfits! Discover everything we arleady know about it to help you complete them! 
+description: The brand new Codex missions will get you new Outfits! Discover everything we already know about it to help you complete them! 
 breadcrumbs:
   "Botworld": "/#botworld"
   "Exploring": "/exploring"
