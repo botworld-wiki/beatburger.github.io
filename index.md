@@ -160,23 +160,27 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
         <ul class="toc-block-list">
             <li class="toc-block-entry">
                 <a href="/exploring">
-                <span>Exploring & Danger Zones</span></a>
+                <span>Exploring</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/maps">
                 <span>Maps</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/boat">
-                <span>Business Boat upgrades</span></a>
+                <a href="/danger-zones">
+                <span>Danger Zones</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/arena-masters">
-                <span>Arena Masters</span></a>
+                <a href="/arena">
+                <span>Arena</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/materials">
-                <span>Bots & Boat Materials</span></a>
+                <a href="/boat-materials">
+                <span>Boat Materials</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="/codex">
+                <span>Codex</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/#botworld">
@@ -199,7 +203,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 <span>Grouper Comp</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
+                <a href="/farming">
                 <span>Farming Guide &amp; Routes</span></a>
             </li>
             <li class="toc-block-entry">
@@ -285,6 +289,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Farming](/farming): the most efficient ways to get lots of anything.
     - [Bots Materials](/materials): full list.
     - [Story & Boat Materials](/boat-materials): list & maps.
+    - [Codex](/codex): the new Codex missions & outfits.
     - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
 - [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
 - [Seasons](/seasons): Starter Season vs Global Season, Rewards.
