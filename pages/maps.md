@@ -111,7 +111,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138008202121216/Par
 
 - **Requirements:** Boat Level 13
 - **Mobs lvl:** 21-23
-- **[Wild bots](/exploring#mob-encounters):** [Bigshot](/bigshot), [Rocketeer](/rocketeer), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Nozzle](/nozzle), [Halo](/halo)
+- **[Wild bots](/exploring#mob-encounters):** [Bigshot](/bigshot), [Rocketeer](/rocketeer), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Nozzle](/nozzle), [Halo](/halo), [Sheller](/sheller)
 - **[Bandits](/exploring#mob-encounters):**
 - **[Critters](/exploring#critters):** Black Rats (fleeing), Frogs (meek)
 - **[Ancient Ruins](/loot#ancient-ruins):**?
