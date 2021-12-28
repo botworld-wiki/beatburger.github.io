@@ -220,6 +220,8 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
+- [New Content Sneak Peek](/news): Looks like 1.2.0 is right around the corner, and comes along with **Codex *Quests?*** and a new ability, **Gravity Surge**. Check our [News Page](/news) for pics!
+- 
 - [New Bot Reveal](/news): [Sheller](/sheller) ![New Bot Sheller](/assets/img/bots/small/sheller.png)
 
 - [Community Wiki Launch](/news): We, *Beat Burger & Friends*, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
