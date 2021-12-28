@@ -23,6 +23,26 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-main">
 
 
+## d2021-12-28
+
+### New Content Sneak Peek!
+
+Gravity Surge ?
+
+![Gravity Surge](https://cdn.discordapp.com/attachments/824807657550381088/925196319570673714/Screenshot_20211228-091537.png)
+
+Codex?! 
+
+![Codex](https://cdn.discordapp.com/attachments/824807657550381088/925197223808106566/Screenshot_20211228-082536_Botworld.jpg)
+
+![Codex 2](https://cdn.discordapp.com/attachments/923510071026155550/925198096395300884/Screenshot_20211228-082718_Botworld.jpg)
+
+Official announcement on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1475421202931933188)
+
+
+</div>
+
+
 ## d2021-12-25
 
 ### New Bot Revealed: [Sheller](/sheller)
@@ -31,6 +51,7 @@ breadcrumbs:
 
 Official announcement & demo clip on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1474726625262510080)
 
+
 ## d2021-12-24
 
 ### Cog says Happy Holidays!
@@ -38,8 +59,6 @@ Official announcement & demo clip on [the official Featherweight twitter](https:
 ![Holydays Cog](/assets/img/icons/holydays-cog.png)
 
 Have a great time everyone :)
-
-</div>
 
 
 ## d2021-12-22
