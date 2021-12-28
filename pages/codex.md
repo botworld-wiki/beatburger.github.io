@@ -24,11 +24,6 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
 
-
-### Overivew & Outfit
-
-![Scrapper Coast Codex](https://cdn.discordapp.com/attachments/923510071026155550/925198096659546123/Screenshot_20211228-082732_Botworld.jpg) 
-
 ### Missions
 
 </div>
@@ -37,9 +32,6 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-greatdesert">
 
-### Overivew & Outfit
-
-![Great Desert Codex](https://cdn.discordapp.com/attachments/923510071026155550/925198118679642152/Screenshot_20211228-082744_Botworld.jpg) 
 
 ### Missions
 
@@ -61,9 +53,6 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 
-### Overivew & Outfit
-
-![Image](https://cdn.discordapp.com/attachments/923510071026155550/925198127298904104/Screenshot_20211228-082748_Botworld.jpg)
 
 </div>
 
@@ -71,9 +60,6 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 
-### Overivew & Outfit
-
-![Image](https://cdn.discordapp.com/attachments/923510071026155550/925198143937712148/Screenshot_20211228-082759_Botworld.jpg)
 
 </div>
 
@@ -81,9 +67,6 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-parchedsea">
 
-### Overivew & Outfit
-
-![Image](https://cdn.discordapp.com/attachments/923510071026155550/925198155153301504/Screenshot_20211228-082857_Botworld.jpg)
 
 </div>
 
@@ -91,7 +74,6 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-sporewoods">
 
-### Overivew & Outfit
 
 </div>
 
@@ -99,7 +81,6 @@ https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Gre
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
 
-### Overivew & Outfit
 
 </div>
 
