@@ -171,16 +171,12 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 <span>Danger Zones</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/arena">
-                <span>Arena</span></a>
+                <a href="/materials">
+                <span>Bots Materials</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/boat-materials">
-                <span>Boat Materials</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/codex">
-                <span>Codex</span></a>
+                <span>Story & Boat Materials</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/#botworld">
@@ -199,19 +195,23 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 <span>Getting Started</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Grouper Comp</span></a>
+                <a href="/comps">
+                <span>Comps & Combos</span></a>
             </li>
             <li class="toc-block-entry">
                 <a href="/farming">
                 <span>Farming Guide &amp; Routes</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Arena Crown</span></a>
+                <a href="/arena">
+                <span>Arena & Arena Masters</span></a>
             </li>
             <li class="toc-block-entry">
-                <a href="/#guides">
+                <a href="/codex">
+                <span>Codex</span></a>
+            </li>
+            <li class="toc-block-entry">
+                <a href="/#wiki">
                 <span>More...</span></a>
             </li>
         </ul>
