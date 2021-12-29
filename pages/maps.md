@@ -16,12 +16,12 @@ breadcrumbs:
 
 ## Index
 [World Map](#worldmap)<br>
-      [Scrapper Coast](#scrappercoast)<br>
-      [Great Desert](#greatdesert)<br>
-      [Fall Grove](#fallgrove)<br>
+      [Scrapper Coast](#scrappercoast)
+      [Great Desert](#greatdesert)
+      [Fall Grove](#fallgrove)
       [Saltwater Swamp](#saltwaterswamp)<br>
-      [Parched Sea](#parchedsea)<br>
-      [Spore Woods](#sporewoods)<br>
+      [Parched Sea](#parchedsea)
+      [Spore Woods](#sporewoods)
       [Ashen Shore](#ashenshore)<br>
 <br>
 [Frozen Wastes](#frozenwastes)   [Molten Rock](#moltenrock)   [Vivid Valley](#vividvalley)   [Scrapyard](#scrapyard)<br>
