@@ -12,11 +12,27 @@ breadcrumbs:
 
 # All Maps
 
-[greatdesert](#greatdesert)
+[World Map](#worldmap)
+[Scrapper Coast](#scrappercoast)
+[Great Desert](#greatdesert)
+[Fall Grove](#fallgrove)
+[Saltwater Swamp](#saltwaterswamp)
+[Parched Sea](#parchedsea)
+[Spore Woods](#sporewoods)
+[Ashen Shore](#ashenshore)
+
+[Frozen Wastes](#frozenwastes)
+[Molten Rock](#moltenrock)
+[Vivid Valley](#vividvalley)
+[Scrapyard](#scrapyard)
+
+
+
 <div markdown="1" class=" ghcms ghcms-intro">
 
 </div>
 
+<a name="worldmap"></a>
 ## World Map
 <div markdown="1" class=" ghcms ghcms-worldmap">
 
@@ -25,6 +41,7 @@ breadcrumbs:
 
 </div>
 
+<a name="scrappercoast"></a>
 ## Scrapper Coast
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
@@ -43,9 +60,9 @@ breadcrumbs:
 
 </div>
 
+<a name="greatdesert"></a>
 ## Great Desert
 
-<a name="greatdesert"></a>
 <div markdown="1" class=" ghcms ghcms-greatdesert">
 
 - **Requirements:** Boat Level 4
@@ -61,6 +78,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Gre
 
 </div>
 
+<a name="fallgrove"></a>
 ## Fall Grove
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
@@ -77,6 +95,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Gre
 
 </div>
 
+<a name="saltwaterswamp"></a>
 ## Saltwater Swamp
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
@@ -95,6 +114,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Sal
 
 </div>
 
+<a name="parchedsea"></a>
 ## Parched Sea
 
 <div markdown="1" class=" ghcms ghcms-parchedsea">
@@ -112,6 +132,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Sal
 
 </div>
 
+<a name="sporewoods"></a>
 ## Spore Woods
 
 <div markdown="1" class=" ghcms ghcms-sporewoods">
@@ -130,6 +151,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 
 </div>
 
+<a name="ashenshore"></a>
 ## Ashen Shore
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
@@ -148,6 +170,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 </div>
 <div markdown="1" class=" ghcms ghcms-dangerzones">
 
+<a name="frozenwastes"></a>
 ## Frozen Wastes (DZ)
 
 - **Requirements:**
@@ -156,7 +179,8 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
 
-## Molten Core (DZ)
+<a name="moltenrock"></a>
+## Molten Rock (DZ)
 
 - **Requirements:**
 - **Mobs lvl:** 
@@ -164,6 +188,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
 
+<a name="vividvalley"></a>
 ## Vivid Valley (DZ)
 
 - **Requirements:**
@@ -172,6 +197,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Mol
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
 
+<a name="scrapyard"></a>
 ## Scrapeyard (DZ)
 
 - **Requirements:**
