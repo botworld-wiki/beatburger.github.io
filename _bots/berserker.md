@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Diamond"
-updatedAt: "2021-12-24"
+contributors: "Diamond, Soft"
+updatedAt: "2021-12-30"
 
 
 title: "Berserker (Special Tank)"
