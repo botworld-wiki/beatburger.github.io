@@ -20,11 +20,10 @@ breadcrumbs:
  [Great Desert](#greatdesert) |
  [Fall Grove](#fallgrove) |
  [Saltwater Swamp](#saltwaterswamp)<br>
- [Parched Sea](#parchedsea) |
+      [Parched Sea](#parchedsea) |
  [Spore Woods](#sporewoods) |
  [Ashen Shore](#ashenshore)<br>
-<br>
-[Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)<br>
+      [Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)<br>
 </div>
 
 
