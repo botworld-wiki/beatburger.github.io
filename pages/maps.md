@@ -26,7 +26,6 @@ breadcrumbs:
       [Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)
 </div>
 
-
 <div markdown="1" class=" ghcms ghcms-intro">
 
 </div>
