@@ -23,7 +23,7 @@ breadcrumbs:
       [Parched Sea](#parchedsea) |
  [Spore Woods](#sporewoods) |
  [Ashen Shore](#ashenshore)<br>
-      [Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)<br>
+      [Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)
 </div>
 
 
