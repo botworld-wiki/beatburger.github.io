@@ -15,8 +15,8 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-mapindex">
 
 ## Index
-<p style="transform: rotate(30deg);"></p>
-[World Map](#worldmap)<br>
+<p style="transform: rotate(30deg);">
+[World Map](#worldmap)</p><br>
 <br>
 [Scrapper Coast](#scrappercoast)<br>
 [Great Desert](#greatdesert)<br>
