@@ -15,9 +15,7 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-mapindex">
 
 ## Index
-<style type="text/css">
 [World Map](#worldmap)<br>
-</style>
 <br>
 [Scrapper Coast](#scrappercoast)<br>
 [Great Desert](#greatdesert)<br>
