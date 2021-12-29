@@ -133,8 +133,7 @@ breadcrumbs:
 - **[Ancient Ruins](/loot#ancient-ruins):**?
 - **Points of interest:** [MegaShrooms](/contribute#bw),..
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spore_Wood.png)
+[![Image](/assets/img/maps/spore-wood-min.png)](/assets/img/maps/spore-wood-min.png)
 
 </div>
 
