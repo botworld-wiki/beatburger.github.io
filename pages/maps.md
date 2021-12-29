@@ -13,6 +13,8 @@ breadcrumbs:
 # All Maps
 
 <div markdown="1" class=" ghcms ghcms-mapindex">
+
+## Index
 [World Map](#worldmap)
 [Scrapper Coast](#scrappercoast)
 [Great Desert](#greatdesert)
