@@ -15,24 +15,20 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-mapindex">
 
 ## Index
-[World Map](#worldmap)
-[Scrapper Coast](#scrappercoast)
-[Great Desert](#greatdesert)
-[Fall Grove](#fallgrove)
-[Saltwater Swamp](#saltwaterswamp)
-[Parched Sea](#parchedsea)
-[Spore Woods](#sporewoods)
-[Ashen Shore](#ashenshore)
-
-<table>
-  <tr>
-    <th>[Frozen Wastes](#frozenwastes)</th>
-    <th>[Molten Rock](#moltenrock)</th>
-    <th>[Vivid Valley](#vividvalley)</th>
-    <th>[Scrapyard](#scrapyard)</th>
-  </tr>
-</table>
-
+[World Map](#worldmap)<br>
+<br>
+[Scrapper Coast](#scrappercoast)<br>
+[Great Desert](#greatdesert)<br>
+[Fall Grove](#fallgrove)<br>
+[Saltwater Swamp](#saltwaterswamp)<br>
+[Parched Sea](#parchedsea)<br>
+[Spore Woods](#sporewoods)<br>
+[Ashen Shore](#ashenshore)<br>
+<br>
+[Frozen Wastes](#frozenwastes)<br>
+[Molten Rock](#moltenrock)<br>
+[Vivid Valley](#vividvalley)<br>
+[Scrapyard](#scrapyard)<br>
 </div>
 
 
