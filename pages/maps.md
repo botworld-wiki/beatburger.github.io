@@ -10,9 +10,14 @@ breadcrumbs:
 
 ---
 
-# All maps
+# All Maps
 
 <div markdown="1" class=" ghcms ghcms-intro">
+
+# World Map
+
+[![Image](/assets/img/maps/botworld-worldmap-min.png)](/assets/img/maps/botworld-worldmap-min.png)
+
 
 </div>
 
