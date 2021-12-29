@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2020-12-24"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Barrie"
+title: "Barrie (Common Tank)"
 name: "Barrie"
-description: "Common Tank: Meatbag - A defensive bot with an energy barrier for extra survivability. Always has a headache"
+description: "A sturdy tank, not relying on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right.\nSpeciality: can take a real beating\n- Notes: the Ult's short duration makes it hard to rely upon it\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Tank"
 botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
-botOpinion: "Meatbag"
+botOpinion: "A sturdy tank, not relying on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right."
 searchKeywords: "tank, Barrie, common, Hp, health"
 
 
@@ -50,7 +50,7 @@ ai3bDescription: "Headbutt damage increased by 20%"
 ai4aName: "A: Energy Shield"
 ai4aDescription: "Reduces energy damage taken by 20%"
 ai4bName: "B: Armor Plated"
-ai4bDescription: "Reduces physical damage by 20%"
+ai4bDescription: "Reduces physical damage taken by 20%"
 ai5aName: "C: Fortitude"
 ai5aDescription: "Health increased by 20%"
 ai5bName: ""
@@ -85,4 +85,9 @@ commonMat3: "Thick Tube"
 
 ### 'Speed Build' by Hex
 -**BAAAC:** A bit fast Barrie.
+
+## Notes
+
+### Comments
+Don't be fooled by the raw HP. Barrie has as much survivability as [Bullwark](/Bullwark), period. The difference is that [Bullwark](/Bullwark) has faster movement speed, higher damage, reflects damage, and a ridiculously wide area stun with massive damage. Barrie is horribly outclassed by the rest of the tanks and he only serves to be a slowly walking barrel that the enemy team ignores most of the time until the rest of Barrie's team is dead.                       
 
