@@ -14,6 +14,9 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-worldmap">
 # World Map
 
 [![Image](/assets/img/maps/botworld-worldmap-min.png)](/assets/img/maps/botworld-worldmap-min.png)
