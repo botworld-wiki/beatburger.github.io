@@ -12,6 +12,7 @@ breadcrumbs:
 
 # All Maps
 
+<div markdown="1" class=" ghcms ghcms-mapindex">
 [World Map](#worldmap)<br>
 [Scrapper Coast](#scrappercoast)<br>
 [Great Desert](#greatdesert)<br>
@@ -23,7 +24,7 @@ breadcrumbs:
 <br>
 |[Frozen Wastes](#frozenwastes)|[Molten Rock](#moltenrock)
 |[Vivid Valley](#vividvalley)|[Scrapyard](#scrapyard)
-
+</div>
 
 
 <div markdown="1" class=" ghcms ghcms-intro">
