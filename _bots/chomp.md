@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Groovy, Soft"
+contributors: "Groovy, Soft, BloodxReaper"
 updatedAt: "2020-12-24"
 
 
-title: "Chomp"
+title: "Chomp (Common Sniper)"
 name: "Chomp"
-description: "Common Sniper: Mostly outclassed by other snipers - A loyal companion who loves to shoot at enemies from a distance"
+description: "A sniper that shoots really fast and that you'll get from the very beginning. This is bot will teach you early on how damaging snipers can be if you protect them during battle.\n- Speciality: fast cooldown Ult, Lifesteal option\n- Notes: simple enough for Recruits\n- Combos: Ult CD, Aggressive & Disruptive melees"
 imageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,18 +20,18 @@ botType: "Sniper"
 botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
-botOpinion: "Mostly outclassed by other snipers"
+botOpinion: "A sniper that shoots really fast and that you'll get from the very beginning. This is bot will teach you early on how damaging snipers can be if you protect them during battle."
 searchKeywords: "range, burst , sniper , common"
 
 
 ability1Name: "Machine Gun"
-ability1Info: "Bullets fired: 3, Range:7.7, AS: 1.43s"
+ability1Info: "Bullets fired: 3, Energy Damage: 100% Range:8, AS: 1.43s"
 ability1Description: "Fires a burst of shots"
 ability2Name: ""
 ability2Info: ""
 ability2Description: ""
 ability3Name: "Nuclear Cylinders"
-ability3Info: "Bullets fired: 8, Range: 7.7, Cooldown: 8.4s"
+ability3Info: "Bullets fired: 8, Energy Damage: 150% Range: 8, Cooldown: 9s"
 ability3Description: "A bigger burst of more powerful shots"
 
 
@@ -80,9 +80,11 @@ commonMat2: "Clear Oil"
 commonMat3: "Frost Fuel"
 ---
 
-### Suggested AI build
-- AACAA. AI4 is the most important choice.
+### 'Arena Build' by Soft
+- **AACAA:** AI4 is the most important choice.
 
-### Notes
-- Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
+## Notes
+
+### Comments by Soft
+Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
 
