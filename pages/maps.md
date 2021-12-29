@@ -63,8 +63,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137026080702474/Gre
 - **[Ancient Ruins](/loot#ancient-ruins):** Crater Dome
 - **Points of interest:** [Mia's Home](/mia), [Tyres](/contribute#tbw),..
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/905195631470059530/1635885784404.png)
+[![Image](/assets/img/maps/fall-grove-min.png)](/assets/img/maps/fall-grove-min.png)
 
 </div>
 
