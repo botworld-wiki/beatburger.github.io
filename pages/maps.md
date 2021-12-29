@@ -20,7 +20,7 @@ breadcrumbs:
 [Saltwater Swamp](#saltwaterswamp)
 [Parched Sea](#parchedsea)
 [Spore Woods](#sporewoods)
-[Ashen Shore](#ashenshore)<
+[Ashen Shore](#ashenshore)
 
 |[Frozen Wastes](#frozenwastes)|[Molten Rock](#moltenrock)|
 |[Vivid Valley](#vividvalley)|[Scrapyard](#scrapyard)|
