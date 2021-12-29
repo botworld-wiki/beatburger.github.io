@@ -4,13 +4,14 @@ contributors: "Diamond"
 updatedAt: "2021-12-24"
 
 
-title: "Berserker"
+title: "Berserker (Special Tank)"
 name: "Berserker"
-description: "Special Tank: a good tank all around - A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
+description: "Very aggressive and mobile tank that'll run through the battlefield to push, stun, and damage enemy bots. Makes the life of your squishy bots that much easier.\n- Speciality: bully foes, protect friends\n- Combos: melee bots that lack defensive or evasive abilities\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
 breadcrumbs:
   Bots: "/bots"
   Tank: "/bots#tanks"
+
 
 botName: "Berserker"
 botDescription: "A solid all around tank. Armed with a shield and rocket pack this bot is sturdy yet speedy"
@@ -19,8 +20,9 @@ botType: "Tank"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "drop"
-botOpinion: "a good tank all around"
+botOpinion: "Very aggressive and mobile tank that'll run through the battlefield to push, stun, and damage enemy bots. Makes the life of your squishy bots that much easier."
 searchKeywords: "berserker, tank, special, fast, brawler"
+
 
 ability1Name: "Punch"
 ability1Info: "Range: Melee , Physical Damage: 100% , Attack Speed: 0.85s"
@@ -78,11 +80,18 @@ commonMat2: "Rusty Cog"
 commonMat3: "Mini Sensor"
 ---
 
-### Tips
-Do not underestimate Berserker, he is very tanky and fast.
-
 ### 'Tank Build' by Hex
 - **ABCAB** 
 
 ### 'Speed Tank' by Hex
 - **BBCBA:** Speedy Brawler Tank with stun. Made for speed. 
+
+## Notes
+
+### Comments
+Not to be underestimated, Berserker could be considered a mix between [Chainer](/Chainer)/[Yanky](/Yanky) and [Bullwark](/Bullwark). He's very tanky, has a big burst and charges into enemy bots to tank them away from your squishy bots. He also has the fastest movement speed out of all the tanks and highest aDPS, making him a great all-around tank that fits in a lot of team compositions.
+
+### Tips
+Do not underestimate Berserker, he is very tanky and fast.
+
+
