@@ -38,7 +38,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ezraden's Botworld playlist](https://www.youtube.com/playlist?list=PLCqz00hFU4Ny0hU4ras6i4EpZGOXgJwey)
-- **Tags:**  Commentary, English, Guides, How-To, Gameplay
+- **Tags:**  Commentary, English, Guides, How-To's, Gameplay
 - **Showcased Video:** 
 
 </div>
@@ -58,7 +58,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 
 - **Link:** [Ptage's Botworld playlist](https://www.youtube.com/playlist?list=PLrpqWKxRqCmObQMuL--KbPSESUcNfJtLf)
-- **Tags:** ...?
+- **Tags:** Family friendly, Commentary, English, Reviews, Tier Lists, Gameplay
 - **Showcased Video:** 
 
 </div>
@@ -74,11 +74,14 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ![Devils Knights Profile Pic](https://yt3.ggpht.com/ytc/AKedOLQWHZxfWWCBarV2needTGp1ZzxhvK1jEx1-B730tGg=s176-c-k-c0x00ffffff-no-rj)
 
-*This channel doesn't feature any other channels.*
+*Hey Guys, It's ya girl Dev. I'm a BotWorld Content Creator that pushes videos out that helps you better understand the game you love. I do guides, how-tos, and rankings. My goal is to give you the latest and greatest content. I'm also a content creator for Rise of Kingdoms which is also a mobile game that I live stream.*
+
+*Tune in to see more! 
+But for now, Just keep it real 😏💜*
 
 
 - **Link:** [Devils Knights Botworld playlist](https://www.youtube.com/playlist?list=PLdbSU2saT61vNcEX9RFcp_39oDhDUchG7)
-- **Tags:**  ...?
+- **Tags:**  Commentary, English, Guides, How-to's, Rankings
 - **Showcased Video:** 
 
 </div>
