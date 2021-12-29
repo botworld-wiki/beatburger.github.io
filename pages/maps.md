@@ -106,8 +106,7 @@ breadcrumbs:
 - **[Ancient Ruins](/loot#ancient-ruins):** Abandoned Factory
 - **Points of interest:** [Ghost Bots](/contribute#tbw),..
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Saltwater_Swamp.png)
+[![Image](/assets/img/maps/saltwater-swamp-min.png)](/assets/img/maps/saltwater-swamp-min.png)
 
 </div>
 
