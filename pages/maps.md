@@ -16,8 +16,7 @@ breadcrumbs:
 
 ## Index
 [World Map](#worldmap)<br>
-<br>
-[Scrapper Coast](#scrappercoast)<br>
+*Tabspace*[Scrapper Coast](#scrappercoast)<br>
 [Great Desert](#greatdesert)<br>
 [Fall Grove](#fallgrove)<br>
 [Saltwater Swamp](#saltwaterswamp)<br>
