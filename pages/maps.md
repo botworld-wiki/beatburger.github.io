@@ -30,7 +30,7 @@ breadcrumbs:
 - **Points of interest:** [Blue Tarp](/boat#blue-tarp), [Bandit Camp](/contribute#tbw), [Melanie](/contribute#tbw),..
 
 
-![Image](/assets/img/maps/scrapper-coast-min.png)
+[![Image](/assets/img/maps/scrapper-coast-min.png)](/assets/img/maps/scrapper-coast-min.png)
 
 </div>
 
