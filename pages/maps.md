@@ -99,8 +99,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882137702571577394/Sal
 - **[Ancient Ruins](/loot#ancient-ruins):** ? 
 - **Points of interest:** [Rani](/contribute#tbw), [Melanie](/contribute#tbw),..
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882138008202121216/Parched_Sea.png)
+[![Image](/assets/img/maps/parched-sea-min.png)](/assets/img/maps/parched-sea-min.png)
 
 </div>
 
@@ -135,8 +134,7 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 - **[Ancient Ruins](/loot#ancient-ruins):** ?? 
 - **Points of interest:** [Giant Squeleton](/contribute#tbw), [Moutain Peaks](/contribute#tbw),..
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882138315237781524/Ashen_Shore.png)
+[![Image](/assets/img/maps/ashen-shore-min.png)](/assets/img/maps/ashen-shore-min.png)
 
 </div>
 <div markdown="1" class=" ghcms ghcms-dangerzones">
