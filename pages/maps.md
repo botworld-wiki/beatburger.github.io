@@ -12,25 +12,22 @@ breadcrumbs:
 
 # All Maps
 
-<div markdown="1" class=" ghcms ghcms-mapindex">
 
 ## Index
-[World Map](#worldmap)<br>
-      [Scrapper Coast](#scrappercoast) |
- [Great Desert](#greatdesert) |
- [Fall Grove](#fallgrove) |
- [Saltwater Swamp](#saltwaterswamp)<br>
-      [Parched Sea](#parchedsea) |
- [Spore Woods](#sporewoods) |
- [Ashen Shore](#ashenshore)<br>
-      [Frozen Wastes](#frozenwastes) | [Molten Rock](#moltenrock) | [Vivid Valley](#vividvalley) | [Scrapyard](#scrapyard)
-</div>
+[World Map](#world-map)<br>
+      [Scrapper Coast](#scrapper-coast) |
+ [Great Desert](#great-desert) |
+ [Fall Grove](#fall-grove) |
+ [Saltwater Swamp](#saltwater-swamp)<br>
+      [Parched Sea](#parched-sea) |
+ [Spore Woods](#spore-woods) |
+ [Ashen Shore](#ashen-shore)<br>
+      [Frozen Wastes](#frozen-wastes-dz) | [Molten Rock](#molten-rock-dz) | [Vivid Valley](#vivid-valley-dz) | [Scrapyard](#scrapyard-dz)
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
 </div>
 
-<a name="worldmap"></a>
 ## World Map
 <div markdown="1" class=" ghcms ghcms-worldmap">
 
@@ -39,7 +36,6 @@ breadcrumbs:
 
 </div>
 
-<a name="scrappercoast"></a>
 ## Scrapper Coast
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
@@ -58,7 +54,6 @@ breadcrumbs:
 
 </div>
 
-<a name="greatdesert"></a>
 ## Great Desert
 
 <div markdown="1" class=" ghcms ghcms-greatdesert">
@@ -75,7 +70,6 @@ breadcrumbs:
 
 </div>
 
-<a name="fallgrove"></a>
 ## Fall Grove
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
@@ -92,7 +86,6 @@ breadcrumbs:
 
 </div>
 
-<a name="saltwaterswamp"></a>
 ## Saltwater Swamp
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
@@ -110,7 +103,6 @@ breadcrumbs:
 
 </div>
 
-<a name="parchedsea"></a>
 ## Parched Sea
 
 <div markdown="1" class=" ghcms ghcms-parchedsea">
@@ -128,7 +120,6 @@ breadcrumbs:
 
 </div>
 
-<a name="sporewoods"></a>
 ## Spore Woods
 
 <div markdown="1" class=" ghcms ghcms-sporewoods">
@@ -147,7 +138,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 
 </div>
 
-<a name="ashenshore"></a>
 ## Ashen Shore
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
@@ -166,7 +156,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 </div>
 <div markdown="1" class=" ghcms ghcms-dangerzones">
 
-<a name="frozenwastes"></a>
 ## Frozen Wastes (DZ)
 
 - **Requirements:**
@@ -175,7 +164,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/882138159570366494/Spo
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
 
-<a name="moltenrock"></a>
 ## Molten Rock (DZ)
 
 - **Requirements:**
@@ -184,7 +172,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
 
-<a name="vividvalley"></a>
 ## Vivid Valley (DZ)
 
 - **Requirements:**
@@ -193,7 +180,6 @@ https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Mol
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
 
-<a name="scrapyard"></a>
 ## Scrapeyard (DZ)
 
 - **Requirements:**
