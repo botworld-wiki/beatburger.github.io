@@ -14,7 +14,6 @@ breadcrumbs:
 
 The Botworld Community is also on YouTube and Twitch! Come and discover some of our most dedicated players, who share their Progress and Tips live or after some cool editing.
 
-- **Tags:** Commentary, Gameplay, Stream, Tips, English, Full Walkthrough, Beginner, High Level, Tier Lists ...? (To be completed, trying to get a complete list for now, that people can pick from over time)
 - **RNG Warning:** This page is shuffled randomly, so here's an alphabetical table of content, just in case: 
 
 <ul class="page-toc toc-block-list links">
