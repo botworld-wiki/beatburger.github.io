@@ -25,6 +25,7 @@ breadcrumbs:
 [Ashen Shore](#ashenshore)
 
 |[Frozen Wastes](#frozenwastes)|[Molten Rock](#moltenrock)|
+|---|---|
 |[Vivid Valley](#vividvalley)|[Scrapyard](#scrapyard)|
 </div>
 
