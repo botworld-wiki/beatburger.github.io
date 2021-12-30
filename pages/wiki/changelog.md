@@ -12,6 +12,11 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2021-12-30
+
+- [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
+- Updated page: [Sheller](/sheller) now has all the info!
+
 ## 2021-12-29
 
 - Expanded the [Gadgets Presentation](/gadgets) to address frequently asked questions
