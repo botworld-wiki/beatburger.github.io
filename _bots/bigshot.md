@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-15"
+contributors: "Kurt, BloodxReaper, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Bigshot"
+title: "Bigshot (Epic Sniper)"
 name: "Bigshot"
-description: "Epic Sniper - Its attack takes a while to charge up, but it's worth the wait"
+description: "Nothing is more scary than an enemy Bigshot about to shoot. Nothing is more satisfying than your own blasting through your opponents. But will it get to shoot?\n- Speciality: extremely powerful piercing shots that can hit multiple bots\n- Note: interrupted by stun, freeze, and a cold breeze\n- Combo: stun immunity, Grouping"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547177638772776/bigshot.png"
-breadcrumbs: 
- Bots: "/bots"
- Sniper: "/bots#snipers"
+breadcrumbs:
+  Bots: "/bots"
+  Sniper: "/bots#snipers"
+
 
 botName: "Bigshot"
 botDescription: "Its attack takes a while to charge up, but it's worth the wait"
@@ -18,18 +19,19 @@ botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/88554717
 botType: "Sniper"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Random Drop"
-botOpinion: "Extreme finisher "
-searchKeywords: "epic, sniper, critical, crit, bigshot, aoe"
+botAcquisition: "drop"
+botOpinion: "Nothing is more scary than an enemy Bigshot about to shoot. Nothing is more satisfying than your own blasting through your opponents. But will it get to shoot?"
+searchKeywords: ""
+
 
 ability1Name: "Megablast"
-ability1Info: "Range: 6,4 , Attack Speed: 4s , Energy Damage: 4403 , Knockback: small , Stun Duration: 1s"
+ability1Info: "Range: 8, Attack Speed: 4s , Energy Damage: 100% , Knockback: small ."
 ability1Description: "Huge attack that takes a long time to charge up"
 ability2Name: ""
 ability2Info: ""
 ability2Description: ""
 ability3Name: "Gigablast"
-ability3Info: "Range: 6,4 , Cooldown: 8s , Teleport Distance: 6 , Energy Damage: 8073 , Knockback: small "
+ability3Info: "Range: 8 , Cooldown: 8s , Energy Damage: 183% , Knockback: small"
 ability3Description: "Even bigger attack that takes a long time to charge up"
 
 
@@ -78,8 +80,16 @@ commonMat2: "Rusty Cog"
 commonMat3: "Thick Tube"
 ---
 
-### Tips
-- Equip 2x Epic stun resistance boosters when you use bigshot
+### 'Arena Build' by Soft
+-**ACABA:** 
 
-### Suggested Ai Build
-- ACABA
+## Comments
+
+### Evaluation by Soft
+The big mommy of ranged burst DPS, Bigshot definitely deserves S tier in the lower levels of the game. As the game progresses though, bandits and PvPers alike will have abilities like [Freeze](/Freeze), and Bigshot is a high priority target for the enemy AI with those CC abilities. Since he needs four seconds to charge for every shot, it's doubtful you'll get two shots off before the game ends. Very easily counterable. Tier A.
+
+
+### Tips
+Equip 2x Epic stun resistance boosters when you use bigshot
+
+
