@@ -86,10 +86,10 @@ commonMat3: "Mini Sensor"
 ### 'Speed Tank' by Hex
 - **BBCBA:** Speedy Brawler Tank with stun. Made for speed. 
 
-## Notes
+## Comments
 
-### Comments
-Not to be underestimated, Berserker could be considered a mix between [Chainer](/Chainer)/[Yanky](/Yanky) and [Bullwark](/Bullwark). He's very tanky, has a big burst and charges into enemy bots to tank them away from your squishy bots. He also has the fastest movement speed out of all the tanks and highest aDPS, making him a great all-around tank that fits in a lot of team compositions.
+### Evaluation by Soft
+Not to be underestimated, Berserker could be considered a mix between [Chainer](/Chainer)/[Yanky](/Yanky) and [Bullwark](/Bullwark). He's very tanky, has a big burst and charges into enemy bots to tank them away from your squishy bots. He also has the fastest movement speed out of all the tanks and highest aDPS, making him a great all-around tank that fits in a lot of team compositions. Tier B+.
 
 ### Tips
 Do not underestimate Berserker, he is very tanky and fast.
