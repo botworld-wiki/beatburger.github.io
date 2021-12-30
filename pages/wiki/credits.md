@@ -21,11 +21,12 @@ breadcrumbs:
 - **ChaelBlaze:** 
 - **Kurt Halo Pizza:** 
 - **Mrgold:**
-- **cloud9:** [AI tips](</ai>), [Seasons Rewards](</seasons>), [Maps Contents](</maps>)
+- **cloud9:** [AI tips](</ai>), [Seasons Rewards](</seasons>), [Maps Contents](</maps>), [Sheller](/sheller) AI tree
 - **Kartoffel:** [Bot Upgrade Costs](/materials#costs)
 - **Hex:** [Maps original montages](/maps)
 - **Young Fung:** Detailed [Business Upgrades](/business) list
 - **BloodxReaper:** much proofreading! 
+- **debb:** high-res versions of every map, with exits
 
 ## Writers
 
@@ -35,7 +36,7 @@ breadcrumbs:
 - **Masked Critic:** [Play Botworld on Windows from Android](/play-on-windows)
 - **BloodxReaper:** AI Builds & Tips template for Bot Pages, 2 [Mort AI builds](/mort#ai-builds)
 - **Young Fung:** [Business Full Walkthrough](/business#new-botmasters)
-- **O.J.:** [Sheller reveal infos](/sheller), [Dune Bug overview](/dune-bug) & embed
+- **O.J.:** [Sheller reveal infos](/sheller), [Dune Bug overview](/dune-bug) & embed,  [Chainer overview](/chainer)
 
 
 ## Editors
