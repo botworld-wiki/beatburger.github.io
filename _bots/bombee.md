@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Hex, Kurt"
-updatedAt: "2021-12-14"
+contributors: "Hex, Kurt, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Bombee"
+title: "Bombee (Special Splasher)"
 name: "Bombee"
-description: "Special Splasher: 1-Time use only - Makes an explosion entrance when it enters the arena. Self-destructs when fully charged"
+description: "This little bomb will take some bots with it if it can go under its own terms. Mostly a fun bot, useful for fast clears in low-stakes situations. Hard to use consistently in any competitive or challenging setting.\n- Speciality: enters with a Boom, hopefully exits with a Boom\n- Note: it won't explode if you keep it away from any Ult target\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397789688729670/bombee.png"
 breadcrumbs:
   Bots: "/bots"
   Splasher: "/bots#splashers"
+
 
 botName: "Bombee"
 botDescription: "Makes an explosion entrance when it enters the arena. Self-destructs when fully charged"
@@ -19,8 +20,9 @@ botType: "Splasher"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "drop"
-botOpinion: "1-Time use only"
+botOpinion: "This little bomb will take some bots with it if it can go under its own terms. Mostly a fun bot, useful for fast clears in low-stakes situations. Hard to use consistently in any competitive or challenging setting."
 searchKeywords: "special, bombee, splasher, suicide, bomber, aoe, splash, weak, 1, useless"
+
 
 ability1Name: "Headbutt"
 ability1Info: "Range: Melee , Attack Speed: 1.4s , Physical Damage: 100%"
@@ -37,19 +39,19 @@ ai1aName: "A: Bigger Hits"
 ai1aDescription: "Headbutt damage increased by 50%"
 ai1bName: "B: Fortitude"
 ai1bDescription: "Health increased by 20%"
-ai2aName: "A: Compact Auxialiary Explosives"
-ai2aDescription: "Grand Entrance damage increased bt 40%"
+ai2aName: "A: Compact Auxiliary Explosives"
+ai2aDescription: "Grand Entrance damage increased by 40%"
 ai2bName: "B: Extended Auxiliary Explosives"
 ai2bDescription: "Grand Entrance radius increased by 50%"
 ai3aName: "A: Speed Boost"
 ai3aDescription: "Move Speed increased by 20%"
 ai3bName: "B: Fortitude"
 ai3bDescription: "Health increased by 20%"
-ai4aName: "C: Electromagnetic Auxialiary Explosives"
+ai4aName: "C: Electromagnetic Auxiliary Explosives"
 ai4aDescription: "Grand Entrance stuns enemy bots for 2s"
 ai4bName: ""
 ai4bDescription: ""
-ai5aName: "A: Electromagnetice Knuckles"
+ai5aName: "A: Electromagnetic Knuckles"
 ai5aDescription: "Headbutt has a 20% chance to stun enemy bots for 1s"
 ai5bName: "B: Fusion Reactors"
 ai5bDescription: "Self-Destruct damage increased by 25%"
@@ -78,9 +80,6 @@ commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cog"
 ---
 
-### Tips
-Great for farming Ai Xp, only used in grouped wild bots. It is also a great if combo with flamer and bombee. Bombee pushes enemy which also a great 1-time use tank.
-
 ### 'Bombee Tank' by Hex
 - **BABCB:** Ai1 and Ai3 are Health.
 
@@ -89,3 +88,15 @@ Great for farming Ai Xp, only used in grouped wild bots. It is also a great if c
 
 ### 'Melee Bombee' by Hex
 - **ABACA:** A different option for bombee but still explodes in the end. 
+
+## Comments
+
+### Evaluation by Soft
+Formerly an A+ tier bot, it was possible to ignore his own Self-Destruct damage with a well-timed [Shield](/Shield) ability, but since that nerf Bombee has had trouble finding a place in most teams. He can be countered quite easily by stalling his ultimate with plenty of abilities or simply killing him before it goes off. His win condition is killing himself to trade with another bot, which is pretty poor.
+ Tier B-.
+
+### Tips
+Great for farming Ai Xp, only used in grouped wild bots. 
+It is also a great if combo with flamer and bombee. 
+Bombee pushes enemy which also a great 1-time use tank.
+
