@@ -220,6 +220,7 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
 
 ## Botworld Adventures News
 
+- [Ptage talks about us!](/news): <iframe width="560" height="315" src="https://www.youtube.com/embed/jqeymvKmIs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Community Wiki Launch](/news): We’re excited to have you check it out!
 - [Teddies of Scrapyard](/news): Find all of the hidden teddy bears in the Scrapyard Danger Zone! Event ends Jan. 3rd.
 - [New Bot Coming soon](/news): there's also a gems giveaway on the official socials.
