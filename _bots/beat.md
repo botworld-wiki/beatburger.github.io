@@ -1,16 +1,16 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-16"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Beat"
+title: "Beat (Epic Support)"
 name: "Beat"
-description: "Epic Support - Plays music that inspires its allies to fight better. Comes with a built-in karaoke mode."
+description: "Mostly attractive for the combo potential, boosting everyone's damage can be extremely powerful. Also a suprisingly viable melee bot with Stun and decent HP/dmg\n- Speciality: AoE damage Boost\n- Combo: any Damage Dealer\n- Note: you mostly get one shot at boosting your ranged damage dealers, then Beat runs to the front line"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397691709804574/beat.png"
 breadcrumbs:
- Bots: "/bots"
- Support: "/bots#supports"
+  Bots: "/bots"
+  Support: "/bots#support"
 
 
 botName: "Beat"
@@ -19,9 +19,10 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339769
 botType: "Support"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Solo Arena 3000 rating"
-botOpinion: "Best Support"
-searchKeywords: "beat, epic, support, stun, aoe, boost, best"
+botAcquisition: "Arena (3000)"
+botOpinion: "Mostly attractive for the combo potential, boosting everyone's damage can be extremely powerful. Also a suprisingly viable melee bot with Stun and decent HP/dmg"
+searchKeywords: ""
+
 
 ability1Name: "Beat"
 ability1Info: "Range: Melee , Attack Speed: 0.67s , Physical Damage: 100%"
@@ -79,10 +80,6 @@ commonMat2: "Sputtering Generator"
 commonMat3: "Thick Tube"
 ---
 
-### Tips
-Beat can be combo to anyone
-Most recomended combo is Chainer, Beat and Mort/Pluggie
-
 ### 'Full Support Build' by Hex
 - **AAACA:** Wide range Inspire.
 
@@ -91,3 +88,13 @@ Most recomended combo is Chainer, Beat and Mort/Pluggie
 
 ### 'Brawler Beat' by Hex
 - **BBBCB:** Beat was a Brawler before it became a Support, now you know.
+
+## Comments
+
+### Evaluation by Soft
+On paper, Beat sounds great but is held back by the fact that abilities are used automatically, disallowing proper setup and timing with other bots' abilities. The reason why he's placed so high is because he has a niche use for quick burst teams like groupers where every bot uses their burst at the start of the match. Very effective for farming wild bots for example. Tier A-.
+
+### Tips
+Beat can be combo to anyone
+Most recomended combo is Chainer, Beat and Mort/Pluggie
+
