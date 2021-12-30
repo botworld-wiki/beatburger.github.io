@@ -6,7 +6,7 @@ updatedAt: "2021-12-27"
 
 title: "Virus (Epic Brawler)"
 name: "Virus"
-description: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone.\n- Speciality: Hacks enemy bots\n- Acquisition: unique Recruits Job serie\n- Combos: Hypercharge, Ult CD boosters\nDetails & Tips on the Wiki"
+description: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer.\n- Speciality: Hacks enemy bots\n- Acquisition: unique Recruits Job serie\n- Combos: Hypercharge, Ult CD boosters\nDetails & Tips on the Wiki"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885549560108306464/virus.png"
 breadcrumbs:
   Bots: "/bots"
