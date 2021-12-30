@@ -43,7 +43,7 @@ breadcrumbs:
 
 - New outfits added.
 - [Codex](</codex>) added featuring new tasks in each of the first five zones.
-- New Ability: Gravity Surge.
+- New Ability: [Gravity Surge](<https://www.botworld.wiki/gravity-surge>).
 - New Season Pass: *Season of the Snail.*
 
 
@@ -57,7 +57,7 @@ breadcrumbs:
 
 ### New Content Sneak Peek!
 
-Gravity Surge ?
+Gravity Surge?
 
 ![Gravity Surge](<https://cdn.discordapp.com/attachments/824807657550381088/925196319570673714/Screenshot_20211228-091537.png>)
 
