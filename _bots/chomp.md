@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Groovy, Soft, BloodxReaper"
-updatedAt: "2020-12-24"
+updatedAt: "2021-12-30"
 
 
 title: "Chomp (Common Sniper)"
 name: "Chomp"
-description: "A sniper that shoots really fast and that you'll get from the very beginning. This is bot will teach you early on how damaging snipers can be if you protect them during battle.\n- Speciality: fast cooldown Ult, Lifesteal option\n- Notes: simple enough for Recruits\n- Combos: Ult CD, Aggressive & Disruptive melees"
+description: "A sniper that shoots really fast and that you'll get from the very beginning. This is bot will teach you early on how damaging snipers can be if you protect them during battle.\n- Speciality: fast cooldown Ult, Lifesteal option\n- Note: simple enough for Recruits\n- Combos: Ult CD, Aggressive & Disruptive melees"
 imageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 breadcrumbs:
   Bots: "/bots"
@@ -83,8 +83,8 @@ commonMat3: "Frost Fuel"
 ### 'Arena Build' by Soft
 - **AACAA:** AI4 is the most important choice.
 
-## Notes
+## Comments
 
-### Comments by Soft
-Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot.
+### Evaluation by Soft
+Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot. Tier B.
 
