@@ -222,6 +222,9 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
+
+<div markdown="1" class="grid-box tall ghcms ghcms-homenews">
+
 - [Sheller](/sheller): complete with stats and everything!
 - [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
 
@@ -230,11 +233,14 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 - [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
 - [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)
 
+
 </div>
 
 
 ## New player ?
 
+
+<div markdown="1" class="grid-box tall ghcms ghcms-newplayer">
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
 
@@ -252,7 +258,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 <div class="grid">
     
 <div markdown="1" class="grid-box ghcms ghcms-botmasters">
-
+  
 ## Botmasters
 
 - [Bots](/bots): our Robopedia has everything already.
@@ -268,8 +274,6 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Getting Started](/getting-started): introductory guide to get you started on the right foot.
 
 </div>
-
-
 
 <div markdown="1" class="grid-box tall ghcms ghcms-botworld">
 
