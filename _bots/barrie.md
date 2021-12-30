@@ -6,7 +6,7 @@ updatedAt: "2021-12-30"
 
 title: "Barrie (Common Tank)"
 name: "Barrie"
-description: "A sturdy tank, not relying on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right.\nSpeciality: can take a real beating\n- Notes: the Ult's short duration makes it hard to rely upon it\n"
+description: "A sturdy tank that doesn't rely on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right.\n- Speciality: can take a real beating\n- Note: the Ult's short duration makes it hard to rely upon it\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Tank"
 botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
-botOpinion: "A sturdy tank, not relying on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right."
+botOpinion: "A sturdy tank that doesn't rely on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right."
 searchKeywords: "tank, Barrie, common, Hp, health"
 
 
@@ -86,8 +86,8 @@ commonMat3: "Thick Tube"
 ### 'Speed Build' by Hex
 -**BAAAC:** A bit fast Barrie.
 
-## Notes
+## Comments
 
-### Comments
-Don't be fooled by the raw HP. Barrie has as much survivability as [Bullwark](/Bullwark), period. The difference is that [Bullwark](/Bullwark) has faster movement speed, higher damage, reflects damage, and a ridiculously wide area stun with massive damage. Barrie is horribly outclassed by the rest of the tanks and he only serves to be a slowly walking barrel that the enemy team ignores most of the time until the rest of Barrie's team is dead.                       
+### Evaluation by Soft
+Don't be fooled by the raw HP. Barrie has as much survivability as [Bullwark](/Bullwark), period. The difference is that [Bullwark](/Bullwark) has faster movement speed, higher damage, reflects damage, and a ridiculously wide area stun with massive damage. Barrie is horribly outclassed by the rest of the tanks and he only serves to be a slowly walking barrel that the enemy team ignores most of the time until the rest of Barrie's team is dead. Tier D.                     
 
