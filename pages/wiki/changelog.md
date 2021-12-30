@@ -12,12 +12,29 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2021-12-29
+
+- Expanded the [Gadgets Presentation](/gadgets) to address frequently asked questions
+- Upgraded to high-res versions of [every map](/maps) by @debb
+- New [Youtubers & Streamers](/content-creators) page
+- Updated [Sheller](/sheller) with AI tree by @cloud9
+- Updated overview, AI Builds, Comments, and Embeds for: [Barrie](/barrie) [Beat](/beat) [Berserker](/berserker) [Bigshot](/bigshot) [Bombee](/bombee) [Brute](/brute) [Bullwark](/bullwark), @debb & @pix
+
+## 2021-12-28
+
+- Took a day off while everyone was hunting for some Jakalope
+
 ## 2021-12-27
 
 - New embeds-friendly descriptions for [virus](/virus) and [dune bug](/dune-bug). Provided as template with character budget for upcoming descriptions & [overviews](/bots). Thanks O.J. and others!
 - Many bots typos & mistakes corrected by BloodxReaper
 - Work drive & WikiSheets shared to every contributor on Discord
 - Something I can't tell you about yet is ready and just waiting for the final approval :)
+- [Nicola's abilities](/arena#nicola)
+- [v1.2.0 patch notes](/news#v120)
+- New [Codex](/codex) page
+- Data collection effort started!
+
 
 ## 2021-12-26
 
