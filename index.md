@@ -224,18 +224,9 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 ## Botworld Adventures News
 
-- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)!
-- 
+- [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
+- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)
 - [New Bot Reveal](/news): [Sheller](/sheller) ![New Bot Sheller](/assets/img/bots/small/sheller.png)
-
-- [Community Wiki Launch](/news): We, *Beat Burger & Friends*, are most excited to present to you the brand new and shiny: **Botworld Adventure community Wiki**
-
-It's been a project running strong for the last 10 days or so, and today we believe it is ready enough to present it to you!
-It is *ready*, but **far from complete**! Many (most?) of the pages are shadows of what we want them to be, created as placeholder so we can fill them up together over the weeks to come.
-
-We have some very nice and rich ones already though!
-
-We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have the info.
 
 </div>
 
