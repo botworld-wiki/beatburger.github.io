@@ -73,19 +73,3 @@ https://cdn.discordapp.com/attachments/923510071026155550/925231459483152424/IMG
 
 
 </div>
-
-## Spore Woods
-
-<div markdown="1" class=" ghcms ghcms-sporewoods">
-
-
-</div>
-
-## Ashen Shore
-
-<div markdown="1" class=" ghcms ghcms-ashenshore">
-
-
-</div>
-
-*Credit: O.J., cloud9*
