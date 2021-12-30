@@ -81,10 +81,10 @@ commonMat3: "Thick Tube"
 ---
 
 ### 'Tank Build' by Hex
--**AAAAC:** Most recommended Tank Build.
+- **AAAAC:** Most recommended Tank Build.
 
 ### 'Speed Build' by Hex
--**BAAAC:** A bit fast Barrie.
+- **BAAAC:** A bit fast Barrie.
 
 ## Comments
 
