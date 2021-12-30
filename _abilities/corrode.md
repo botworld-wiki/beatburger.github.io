@@ -1,12 +1,12 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb,kurt"
+updatedAt: "2021-12-30"
 
 
 title: "Corrode"
 name: "Corrode"
-description: "3P - Lightly poisons an enemy bot for 2 seconds"
+description: "3P - Lightly poisons an enemy bot for 30 seconds"
 imageUrl: "/assets/img/abilities/corrode.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 abilityName: "Corrode"
-abilityDescription: "Lightly poisons an enemy bot for 2 seconds"
+abilityDescription: "Lightly poisons an enemy bot for 30 seconds"
 abilityImageUrl: "/assets/img/abilities/corrode.png"
 abilityCost: "3"
 abilityRarity: "Rare"
