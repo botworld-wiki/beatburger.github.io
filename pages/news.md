@@ -23,25 +23,51 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-main">
 
 
+
+</div>
+
+## d2021-12-30
+
+- [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqeymvKmIs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## V1.2.0
+
+**Released:** 2021-12-28
+
+### New Bot: [Sheller](</sheller>)
+
+**Features:**
+
+- New outfits added.
+- [Codex](</codex>) added featuring new tasks in each of the first five zones.
+- New Ability: Gravity Surge.
+- New Season Pass: *Season of the Snail.*
+
+
+**Balance Changes:**
+
+- Hornet's damage increased slightly.
+- Hack effects no longer work on Mega Bots or Super Bots.
+
+
 ## d2021-12-28
 
 ### New Content Sneak Peek!
 
 Gravity Surge ?
 
-![Gravity Surge](https://cdn.discordapp.com/attachments/824807657550381088/925196319570673714/Screenshot_20211228-091537.png)
+![Gravity Surge](<https://cdn.discordapp.com/attachments/824807657550381088/925196319570673714/Screenshot_20211228-091537.png>)
 
-Codex?! 
+[Codex?!](</codex>)
 
-![Codex](https://cdn.discordapp.com/attachments/824807657550381088/925197223808106566/Screenshot_20211228-082536_Botworld.jpg)
+![Codex](<https://cdn.discordapp.com/attachments/824807657550381088/925197223808106566/Screenshot_20211228-082536_Botworld.jpg>)
 
-![Codex 2](https://cdn.discordapp.com/attachments/923510071026155550/925198096395300884/Screenshot_20211228-082718_Botworld.jpg)
+![Codex 2](<https://cdn.discordapp.com/attachments/923510071026155550/925198096395300884/Screenshot_20211228-082718_Botworld.jpg>)
 
-Official announcement on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1475421202931933188)
-
-
-</div>
-
+Official announcement on [the official Featherweight twitter](<https://twitter.com/BotworldGame/status/1475421202931933188>)
 
 ## d2021-12-25
 
