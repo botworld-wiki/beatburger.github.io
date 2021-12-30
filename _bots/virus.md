@@ -20,7 +20,7 @@ botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "<a href='/virus#uberbot' title='Epic jobs serie to get Virus'>Uberbot</a>"
-botOpinion: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer, as well as helping clearing mega bot in danger zone."
+botOpinion: "Virus is considered one of the most viable bots in general. It performs extremely good in arena and can be a game changer."
 searchKeywords: ""
 
 
