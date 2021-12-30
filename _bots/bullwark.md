@@ -1,16 +1,16 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Bullwark"
+title: "Bullwark (Rare Tank)"
 name: "Bullwark"
-description: "Rare Tank - Bullwark's front-facing shield makes it great at taking on a single enemy, or a group of enemies from the same direction."
+description: "A tank in the most classical sense. The big damage reduction from the front allows it to soak lots of damage, allowing Bullwaark to always keep pushing forwards to disturb and stun.\n- Speciality: aggro, tank & stun\n- Combo: placement & CC abilities to ensure no bot is flanking it\n- Note: Front Shield gets disabled under stun"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397823192842281/bullwark.png"
 breadcrumbs:
- Bots: "/bots"
- Tank: "/bots#tanks"
+  Bots: "/bots"
+  Tank: "/bots#tanks"
 
 
 botName: "Bullwark"
@@ -19,9 +19,10 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339782
 botType: "Tank"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Random Drop"
-botOpinion: "Frontliner"
-searchKeywords: "shield, tank, rare, stun"
+botAcquisition: "drop"
+botOpinion: "A tank in the most classical sense. The big damage reduction from the front allows it to soak lots of damage, allowing Bullwaark to always keep pushing forwards to disturb and stun."
+searchKeywords: "tank, shield , cc , stun, "
+
 
 ability1Name: "Punch"
 ability1Info: "Range: Melee , Attack Speed: 0.86s , Physical Damage: 100%"
@@ -41,7 +42,7 @@ ai1bDescription: "Increases Shockwave stun by 25%"
 ai2aName: "A: Fortitude"
 ai2aDescription: "Health increased by 15%"
 ai2bName: "B: Power Reroute"
-ai2bDescription: "Front Shield damage reduction increased by 30%"
+ai2bDescription: "Front Shield damage reduction increased by 30% but health decreased by 10%"
 ai3aName: "C: Reflective Shield"
 ai3aDescription: "Melee enemies who hit the Front Shield are Damaged"
 ai3bName: ""
@@ -79,12 +80,18 @@ commonMat2: "Hardened Fiberglass"
 commonMat3: "Rusty Cog"
 ---
 
-### Tips
-Put Bullwark in the front weakness is his rear since his shield is in the front
-
 ### 'Full Tank Build' by Hex
 - **BBCBB:** Strongest Defense is the best offense. Bullwark have a shield that can reflect damage and damage reduction by 30%.
 
-### Attack Tank Build by Hex
+### 'Attack Tank Build' by Hex
 - **ABCAA:** You can run but you can't hide from an attack tank, it protects and attacks at the same time.
+
+## Comments
+
+### Evaluation by Soft
+Highly competitive with [Chainer](/Chainer) and [Nozzle](/Nozzle), Bullwark is the most traditional tank out of the three. His movement speed is alright and he has a front-facing shield that reduces damage. It soaks a lot of damage, and more often than not he's facing the bot that's fighting him, but his shield gets deactivated when stunned. A classic tank and spanker. Tier A+.
+
+### Tips
+Put Bullwark in the front. Weakness is his rear since his shield is in the front
+
 
