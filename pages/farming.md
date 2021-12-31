@@ -172,6 +172,8 @@ Ordered by relevance, with details for each route in the post below:
 - Crater Dome
 - Scrapeyard DZ (special)
 
+Detailed maps can be found on the [Loot](/loot#ancient-ruins) page under Ancient Ruins
+
 ### Ancient ruins boat items: 
 
 - Crater Dome
