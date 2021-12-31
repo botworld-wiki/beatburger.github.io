@@ -12,10 +12,19 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2021-12-31
+
+- Updated page: [Seasons: The Season of the Snail](/seasons)
+
 ## 2021-12-30
 
 - [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
 - Updated page: [Sheller](/sheller) now has all the info!
+- Updated page: [Codex](/codex) with just about everything!
+- Wikisheets for materials and abilities now sorted alphabetically and synced
+- Wikisheet for bots updated and waiting for deployment
+- Missing page for [Dull Steel](/dull-steel) added
+- New [Gravity Surge](/gravity-surge) page
 
 ## 2021-12-29
 
