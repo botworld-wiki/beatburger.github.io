@@ -849,6 +849,7 @@ body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background
 img[alt^="50px"]{width: 50px;}
 img[alt^="100px"]{width: 100px;}
 img[alt^="200px"]{width: 200px;}
+img[alt^="300px"]{width: 300px;}
 img[alt^="inline"]{height: 30px;display: inline-block;vertical-align: middle;}
 img[alt^="left"]{float:left;margin-right: 30px}
 img[alt^="right"]{float:right;margin-left: 30px}
