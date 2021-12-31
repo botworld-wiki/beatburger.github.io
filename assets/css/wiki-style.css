@@ -846,13 +846,15 @@ body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background
 /* Editor Mode friendly image styles */
 /* dirty trick exploiting md's convenient access to the alt attribute */ 
 
-img[alt^="icon"]{width: 50px;}
+img[alt^="50px"]{width: 50px;}
+img[alt^="100px"]{width: 100px;}
+img[alt^="200px"]{width: 200px;}
 img[alt^="inline"]{height: 30px;display: inline-block;vertical-align: middle;}
 img[alt^="left"]{float:left;margin-right: 30px}
 img[alt^="right"]{float:right;margin-left: 30px}
 img[alt^="half-left"]{float:left;margin-right: 30px;width: 50%;}
 img[alt^="half-right"]{float:right;margin-left: 30px;width: 50%;}
 
-h2, h3{clear:both}
+h2{clear:both;}
 
 /* end Editor Mode friendly image styles */
