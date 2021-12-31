@@ -843,3 +843,14 @@ section iframe{
 body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
 #banner.no-webp{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
 
+/* Editor Mode friendly image styles */
+/* dirty trick exploiting md's convenient access to the alt attribute */ 
+
+img[alt^="icon"]{width: 50px;}
+img[alt^="inline"]{height: 30px;display: inline-block;vertical-align: middle;}
+img[alt^="left"]{float:left;margin-right: 30px}
+img[alt^="right"]{float:right;margin-left: 30px}
+img[alt^="half-left"]{float:left;margin-right: 30px;width: 50%;}
+img[alt^="half-right"]{float:right;margin-left: 30px;width: 50%;}
+
+/* end Editor Mode friendly image styles */
