@@ -14,7 +14,7 @@ breadcrumbs:
 
 ## 2021-12-31
 
-- Updated page: [Seasons: The Season of the Snail](/seasons)
+- Updated page: [Seasons: The Season of the Snail](/seasons#current-season-the-season-of-the-snail)
 
 ## 2021-12-30
 
