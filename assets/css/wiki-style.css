@@ -853,4 +853,6 @@ img[alt^="right"]{float:right;margin-left: 30px}
 img[alt^="half-left"]{float:left;margin-right: 30px;width: 50%;}
 img[alt^="half-right"]{float:right;margin-left: 30px;width: 50%;}
 
+h2, h3{clear:both}
+
 /* end Editor Mode friendly image styles */
