@@ -59,7 +59,28 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 <div markdown="1" class=" ghcms ghcms-currentseason">
 
-## Current season: Season of the Wind
+## Current season: The Season of the Snail
+
+[To Be Written](/contribute#tbw)
+
+### Rewards
+
+**Curated list**
+
+| Rank | 1 | 2 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30 | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | 59 | 60 |
+| - | - | - | - | - | - | - | - | - | - |
+| **Mayoral** | - | [Super Chest](/contribute#tbw) | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | [Super Chest](/contribute#tbw) | 30 | 32 | 34 | [Super Chest](/contribute#tbw) | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | [Super Chest](/contribute#tbw) | 59 | 60 |
+| **Citizen** | 1 | 2 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30 | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | [Super Chest](/contribute#tbw) | 60 |
+
+</div>
+
+
+
+<div markdown="1" class=" ghcms ghcms-previousseasons">
+
+## Previous seasons
+
+### Season 1: Season of the Wind
 
 [To Be Written](/contribute#tbw)
 
@@ -72,13 +93,6 @@ Any bot that's available as a reward in your current season, you can't find it a
 | **Mayoral** | [Gust](/gust) | [Hood White](/contribute#tbw) | 200g | [Bandana Yellow](/contribute#tbw) | [Lightning Rod](/lightning-rod) | [Googles Blue Raised](/contribute#tbw) | [Bot Effect Area](/bot-effect-area-rare) | 250g | [Tornado Bolt](/tornado-bolt) |
 | **Citizen** | [Ult Charge](/ult-charge-special) | [Hood Gold Trim](/contribute#tbw) | [Snowball](/snowball) | [Big Chest](/contribute#tbw) | [Gusto](/gusto) | [Big Chest](/contribute#tbw) | [Big Chest](/contribute#tbw) | [Gale](/gale) | [Goggle Monocle](/contribute#tbw) |
 
-</div>
-
-
-
-<div markdown="1" class=" ghcms ghcms-previousseasons">
-
-## Previous seasons
 
 ### Season 0: Early Acces reward
 
