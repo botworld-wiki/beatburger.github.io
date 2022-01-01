@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb, Pix"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Dull Steel"
 name: "Dull Steel"
-description: "Only found in <a href='/loot#scrap-piles'>Scrap Piles</a> - <a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - "
+description: "Farmable - Only found in scrap piles"
 imageUrl: "/assets/img/materials/dull-steel.png"
 breadcrumbs:
   Materials: "/materials"
