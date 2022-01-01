@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Glass Tube"
 name: "Glass Tube"
-description: "Often carried by <a href='/exploring#bandits'>Bandits</a> - <a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - "
+description: "Farmable - Often carried by bandits"
 imageUrl: "/assets/img/materials/glass-tube.png"
 breadcrumbs:
   Materials: "/materials"
