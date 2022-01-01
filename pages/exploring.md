@@ -65,14 +65,23 @@ Mobs display their level in different colors to give you an idea of the danger l
 
 ### Wild bots
 
-All there at the begining of the fight
+- All there at the begining of the fight
+-**Notably Drop:** [Sparky Wires](/sparky-wires), [Hard Botplates](/hard-botplates)
 
 
 ### Bandits
 
-Place bots at the same time as you do, so you can't plan quite as much.
+- Place bots at the same time as you do, so you can't plan quite as much.
+- They have a full [Botpack](/botpack), that means abilities and boosters!
+-**Notably Drop:** x-xx Gold, [Clear Oil](/clear-oil), [Glass Tube](/glass-tube)
 
-They have a full [Botpack](/botpack), that means abilities and boosters!
+There are 5 types of bandits:
+
+- **Cats:** Just your ordinary bandit.
+- **Rats:** Can mount cannons or energy blasters.
+- **Dog:** Ability to run extremely fast and can outrun you.
+- **Lizard:** Bandits with slowing nets.
+- **Buffalo:** Has an ability to charge at you, annoying to run into. Notably drop [Thick Oil](/thick-oil)
 
 ### Mega Bots
 
@@ -118,7 +127,7 @@ Mobs level grows to be at minimun **3 below your [Botpack level](/botpack#botpac
 All the **rabbits, scarabs, snakes**, etc.
 
 - Catch them by walking upon them
-- They drop scraps & sometimes [Brawler Batteries](/brawler-battery)
+- They drop scraps, notably: [Mini Sensor](/mini-sensor), [Brawler Batteries](/brawler-battery)
 - They spawn/despawn when you start a fight
 - Some flee, some attack and hurt
 
