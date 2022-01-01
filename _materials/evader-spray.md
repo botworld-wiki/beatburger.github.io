@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Evader Spray"
 name: "Evader Spray"
-description: "Only found <a href='/loot#by-the-water'>by the Water</a> - <a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - Upgrades <a href='/bots#brawlers' title='Every Brawler Bot'>Brawlers</a> past level 10."
+description: "Farmable - Upgrades Evaders past level 10 - Only found by the Water"
 imageUrl: "/assets/img/materials/evader-spray.png"
 breadcrumbs:
   Materials: "/materials"
