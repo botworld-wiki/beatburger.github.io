@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Tank Plating"
 name: "Tank Plating"
-description: "Only found on ridges, mountains or other high places - Upgrades <a href='/bots#splashers' title='Every Splasher Bot'>Splashers</a> past level 10."
+description: "Farmable - Upgrades Tanks past level 10 - Only found on ridges, mountains or other high places"
 imageUrl: "/assets/img/materials/tank-plating.png"
 breadcrumbs:
   Materials: "/materials"
@@ -17,10 +17,8 @@ matRarity: "Rare"
 matImageUrl: "/assets/img/materials/tank-plating.png"
 matRaritySortOrder: "3"
 matType: "Bot"
-matDescription: "Only found on ridges, mountains or other high places"
-matOverview: "Upgrades <a href='/bots#tanks' title='Every Tank Bot'>Tanks</a> past level 10."
+matDescription: "Only found on <a href='/loot#high-places'>ridges, mountains or other High Places</a>"
+matOverview: "<a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - Upgrades <a href='/bots#tanks' title='Every Tank Bot'>Tanks</a> past level 10."
 ---
 
 
-
- -
