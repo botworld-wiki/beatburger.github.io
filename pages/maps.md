@@ -21,8 +21,10 @@ breadcrumbs:
  [Saltwater Swamp](#saltwater-swamp)<br>
       [Parched Sea](#parched-sea) |
  [Spore Woods](#spore-woods) |
- [Ashen Shore](#ashen-shore)<br>
-      [Frozen Wastes](#frozen-wastes-dz) | [Molten Rock](#molten-rock-dz) | [Vivid Valley](#vivid-valley-dz) | [Scrapyard](#scrapyard-dz)
+ [Ashen Shore](#ashen-shore)
+ 
+ 
+**Danger Zones**: have their own [Danger Zones page](/danger-zones) 
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
@@ -153,39 +155,6 @@ breadcrumbs:
 [![Image](/assets/img/maps/ashen-shore-min.png)](/assets/img/maps/ashen-shore-min.png)
 
 </div>
-<div markdown="1" class=" ghcms ghcms-dangerzones">
 
-## Frozen Wastes (DZ)
-
-- **Requirements:**
-- **Mobs lvl:** 
-
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
-
-## Molten Rock (DZ)
-
-- **Requirements:**
-- **Mobs lvl:** 
-
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
-
-## Vivid Valley (DZ)
-
-- **Requirements:**
-- **Mobs lvl:** 
-
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
-
-## Scrapeyard (DZ)
-
-- **Requirements:**
-- **Mobs lvl:** 
-*
-![Image](https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png)
-
-</div>
 
 *Credit: Hex, cloud9*
