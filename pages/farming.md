@@ -131,13 +131,22 @@ Keep it short, make bank !
 
 
 
-## Best routes by resources
+## Routes
 
 A good route will have a high density of piles and chests, have the desired characteristics for the materials you're looking for, and have mostly bandits rather than wild bots.
 
 **You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just Sparky Wires make it worth it to have wild bots in your route, even if that decreases your gold earnings. It's all about compromise.
 
 Ordered by relevance, with details for each route in the post below:
+
+| Resource | Cobblestone Trail | Reef+Bay |  Monument+Fissure| Redleaf Ridge | 
+| -------- | ----------------- | -------- | ---------------- | ------------- | 
+|          |                   |          |                  |               |
+| Gold/min |  35               | 38       | 26               | 24            |
+| Gold/can |  73               | 109      | 70               | 62            |
+| Evader Spray |  +            | +        |                  |               |
+| Splasher Explosives |  +     | +        |                  |               |
+| Tank Plating |               | +        | +                | ++            |
 
 ### Gold: 
 
