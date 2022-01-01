@@ -56,9 +56,6 @@ breadcrumbs:
 
 [missing data](/contribute#tbw)
 
-
-## Scrap Piles
-
 ## Botframes
 
 <div markdown="1" class=" ghcms ghcms-botframes">
@@ -79,6 +76,9 @@ Ancient Ruins are traces of the old civilizations of human. Example: Old train t
 
 **Look out for the blue-ish buildings all around the map, and loot piles or chests nearby.**
 
+
+- **Notably drops:** [Heavy Steel](/heavy-steel), [Chaser Core](/chaser-core)
+
 ![Ancient Ruins in the Desert](https://cdn.discordapp.com/attachments/877549224324104212/880353585026723861/IMG_20210826_114654.jpg)
 
 
@@ -91,14 +91,41 @@ Ancient Ruins are traces of the old civilizations of human. Example: Old train t
 
 </div>
 
+
+<div markdown="1" class=" ghcms ghcms-highplaces">
+
 ## High Places
 
 Ridges, Mountains or other High Places
 
+- **Notably drops:** [Thick Tube](/thick-tube), [Tank Plating](/tank-plating)
 - Up until we get [the right maps](/contribute#tbw), you can make do with referring to the [Farming Guide](/farming)
 
 [To be written](/contribute#tbw)
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-bythewater">
+
+## By the Wather
+
+- **Notably drops:** [Rusty Cog](/rusty-cog), [Evader Spray](/evader-spray)
+- Up until we get [the right maps](/contribute#tbw), you can make do with referring to the [Farming Guide](/farming)
+
+[To be written](/contribute#tbw)
+
+</div>
+
+<div markdown="1" class=" ghcms ghcms-neartrees">
+
+## Near Trees
+
+- **Notably drops:** [Sticky Goo](/sticky-goo), [Splasher Explosives](/splasher-explosives)
+- Up until we get [the right maps](/contribute#tbw), you can make do with referring to the [Farming Guide](/farming)
+
+[To be written](/contribute#tbw)
+
+</div>
 
 <div markdown="1" class=" ghcms ghcms-droprates">
 
