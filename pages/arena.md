@@ -11,6 +11,10 @@ breadcrumbs:
 
 # Arena Guide
 
+<div markdown="1" class=" ghcms ghcms-intro">
+
+</div>
+
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#solo-arena">Solo Arena</a></li>
   <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
@@ -23,11 +27,13 @@ breadcrumbs:
 </ul>
 
 
+
+
 ## Solo Arena
 
 <div markdown="1" class=" ghcms ghcms-solo">
 
-### Rewards
+### Notable Rewards
 
 - 500: [Longshot](/longshot)
 - 1000: [Chainer](/chainer)
@@ -36,6 +42,22 @@ breadcrumbs:
 - 4000: [Nozzle](/nozzle)
 - 5000: [Hornet](/hornet)
 - 6000: Crown
+
+### System
+
+- **Opponents:** they're player-created [Comps](/comps), controlled by the game AI.
+- **Matchmaking:** You get matched against opponents at around the same rank as yours. If you've been performing better than most people at your level, you'll end up facing harder and harder opponents! 
+- **Arena level:** the level displayed in arena isn't the actual [Botpack Level](/botpack#botpack-level), but simply the average of the 6 bots used. It has no impact on anything.
+- **Gains/Losses:** The higher your absolute ranking, the less you will earn per win, and the more you will lose per loss. 
+
+| Ranking Range | 0-1k | 1k-2k | 2k-3k | 3k-4k | 4k-5k | 5k+ |
+|---------------|------|-------|-------|-------|-------|-----|
+| Opponents lvl | 4-11 | 8-13  | 10-16 | 14-21 | 20-25 | 25  |
+| Points\*     | +?/-? | +?/-?  | +?/-? | +50/-50 | +3x/-6x | +10/-70  |
+
+- Just know that you will always face outliers, simply because they've performed better or worse than others for their current level
+- \* [very rough estimates from memory](/contribute#tbw)
+
 
 ### Tips
 
