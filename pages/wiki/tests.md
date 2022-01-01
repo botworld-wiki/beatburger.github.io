@@ -1,9 +1,9 @@
 ---
 
-layout: testing
-permalink: /tests
-title: Botworld Adventure community Wiki
-description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
+layout: default
+permalink: /
+title: Botworld Adventure Wiki, by the community
+description: Everything about every Bot, Ability, Map,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
 
 ---
 
@@ -120,118 +120,36 @@ description: Everything about Bots, Abilities, Maps,.. anything in Botworld ! Al
             {% endfor %}
         </ul>
     </div>
-    <div class="toc-block toc-block-big" id="home_Botmaster">
-        <a class="toc-block-title" href="#botmasters" title="Everything about becoming a great Botmaster">
-            <img loading="lazy"  src="/assets/img/icons/botpack.png" alt="Botmaster articles logo">
-            <h2 id="Botmasters">Botmasters</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/bots">
-                <span>Robopedia</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/botpack">
-                <span>Botpack</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/abilities">
-                <span>Abilities</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/boosters">
-                <span>Boosters</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Recruits</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#botmasters">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
-    <div class="toc-block toc-block-big" id="home_Botworld">
-        <a class="toc-block-title" href="#botworld" title="Everything about the Botworld universe">
-            <img loading="lazy"  src="/assets/img/icons/boat.png" alt="Botworld articles logo">
-            <h2 id="Botworld">Botworld</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Explo & Danger Zones Tips</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/maps">
-                <span>Maps</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Business Boat upgrades</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/arena-masters">
-                <span>Arena Masters</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/materials">
-                <span>Bots & Boat Materials</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#botworld">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
-    <div class="toc-block toc-block-big" id="home_Guide">
-        <a class="toc-block-title" href="#guides" title="Every guide we have here">
-            <img loading="lazy"  src="/assets/img/icons/list.png" alt="Guides articles logo">
-            <h2 id="Guides">Guides</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/getting-started">
-                <span>Getting Started</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Grouper Comp</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Farming Guide &amp; Routes</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/contribute#tbw">
-                <span>Arena Crown</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#guides">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
 </div>
 
-<div markdown="1" class=" ghcms ghcms-news">
+
 
 ## Botworld Adventures News
 
-- [Ptage talks about us!](/news): 
+
+<div markdown="1" class="grid-box tall ghcms ghcms-homenews">
+
+- [Sheller](/sheller): complete with stats and everything!
+- [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jqeymvKmIs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Community Wiki Launch](/news): We’re excited to have you check it out!
-- [Teddies of Scrapyard](/news): Find all of the hidden teddy bears in the Scrapyard Danger Zone! Event ends Jan. 3rd.
-- [New Bot Coming soon](/news): there's also a gems giveaway on the official socials.
+- [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
+- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)
+
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-main">
 
 ## New player ?
 
+
+
+
+
+<div class="grid">
+  
+<div markdown="1" class="grid-box">
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
 
@@ -242,71 +160,62 @@ Botworld is well worth exploring at your own pace, and won’t punish you for tr
 Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/guides/getting-started). 
 
 </div>
-<span class="menu-link-target" id="all"></span>
-
-
-<div class="grid">
     
-<div markdown="1" class="grid-box ghcms ghcms-botmasters">
+<div markdown="1" class="grid-box">
 
+<span class="menu-link-target" id="all"></span>
+<span class="menu-link-target" id="wiki"></span>
+  
 ## Botmasters
 
-- [Bots](/bots): bots detailed list & types/roles presentation
+- [Bots](/bots): our Robopedia has everything already.
     - [Starter Bots](/starter-bots)
-- [Botpack](/botpack): botpack presentation (& concise module lists for easy access from the menu) 
-    - [Abilities](/abilities): abilities detailed list
-    - [Boosters](/boosters): booster detailed list
-    - [Gadgets](/botpack#gadgets): gadgets list
-- [Recruits](/contribute#tbw): why you need to show them some love in general
-    - [Jobs](/contribute#tbw): advice, mechanics, listing
-- ...
+- [Botpack](/botpack): infos about Power, Level, Fusing, and compact Modules lists.
+    - [Abilities](/abilities): full list.
+    - [Boosters](/boosters): full list.
+    - [Gadgets](/botpack#gadgets): full list.
+- [Comps & Combos](/comps): general Composition tips, Grouper Comp, and cool Combos.
+- [Recruits](/recruits): how their fights work, usage & comp tips.
+    - [Jobs](/jobs): mechanics, list, & tips.
+- [Business Upgrades](/business): list, selection tips, and level unlocks.
+- [Getting Started](/getting-started): introductory guide to get you started on the right foot.
 
 </div>
 
-
-
-<div markdown="1" class="grid-box tall ghcms ghcms-botworld">
+<div markdown="1" class="grid-box">
 
 ## Botworld
 
-- [Exploration & Danger Zones](/contribute#tbw): Tips, Critters, Mega, Bosses, Random Encounters, reset trick...
-    - [Maps](/maps): full pics, annotations, unlocks
-    - [Materials](/materials): [Bots](/materials#bots) & [Boat](/materials#boat)
-    - [Contracts](/contribute#tbw):
-    - [Exterminator squads](/contribute#tbw):
-- [Scavenger Landing](/contribute#tbw): shop, hair draisser, aunty... mentions arena etc
-    - [Business Boat upgrades](/contribute#tbw): boat pictures & unlocks per level...
-    - [Arena](/arena):
-    - [Arena Masters](/arena-masters): List, descriptions, rewards, tips
-    - [Seasons](/seasons): Starter Season vs Global Season, most notable rewards etc.
-    - [Notable characters](/contribute#tbw): the cool npcs
-- [Mechanics](/contribute#tbw): lvl scaling, IA, recruits simulations...
-    - [Loot](/loot): botframes, materials, loot piles, zoning, drop rates...
-- [Botworld Adventure News archive](/news): New bots, updates, anything that's happening.
-- ...
+- [Exploring](/exploring): Infos and Tips about Canisters, Mobs, Critters, Mega, Bosses, Random Encounters, Level Scaling...
+    - [Maps](/maps): Full Pictures, Wild Bots, Locations of Interest...  
+    - [Danger Zones](/danger-zones): Tips, Random Encounters, Exterminator Squads...
+    - [Farming](/farming): the most efficient ways to get lots of anything.
+    - [Bots Materials](/materials): full list.
+    - [Story & Boat Materials](/boat-materials): list & maps.
+    - [Codex](/codex): the new Codex missions & outfits.
+    - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
+- [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
+- [Seasons](/seasons): Starter Season vs Global Season, Rewards.
+    - [Contracts](/contracts): list.
+- [Story](/story): Quests, Characters (NPCs), Lore 
 
 </div>
 
-<div markdown="1" class="grid-box ghcms ghcms-guides">
-
-## Guides
-
-- [Getting Started](/guides/getting-started): 
-- [Grouper Comp](/contribute#tbw):
-- [Farming Guide &amp; Routes](/contribute#tbw):
-- [Arena Crown](/contribute#tbw):
-- ...
-
-</div>
     
-<div markdown="1" class="grid-box ghcms ghcms-wiki">
+<div markdown="1" class="grid-box">
 
-## Community Wiki
+<span class="menu-link-target" id="community"></span>
+<span class="menu-link-target" id="community-wiki"></span>
 
+## Community Adventure
+
+- [BWA News & Updates](/news): New Bots, Game Updates, anything that's happening.
+- [YouTubers & Streamers](/content-creators): Check these out! 
+- [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
 - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
-- [Changelog](/changelog): What's new on the wiki ?
 - [Credits](/credits): A big **Thank You** to everyone!
-- [Roadmap](/roadmap): What's planned? Ideas for later go there.
+- [Wiki Changelog](/changelog): What's new on the wiki ?
+- [Discord Bot](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
 
 </div>
 
