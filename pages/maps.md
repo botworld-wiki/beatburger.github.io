@@ -24,7 +24,10 @@ breadcrumbs:
  [Ashen Shore](#ashen-shore)
  
  
-**Danger Zones**: have their own [Danger Zones page](/danger-zones) 
+- **Danger Zones**: have their own [Danger Zones page](/danger-zones) 
+- **Codex walkthrough maps:** [Codex](/codex)
+- **Special Loot Locations**: [ancient ruins, etc ](/loot)
+- **Story & Boat special items:** [Story & Boat materials](/boat-materials) 
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
