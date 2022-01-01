@@ -561,11 +561,11 @@ nav.fixed {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
+    justify-content: flex-end;
 }
 .menu .menu-links {
 	display: flex;
 	flex-wrap: wrap;
-	flex-grow: 1;
 }
 .menu .menu-links > *{
 	flex-grow: 1;
