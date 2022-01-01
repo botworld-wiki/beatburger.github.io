@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Support Chip"
 name: "Support Chip"
-description: "Often found when fighting multiple enemies simultaneously - Upgrades <a href='/bots#chasers' title='Every Chaser Bot'>Chasers</a> past level 10."
+description: "Upgrades Supports past level 10 - Often found when fighting multiple enemies simultaneously"
 imageUrl: "/assets/img/materials/support-chip.png"
 breadcrumbs:
   Materials: "/materials"
@@ -17,6 +17,8 @@ matRarity: "Rare"
 matImageUrl: "/assets/img/materials/support-chip.png"
 matRaritySortOrder: "3"
 matType: "Bot"
-matDescription: "Often found when fighting multiple enemies simultaneously"
+matDescription: "Often found when <a href='/exploring#multiple-enemies'>fighting multiple enemies</a> simultaneously"
 matOverview: "Upgrades <a href='/bots#supports' title='Every Support Bot'>Supports</a> past level 10."
 ---
+
+
