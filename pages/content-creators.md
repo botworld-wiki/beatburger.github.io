@@ -20,6 +20,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
     <li class="toc-block-entry"><a href="#ezraden">Ezraden</a></li>
     <li class="toc-block-entry"><a href="#devils-knights">Devils Knights</a></li>
     <li class="toc-block-entry"><a href="#ptage">Ptage</a></li>
+    <li class="toc-block-entry"><a href="#super-sairen">Super Sairen</a></li>
 </ul>
 
 
@@ -86,6 +87,25 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 </div>
 
+<div class="content-creator">
+<div markdown="1">
+
+## Super Sairen
+
+![Super Sairen Profile Pic](https://cdn.discordapp.com/attachments/926470990119198730/926746118967160862/Edited_20220101_024626.jpg)
+
+*Botworld is one of those rare games that is for all ages. Between the colorful artwork, the imagination behind Botworld lore, and seemingly endless combination of battle strategies there's something everyone can enjoy. Botworld might seem overwhelming to some, but hopefully one may find respite in my walkthroughs and general advice because everybody deserves to enjoy Botworld. I open the comment section of my YouTube videos to any and all who wish to discuss anything Botworld. Happy scraping!*
+
+
+- **Link:** [Super Sairen Botworld playlist](https://www.youtube.com/playlist?list=PLy6N2Ix4iZ9BK95Syz_mdx58Pk85NcEHn)
+- **Tags:**  Walkthroughs, Gameplay, Codex Serie
+- **Showcased Video:** 
+
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Df86ngcA5zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 </div>
 
