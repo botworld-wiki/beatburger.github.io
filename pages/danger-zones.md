@@ -45,26 +45,94 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 
 ![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
+## Heroic mode
+
+- **Unlock:** by progressing through the main Story
+- **Difficulty:** HIGHER
+- **Rewards:** [Rare & Epic chests](/loot#chests) respawn
+- **New Encounters:** CleanerBots & [Exterminator Squads](#exterminator-squads) after a point.
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-dzs">
+
+
+<div markdown="1" class=" ghcms ghcms-frozenwastes">
 
 ## Frozen Wastes
 
 Snowball Canons
 
+### Regular
+- **Requirements:** [Boat](/business) level 5
+- **Mobs lvl:** 5-12 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+([Iirc the minimum mob level for frozen wastes is lvl 7(atleast in my case) but when I looked up  through few sources it is showing lvl 5 and somewhere else it's showing lvl 7. Can anyone confirm?](/contribute#tbw) )
+
+### Heroic
+- **Requirements:**
+- **Mobs lvl:** 
+
+![Image](
+https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
+
+</di>
+
+<div markdown="1" class=" ghcms ghcms-moltenrocks">
+
 ## Molten Rocks
 
 Floor is lava
+
+### Regular
+- **Requirements:** [Boat](/business) level 8
+- **Mobs lvl:** 11-16 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+### Heroic
+- **Requirements:**
+- **Mobs lvl:** 
+
+![Image](
+https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
+
+</di>
+
+<div markdown="1" class=" ghcms ghcms-vividvalley">
 
 ## Vivid Valley
 
 Sneks
 
+
+### Regular
+- **Requirements:** [Boat](/business) level 10
+- **Mobs lvl:** 15-19 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+### Heroic
+- **Requirements:**
+- **Mobs lvl:** 
+
+![Image](
+https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
+
+</di>
+
+<div markdown="1" class=" ghcms ghcms-scrapeyard">
+
 ## Scrapeyard
 
 Teddy Bears (check [the Event](/news))
+
+
+### Regular
+- **Requirements:** [Boat](/business) level 12
+- **Mobs lvl:** 18-21 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+### Heroic
+- **Requirements:**
+- **Mobs lvl:** 
+
+![Image](https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png)
+
 
 ## Exterminator Squads
 
@@ -90,4 +158,4 @@ Teddy Bears (check [the Event](/news))
 
 </div>
 
-*Credit: Pix, Xen*
+*Credit: Pix, Xen, BloodxReaper*
