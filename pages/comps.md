@@ -83,6 +83,8 @@ Thus, you'll usually want build such a comp around:
 
 ### Cleanup & Utility
 
+Your 2-3 free bot slots
+
 - **Cleaner:** But sometimes the opener isn't enough to actually close the fight by itself, like when your opponent has 6 bots in [Arena](/arena) or they're a [Boss](/exploring#bosses). That's what you need Cleaners for. They're usually high mobility or ranged bots: [Fork](/fork), [Ram](/ram), [Virus](/virus) (Hack is ranged), [Longshot](/longshot)...
 - **Utility:** It's good to save 1 or 2 bot slots to have the right counter in difficult situations. Like [Mega Bots](/exploring#mega-bots) or when your [Canister](/exploring#canister) is getting empty. Maybe then you'd rather use a regular tanky [Tank](/bots#tanks) instead of Chainer whenever you can do without it and save some of its precious HP.
 
