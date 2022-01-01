@@ -1,7 +1,7 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Layered Fiberglass"
@@ -17,6 +17,8 @@ matRarity: "Special"
 matImageUrl: "/assets/img/materials/layered-fiberglass.png"
 matRaritySortOrder: "2"
 matType: "Bot"
-matDescription: "Often found in chests"
+matDescription: "Often found in <a href='/loot#regular-chests'>Chests</a>"
 matOverview: ""
 ---
+
+
