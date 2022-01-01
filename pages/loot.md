@@ -72,8 +72,11 @@ Ancient Ruins are traces of the old civilizations of human. Example: Old train t
 
 </div>
 
-## High Grounds
+## High Places
 
+Ridges, Mountains or other High Places
+
+- Up until we get [the right maps](/contribute#tbw), you can make do with referring to the [Farming Guide](/farming)
 
 [To be written](/contribute#tbw)
 
