@@ -635,7 +635,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 }
 .dropdown-block * { background: none !important; }
 
-.menu-search { position:relative; bottom: 7px; }
+.menu-search { position:relative; bottom: 7px; height: 30px;}
 .menu-search input { height: 25px; width: 160px !important; }
 
 /* start media query */
