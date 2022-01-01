@@ -685,6 +685,11 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 	}
 	.menu-search input { height: 25px; width: 80%; }
 
+	   ul#results-container {
+	       position: relative;
+	       top: 32px;
+	   }
+
 	/* okay now I'm being clever to cover my stupid ass */
 
   .mask { position: fixed; top: 0; left: 0; background-color: #403d3d; width: 75%; max-width:400px; height: 70px ;
