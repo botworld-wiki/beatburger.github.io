@@ -581,7 +581,6 @@ nav.fixed .menu { display: none; position: relative; bottom: 3px; background-col
 
 nav.fixed .menu .regular-menu-label { display: none; }
 nav.fixed .menu{ justify-content: right; }
-nav.fixed .menu .menu-search{ max-width: 20%; }
 
 
 .menu .tab-label { padding: 20px !important}
@@ -686,7 +685,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 301;
 	}
 
-	  nav #dropdown-checkbox:checked+menu ul#results-container {
+	  nav #dropdown-checkbox:checked+.menu ul#results-container {
 	       position: relative;
 	       top: 32px;
 	   }
