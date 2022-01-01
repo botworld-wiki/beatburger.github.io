@@ -75,7 +75,7 @@ Snowball Canons
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
 
-</di>
+</div>
 
 <div markdown="1" class=" ghcms ghcms-moltenrocks">
 
@@ -94,7 +94,7 @@ Floor is lava
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
 
-</di>
+</div>
 
 <div markdown="1" class=" ghcms ghcms-vividvalley">
 
@@ -114,7 +114,7 @@ Sneks
 ![Image](
 https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
 
-</di>
+</div>
 
 <div markdown="1" class=" ghcms ghcms-scrapeyard">
 
@@ -158,4 +158,4 @@ Teddy Bears (check [the Event](/news))
 
 </div>
 
-*Credit: Pix, Xen, BloodxReaper*
+*Credit: Pix, Xen*
