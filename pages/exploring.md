@@ -55,6 +55,14 @@ Don't worry, you don't actually die or lose anything besides you Can Energy left
 
 <div markdown="1" class=" ghcms ghcms-mobs">
 
+### Danger color codes
+
+Mobs display their level in different colors to give you an idea of the danger level of fighting them:
+
+- **Red:** dangerous, high ai exp gain
+- **Yellow:** fight with caution, medium ai exp gain
+- **Green:** easy, low ai exp gain
+
 ### Wild bots
 
 All there at the begining of the fight
