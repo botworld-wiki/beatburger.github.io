@@ -13,7 +13,7 @@ breadcrumbs:
   
 <div markdown="1" class=" ghcms ghcms-main">
 
-Your Composition of [Bots](/bots) & Botpack Modules](/botpack) (comp) is what defines what kind of Botmaster you will be in a fight.
+Your Composition of [Bots](/bots) & [Botpack Modules](/botpack) (comp) is what defines what kind of Botmaster you will be in a fight.
 
 Powerful combos are the cornerstone of any good comp, and some will only involve bots, but others will rely on [Abilities](/abilities) or [Boosters](/boosters) 
 
@@ -39,9 +39,6 @@ Powerful combos are the cornerstone of any good comp, and some will only involve
 </div>
 
 <div markdown="1" class=" ghcms ghcms-grouper">
-
-## Grouper Comp
-
 
 ## Grouper Comp
 
