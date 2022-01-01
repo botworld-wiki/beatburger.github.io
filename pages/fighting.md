@@ -27,6 +27,19 @@ Time to get your Bots to battle! Advice, tactical tips, combat mechanics, everyt
 
 You and your opponent place your bots at the same time. The AI doesn't get to see your pick before they make theirs.
 
+## Concepts
+
+### AoE
+
+Area of Effect (AoE) is used any effect that applies to a zone or a group of bots all at once.
+
+### CC
+
+Crowd Control (CC) describes any effect that focuses on giving you a tactical advantage. Like anything that disables or hinders enemy bots or shifts the battleground in your favor: Stun (=freeze), [Gust](/gust), [Vortex](/vortex), [Barrier Wall](/barrier-wall), [Hyperdrain](/hyperdrain)...
+
+### Evasion
+
+Sometimes you need a panic button to get a bot out of trouble right now, so it can keep dealing damage with whatever little HP it has left. [Abilities](/abilities) like: [CT](/chaos-translocator), [Shield](/shield)...
 
 ## Use the right Bot for the situation
 
