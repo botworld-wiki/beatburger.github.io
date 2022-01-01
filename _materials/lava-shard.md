@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Lava Shard"
 name: "Lava Shard"
-description: "Spotted in the farthest reaches of the Heroic Frozen Wastes Danger Zone and marked on your map - Req. for Boat level 14"
+description: "Req. for Boat level 14 - Spotted in the farthest reaches of the Heroic Frozen Wastes Danger Zone and marked on your map"
 imageUrl: "/assets/img/materials/lava-shard.png"
 breadcrumbs:
   Materials: "/materials"
@@ -17,6 +17,8 @@ matRarity: "Epic"
 matImageUrl: "/assets/img/materials/lava-shard.png"
 matRaritySortOrder: "4"
 matType: "Boat"
-matDescription: "Spotted in the farthest reaches of the Heroic Frozen Wastes Danger Zone and marked on your map"
+matDescription: "Spotted in the farthest reaches of the <a href='/danger-zones#heroic'>Heroic</a> Frozen Wastes <a href='/danger-zones'>Danger Zone</a> and marked on your map"
 matOverview: "Req. for Boat level 14"
 ---
+
+
