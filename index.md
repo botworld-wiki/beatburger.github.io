@@ -143,9 +143,9 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div class="grid">
   
-<span class="menu-link-target hacky-layout-balancing"></span>
 <div markdown="1" class="grid-box ghcms ghcms-newplayer">
-  
+
+<span class="menu-link-target hacky-layout-balancing"></span>
   
 ## New player ?
 
@@ -160,11 +160,11 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 </div>
 
 
-<span class="menu-link-target" id="all"></span>
-<span class="menu-link-target" id="wiki"></span>
     
 <div markdown="1" class="grid-box">
 
+<span class="menu-link-target" id="all"></span>
+<span class="menu-link-target" id="wiki"></span>
   
 ## Botmasters
 
@@ -202,10 +202,10 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 </div>
 
     
+<div markdown="1" class="grid-box">
+
 <span class="menu-link-target" id="community"></span>
 <span class="menu-link-target" id="community-wiki"></span>
-
-<div markdown="1" class="grid-box">
 
 
 ## Community Adventure
