@@ -1,7 +1,7 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Hardened Fiberglass"
@@ -17,6 +17,8 @@ matRarity: "Common"
 matImageUrl: "/assets/img/materials/hardened-fiberglass.png"
 matRaritySortOrder: "1"
 matType: "Bot"
-matDescription: "Often found in runaway chestbots"
+matDescription: "Often found in <a href='/loot#runaway-chestbots'>Runaway Chestbots</a>"
 matOverview: ""
 ---
+
+
