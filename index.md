@@ -141,10 +141,13 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 </div>
 
 
+<div class="grid">
+  
+<span class="menu-link-target hacky-layout-balancing"></span>
+<div markdown="1" class="grid-box ghcms ghcms-newplayer">
+  
+  
 ## New player ?
-
-
-<div markdown="1" class="grid-box tall ghcms ghcms-newplayer">
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
 
@@ -155,13 +158,13 @@ Botworld is well worth exploring at your own pace, and won’t punish you for tr
 Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/guides/getting-started). 
 
 </div>
+
+
 <span class="menu-link-target" id="all"></span>
 <span class="menu-link-target" id="wiki"></span>
-
-
-<div class="grid">
     
-<div markdown="1" class="grid-box ghcms ghcms-botmasters">
+<div markdown="1" class="grid-box">
+
   
 ## Botmasters
 
@@ -179,7 +182,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 </div>
 
-<div markdown="1" class="grid-box ghcms ghcms-botworld">
+<div markdown="1" class="grid-box">
 
 ## Botworld
 
@@ -198,11 +201,12 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 </div>
 
-
+    
 <span class="menu-link-target" id="community"></span>
 <span class="menu-link-target" id="community-wiki"></span>
-    
-<div markdown="1" class="grid-box ghcms ghcms-community">
+
+<div markdown="1" class="grid-box">
+
 
 ## Community Adventure
 
