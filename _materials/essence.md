@@ -6,20 +6,19 @@ updatedAt: "2022-01-01"
 
 title: "Essence"
 name: "Essence"
-description: "'Upgrade Bots past level 20. You can still get essences for lv25 bots"
-imageUrl: " - Every bot has their own Essences'"
-breadcrumbs: "/assets/img/materials/essence.png"
-  Materials: ""
-# Upgrade Materials: "/materials"
-matName: ""
-matRarity: "Essence"
-matImageUrl: "Epic"
-matRaritySortOrder: "/assets/img/materials/essence.png"
-matType: "4"
-matDescription: "Bot"
-matOverview: "Every bot has their own Essences"
-undefined: "'Upgrade Bots past level 20. You can still get essences for lv25 bots"
-undefined: "'"
+description: "Upgrade Bots past level 20. You can still get essences for lv25 bots - Every bot has their own Essences"
+imageUrl: "/assets/img/materials/essence.png"
+breadcrumbs:
+  Materials: "/materials"
+
+
+matName: "Essence"
+matRarity: "Epic"
+matImageUrl: "/assets/img/materials/essence.png"
+matRaritySortOrder: "4"
+matType: "Bot"
+matDescription: "Every bot has their own Essences"
+matOverview: "Upgrade Bots past level 20. You can still get essences for lv25 bots"
 ---
 
 
