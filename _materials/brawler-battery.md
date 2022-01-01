@@ -1,24 +1,24 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
-title: "Brawler Battery"
-name: "Brawler Battery"
-description: "Often found by <a href='/exploring#critters'>catching a Critter</a> - Upgrades <a href='/bots#snipers' title='Every Sniper Bot'>Snipers</a> past level 10."
-imageUrl: "/assets/img/materials/brawler-battery.png"
+title: "Chaser Core"
+name: "Chaser Core"
+description: "Farmable - Upgrades Chasers past level 10 - Only found near ancient ruins"
+imageUrl: "/assets/img/materials/chaser-core.png"
 breadcrumbs:
   Materials: "/materials"
 
 
-matName: "Brawler Battery"
+matName: "Chaser Core"
 matRarity: "Rare"
-matImageUrl: "/assets/img/materials/brawler-battery.png"
+matImageUrl: "/assets/img/materials/chaser-core.png"
 matRaritySortOrder: "3"
 matType: "Bot"
-matDescription: "Often found by <a href='/exploring#critters'>catching a Critter</a>"
-matOverview: "<a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - Upgrades <a href='/bots#brawlers' title='Every Brawler Bot'>Brawlers</a> past level 10."
+matDescription: "Only found near <a href='/loot#ancient-ruins'>Ancient Ruins</a>"
+matOverview: "<a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - Upgrades <a href='/bots#chasers' title='Every Chaser Bot'>Chasers</a> past level 10"
 ---
 
 
