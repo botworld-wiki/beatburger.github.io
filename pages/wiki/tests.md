@@ -145,6 +145,8 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
   
 <div markdown="1" class="grid-box">
   
+<span class="menu-link-target hacky-layout-balancing"></span>
+  
 ## New player ?
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
