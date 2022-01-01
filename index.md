@@ -120,102 +120,6 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
             {% endfor %}
         </ul>
     </div>
-    <div class="toc-block toc-block-big" id="home_Botmaster">
-        <a class="toc-block-title" href="#botmasters" title="Everything about becoming a great Botmaster">
-            <img loading="lazy"  src="/assets/img/icons/botpack.png" alt="Botmaster articles logo">
-            <h2 id="Botmasters">Botmasters</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/bots">
-                <span>Robopedia</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/botpack">
-                <span>Botpack</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/abilities">
-                <span>Abilities</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/boosters">
-                <span>Boosters</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/recruits">
-                <span>Recruits</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#botmasters">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
-    <div class="toc-block toc-block-big" id="home_Botworld">
-        <a class="toc-block-title" href="#botworld" title="Everything about the Botworld universe">
-            <img loading="lazy"  src="/assets/img/icons/boat.png" alt="Botworld articles logo">
-            <h2 id="Botworld">Botworld</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/exploring">
-                <span>Exploring</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/maps">
-                <span>Maps</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/danger-zones">
-                <span>Danger Zones</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/materials">
-                <span>Bots Materials</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/boat-materials">
-                <span>Story & Boat Materials</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#botworld">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
-    <div class="toc-block toc-block-big" id="home_Guide">
-        <a class="toc-block-title" href="#guides" title="Every guide we have here">
-            <img loading="lazy"  src="/assets/img/icons/list.png" alt="Guides articles logo">
-            <h2 id="Guides">Guides</h2>
-        </a>
-        <ul class="toc-block-list">
-            <li class="toc-block-entry">
-                <a href="/getting-started">
-                <span>Getting Started</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/comps">
-                <span>Comps & Combos</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/farming">
-                <span>Farming Guide &amp; Routes</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/arena">
-                <span>Arena & Arena Masters</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/codex">
-                <span>Codex</span></a>
-            </li>
-            <li class="toc-block-entry">
-                <a href="/#wiki">
-                <span>More...</span></a>
-            </li>
-        </ul>
-    </div>
 </div>
 
 
@@ -275,7 +179,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 </div>
 
-<div markdown="1" class="grid-box tall ghcms ghcms-botworld">
+<div markdown="1" class="grid-box ghcms ghcms-botworld">
 
 ## Botworld
 
