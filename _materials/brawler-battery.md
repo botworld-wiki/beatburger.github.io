@@ -6,7 +6,7 @@ updatedAt: "2021-12-20"
 
 title: "Brawler Battery"
 name: "Brawler Battery"
-description: "Often found by catching a critter - Upgrades <a href='/bots#snipers' title='Every Sniper Bot'>Snipers</a> past level 10."
+description: "Often found by <a href='/exploring#critters'>catching a Critter</a> - Upgrades <a href='/bots#snipers' title='Every Sniper Bot'>Snipers</a> past level 10."
 imageUrl: "/assets/img/materials/brawler-battery.png"
 breadcrumbs:
   Materials: "/materials"
@@ -17,6 +17,8 @@ matRarity: "Rare"
 matImageUrl: "/assets/img/materials/brawler-battery.png"
 matRaritySortOrder: "3"
 matType: "Bot"
-matDescription: "Often found by catching a critter"
-matOverview: "Upgrades <a href='/bots#brawlers' title='Every Brawler Bot'>Brawlers</a> past level 10."
+matDescription: "Often found by <a href='/exploring#critters'>catching a Critter</a>"
+matOverview: "<a href='/farming' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - Upgrades <a href='/bots#brawlers' title='Every Brawler Bot'>Brawlers</a> past level 10."
 ---
+
+
