@@ -662,7 +662,7 @@ nav.fixed .menu .menu-search{ max-width: 20%; }
 		z-index: 300;
 		border-radius: 0px !important;
 	}
-	.dropdown-block {width: 100% !important; padding-right: 0px !important;}
+	.dropdown-block {width: 100% !important; padding: 0px !important;}
 	.dropdown-block ul { margin-left: 20px !important }
 
 	.extended-menu ul{ 
