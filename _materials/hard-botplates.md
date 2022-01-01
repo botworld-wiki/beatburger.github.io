@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Hard Botplates"
 name: "Hard Botplates"
-description: "Often found on <a href='/exploring#wild-bots'>Wild Bots</a> - <a href='/farming#routes' title='You can increase your chances of finding this material by grinding the right routes'>Farmable</a> - "
+description: "Farmable - Often found on wild bots"
 imageUrl: "/assets/img/materials/hard-botplates.png"
 breadcrumbs:
   Materials: "/materials"
