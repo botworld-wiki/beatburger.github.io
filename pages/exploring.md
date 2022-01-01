@@ -66,14 +66,14 @@ Mobs display their level in different colors to give you an idea of the danger l
 ### Wild bots
 
 - All there at the begining of the fight
--**Notably Drop:** [Sparky Wires](/sparky-wires), [Hard Botplates](/hard-botplates)
+- **Notably Drop:** [Sparky Wires](/sparky-wires), [Hard Botplates](/hard-botplates)
 
 
 ### Bandits
 
 - Place bots at the same time as you do, so you can't plan quite as much.
 - They have a full [Botpack](/botpack), that means abilities and boosters!
--**Notably Drop:** x-xx Gold, [Clear Oil](/clear-oil), [Glass Tube](/glass-tube)
+- **Notably Drop:** x-xx Gold, [Clear Oil](/clear-oil), [Glass Tube](/glass-tube)
 
 There are 5 types of bandits:
 
@@ -107,6 +107,7 @@ Same. You get [Season Reward Tokens](/seasons) for beating them!
 - It doesn't seem to benefit to do 3+ fights at once.
 - Your [Canister](#canister) can't heal you between fights, so be careful!
 - **Tip:** When expecting a difficult multi-fight, be proactive and use your best gadgets early on so your A-team is still up for the next fights!
+- **Notably Drops:** [Frost Fuel](/frost-fuel), [Matte Coating](/matte-coating), [Support Chip](/support-chip)
 
 </div>
 
