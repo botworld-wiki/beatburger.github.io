@@ -24,12 +24,12 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 
 ## Tips
 
-- plan your route carefully
-- keep your priorities straight
-- every bit of energy is precious, avoid & dodge as many fights as you can
-- use your [Recruits](/recruits) as decoy to dodge Megas and Bosses
-- any gadget left when you die is a wasted slot
-- use the environment to harm your foes!
+- [Plan your route](/maps) carefully
+- Keep your priorities straight
+- Every bit of [Can Energy](/exploring#canister) is precious, avoid & dodge as many fights as you can
+- Use your [Recruits](/recruits) as decoy to dodge [Megas Bots](/exploring#mega-bots) and [Bosses](/exploring#bosses)
+- Any [Gadget](/botpack#gadgets) left when you die is a wasted slot
+- Use the environment to harm your foes!
 
 ## Situations and Events 
 
@@ -68,6 +68,26 @@ Teddy Bears (check [the Event](/news))
 
 ## Exterminator Squads
 
+### Difficulty Levels
+
+- Level 1: First exterminator boss
+- Level 2: Additional exterminators arrived
+- Level 3: Energy cannon defences enabled
+- Level 4: Fourth exterminator arrived
+- Level 5: Special wild bot guards deployed
+- Level 6: Exterminator boss upgraded
+- Level 7: Additional exterminators upgraded
+- Level 8: Energy cannon defences expanded
+- Level 9: Megabot guard deployed
+- Level 10: Exterminator boss fully upgraded 
+
+### Exterminator bosses
+
+- **Frozen Waste:** Buffalo
+- **Molten Rock:** Cat
+- **Vivid Valey:** Lizard
+- **Scrapyard:** Dog
+
 </div>
 
-*Credit: Pix*
+*Credit: Pix, Xen*
