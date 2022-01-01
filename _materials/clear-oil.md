@@ -1,12 +1,12 @@
 ---
 layout: material
 contributors: "debb, Pix"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Clear Oil"
 name: "Clear Oil"
-description: "Often carried by <a href='/exploring#bandits'>Bandits</a> - Req. for Boat lvlX"
+description: "Farmable - Easy to find, easy to spend - Often carried by bandits"
 imageUrl: "/assets/img/materials/clear-oil.png"
 breadcrumbs:
   Materials: "/materials"
