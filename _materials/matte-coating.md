@@ -1,7 +1,7 @@
 ---
 layout: material
 contributors: "debb"
-updatedAt: "2021-12-20"
+updatedAt: "2022-01-01"
 
 
 title: "Matte Coating"
@@ -17,6 +17,8 @@ matRarity: "Special"
 matImageUrl: "/assets/img/materials/matte-coating.png"
 matRaritySortOrder: "2"
 matType: "Bot"
-matDescription: "Often found when fighting multiple enemies simultaneously"
+matDescription: "Often found when <a href='/exploring#multiple-enemies'>fighting multiple enemies</a> simultaneously"
 matOverview: ""
 ---
+
+
