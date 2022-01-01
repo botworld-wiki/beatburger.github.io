@@ -78,6 +78,8 @@ They have a full [Botpack](/botpack), that means abilities and boosters!
 
 They're big and sometime nasty. They have a skull logo
 
+**Interesting Counters:** [Bigshot](/bigshot), [Rocketeer](/Rocketeer), [Hyperdrain](/hyperdrain)...
+
 ### Bosses
 
 Same. You get [Season Reward Tokens](/seasons) for beating them!
