@@ -45,7 +45,7 @@ function formatStr(str){
 	var i=0;
 	return	decorate(
 		select(str).replaceAll('"\nhttp', 'http',).split('\n')
-			.map(function(line){return line.replaceAll('"','')})
+			.map(function(line){return line.replaceAll('"','\'')})
 			.map(function(val){return materialRows[i++]+': "'+val+'"'})
 			.join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
 		)
