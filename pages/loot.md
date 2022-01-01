@@ -17,7 +17,26 @@ breadcrumbs:
 
 </div>
 
-## Chests
+
+## Loot Spawn Locations
+
+### Scrap Piles
+
+
+- **Found at:** [Loot Spawn locations](/maps)
+- **Notably drops:** x-xx gold, [Double Cog](/double-cog), [Dull Steel](/dull-steel)
+
+### Regular Chests
+
+- **Found at:** [Loot Spawn locations](/maps)
+- **Notably drops:** xx-xx gold, [Layered Fiberglass](/layered-fiberglass)
+
+### Runaway Chests
+
+- **Found at:** [Loot Spawn locations](/maps)
+- **Notably drops:** xx-xx gold, [Hardened Fiberglass](/hardened-fiberglass), [Sniper Gyro](/sniper-gyro)
+
+## Reward Chests
 
 **Common *Battle* Chests**
 
