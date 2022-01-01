@@ -61,7 +61,7 @@ breadcrumbs:
 
 ### Tips
 
-[Comps & Combos](/comps)
+[Comps & Combos](/comps), [Fighting Tips & Combat Guide](/fighting)
 
 </div>
 
