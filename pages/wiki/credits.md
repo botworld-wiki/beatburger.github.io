@@ -23,14 +23,15 @@ breadcrumbs:
 - **Mrgold:**
 - **cloud9:** [AI tips](</ai>), [Seasons Rewards](</seasons>), [Maps Contents](</maps>), [Sheller](/sheller) AI tree
 - **Kartoffel:** [Bot Upgrade Costs](/materials#costs)
-- **Hex:** [Maps original montages](/maps)
+- **Hex:** [Maps original montages](/maps), [Fighting Tips intro pic](/fighting)
 - **Young Fung:** Detailed [Business Upgrades](/business) list
-- **BloodxReaper:** much proofreading! 
+- **BloodxReaper:** much proofreading!,  [Regular DZs infos](/danger-zones)
 - **debb:** high-res versions of every map, with exits
+- **Xen:** [exterminator squads](/danger-zones#exterminator-squads)
 
 ## Writers
 
-- **Pix:** [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>), [Multiple Enemies](/exploring#multiple-enemies), 
+- **Pix:** [Recruits Comps](</recruits-comp>), [AI tips](</ai>), [Getting Started](</getting-started>), [Critters](</critters>), [Seasons](</seasons>), [Multiple Enemies](/exploring#multiple-enemies), [Farming Guide](/farming), [Grouper Comp](/comps#grouper-comp), [Fighting Tips concepts](fighting#concepts), [Solo Arena](/arena#solo-arena).
 - **Kartoffel:** [News & Updates](</news>)
 - **Stan:** [Larry](</larry>), [Mia](</mia>)
 - **Masked Critic:** [Play Botworld on Windows from Android](/play-on-windows)
