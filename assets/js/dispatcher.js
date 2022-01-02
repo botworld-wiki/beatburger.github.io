@@ -62,13 +62,33 @@ function loadSearch(){
       var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/assets/js/search.json?cachebuster='+Math.random()
+        json: '/assets/js/entities.json?v0'
       })
     })
 }
 
 $(document).ready(loadSearch);
 
+async function fetchInlines(){  
+  const response = await fetch('/assets/js/entities.json?v0');
+    const entries = await response.json();
+    var inlinesLookup = {};
+    for (let i=0; i < entries.length; i++) {
+        if (entries[i].inline){
+            inlinesLookup['https://www.botworld.wiki'+entries[i].url] = entries[i].inline;
+        }
+    }
+
+    const contentLinks = $('section *:not(.no-inline) p a, section *:not(.no-inline) ul a');
+
+    for (let i=0; i < contentLinks.length; i++){
+        if ( inlinesLookup[contentLinks[i].href] ) { 
+            contentLinks[i].innerHTML = inlinesLookup[contentLinks[i].href]
+        }
+    }
+}
+
+$(document).ready(fetchInlines);
 
 // GA
 /* hardened privacy settings
