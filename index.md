@@ -22,7 +22,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Tank' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -37,7 +37,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Brawler' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -52,7 +52,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Chaser' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -67,7 +67,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Splasher' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -82,7 +82,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Sniper' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -97,7 +97,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Evader' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
@@ -112,7 +112,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
                 {% if bot.botType == 'Support' %}
                     <li class="toc-block-entry rarity_{{bot.botRarity}}">
                         <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
+                            <img loading="lazy"  src="/assets/img/bots/small{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
                             <span>{{ bot.botName }}</span>
                         </a>
                     </li>
