@@ -115,6 +115,40 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 
+### Missions
+
+- Pick Pumpkins (20)
+- Pick Pumpkins (100)
+- [Defeat the Wandering Wolf Pack Alpha](<https://cdn.discordapp.com/attachments/923510071026155550/926406886620807208/unknown.png>)
+- [Explore the Wolf Pack Settlement](<https://cdn.discordapp.com/attachments/923510071026155550/925299781293719622/Screenshot_20211228-153308.jpg>)
+- [Explore the Crater Dome Control Panel](<https://cdn.discordapp.com/attachments/923510071026155550/925299781520207892/Screenshot_20211228-152931.jpg>)
+- [Explore the Croaking Lake Jetty](<https://cdn.discordapp.com/attachments/923510071026155550/926202687928815626/unknown.png>)
+- [Explore Mia's Place](<https://cdn.discordapp.com/attachments/923510071026155550/925299781792833536/Screenshot_20211228-153057.jpg>)
+- [Explore Redleaf Trail](<https://cdn.discordapp.com/attachments/923510071026155550/926203200548249690/unknown.png>)
+- [Explore the Stonefinger Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/926201276566495323/unknown.png>)
+- Defeat Wild Thump Packs (75)
+- Defeat Dangerous Wild Thump Packs (3)
+- Defeat Wolf Pack Scrappers (150)
+- Defeat Wolf Pack Scrappers (750)
+
+
+### Rewards
+
+**All 13 Missions completed:** Wolf Pack Alpha Mask
+
+![Wolf Pack Alpha Mask](<https://cdn.discordapp.com/attachments/923510071026155550/926154509183492166/IMG_20211230_234643.jpg>)
+
+**8 Missions completed:** Wolf Pack Suit
+
+![Wolf Pack Suit](<https://cdn.discordapp.com/attachments/923510071026155550/926146415883849788/unknown.png>)
+
+### Guides
+
+- **Red Square:** Explore
+- **Black Line:** Wandering Wolf Pack Alpha
+
+
+![Fall Grove](<https://cdn.discordapp.com/attachments/923510071026155550/926945205578502205/fall-grove-codex-new-min.png>)*credit: Hex, debb, Nostalgia, BloodxReaper*
 
 </div>
 
@@ -122,10 +156,40 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 
-![Saltwater Swamp Codex](
-https://cdn.discordapp.com/attachments/923510071026155550/925231459483152424/IMG_20211228_103806.png)
+### Missions
 
-*Credit: cloud9*
+- [Defeat the Fork Tongue Fanatics Leader](<https://cdn.discordapp.com/attachments/923510071026155550/926331336422207508/IMG_20211231_095858.jpg>)
+- [Explore the Abandoned Factory](<https://cdn.discordapp.com/attachments/923510071026155550/925218667556397098/Screenshot_2021-12-28-09-39-31-350_com.featherweightgames.fx.png>)
+- [Explore the Big Tree](<https://cdn.discordapp.com/attachments/923510071026155550/925218477919338566/Screenshot_2021-12-28-09-18-42-434_com.featherweightgames.fx.png>)
+- [Explore the Bog Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/925333569549791242/Screenshot_20211228_112427.png>)
+- [Explore Giant's Steps](<https://cdn.discordapp.com/attachments/923510071026155550/925326439509790780/Screenshot_20211228_105620.png>)
+- [Explore Larry's Cruise Ship](<https://cdn.discordapp.com/attachments/923510071026155550/925314557210132530/Screenshot_20211228_100859.png>)
+- [Explore the Mangrove Village](<https://cdn.discordapp.com/attachments/923510071026155550/925218478678499378/Screenshot_2021-12-28-09-34-04-579_com.featherweightgames.fx.png>)
+- Defeat Fork Tongue Fanatics (200)
+- Defeat Fork Tongue Fanatics (1000)
+- Defeat Wild Froggy Packs (100)
+- Defeat Wild Froggy Packs (500)
+
+
+### Rewards
+
+**All 11 Missions completed:** Fork Tongue Headwear
+
+![Fork Tongue Headwear](<https://cdn.discordapp.com/attachments/923510071026155550/926154220153995295/IMG_20211230_234602.jpg>)
+
+**8 Missions completed:** Fork Tongue War Paint
+
+![Fork Tongue War Paint](<https://cdn.discordapp.com/attachments/923510071026155550/926146321302306907/unknown.png>)
+
+### Guides
+
+- **Red Square:** Explore
+- **Black Line:** Roaming Fork Leader
+
+
+![Saltwater Swamp Codex](<https://cdn.discordapp.com/attachments/923510071026155550/926945206274773062/saltwater-swamp-codex-new-min.png>)
+
+*Credit: cloud9, Hex, debb, BloodxReaper*
 
 </div>
 
@@ -133,5 +197,38 @@ https://cdn.discordapp.com/attachments/923510071026155550/925231459483152424/IMG
 
 <div markdown="1" class=" ghcms ghcms-parchedsea">
 
+### Missions
+
+- Collect Pirate Treasure Chests (10)
+- [Defeat the Roaming Super K.O.](<https://cdn.discordapp.com/attachments/923510071026155550/926254905335881748/unknown.png>)
+- [Explore the Big Dish](<https://cdn.discordapp.com/attachments/923510071026155550/925686849597505536/Screenshot_2021-12-28-23-55-46-98.jpg>)
+- [Explore Dragon's Ridge Pier](<https://cdn.discordapp.com/attachments/923510071026155550/925686850402791475/Screenshot_2021-12-28-23-31-44-05.jpg>)
+- [Explore Geronimo Drop](<https://media.discordapp.net/attachments/923510071026155550/925686850654470174/Screenshot_2021-12-28-23-21-50-28.jpg?width=953&height=451>)
+- [Explore the Grand Anchor](<https://cdn.discordapp.com/attachments/923510071026155550/926408505655689296/unknown.png>)
+- [Explore Hermit's Bluff](<https://cdn.discordapp.com/attachments/923510071026155550/925686849844957234/Screenshot_2021-12-28-23-51-42-24.jpg>)
+- [Explore the Lighthouse Restaurant](<https://cdn.discordapp.com/attachments/923510071026155550/925686850100805672/Screenshot_2021-12-28-23-38-39-61.jpg>)
+- Defeat Sand Pirates (200)
+- Defeat Sand Pirates (1000)
+- Defeat Wild Pluggie Packs (100)
+- Defeat Wild Pluggie Packs (500)
+
+
+### Rewards
+
+**All 12 Missions completed:** Pirate Hat
+
+![Pirate Hat](<https://cdn.discordapp.com/attachments/923510071026155550/926427041602080778/IMG_20211231_174935.jpg>)
+
+**8 Missions completed:** Pirate Costume
+
+![Pirate Costume](<https://cdn.discordapp.com/attachments/923510071026155550/926146239370772520/unknown.png>)
+
+### Guides
+
+- **Red Square:** Explore
+- **Black Line:** Roaming Super K.O.
+
+
+![Parched Sea](<https://cdn.discordapp.com/attachments/923510071026155550/926945206522224690/parched-sea-codex-new-min.png>)*credit: Hex, debb, cloud9, Chael*
 
 </div>
