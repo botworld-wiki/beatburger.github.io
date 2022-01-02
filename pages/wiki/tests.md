@@ -153,6 +153,7 @@ Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100
     border-width: 2px !important;
 
 }
+.inline-asset span{ padding: 5px}
 .inline-asset img{
     display: inline-block;
     vertical-align: middle;
@@ -161,3 +162,28 @@ Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100
     bottom: 3px;
 }
 </style>
+
+<script>
+
+async function fetchInlines(){  
+    const response = await fetch('/assets/js/inlines.json');
+    const entries = await response.json();
+    var inlinesLookup = {};
+    for (let i=0; i < entries.length; i++) {
+        if (entries[i].inline){
+            inlinesLookup['https://www.botworld.wiki'+entries[i].url] = entries[i].inline;
+        }
+    }
+
+    const contentLinks = $('section p a, section ul a, section table a');
+
+    for (let i=0; i < contentLinks.length; i++){
+        if ( inlinesLookup[contentLinks[i].href] ) { 
+            contentLinks[i].innerHTML = inlinesLookup[contentLinks[i].href]
+        }
+    }
+
+}
+
+var afterDispatch = fetchInlines;
+</script>
