@@ -16,6 +16,7 @@ breadcrumbs:
 
 Time to get your Bots to battle! Advice, tactical tips, combat mechanics, everything you need to know to get ahead of every fight.
 
+- For advice on how to plan ahead of battle and what bots to take with you, read our [Bots Strategies Guide]
 
 </div>
 
