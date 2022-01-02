@@ -69,6 +69,7 @@ function loadSearch(){
 
 $(document).ready(loadSearch);
 
+
 async function fetchInlines(){  
   const response = await fetch('/assets/js/entities.json?v0');
     const entries = await response.json();
@@ -79,8 +80,13 @@ async function fetchInlines(){
         }
     }
 
-    const contentLinks = $('section *:not(.no-inline) p a, section *:not(.no-inline) ul a');
-
+    const contentLinks = $('section *:not(.no-inline, .no-inline *) p a, section *:not(.no-inline, .no-inline, *) ul a');
+/*
+    var contentLinks = document.querySelectorAll('section p a, section ul a');
+    const ignore = $('.no-inline a');
+    const difference = (a, b) => a.filter(elt => b.indexOf(elt) === -1);
+    contentLinks = difference([...contentLinks], [...ignore]);
+*/
     for (let i=0; i < contentLinks.length; i++){
         if ( inlinesLookup[contentLinks[i].href] ) { 
             contentLinks[i].innerHTML = inlinesLookup[contentLinks[i].href]
