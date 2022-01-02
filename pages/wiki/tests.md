@@ -1,223 +1,163 @@
 ---
 
-layout: default
+layout: breadcrumbs
 permalink: /tests
 title: TESTING
-description: Everything about every Bot, Ability, Map,.. anything in Botworld ! All the best Tips, Guides, and Resources the Botworld Adventure community could gather.
+description: "Having the right Bots & Botpack Composition is what got the best Botmasters where they are today. Learn everything you need to be one of them in here!" 
+breadcrumbs:
+  Botmasters: "/#botmasters"
+  "Fighting Tips": "/fighting"
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
-<p><picture>
-  <source type="image/webp" srcset="/assets/img/banners/welcome.webp" style="width:100%">
-  <source type="image/jpeg" srcset="/assets/img/banners/welcome.png" style="width:100%">
-  <img loading="lazy" src="/assets/img/banners/welcome.png" alt="Welcome to the Wiki banner" style="width:100%">
-</picture></p>
+# TESTING
+  
+<div markdown="1" class=" ghcms ghcms-main">
 
-<div id="site_toc">
-    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
-    <div class="toc-block" id="home_Tanks">
-        <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/tanks.png" alt="Tank bots logo" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Tank' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Brawlers">
-        <a class="toc-block-title" href="/bots#brawlers" title="All the Brawlers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/brawlers.png" alt="Brawler bots logo" title="Brawler bots logo"><h2 id="Brawlers">Brawlers</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Brawler' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Chasers">
-        <a class="toc-block-title" href="/bots#chasers" title="All the Chasers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/chasers.png" alt="Chaser bots logo" title="Chaser bots logo"><h2 id="Chasers">Chasers</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Chaser' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Splashers">
-        <a class="toc-block-title" href="/bots#splashers" title="All the Splashers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/splashers.png" alt="Splasher bots logo" title="Splasher bots logo"><h2 id="Splashers">Splashers</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Splasher' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Snipers">
-        <a class="toc-block-title" href="/bots#snipers" title="All the Snipers bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/snipers.png" alt="Sniper bots logo" title="Sniper bots logo"><h2 id="Snipers">Snipers</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Sniper' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Evaders">
-        <a class="toc-block-title" href="/bots#evaders" title="All the Evaders bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/evaders.png" alt="Evader bots logo" title="Evader bots logo"><h2 id="Evaders">Evaders</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Evader' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-    <div class="toc-block" id="home_Supports">
-        <a class="toc-block-title" href="/bots#supports" title="All the Supports bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/supports.png" alt="Support bots logo" title="Support bots logo"><h2 id="Supports">Supports</h2></a>
-        <ul class="toc-block-list">
-            {% for bot in bots_by_rarity %}
-                {% if bot.botType == 'Support' %}
-                    <li class="toc-block-entry rarity_{{bot.botRarity}}">
-                        <a href="{{ site.baseurl }}{{ bot.url }}" title="Page about the bot {{ bot.botName }}">
-                            <img loading="lazy"  src="/assets/img/bots/small/{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}">
-                            <span>{{ bot.botName }}</span>
-                        </a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
-</div>
+Your Composition of [Bots](/bots) & [Botpack Modules](/botpack) (comp) is what defines what kind of Botmaster you will be in a fight.
 
-
-
-## Botworld Adventures News
-
-
-<div markdown="1" class="grid-box tall ghcms ghcms-homenews">
-
-- [Sheller](/sheller): complete with stats and everything!
-- [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqeymvKmIs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
-- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)
-
+Powerful combos are the cornerstone of any good comp, and some will only involve bots, but others will rely on [Abilities](/abilities) or [Boosters](/boosters) 
 
 </div>
 
+<ul class="page-toc toc-block-list links">
+  <li class="toc-block-entry" ><a href="#general-comp-tips">General Comp Tips</a></li>
+  <li class="toc-block-entry" ><a href="#grouper-comp">Grouper Comp</a></li>
+  <li class="toc-block-entry" ><a href="#drop-comp">Drop Comp</a></li>
+  <li class="toc-block-entry" ><a href="#combos">Combos</a></li>
+</ul>
 
-<div class="grid">
-  
-<span class="menu-link-target hacky-layout-balancing"></span>
-<div markdown="1" class="grid-box">
-  
-  
-## New player ?
+- For more about battle itself, read our [Combat Tactics Guide](/fighting)
 
-Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
-
-Check out [Starter Bots](</starter-bots>) if you want, for example, but rest assured **you’ll get all 3 of them** eventually !
-
-Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
-
-Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/guides/getting-started). 
-
-</div>
-
-
-<span class="menu-link-target" id="all"></span>
-<span class="menu-link-target" id="wiki"></span>
-    
-<div markdown="1" class="grid-box">
+## General Comp Tips
 
   
-## Botmasters
+<div markdown="1" class=" ghcms ghcms-general">
 
-- [Bots](/bots): our Robopedia has everything already.
-    - [Starter Bots](/starter-bots)
-- [Botpack](/botpack): infos about Power, Level, Fusing, and compact Modules lists.
-    - [Abilities](/abilities): full list.
-    - [Boosters](/boosters): full list.
-    - [Gadgets](/botpack#gadgets): full list.
-- [Comps & Combos](/comps): general Composition tips, Grouper Comp, and cool Combos.
-- [Recruits](/recruits): how their fights work, usage & comp tips.
-    - [Jobs](/jobs): mechanics, list, & tips.
-- [Business Upgrades](/business): list, selection tips, and level unlocks.
-- [Getting Started](/getting-started): introductory guide to get you started on the right foot.
+### Bots
+
+### Abilities
+
+### Boosters
 
 </div>
 
-<div markdown="1" class="grid-box">
+<div markdown="1" class=" ghcms ghcms-grouper">
 
-## Botworld
+## Grouper Comp
 
-- [Exploring](/exploring): Infos and Tips about Canisters, Mobs, Critters, Mega, Bosses, Random Encounters, Level Scaling...
-    - [Maps](/maps): Full Pictures, Wild Bots, Locations of Interest...  
-    - [Danger Zones](/danger-zones): Tips, Random Encounters, Exterminator Squads...
-    - [Farming](/farming): the most efficient ways to get lots of anything.
-    - [Bots Materials](/materials): full list.
-    - [Story & Boat Materials](/boat-materials): list & maps.
-    - [Codex](/codex): the new Codex missions & outfits.
-    - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
-- [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
-- [Seasons](/seasons): Starter Season vs Global Season, Rewards.
-    - [Contracts](/contracts): list.
-- [Story](/story): Quests, Characters (NPCs), Lore 
+The general idea behind a Grouper Comp is to get all 3 opponent bots grouped up and nuke them all at once with heavy [AoE](/fighting#aoe) damage.
+
+### Grouping
+
+This stategy is extremelly reliable thanks to [Chainer](/chainer)'s Ultimate ability, with the right AI perks. It will group all the bots in line of sight right from the begining of the battle!
+
+You can actually make it work without Chainer to some extend, in some situations:
+
+- **[Wild Bots](/exploring#wild-bots):** sometimes they're already grouped, you can then skip Chainer and use a better [Tank](/bots#tanks) or another AoE bot.
+- **With the right [Abilities](/abilities):** some abilities work very well to group bots, and sometimes that's enough: [Vortex](/vortex), [Gravity Surge](/gravity-surge), [Gust](/gust)...
+- **With the right [Bots](/bots):** [Lobbie](/lobbie), [Mort](/mort)
+
+
+### AoE
+
+Now to the blasting! The most straight-forward is to deal them loads of damage, but powerfull [CC](fighting#cc) works really well too. Not much they can do if they're stun-locked.
+
+There are many sources of [AoE](/fighting#aoe) effects for you to choose from, that you can combine however it suits you best. For bots, most [Splashers](/bots#splashers) are viable there, but not only are interesting AoE options. What matters most is that the AoE effect comes fast enough that your grouping is still effective when it lands. AI perks play a big role there.
+
+- **Ranged Bots:** [Mort](/mort), [Pluggie](/pluggie), [Lobbie](/lobbie), [Bigshot](/bigshot), [Dune Bug](/dune-bug), [Sheller?](/sheller)...
+- **Melee-range Bots:** [Brute](/brute), [Flamer](/flamer), [Scatter](/scatter)
+- **AoE CC Bots:** [Lobbie](/lobbie), [Scatter](/scatter), [Pluggie](/pluggie), [Sheller?](/sheller)...
+- **AoE abilities:** [Icewall](/icewall), [Hack Missile](/hack-missile), [Poison Trail](/poison-trail), [Goop](/goop), [Zap Tower](/zap-tower), [Unstable Plasma](/unstable-plasma), [Frost Missile](/frost-missile)...
+
+As you can see, you're not lacking options there!
+
+### Opener
+
+Grouper Comps are all about a powerful opener. Hopefully that's enough to close the fight!
+
+Thus, you'll usually want build such a comp around:
+
+- **3-4 opening Bots:** [Chainer](/chainer), 2 main AoE bots, and probably 1 backup AoE bot as a safety net.
+- **Ult-friendly [Botpack Modules](/botpack):** [Abilities](/abilities) and [Boosters](/boosters) that will make your bots cast their Ultimates faster or more often. [Ult Start](/ult-start-special) or [Ult Cooldowns](/ult-cooldowns-rare) boosters, [Hypercharge](/hypercharge)...
+- **First-strike [Botpack Modules](/botpack):** [Abilities](/abilities) and [Boosters](/boosters) that will help you make your opener fatal. [Power Start](/power-start-epic) boosters (any rarity), AoE abilities listed above, or Abilities that are combo very aggressively with your AoE bots like [SCT](/sct) or [Charge Field](/charge-field).
+
+### Cleanup & Utility
+
+Your 2-3 free bot slots
+
+- **Cleaner:** But sometimes the opener isn't enough to actually close the fight by itself, like when your opponent has 6 bots in [Arena](/arena) or they're a [Boss](/exploring#bosses). That's what you need Cleaners for. They're usually high mobility or ranged bots: [Fork](/fork), [Ram](/ram), [Virus](/virus) (Hack is ranged), [Longshot](/longshot)...
+- **Utility:** It's good to save 1 or 2 bot slots to have the right counter in difficult situations. Like [Mega Bots](/exploring#mega-bots) or when your [Canister](/exploring#canister) is getting empty. Maybe then you'd rather use a regular tanky [Tank](/bots#tanks) instead of Chainer whenever you can do without it and save some of its precious HP.
 
 </div>
 
-    
-<span class="menu-link-target" id="community"></span>
-<span class="menu-link-target" id="community-wiki"></span>
+### Demo Clips
 
-<div markdown="1" class="grid-box">
+- **No Chainer Clean Kill:** by @Lekoi
+
+<video controls style="max-width:100%; width:400px"><source src="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4"><a href="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
 
 
-## Community Adventure
+<div markdown="1" class=" ghcms ghcms-drop">
 
-- [BWA News & Updates](/news): New Bots, Game Updates, anything that's happening.
-- [YouTubers & Streamers](/content-creators): Check these out! 
-- [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
-- [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
-- [Credits](/credits): A big **Thank You** to everyone!
-- [Wiki Changelog](/changelog): What's new on the wiki ?
-- [Discord Bot](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
+## Drop Comp
+
+
+Nozzle/Flamer/Bombee.
 
 </div>
 
+<div markdown="1" class=" ghcms ghcms-combos">
+
+## Combos
+
+### Nuclear Mort
+
+[SCT](/sct) your [Mort](/mort) while its ult's cannon ball is mid-flight for a devastating first strike.
+
+### Undying Frosty
+
+Go full [Energy Resistance boosters](/energy-resistance-epic) with bots that can also get Energy Resistance from their [AI tree](/bots#ai). 
+
+[Frosty](/frosty) being a natural counter to every Melee bot, make him invulnerable to most Ranged bot & every [Ability](/abilities), and, well... just watch.
+
+### Gang Up Time
+
+Gather the most devastating Melee-range bots [Brute](/brute), [Scatter](/scatter), [Flamer](/flamer), that are usually held back by their lack of mobility. Add [Team Translocator](/team-translocator), and watch them melt down the opposition.
+
+### Stun Immunity
+
+Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100% stun (and freeze) immunity. That's extremely valuable to [Bigshot](/bigshot)!
+
+### Bigshot + Gravity Surge
+
+### Chainer + Unstable Plasma
+
+### Big Poison Missile with Hornet
+
+### bombee flamer combo
+
+
+
 </div>
+
+*Credit: Lekoi, Pix, Kart*
+
+<style>
+.inline-asset{
+    border-radius: 10px !important;
+    background: linear-gradient(6deg, rgb(13 138 126) 0%, rgb(27 20 100) 80%);
+    border-width: 2px !important;
+
+}
+.inline-asset img{
+    display: inline-block;
+    vertical-align: middle;
+    height: 25px;
+    position: relative;
+    bottom: 3px;
+}
+</style>
