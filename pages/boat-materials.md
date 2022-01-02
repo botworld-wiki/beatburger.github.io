@@ -40,7 +40,7 @@ What you need to upgrade your [Boat and its Business](/business).
 
 </div>
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Material</th>
@@ -78,7 +78,7 @@ Anything you need to find at some point to progress through the [Story](/story)
 
 </div>
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Item</th>
