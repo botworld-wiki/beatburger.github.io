@@ -141,6 +141,10 @@ Teddy Bears (check [the Event](</news>))
 
 ![Image](<https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png>)
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-exterminator-squads">
+
 ## Exterminator Squads
 
 ### Difficulty Levels
