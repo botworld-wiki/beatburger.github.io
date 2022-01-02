@@ -103,7 +103,7 @@ If you haven't yet, you should **read this guide from [the top of the page](#far
 
 ### Mats are Gold
 
-**You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just [Sparky Wires](/sparky-wires) make it worth it to have [Wild Bots](/wild-bots) in your route, even if that decreases your gold earnings. **It's all about compromise**.
+**You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just [Sparky Wires](/sparky-wires) make it worth it to have [Wild Bots](/exploring#wild-bots) in your route, even if that decreases your gold earnings. **It's all about compromise**.
 
 
 ### Summary Table
