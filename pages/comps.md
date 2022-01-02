@@ -26,6 +26,8 @@ Powerful combos are the cornerstone of any good comp, and some will only involve
   <li class="toc-block-entry" ><a href="#combos">Combos</a></li>
 </ul>
 
+- For more about battle itself, read our [Combat Tactics Guide](/fighting)
+
 ## General Comp Tips
 
   
