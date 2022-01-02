@@ -139,60 +139,16 @@ Keep it short, make bank !
 
 
 
-## Best routes by resources
-
-A good route will have a high density of piles and chests, have the desired characteristics for the materials you're looking for, and have mostly bandits rather than wild bots.
-
-**You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just Sparky Wires make it worth it to have wild bots in your route, even if that decreases your gold earnings. It's all about compromise.
-
-Ordered by relevance, with details for each route in the post below:
-
-### Gold: 
-
-- Perillous Reef + Mangrove Bay
-- Cobblestone Trail
-- Croaking Lake
-- Redleaf Ridge
-- Scrapeyard Speed Chest (special)
-
-### Evader Sprays: 
-
-- Perillous Reef + Mangrove Bay
-- Cobblestone Trail + River Run + Southbank
-- Croaking Lake
-- Cobblestone Trail
-
-### Splasher Explosives
-
-- Perillous Reef + Mangrove Bay
-- Cobblestone Trail + River Run + Southbank,
-- Redleaf Ridge
-- Cobblestone Trail
-
-### Tank Platings
-
-- Redleaf Ridge
-- Strange Monument + Grand Fissure
-
-### Chaser Cores
-
-- Strange Monument + Grand Fissure
-- Crater Dome
-- Scrapeyard DZ (special)
-
-*Detailed maps can be found on the [Loot](/loot#ancient-ruins) page under Ancient Ruins*
-
-### Ancient ruins boat items: 
-
-- Crater Dome
-- Strange Monument
-
-**Botframes**, **Sniper Gyro**, **Brawler Battery**, **Support Chip**, **Essences** are not location-dependant
-
-**Common & Special materials**: check out the route summaries below and pick the one best suited according to its characteristics.
-
-
 ## Routes
+
+A good route will have a high density of [Piles and Chests](/loot), have the desired characteristics for the [Materials](/materials) you're looking for, and usually have more [Bandits](/exploring#bandits) than [Wild Bots](/exploring#wild-bots) since they drop Gold.
+
+**You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just [Sparky Wires](/sparky-wires) make it worth it to have [Wild Bots](/wild-bots) in your route, even if that decreases your gold earnings. **It's all about compromise**.
+
+
+### Summary
+
+Here are my best routes for Resources I deem "Farmable":
 
 | **Resource** | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
 | ----------------------------- | ------ | ------- | ---- | ---- | 
@@ -215,6 +171,24 @@ Ordered by relevance, with details for each route in the post below:
 | -                             | -      | -       | -    | -    |
 | Routes: | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
 
+
+### Special
+
+Pretty sure there's a good farming route for it all in Spore Wood... [to be researched](/contribute#tbw)
+
+- [Thick Oil](/thick-oil): [Buffalo Bandits](/exploring#bandits)
+- [Mini Sensor](/mini-sensor), [Brawler Battery](/brawler-battery): [Critters](/critters)
+
+
+### Not Farmable
+
+**Botframes:** Read the section about [Finding Botframes](/loot#botframes).
+
+Not saying they can't be found, but I don't see a way to reliably get to a satisfying drop rate per minute for the following:
+
+[Cold Battery](/cold-battery), [Frost Fuel](/frost-fuel), [Hardened Fiberglass](/hardened-fiberglass), [Sputtering Generator](/sputtering-generator), [Jet Fuel](/jet-fuel), [Matte Coating](/matte-coating), [Tangled Wires](/tangled-wires), [Sniper Gyro](/sniper-gyro), [Support Chip](/support-chip)
+
+I suggest you take every opportunity you get to collect them by other means ([Shop](/shop) & [Recruit Jobs](/jobs)).
 
 <span class="menu-link-target" id="cobblestone"></span>
 
