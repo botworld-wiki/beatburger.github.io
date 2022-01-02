@@ -37,20 +37,44 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 <div markdown="1" class=" ghcms ghcms-greatdesert">
 
-
 ### Missions
 
-Heres where to find the contracts from codex
+- Fix Jammed Wind Turbines (7)
+- Salvage Shipping Containers (7)
+- [Defeat the Roaming Super Flamer](<https://media.discordapp.net/attachments/923510071026155550/926202048138059776/Screenshot_2021-12-31-01-24-42-334_com.featherweightgames.fx.jpg?width=953&height=429>)
+- [Explore the Fissure Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/926175824598683758/unknown.png>)
+- [Explore the Giant Saw](<https://cdn.discordapp.com/attachments/923510071026155550/926177256576000020/unknown.png>)
+- [Explore Highbridge Outcrop](<https://cdn.discordapp.com/attachments/923510071026155550/926176445112401920/unknown.png>)
+- [Explore the Serpentine Pools](<https://cdn.discordapp.com/attachments/923510071026155550/926174054199730236/unknown.png>)
+- [Explore the Strange Monument](<https://cdn.discordapp.com/attachments/923510071026155550/926174654241050664/unknown.png>)
+- [Explore the Giant Waterfall](<https://cdn.discordapp.com/attachments/923510071026155550/926176900085346354/unknown.png>)
+- Defeat Desert Cat Bandits (150)
+- Defeat Desert Cat Bandits (750)
+- Defeat Wild Pupil Packs (75)
+- Defeat Dangerous Wild Pupil Packs (3)
 
-- **Red square:** Explore
-- **Blue circle:** Fix Jammed Wind Turbines
-- **Green square:** Salvage Shipping Containers
-- **Note:** i don't know if there are more Shipping Containers across the map since i only need 7 to complete the contract
 
-![Great Desert Codex](
-https://cdn.discordapp.com/attachments/923510071026155550/925215360020525126/Great_Desert.png)
+### Rewards
 
-*Credit: O.J.*
+**All 13 Missions completed:** Desert Cat Goggles
+
+![200px Desert Cat Goggles](<https://cdn.discordapp.com/attachments/923510071026155550/926154509426765824/IMG_20211230_234710.jpg>)
+
+**8 Missions completed:** Desert Cat Robes
+
+![300px Desert Cat Robes](<https://cdn.discordapp.com/attachments/923510071026155550/926146488923459584/unknown.png>)
+
+### Guides
+
+- **Red Square:** Explore
+- **Blue Circle:** Fix Jammed Wind Turbines
+- **Green Square:** Salvage Shipping Containers
+- **Black Line:** Roaming Super Flamer
+
+
+![Great Desert Codex](<https://cdn.discordapp.com/attachments/923510071026155550/926945205905686528/great-desert-codex-new-min.png>)
+
+*Credit: O.J., debb, BloodxReaper, Hex*
 
 </div>
 
