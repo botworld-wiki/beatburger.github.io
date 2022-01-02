@@ -27,7 +27,7 @@ breadcrumbs:
 - **Young Fung:** Detailed [Business Upgrades](/business) list
 - **BloodxReaper:** much proofreading!,  [Regular DZs infos](/danger-zones)
 - **debb:** high-res versions of every map, with exits
-- **Xen:** [exterminator squads](/danger-zones#exterminator-squads)
+- **Xen:** [exterminator squads](/danger-zones#exterminator-squads), [lvl 1 & 2 Boat Mats](/boat-materials)
 
 ## Writers
 
