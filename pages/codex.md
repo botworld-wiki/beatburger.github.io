@@ -27,9 +27,42 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ## Scrapper Coast
 
-<div markdown="1" class=" ghcms ghcms-scrappercoast">
-
 ### Missions
+
+- [Catch a Rare Jackalope](<https://cdn.discordapp.com/attachments/923510071026155550/925702854537265192/Screenshot_20211229-170312.jpg>) (Bunny --->) ![inline Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+- Collect Rare Tulips (20)
+- Collect Rare Tulips (100)
+- [Explore the Bandit Hideout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197954359347/Screenshot_20211228-123603_Botworld.png>)
+- [Explore Cobblestone Clearing](<https://cdn.discordapp.com/attachments/923510071026155550/925273197086138428/Screenshot_20211228-122031_Botworld.png>)
+- [Explore the Eagle Perch Lookout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197627195402/Screenshot_20211228-123211_Botworld.png>)
+- [Explore Cinnamon's Boat](<https://cdn.discordapp.com/attachments/923510071026155550/925273198180831292/Screenshot_20211228-123830_Botworld.png>)
+- [Explore Southbank Beach](<https://cdn.discordapp.com/attachments/923510071026155550/925273196880621629/Screenshot_20211228-121522_Botworld.png>)
+- [Explore the abandoned Mineshaft](<https://cdn.discordapp.com/attachments/923510071026155550/926211960138256506/unknown.png>)
+- Defeat Rat Bandits (100)
+- Defeat Rat Bandits (500)
+- Defeat Wild Yanky Packs (40)
+- Defeat Wild Yanky Packs (200)
+
+
+### Rewards
+
+**All 13 Missions completed:** Guard Helmet
+
+![200px Guard Helmet](<https://cdn.discordapp.com/attachments/923510071026155550/926229322098941992/unknown.png>)
+
+**8 Missions completed:** Guard Uniform
+
+![300px Guard Uniform](<https://cdn.discordapp.com/attachments/923510071026155550/926146553465413632/unknown.png>)
+
+### Guides
+
+- **Rare Tulips:** replace Scrap Piles and can be found anywhere
+- **Wild Yanky:** 5-7 can be found if you start at cobblestone clearing. run north and stay left to River Run.
+- **Rat Bandits:** A good place to farm these is Cobblestone Trail
+- **Red Square:** Explore ![Scrapper Coast](<https://cdn.discordapp.com/attachments/923510071026155550/926945206790651984/scrapper-coast-codex-new-min.png>)
+
+
+*credit: debb, Kartoffel*
 
 </div>
 
