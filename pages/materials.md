@@ -41,7 +41,7 @@ What you need to upgrade your bots.
 
 </div>
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Material</th>
@@ -77,7 +77,7 @@ What you need to upgrade your bots.
 
 ## Crafting Table
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
