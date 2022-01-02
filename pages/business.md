@@ -44,7 +44,7 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 ![Scrap Upgrades](https://cdn.discordapp.com/attachments/923510071026155550/924333348183232542/Screenshot_20211225-125840_Botworld.jpg)
 
 - **Scavenger Training:** Increases the amount of scrap dropped by [Wild Bots](/exploring#wild-bots) by 5% / 10% / 15%            
-- **Shakedown:** Increases the amount of scrap dropped by [Bandits](/exploring#bandits) by 5% / 10% / 15%              
+- **Shakedown:** Increases the amount of scrap dropped by [Bandits](/exploring#bandits) by 5% / 10% / 15%. Doesn't seem to have an effect on gold, only scrap.
 - **Boss Research:** Increases the amount of scrap dropped by [Bosses](/exploring#bosses) by 10% / 20% / 30%              
 - **Treasure Hunt:** [Chests](/loot#chests) found in regular zones contain 10% / 20% / 30% more scrap              
 - **Metal Detector:** [Scrap Piles](/loot#scrap-piles) contain 10% / 20% / 30% more scrap   
@@ -78,9 +78,24 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 
 ## Best Business Upgrades Suggestions
 
-### New Botmasters
+### For younger Botmasters
 
 - Check out the [Getting Started Guide](/getting-started)
+
+### For Farming
+
+- Shared Scrap
+- Recruit Repair
+- Terrify
+- Metal Detector
+- Cannister Storage
+- Negociation
+- Treasure Hunter
+- Risk Reward
+- Shakedown
+- Scavenger Training
+
+Everything about grinding gold & [mats](/materials) in [the Farming Guide](/farming)
  
 ### Full Walkthrough by Young Fung
 
