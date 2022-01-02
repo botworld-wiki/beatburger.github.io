@@ -80,7 +80,7 @@ async function fetchInlines(){
         }
     }
 
-    var contentLinks = document.querySelectorAll('section p a, section ul a');
+    var contentLinks = document.querySelectorAll('section p a, section ul a, section table a');
     const ignore = document.querySelectorAll('.no-inline a');
     const difference = (a, b) => a.filter(elt => b.indexOf(elt) === -1);
     contentLinks = difference([...contentLinks], [...ignore]);
