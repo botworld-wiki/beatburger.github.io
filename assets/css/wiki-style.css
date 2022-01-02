@@ -868,3 +868,20 @@ img[alt^="half-right"]{float:right;margin-left: 30px;width: 50%;}
 h2{clear:both;}
 
 /* end Editor Mode friendly image styles */
+
+
+/* inline assets */
+.inline-asset{
+    border: none !important;
+    white-space: nowrap;
+
+}
+.inline-asset span{ padding: 5px}
+.inline-asset img{
+    display: inline-block;
+    vertical-align: middle;
+    height: 25px;
+    position: relative;
+    bottom: 3px;
+}
+/* end inline assets */
