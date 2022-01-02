@@ -62,7 +62,7 @@ function loadSearch(){
       var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/assets/js/entities.json?v0'
+        json: '/assets/js/entities.json?v1'
       })
     })
 }
@@ -71,7 +71,7 @@ $(document).ready(loadSearch);
 
 
 async function fetchInlines(){  
-  const response = await fetch('/assets/js/entities.json?v0');
+  const response = await fetch('/assets/js/entities.json?v1');
     const entries = await response.json();
     var inlinesLookup = {};
     for (let i=0; i < entries.length; i++) {
@@ -80,7 +80,7 @@ async function fetchInlines(){
         }
     }
 
-    const contentLinks = $('section *:not(.no-inline, .no-inline *) p a, section *:not(.no-inline, .no-inline, *) ul a');
+    const contentLinks = $('section *:not(.no-inline, .no-inline *) p a, section *:not(.no-inline, .no-inline *) ul a');
 /*
     var contentLinks = document.querySelectorAll('section p a, section ul a');
     const ignore = $('.no-inline a');
