@@ -63,76 +63,83 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 Snowball Canons
 
 ### Regular
-- **Requirements:** [Boat](/business) level 5
-- **Mobs lvl:** 5-12 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
 
-([Iirc the minimum mob level for frozen wastes is lvl 7(atleast in my case) but when I looked up  through few sources it is showing lvl 5 and somewhere else it's showing lvl 7. Can anyone confirm?](/contribute#tbw) )
+- **Requirements:** [Boat](</business>) level 5
+- **Mobs lvl:** 5-12 (or 3 below [your level](</botpack#botpack-level>), see [mobs scaling](</exploring#level-scaling>))
+
+
+([Iirc the minimum mob level for frozen wastes is lvl 7(atleast in my case) but when I looked up through few sources it is showing lvl 5 and somewhere else it's showing lvl 7. Can anyone confirm?](</contribute#tbw>) )
 
 ### Heroic
-- **Requirements:**
-- **Mobs lvl:** 
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png)
+- **Requirements:** progress through the [Story](</story>) until you need to find batteries 
+- **Mobs lvl:** 19-23
+
+
+![Image](<https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png>)
 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-moltenrocks">
 
-## Molten Rocks
+## Molten Rock
 
 Floor is lava
 
 ### Regular
-- **Requirements:** [Boat](/business) level 8
-- **Mobs lvl:** 11-16 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+- **Requirements:** [Boat](</business>) level 8
+- **Mobs lvl:** 11-16 (or 3 below [your level](</botpack#botpack-level>), see [mobs scaling](</exploring#level-scaling>))
+
 
 ### Heroic
-- **Requirements:**
-- **Mobs lvl:** 
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png)
+- **Requirements:** progress through the [Story](</story>) until you need to find batteries and after retrieving the first one from [Frozen Wastes](</danger-zones#frozenwastes>)
+- **Mobs lvl:** 20-24
 
+
+![Image](<https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-vividvalley">
-
 ## Vivid Valley
 
 Sneks
 
-
 ### Regular
-- **Requirements:** [Boat](/business) level 10
-- **Mobs lvl:** 15-19 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+- **Requirements:** [Boat](</business>) level 10
+- **Mobs lvl:** 15-19 (or 3 below [your level](</botpack#botpack-level>), see [mobs scaling](</exploring#level-scaling>))
+
 
 ### Heroic
-- **Requirements:**
-- **Mobs lvl:** 
 
-![Image](
-https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png)
+- **Requirements:** progress through the [Story](</story>) until you need to find batteries and after retrieving the first one from [Frozen Wastes](</danger-zones#frozenwastes>) and the 2nd from [Molten Rock](</danger-zones#moltenrock>)
+- **Mobs lvl:** 21-25
+
+
+![Image](<https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png>)
 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-scrapeyard">
-
 ## Scrapeyard
 
-Teddy Bears (check [the Event](/news))
-
+Teddy Bears (check [the Event](</news>))
 
 ### Regular
-- **Requirements:** [Boat](/business) level 12
-- **Mobs lvl:** 18-21 (or 3 below [your level](/botpack#botpack-level), see [mobs scaling](/exploring#level-scaling))
+
+- **Requirements:** [Boat](</business>) level 12
+- **Mobs lvl:** 18-21 (or 3 below [your level](</botpack#botpack-level>), see [mobs scaling](</exploring#level-scaling>))
+
 
 ### Heroic
-- **Requirements:**
-- **Mobs lvl:** 
 
-![Image](https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png)
+- **Requirements:** progress through the [Story](</story>) until you need to find batteries and after retrieving the first three from [Frozen Wastes](</danger-zones#frozenwastes>), [Molten Rock](</danger-zones#moltenrock>) and [Vivid Valley](</danger-zones#vividvalley>).
+- **Mobs lvl:** 22-26
 
+
+![Image](<https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png>)
 
 ## Exterminator Squads
 
@@ -147,7 +154,8 @@ Teddy Bears (check [the Event](/news))
 - Level 7: Additional exterminators upgraded
 - Level 8: Energy cannon defences expanded
 - Level 9: Megabot guard deployed
-- Level 10: Exterminator boss fully upgraded 
+- Level 10: Exterminator boss fully upgraded
+
 
 ### Exterminator bosses
 
