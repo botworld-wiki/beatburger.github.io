@@ -175,6 +175,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Boosters](/boosters): full list.
     - [Gadgets](/botpack#gadgets): full list.
 - [Comps & Combos](/comps): general Composition tips, Grouper Comp, and cool Combos.
+- [Fighting Tips](/fighting): AoE, CC, positioning, counters, ability timings, etc
 - [Recruits](/recruits): how their fights work, usage & comp tips.
     - [Jobs](/jobs): mechanics, list, & tips.
 - [Business Upgrades](/business): list, selection tips, and level unlocks.
