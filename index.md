@@ -130,12 +130,9 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 <div markdown="1" class="grid-box tall ghcms ghcms-homenews">
 
 - [Sheller](/sheller): complete with stats and everything!
-- [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqeymvKmIs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+- **Ptage talks about the Wiki!** check out the vid on our [News](/news) page or [on his YouTube channel](https://www.youtube.com/watch?v=jqeymvKmIs8)
 - [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
-- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability **Gravity Surge**, and [Balance Changes](/news)
+- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability [Gravity Surge](/gravity-surge), and [Balance Changes](/news)
 
 
 </div>
