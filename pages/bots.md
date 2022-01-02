@@ -45,7 +45,7 @@ Tanks soak up damage and protect weaker bots --- Best placed up front
 
 </div>
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -94,7 +94,7 @@ Splashers damage multiple bots that are close together --- best placed at the ba
 
 </div>
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -142,7 +142,7 @@ Snipers do a lot of damage from a distance --- protect this bot as much as possi
 </div>
 
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -190,7 +190,7 @@ Chasers are fast melee bots that are good at getting close to ranged enemies ---
 </div>
 
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -238,7 +238,7 @@ Evaders are fast bots that are good at staying away from melee enemies --- distr
 </div>
 
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -286,7 +286,7 @@ Brawlers are good at fighting other melee bots --- 1v1 is their specialty
 </div>
 
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
@@ -334,7 +334,7 @@ Supports make your other bots more effective --- best placed beside tanks
 </div>
 
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
