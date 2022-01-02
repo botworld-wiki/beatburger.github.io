@@ -15,7 +15,7 @@ breadcrumbs:
 matName: "Old Mast"
 matRarity: "Special"
 matImageUrl: "/assets/img/materials/old-mast.png"
-matRaritySortOrder: "2"
+matRaritySortOrder: "02"
 matType: "Boat"
 matDescription: "One was spotted in somewhere in Southbank"
 matOverview: "Req. for <a href='/business'>Boat lvl 2</a>"
