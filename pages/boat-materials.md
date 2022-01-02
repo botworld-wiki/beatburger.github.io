@@ -108,7 +108,7 @@ Anything you need to find at some point to progress through the [Story](/story)
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-maps">
+<div markdown="1" class=" ghcms ghcms-maps" id="maps">
 
 ### Ancient Ruins
 
