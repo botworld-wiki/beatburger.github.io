@@ -39,14 +39,13 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 
 <div markdown="1" class=" ghcms ghcms-canister">
 
-## Canister
+## Cannister
 
-You get 1 Canister bar, and 1 HP bar. You los HP in a fight, and your Canister Energy heals you up between fights.
+You get 1 Cannister bar, and 1 HP bar. You lose HP in a fight, and your Cannister Energy heals you up between fights.
 
 If you fight multiple mobs simultanously or to fast to heal in-between, you can die and get sent back to town with Can Energy left!
 
-Don't worry, you don't actually die or lose anything besides you Can Energy left.
-
+Don't worry, you don’t actually die or lose anything besides you Can Energy left.
 
 </div>
 
@@ -151,10 +150,9 @@ See their every locations at [Maps](/maps)
 
 ## Contracts
 
-They're discussed discussed in [Contracts](/contracts), but make sure any occasion you have to go out you actually complete some!
+They're discussed in [Contracts](</contracts>), but make sure any occasion you have to go out you actually complete some!
 
 Also, some special contracts are actually quests... New page?
-
 
 </div>
 
