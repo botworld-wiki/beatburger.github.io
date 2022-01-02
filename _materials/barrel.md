@@ -22,3 +22,4 @@ matOverview: "Req. for <a href='/business'>Boat lvl 2</a>"
 ---
 
 
+![Driftwood, Barrel, Old Mast locations](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
