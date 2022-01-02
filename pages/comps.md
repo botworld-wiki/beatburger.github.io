@@ -6,6 +6,7 @@ title: Strategy Guide & Combos
 description: "Having the right Bots & Botpack Composition is what got the best Botmasters where they are today. Learn everything you need to be one of them in here!" 
 breadcrumbs:
   Botmasters: "/#botmasters"
+  "Fighting Tips": "/fighting"
 
 ---
 
