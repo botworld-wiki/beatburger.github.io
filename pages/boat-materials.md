@@ -122,6 +122,11 @@ Check out our [Explanation & Maps about Ancient Ruins](/loot#ancient-ruins)
 
 ![blue tarp map](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
 
+## Boat Level 6
+Tyres & Yellow Fencings
+
+![Tyres & Yellow Fencings](https://cdn.discordapp.com/attachments/879011114963304508/880539221482418176/Screenshot_20210826-221950_Botworld2.jpg)
+
 </div>
 
 *Credits: Xen*
