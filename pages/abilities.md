@@ -13,7 +13,7 @@ breadcrumbs:
 
 # Botpack Abilities
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Ability</th>
