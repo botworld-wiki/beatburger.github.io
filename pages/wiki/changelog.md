@@ -12,6 +12,10 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-02
+
+- Auto-generated inlined assets for Bots, Abilities, Boosters, Mats (for now)
+
 ## 2022-01-01
 
 - [Danger Zones](/danger-zones): maps moved from [Maps](/maps), adding regular DZ infos from @BloodxReaper & exterminator squads infos from @Xen
