@@ -24,6 +24,7 @@ breadcrumbs:
 - Updated [all the Bots Mats descriptions](/materials) with relevant links 
 - [Exploring](/exploring) & [Loot](/loot) pages updated to describe everything relevant to bots mats
 - [Farming Guide v1](/farming)
+- [lvl 1 & 2 Boat Mats](/boat-materials) by @Xen
 
 ## 2021-12-31
 
