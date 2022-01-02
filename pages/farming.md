@@ -18,8 +18,9 @@ breadcrumbs:
 - [Relevant Business Upgrades](/#relevant-business-upgrades)
 - [Build up your Recruits](/#build-up-your-recruits)
 - [Farming tips & tricks](/#farming-tips--tricks)
-- [Best routes by resources](/#best-routes-by-resources)
-- [Routes performances & presentations](/#routes-performances--presentations)
+- [Best Routes Summary](#routes)
+- **Best Routes:** [Cobblestone Trail](#cobblestone) - [Reef+Bay](#swamp) - [Monument+Fissure](#desert) - [Redleaf Ridge](#redleaf)
+- [Other Routes](#other-routes)
 
 
 ## Introduction
@@ -50,9 +51,16 @@ The loss of gold/min will be made up for by the opportunity to train any bot you
 
 Invisibility is a huge help, just as much as the third recruit. 
 
-Video demo of farming Cobblestone + River Run + Southbank with only 1 weak/average recruit: https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4
 
 This route is rich in Evader Sprays and Splasher Explosive so you should be able to get a 2nd suitable recruit quite soon with such types of bots.
+
+Video demo of farming Cobblestone + River Run + Southbank with only 1 weak/average recruit:
+
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">
+    <a href="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
 
 
 
@@ -232,7 +240,6 @@ Ordered by relevance, with details for each route in the post below:
 *109 gold/can, 38 gold/min, 3m/run*
 
 - [Video by @BBC#3819 (97mb)](https://cdn.discordapp.com/attachments/879011114963304508/912711935626186833/XRecorder_21112021_135657_720x326.mp4)
-
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
 <span class="menu-link-target" id="desert"></span>
@@ -260,31 +267,54 @@ Ordered by relevance, with details for each route in the post below:
 
 *62 gold/can, 24 gold/min, 2min30/run*
 
-
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
+
+
 
 
 ## Other Routes
 
+- the values presented here are rough average of series of runs
+- the recorded time includes loading times in/out of the area
+- [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
+
+### Scrapeyard Speed Chests
+
+- Special Chests, Ancient Ruin, Water, Wild bots, Bandits
+- Drops: 2-4 special chests, so lots of mats randomly
+
+*2min/chest, 25-50 gold/min, 2-6min/run*
+
+- Note: obviously costs you a DZ trip.
+- Demo: 5min 4 [Special Chests](/loot)
+
+<video controls style="max-width:100%; width:400px">
+    <source src="hhttps://cdn.discordapp.com/attachments/824807657550381088/882263205148242010/V_20210831_1555326.mp4">
+    <a href="https://cdn.discordapp.com/attachments/824807657550381088/882263205148242010/V_20210831_1555326.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
+
 ### Giant's Step by @foocker#2431 
+
+![half-right Giant's Step farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/883413365538570310/Polish_20210904_020343518.jpg)
 
 - High ground, Bandits, Wild bots, Critters
 - Drops:  tank and brawler
 
 *63 gold/run, 21gold/min, 3min/run*
 
-- Roadmap: ![Giant's Step farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/883413365538570310/Polish_20210904_020343518.jpg)
 - note: critters really easy to catch here, with so many toads and snakes
 - [Discord post with demo clip](https://discord.com/channels/824807656945745951/879011114963304508/883413212299673611)
 
 ### Crater Dome
+
+![half-right Crater Dome farming route](https://cdn.discordapp.com/attachments/879011114963304508/879062165359820810/crater-dome-route.jpg)
 
 - Ancient Ruins, Trees, Bandits, Wild bots
 - Drops: Chaser, Splasher, Heavy Steel
 
 *50 gold/run, 13 gold/min, 3min/run*
 
-- Roadmap: https://discord.com/channels/824807656945745951/879011114963304508/879062168581046383
 
 ### Cobblestone Trail + River Run + Southbank
 
@@ -294,10 +324,17 @@ Ordered by relevance, with details for each route in the post below:
 *76 gold/can, 17 gold/min, 4min30/run*
 
 - Loot piles at River Run, back and through the bandit Camp looting as you go, and along the shore to loot piles again.
-- Videos: https://discord.com/channels/824807656945745951/877988056228069456/878007085772705882 and https://discord.com/channels/824807656945745951/878024553941565470/878913207467655179 by @birdsound#0152 
 - note: can be done with lesser recruits made up for by dodging
 
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">
+    <a href="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
+
 ### Croaking Lake
+
+![half-right Croaking Lake route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/880539221482418176/Screenshot_20210826-221950_Botworld2.jpg)
 
 - Water, Trees, Bandits, Wild bots, Mines 
 - Drops: Evader, Splasher (lots of them)
@@ -306,34 +343,13 @@ Ordered by relevance, with details for each route in the post below:
 
 - Circle the lake: up left down right back close to the landing pad.
 - note: can complete all types of contracts in a single location
-- Roadmap: https://discord.com/channels/824807656945745951/879011114963304508/880539224124817429 (just the top route)
 
 ### Strange Monument
+
+![half-right Strange Monument route Roadmap](https://cdn.discordapp.com/attachments/879011114963304508/879062043175575592/strange-monument-route.png)
 
 - Ancient Ruins, Bandits, Wild bots, Mine
 
 *43 gold/can, 18 gold/min, 2min30/run*
 
-- Roadmap: https://discord.com/channels/824807656945745951/879011114963304508/879062045369184376
 - note: Crater Dome seems superior in every way if you have access to it.
-
-
-### Scrapeyard Speed Chests
-
-- Special Chests, Ancient Ruin, Water, Wild bots, Bandits
-- Drops: 2-4 special chests, so lots of mats randomly
-
-*2min/chest, 25-50 gold/min, 2-6min/run*
-
-- Videos:
-- 4min, 3 chests,  54 gold/min: https://discord.com/channels/824807656945745951/879011114963304508/880402589966008320 
-- 6min, 3 chests: https://discord.com/channels/824807656945745951/879011114963304508/879279202266910741
-- note: obviously costs you a DZ trip.
-
-
-
-**Notes:**
-
-- the values presented here are rough average of series of runs
-- the recorded time includes loading times in/out of the area
-- you can find all the data used here: <#879016066376945684>   (index: https://discord.com/channels/824807656945745951/879016066376945684/879016146026782790)
