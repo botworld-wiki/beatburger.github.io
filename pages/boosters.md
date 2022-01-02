@@ -12,7 +12,7 @@ breadcrumbs:
 
 # Botpack Boosters
 
-<table class="collection-list">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Booster</th>
