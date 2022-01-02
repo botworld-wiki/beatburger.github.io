@@ -139,24 +139,26 @@ A good route will have a high density of piles and chests, have the desired char
 
 Ordered by relevance, with details for each route in the post below:
 
-| Resource | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
-| ----------------------------- | ---- | ---- | ---- | ---- | 
-| Gold/min                      | 35   | 38   | 26   | 24   |
-| Gold/can                      | 73   | 109  | 70   | 62   |
-| [Evader Spray](/evader-spray) | Lots | Lots |      |      |
+| **Resource** | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
+| ----------------------------- | ------ | ------- | ---- | ---- | 
+| **Gold/min**                  | **35** | **38**  | 26   | 24   |
+| **Gold/can**                  | 73     | **109** | 70   | 62   |
+| [Evader Spray](/evader-spray) | Lots   | Lots    |      |      |
 | [Splasher Explosives](/splasher-explosives) | Lots | Lots | Some | Lots |
-| [Tank Plating](/tank-plating) |      |      | Some | Lots |
-| [Chaser Core](/chaser-core)   |      |      | Some |      | 
-| [Dull Steel](/dull-steel)     | Lots | Lots | Lots | Lots | 
-| [Glass Tube](/glass-tube)     | Lots | Lots | Some | Some | 
-| [Hard Botplates](/hard-botplates) |  |      | Some | Some | 
-| [Heavy Steel](/heavy-steel)   |      |      | Some |      | 
-| [Sticky Goo](/sticky-goo)     | Lots | Lots | Some | Lots | 
-| [Clear Oil](/clear-oil)       | Lots | Lots | Some | Some |
-| [Double Cog](/double-cog)     | Lots | Lots | Lots | Lots |
-| [Rusty Cog](/rusty-cog)       | Lots | Lots |      |      |
-| [Sparky Wires](/sparky-wires) |      |      | Some | Some |
-| [Thick Tube](/thick-tube)     |      |      | Some | Lots |
+| [Tank Plating](/tank-plating) |        |         | Some | **Lots** |
+| [Chaser Core](/chaser-core)   |        |         | **Some** |  | 
+| [Dull Steel](/dull-steel)     | Lots   | Lots    | Lots | Lots | 
+| [Glass Tube](/glass-tube)     | Lots   | Lots    | Some | Some | 
+| [Hard Botplates](/hard-botplates) |    |         | Some | Some | 
+| [Heavy Steel](/heavy-steel)   |        |         | **Some** |  | 
+| [Sticky Goo](/sticky-goo)     | Lots   | Lots    | Some | Lots | 
+| [Clear Oil](/clear-oil)       | Lots   | Lots    | Some | Some |
+| [Double Cog](/double-cog)     | Lots   | Lots    | Lots | Lots |
+| [Rusty Cog](/rusty-cog)       | Lots   | Lots    |      |      |
+| [Sparky Wires](/sparky-wires) |        |         | Some | Some |
+| [Thick Tube](/thick-tube)     |        |         | Some | **Lots** |
+| -                             | -      | -       | -    | -    |
+| Routes: | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
 
 
 ### Gold: 
