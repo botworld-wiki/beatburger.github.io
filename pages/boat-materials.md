@@ -63,7 +63,7 @@ What you need to upgrade your [Boat and its Business](/business).
                   <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
               </td>
                     <td class="overview">{{material.matDescription}}</td>
-              <td class="overview">{{material.matOpinion}}</td>
+              <td class="overview">{{material.matOverview}}</td>
             </tr>
         {% endif %}
     {% endfor %}
@@ -101,7 +101,7 @@ Anything you need to find at some point to progress through the [Story](/story)
                   <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
               </td>
                     <td class="overview">{{material.matDescription}}</td>
-              <td class="overview">{{material.matOpinion}}</td>
+              <td class="overview">{{material.matOverview}}</td>
             </tr>
         {% endif %}
     {% endfor %}
