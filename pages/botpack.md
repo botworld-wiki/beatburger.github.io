@@ -114,60 +114,69 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 <div markdown="1" class=" ghcms ghcms-gadgets">
 
+### Usage
+
+- **Activation:** From your botpack (bottom right while in the wild) or at the start of a fight (turn off auto battle)
+- **Require:** that you pay to unlock them, and equip them
+- **Refresh:** every time you leave town
+
+
 ### Hack
 
-She builds your them all for you! She bills you of course, but she's very helpful and just about the only friendly Rat out there so really, you should just consider yourself lucky. 
+She builds your them all for you! She bills you of course, but she's very helpful and just about the only friendly Rat out there so really, you should just consider yourself lucky.
+
+### Damage Amplifier
+
+![Image](</assets/img/gadgets/amplifier.png>)
+
+- **Level 1:** \+25%, 2 uses
+- **Level 2:** \+30%, 3 uses
 
 
-### Damage Amplifier 
+### Botpack Overclocker
 
-![Image](/assets/img/gadgets/amplifier.png)
+![Image](</assets/img/gadgets/overclocker.png>)
 
-- **Level 1:** +25%, 2 uses
-- **Level 2:** +30%, 3 uses
-
-### Botpack Overclocker 
-
-![Image](/assets/img/gadgets/overclocker.png)
-
-- **Level 1:** +35%, 3 uses
-- **Level 2:** +50%, 4 uses
+- **Level 1:** \+35%, 3 uses
+- **Level 2:** \+50%, 4 uses
 
 
-### Bombardment 
+### Bombardment
 
-![Image](/assets/img/gadgets/bombardment.png)
+![Image](</assets/img/gadgets/bombardment.png>)
 
 - **Level 1:** range 10, 2 uses
 - **Level 2:** range 14, 2 uses
 - **Level 3:** range 14, 3 uses
 
+
 ### Speed Amplifier
 
-![Image](/assets/img/gadgets/speed-upg.png)
+![Image](</assets/img/gadgets/speed-upg.png>)
 
-- **Level 1:** +30%, 3 uses
-- **Level 2:** +50%, 3 uses
+- **Level 1:** \+30%, 3 uses
+- **Level 2:** \+50%, 3 uses
 
 
-### Invisibility 
+### Invisibility
 
-![Image](/assets/img/gadgets/invisibility.png)
+![Image](</assets/img/gadgets/invisibility.png>)
 
-### Shockwave Generator 
+### Shockwave Generator
 
-![Image](/assets/img/gadgets/shockwave.png)
+![Image](</assets/img/gadgets/shockwave.png>)
 
-### Mine 
+### Mine
 
-![Image](/assets/img/gadgets/mines.png)
+![Image](</assets/img/gadgets/mines.png>)
 
 - **Level 1:** ? uses
 - **Level 2:** 5 uses
 
-### Ability Jammer 
 
-![Image](/assets/img/gadgets/jammer.png)
+### Ability Jammer
+
+![Image](</assets/img/gadgets/jammer.png>)
 
 </div>
 
