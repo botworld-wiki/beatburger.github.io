@@ -12,6 +12,19 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-01
+
+- [Danger Zones](/danger-zones): maps moved from [Maps](/maps), adding regular DZ infos from @BloodxReaper & exterminator squads infos from @Xen
+- [Maps](/maps): adding links to every other page where to find useful maps
+- Dropdown menu update: now includes the entire sitemap
+- Homepage redesign: removed old link blocks, made "New Player?" a grid element on desktop
+- New section: [Solo Arena](/arena#solo-arena), how it all works
+- New page: [Fighting Tips & Tactical Guide](/fighting), including conrtibutions from @Kartoffel, @cloud9, @Hex
+- [Grouper Comp](/comps#grouper-comp)
+- Updated [all the Bots Mats descriptions](/materials) with relevant links 
+- [Exploring](/exploring) & [Loot](/loot) pages updated to describe everything relevant to bots mats
+- [Farming Guide v1](/farming)
+
 ## 2021-12-31
 
 - Updated page: [Seasons: The Season of the Snail](/seasons#current-season-the-season-of-the-snail)
