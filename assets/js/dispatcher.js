@@ -80,7 +80,7 @@ async function fetchInlines(){
         }
     }
 
-    const contentLinks = $('section *:not(.no-inline, .no-inline *) p a, section *:not(.no-inline, .no-inline *) ul a');
+    const contentLinks = $('*:not(.no-inline, .no-inline *) p a, *:not(.no-inline, .no-inline *) ul a');
 /*
     var contentLinks = document.querySelectorAll('section p a, section ul a');
     const ignore = $('.no-inline a');
