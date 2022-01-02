@@ -15,7 +15,7 @@ breadcrumbs:
 matName: "Barrel"
 matRarity: "Common"
 matImageUrl: "/assets/img/materials/barrel.png"
-matRaritySortOrder: "2"
+matRaritySortOrder: "02"
 matType: "Boat"
 matDescription: "Found scattered all around the Scrapper Coast"
 matOverview: "Req. for <a href='/business'>Boat lvl 2</a>"
