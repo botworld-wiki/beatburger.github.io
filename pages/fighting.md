@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /fighting
-title: "Fighting Tactics & Tips: Combat Guide"
+title: "Combat Tips: Tactical Guide"
 description: Time to get your Bots to battle! Advices, tactical tips, combat mecanics, everything you need to know to get ahead of every fight in Botworld Adventure.
 breadcrumbs:
     Botmasters: "/#botmasters"
@@ -10,7 +10,7 @@ breadcrumbs:
     
 ---
 
-# Fighting Tactics & Tips: Combat Guide
+# Fighting Tactics: Combat Guide
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
