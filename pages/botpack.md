@@ -45,7 +45,7 @@ Find a detailled table with [all the info about every Ability](/abilities)
 
 </div>
 
-<div class="botpack">
+<div class="botpack no-inline">
         <ul class="toc-block-list">
             {% assign abilities_by_rarity = site.abilities | sort: "abilityRaritySortOrder" %}
     		{% for ability in abilities_by_rarity %}
@@ -77,7 +77,7 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 </div>
 
-<div class="botpack">
+<div class="botpack no-inline">
         <ul class="toc-block-list">
             {% assign boosters_by_rarity = site.boosters | sort: "boosterRaritySortOrder" %}
     		{% for booster in boosters_by_rarity %}
