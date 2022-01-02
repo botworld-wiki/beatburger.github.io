@@ -123,3 +123,5 @@ Check out our [Explanation & Maps about Ancient Ruins](/loot#ancient-ruins)
 ![blue tarp map](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
 
 </div>
+
+*Credits: Xen*
