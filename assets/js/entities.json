@@ -23,6 +23,13 @@ layout: none
       "inline"   : "<a href='{{ site.baseurl }}{{ booster.url }}' class='inline-asset rarity_{{booster.boosterRarity}}' title='Page about the booster {{ booster.boosterName }}'><span>{{ booster.boosterName }}</span><img loading='lazy' src='/assets/img/boosters{{ booster.url }}.png' alt='Image of the booster {{ booster.boosterName }}'></a>"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
+  {% for material in site.materials %}
+    {
+      "title"    : "{{ material.matName | escape }}",
+      "url"      : "{{ material.path | replace:'.md', '' | remove: '_materialss' }}",
+      "inline"   : "<a href='{{ site.baseurl }}{{ material.url }}' class='inline-asset rarity_{{material.matRarity}}' title='Page about the material {{ material.matName }}'><span>{{ material.matName }}</span><img loading='lazy' src='/assets/img/materials{{ material.url }}.png' alt='Image of the material{{ material.matName }}'></a>"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
   {
   	"title": "sct",
   	"url": "/supercharged-chaos-translocator"
