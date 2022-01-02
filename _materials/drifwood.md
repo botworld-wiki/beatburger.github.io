@@ -15,7 +15,7 @@ breadcrumbs:
 matName: "Drift Wood"
 matRarity: "Common"
 matImageUrl: "/assets/img/materials/drift-wood.png"
-matRaritySortOrder: "1"
+matRaritySortOrder: "01"
 matType: "Boat"
 matDescription: "Found washed up on beaches"
 matOverview: "Req. for <a href='/business'>Boat lvl 1 & 2</a>"
