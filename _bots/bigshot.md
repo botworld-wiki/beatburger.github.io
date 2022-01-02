@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-01-02"
 
 
 title: "Bigshot (Epic Sniper)"
@@ -90,6 +90,8 @@ The big mommy of ranged burst DPS, Bigshot definitely deserves S tier in the low
 
 
 ### Tips
-Equip 2x Epic stun resistance boosters when you use bigshot
+- Equip 2x Epic stun resistance boosters when you use bigshot
 
+### Funfact
+- Bigshot was originally a Rare bot back in Early access and got changed into an Epic later on
 
