@@ -151,6 +151,7 @@ Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100
     border-radius: 10px !important;
     background: linear-gradient(6deg, rgb(13 138 126) 0%, rgb(27 20 100) 80%);
     border-width: 2px !important;
+    white-space: nowrap;
 
 }
 .inline-asset span{ padding: 5px}
