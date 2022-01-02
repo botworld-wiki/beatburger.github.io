@@ -108,16 +108,17 @@ Anything you need to find at some point to progress through the [Story](/story)
   </tbody>
 </table>
 
-## Maps
-
 <div markdown="1" class=" ghcms ghcms-maps">
-
 
 ### Ancient Ruins
 
 Check out our [Explanation & Maps about Ancient Ruins](/loot#ancient-ruins) 
 
-### Blue Tarp
+## Boat Level 1 & 2
+
+![Driftwood, Barrel, Old Mast locations](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
+
+## Blue Tarp
 
 ![blue tarp map](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
 
