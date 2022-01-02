@@ -165,7 +165,7 @@ Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100
 <script>
 
 async function fetchInlines(){  
-    const response = await fetch('/assets/js/inlines.json');
+    const response = await fetch('/assets/js/inlines.json?v0');
     const entries = await response.json();
     var inlinesLookup = {};
     for (let i=0; i < entries.length; i++) {
