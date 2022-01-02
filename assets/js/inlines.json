@@ -20,7 +20,7 @@ layout: none
     {
       "title"    : "{{ booster.boosterName | escape }}",
       "url"      : "{{ booster.path | replace:'.md', '' | remove: '_boosters' }}",
-      "inline"   : "<a href='{{ site.baseurl }}{{ booster.url }}' class='inline-asset rarity_{{booster.boosterRarity}}' title='Page about the booster {{ booster.boosterName }}'><img loading='lazy' src='/assets/img/abilities{{ booster.url }}.png' alt='Image of the booster {{ booster.boosterName }}'><span>{{ booster.boosterName }}</span></a>"
+      "inline"   : "<a href='{{ site.baseurl }}{{ booster.url }}' class='inline-asset rarity_{{booster.boosterRarity}}' title='Page about the booster {{ booster.boosterName }}'><img loading='lazy' src='/assets/img/boosters{{ booster.url }}.png' alt='Image of the booster {{ booster.boosterName }}'><span>{{ booster.boosterName }}</span></a>"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {
