@@ -14,10 +14,15 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-**Brand new v1.2.0 Content:** We don't know much about it yet, but enjoy what we have already.
+**Brand new v1.2.0 Content:**
 
-![Codex Tab screenshot](https://cdn.discordapp.com/attachments/824807657550381088/925197223808106566/Screenshot_20211228-082536_Botworld.jpg)
+![Codex Tab screenshot](<https://cdn.discordapp.com/attachments/923510071026155550/926445359771828244/Screenshot_20211228-082536_Botworld.jpg>)
 
+The Codex is a new feature added with [Version 1.2](</news#v120>). It adds a couple of new Quests to the early and midgame zones and gives advanced players a reason to visit again - other than [Farming](</farming>) of course.
+
+Each [Map](</maps>) has its own quest list and you can get cosmetic rewards for finishing a certain amount ontop of 100 Coins for each objective you complete.
+
+Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>)
 </div>
 
 ## Scrapper Coast
