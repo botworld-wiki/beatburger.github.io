@@ -22,6 +22,7 @@ Powerful combos are the cornerstone of any good comp, and some will only involve
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#general-comp-tips">General Comp Tips</a></li>
   <li class="toc-block-entry" ><a href="#grouper-comp">Grouper Comp</a></li>
+  <li class="toc-block-entry" ><a href="#drop-comp">Drop Comp</a></li>
   <li class="toc-block-entry" ><a href="#combos">Combos</a></li>
 </ul>
 
@@ -64,7 +65,7 @@ There are many sources of [AoE](/fighting#aoe) effects for you to choose from, t
 - **Ranged Bots:** [Mort](/mort), [Pluggie](/pluggie), [Lobbie](/lobbie), [Bigshot](/bigshot), [Dune Bug](/dune-bug), [Sheller?](/sheller)...
 - **Melee-range Bots:** [Brute](/brute), [Flamer](/flamer), [Scatter](/scatter)
 - **AoE CC Bots:** [Lobbie](/lobbie), [Scatter](/scatter), [Pluggie](/pluggie), [Sheller?](/sheller)...
-- **AoE abilities:** [Icewall](/icewall), [Hack Missile](/hack-missile), [Poison Trail](/poison-trail), [Goop](/goop), [Zap Tower](/zap-tower), [Poison Tower](/poison-tower), [Frost Missile](/frost-missile)...
+- **AoE abilities:** [Icewall](/icewall), [Hack Missile](/hack-missile), [Poison Trail](/poison-trail), [Goop](/goop), [Zap Tower](/zap-tower), [Unstable Plasma](/unstable-plasma), [Frost Missile](/frost-missile)...
 
 As you can see, you're not lacking options there!
 
@@ -85,6 +86,22 @@ Your 2-3 free bot slots
 - **Cleaner:** But sometimes the opener isn't enough to actually close the fight by itself, like when your opponent has 6 bots in [Arena](/arena) or they're a [Boss](/exploring#bosses). That's what you need Cleaners for. They're usually high mobility or ranged bots: [Fork](/fork), [Ram](/ram), [Virus](/virus) (Hack is ranged), [Longshot](/longshot)...
 - **Utility:** It's good to save 1 or 2 bot slots to have the right counter in difficult situations. Like [Mega Bots](/exploring#mega-bots) or when your [Canister](/exploring#canister) is getting empty. Maybe then you'd rather use a regular tanky [Tank](/bots#tanks) instead of Chainer whenever you can do without it and save some of its precious HP.
 
+</div>
+
+### Demo Clips
+
+- **No Chainer Clean Kill:** by @Lekoi
+
+<video controls style="max-width:100%; width:400px"><source src="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4"><a href="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
+
+<div markdown="1" class=" ghcms ghcms-drop">
+
+## Drop Comp
+
+
+Nozzle/Flamer/Bombee.
 
 </div>
 
@@ -98,7 +115,7 @@ Your 2-3 free bot slots
 
 ### Undying Frosty
 
-Go full [Energy Resistance boosters](/energy-resistance-epic) with bots that can also get Energy Resistance from their [AI tree](/bots#ai]. 
+Go full [Energy Resistance boosters](/energy-resistance-epic) with bots that can also get Energy Resistance from their [AI tree](/bots#ai). 
 
 [Frosty](/frosty) being a natural counter to every Melee bot, make him invulnerable to most Ranged bot & every [Ability](/abilities), and, well... just watch.
 
@@ -109,6 +126,16 @@ Gather the most devastating Melee-range bots [Brute](/brute), [Scatter](/scatter
 ### Stun Immunity
 
 Having 2 [Epic Stun Resist boosters](/stun-resistance-epic) grants your bots 100% stun (and freeze) immunity. That's extremely valuable to [Bigshot](/bigshot)!
+
+### Bigshot + Gravity Surge
+
+### Chainer + Unstable Plasma
+
+### Big Poison Missile with Hornet
+
+### bombee flamer combo
+
+
 
 </div>
 
