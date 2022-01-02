@@ -24,12 +24,10 @@ I don't think you should feel the need to dedicate yourself to farming before lv
 
 
 - [Build up your Recruits](#build-up-your-recruits) 
-- [Relevant Business Upgrades](#relevant-business-upgrades) 
-- [Extra Canisters](#extra-canisters) 
-- [Farming Contracts](#farming-contracts) 
+- [Basic Farming Tips](#basic-farming-tips) 
+  - [Relevant Business Upgrades](#relevant-business-upgrades) - [Extra Canisters](#extra-canisters) - [Farming Contracts](#farming-contracts) 
 - [Route Navigation & Recruit Micro-Managment](#navigation)
-- [Best Routes Summary](#routes)
-- **Best Routes:** 
+- [Best Routes for every Resource](#routes)
   - [Cobblestone Trail](#cobblestone) 
   - [Reef+Bay](#swamp) 
   - [Monument+Fissure](#desert) 
@@ -45,18 +43,21 @@ I don't think you should feel the need to dedicate yourself to farming before lv
 - Mobs level increases with yours! Read [Mobs Level Scaling](/exploring#level-scaling), and make sure not to let your Recruits fall too much behind [your own level](/botpack#botpack-level)
 - If you're missing good-enough bots, best give up on of your recruits and use it as a decoy, than to have them all be mediocre. 
 
-## Relevant Business Upgrades
+
+## Basic Farming Tips
+
+### Relevant Business Upgrades
 
 [Farming-relevant Business Upgrades](/business#for-farming)
 
 
-## Extra Canisters 
+### Extra Canisters 
 
 Check out the **far right of the [Shop](/shop#extra-canisters)** (behind ads if you don't have the [Mayoral Membership](/seasons)). 
 
 
 
-## Farming Contracts
+### Farming Contracts
 
 A [few contracts are not based upon a specific location](/contracts) and can be completed while running most routes:
 
@@ -93,14 +94,19 @@ Video demo of farming Cobblestone + River Run + Southbank with only 1 weak/avera
     <a href="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
-## Routes
 
-If you haven't yet, you should **read this guide from [the top of the page](#top)**.
+<span class="menu-link-target" id="routes"></span>
+
+## Best Routes for every Resource
+
+If you haven't yet, you should **read this guide from [the top of the page](#farming-guide--routes)**.
+
+### Mats are Gold
 
 **You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just [Sparky Wires](/sparky-wires) make it worth it to have [Wild Bots](/wild-bots) in your route, even if that decreases your gold earnings. **It's all about compromise**.
 
 
-### Summary: Best Routes by Resource
+### Summary Table
 
 Here are my best routes for Resources I deem "Farmable":
 
