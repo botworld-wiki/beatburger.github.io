@@ -13,7 +13,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
   <img loading="lazy" src="/assets/img/banners/welcome.png" alt="Welcome to the Wiki banner" style="width:100%">
 </picture></p>
 
-<div id="site_toc no-inline">
+<div id="site_toc" class="no-inline">
     {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     <div class="toc-block" id="home_Tanks">
         <a class="toc-block-title" href="/bots#tanks" title="All the Tanks bots in our Robopedia"><img loading="lazy"  src="/assets/img/icons/tanks.png" alt="Tank bots logo" title="Tank bots logo"><h2 id="Tanks">Tanks</h2></a>
