@@ -16,8 +16,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-Recruits, how do they work ? They're the most useful tool you have in Botworld Adventure once you know how to handle them: **with love, care, and *watcheful supervision***.
-
+Recruits, how do they work ? They're the most useful tool you have in Botworld Adventure once you know how to handle them: **with love, care, and *watchful supervision***.
 
 </div>
 
@@ -41,17 +40,17 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 ## Acquisition
 
-- 1: boat lvl ?
-- 2: boat lvl ?
-- 3: boat lvl ?
+- 1st : boat lvl 4
+- 2nd : boat lvl 7
+- 3rd : boat lvl 11
 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-managment">
 
-## Managment 
+## Managment
 
-Unlocked at Boat lvl ?, you can change their bots, abilities and boosters.
+Unlocked at Boat lvl 7, you can change their bots, abilities and boosters.
 
 Make good use of it?
 
