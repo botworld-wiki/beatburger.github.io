@@ -26,8 +26,8 @@ layout: none
   {% for material in site.materials %}
     {
       "title"    : "{{ material.matName | escape }}",
-      "url"      : "{{ material.path | replace:'.md', '' | remove: '_materialss' }}",
-      "inline"   : "<a href='{{ site.baseurl }}{{ material.url }}' class='inline-asset rarity_{{material.matRarity}}' title='Page about the material {{ material.matName }}'><span>{{ material.matName }}</span><img loading='lazy' src='/assets/img/materials{{ material.url }}.png' alt='Image of the material{{ material.matName }}'></a>"
+      "url"      : "{{ material.path | replace:'.md', '' | remove: '_materials' }}",
+      "inline"   : "<a href='{{ site.baseurl }}{{ material.url }}' class='inline-asset rarity_{{material.matRarity}}' title='Page about the material {{ material.matName }}'><span>{{ material.matName }}</span><img loading='lazy' src='/assets/img/materials{{ material.url }}.png' alt='Image of the material {{ material.matName }}'></a>"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {
