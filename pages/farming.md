@@ -26,9 +26,9 @@ breadcrumbs:
 
 To farm Botworld efficiently, you will need:
 
-- **Good recruits**: efficient farming is your recruits doing the fighting, while you loot piles and chests.
-- **Good routes**: different places drop gold at varying amounts, and offer a different selection of Rare Materials
-- **Good area knowledge**: As you get to know the precise spawn location of every potential loot and mob for a given area, your performance there will significantly improve. **Especially if your recruits are somewhat lacking**
+- **Good recruits**: efficient farming is your [Recruits](/recruits) doing the fighting, while you loot [piles and chests](/loot).
+- **Good routes**: different places drop gold at varying amounts, and offer a different selection of [Rare Materials](/materials#rare)
+- **Good area knowledge**: As you get to know the precise [spawn location of every potential loot](/maps) and mob for a given area, your performance there will significantly improve. **Especially if your recruits are somewhat lacking**
 
 
 Gold comes from piles, chests, and bandits. The goal is to loot the most of the first two, and have your recruits defeat the most of the last, in the shortest time possible. **Avoid all fights** as much as possible, and if you can't, make them Multiple Fights so that you cut down on the loading time & make 10% more thanks to the Risky perk.
@@ -131,35 +131,13 @@ Keep it short, make bank !
 
 
 
-## Routes
+## Best routes by resources
 
 A good route will have a high density of piles and chests, have the desired characteristics for the materials you're looking for, and have mostly bandits rather than wild bots.
 
 **You will always be looking for gold**, but when you also need specifically some other materials it might be worth it to run an alternative route to have a chance to drop it. **At 475 gold/rare drop**, and \~1 drop/3runs (7min30), it represents **about 63 extra gold/min**. Even just Sparky Wires make it worth it to have wild bots in your route, even if that decreases your gold earnings. It's all about compromise.
 
 Ordered by relevance, with details for each route in the post below:
-
-| **Resource** | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
-| ----------------------------- | ------ | ------- | ---- | ---- | 
-| **Gold/min**                  | **35** | **38**  | 26   | 24   |
-| **Gold/can**                  | 73     | **109** | 70   | 62   |
-| [Evader Spray](/evader-spray) | Lots   | Lots    |      |      |
-| [Splasher Explosives](/splasher-explosives) | Lots | Lots | Some | Lots |
-| [Tank Plating](/tank-plating) |        |         | Some | **Lots** |
-| [Chaser Core](/chaser-core)   |        |         | **Some** |  | 
-| [Dull Steel](/dull-steel)     | Lots   | Lots    | Lots | Lots | 
-| [Glass Tube](/glass-tube)     | Lots   | Lots    | Some | Some | 
-| [Hard Botplates](/hard-botplates) |    |         | Some | Some | 
-| [Heavy Steel](/heavy-steel)   |        |         | **Some** |  | 
-| [Sticky Goo](/sticky-goo)     | Lots   | Lots    | Some | Lots | 
-| [Clear Oil](/clear-oil)       | Lots   | Lots    | Some | Some |
-| [Double Cog](/double-cog)     | Lots   | Lots    | Lots | Lots |
-| [Rusty Cog](/rusty-cog)       | Lots   | Lots    |      |      |
-| [Sparky Wires](/sparky-wires) |        |         | Some | Some |
-| [Thick Tube](/thick-tube)     |        |         | Some | **Lots** |
-| -                             | -      | -       | -    | -    |
-| Routes: | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
-
 
 ### Gold: 
 
@@ -206,51 +184,87 @@ Ordered by relevance, with details for each route in the post below:
 **Common & Special materials**: check out the route summaries below and pick the one best suited according to its characteristics.
 
 
+## Routes
 
-## Routes performances & presentations
+| **Resource** | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
+| ----------------------------- | ------ | ------- | ---- | ---- | 
+| **Gold/min**                  | **35** | **38**  | 26   | 24   |
+| **Gold/can**                  | 73     | **109** | 70   | 62   |
+| [Evader Spray](/evader-spray) | Lots   | Lots    |      |      |
+| [Splasher Explosives](/splasher-explosives) | Lots | Lots | Some | Lots |
+| [Tank Plating](/tank-plating) |        |         | Some | **Lots** |
+| [Chaser Core](/chaser-core)   |        |         | **Some** |  | 
+| [Dull Steel](/dull-steel)     | Lots   | Lots    | Lots | Lots | 
+| [Glass Tube](/glass-tube)     | Lots   | Lots    | Some | Some | 
+| [Hard Botplates](/hard-botplates) |    |         | Some | Some | 
+| [Heavy Steel](/heavy-steel)   |        |         | **Some** |  | 
+| [Sticky Goo](/sticky-goo)     | Lots   | Lots    | Some | Lots | 
+| [Clear Oil](/clear-oil)       | Lots   | Lots    | Some | Some |
+| [Double Cog](/double-cog)     | Lots   | Lots    | Lots | Lots |
+| [Rusty Cog](/rusty-cog)       | Lots   | Lots    |      |      |
+| [Sparky Wires](/sparky-wires) |        |         | Some | Some |
+| [Thick Tube](/thick-tube)     |        |         | Some | **Lots** |
+| -                             | -      | -       | -    | -    |
+| Routes: | [Cobblestone Trail](#cobblestone) | [Reef+Bay](#swamp) |  [Monument+Fissure](#desert)| [Redleaf Ridge](#redleaf) | 
 
-Below are short summaries for each the most interesting recorded routes. Check out the archived thread **"Farming Routes - run logs"** for the complete run logs of every route tested
 
-### Perillous Reef + Mangrove Bay
+<span class="menu-link-target" id="cobblestone"></span>
 
-- Trees, Water, Bandits, Mines, Critters
-- Drops: Evader, Splasher
-
-*109 gold/can, 38 gold/min, 3m/run*
-
-- Video by @BBC#3819 : https://discord.com/channels/824807656945745951/879011114963304508/912711945193422898
-- Route map: ![Image](https://cdn.discordapp.com/attachments/879011114963304508/912821720770019328/route-Saltwater_Swamp.png)
-
-### Cobblestone Trail
+## Cobblestone Trail
 
 - Trees, Water, Bandits
 - Drops: Evader, Splasher
 
 *73 gold/can, 35 gold/min, 2 min/run*
 
-- Video by @Lekoi#4551 : https://discord.com/channels/824807656945745951/824807657550381088/878006697115910224
-- note: performances rely 100% on your recruits fighting efficiently
+- [Video by @Lekoi#4551 (44mb)](https://cdn.discordapp.com/attachments/824807657550381088/878006692049219604/Screen_Recording_20210819-130354_Botworld.mp4)
+- [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
-### Redleaf Ridge
+<span class="menu-link-target" id="swamp"></span>
 
-- High grounds, Trees, Bandits, Wild bots
-- Drops: Tanker, Splasher
+## Perillous Reef + Mangrove Bay
 
-*62 gold/can, 24 gold/min, 2min30/run*
+![half-right Perillous Reef + Mangrove Bay farming route](https://cdn.discordapp.com/attachments/879011114963304508/912821720770019328/route-Saltwater_Swamp.png)
 
-- Video: ![Video](https://discord.com/channels/824807656945745951/877988056228069456/878020810739167262) (I do it shorter now, just the main loop and I don't go wandering in the hills)
-- Roadmap: ![Image](https://discord.com/channels/824807656945745951/879011114963304508/880539224124817429) (just the top route)
+- Trees, Water, Bandits, Mines, Critters
+- Drops: Evader, Splasher
 
-### Strange Monument + Grand Fissure
+*109 gold/can, 38 gold/min, 3m/run*
+
+- [Video by @BBC#3819 (97mb)](https://cdn.discordapp.com/attachments/879011114963304508/912711935626186833/XRecorder_21112021_135657_720x326.mp4)
+
+- [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
+
+<span class="menu-link-target" id="desert"></span>
+
+## Strange Monument + Grand Fissure
+
+![half-right Strange Monument + Grand Fissure farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/888771492828045422/iMarkup_20210918_142430.jpg)
 
 - Ancient Ruins, High Ground, Trees, Bandits, Wild Bots, Mines
 - Drops: Tanker, Chaser Cores, Splasher
 
 *70 gold/can, 26 gold/min, 2min30/run*
 
-- Roadmap: https://discord.com/channels/824807656945745951/879011114963304508/888771495843733515 (thanks @Terranova360#0208 )
-- Note: this route is hard for your recruits, you'll need good ones
+- Credit: @Terranova360#0208 
+- [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
+<span class="menu-link-target" id="redleaf"></span>
+
+## Redleaf Ridge
+
+![half-right Redleaf Ridge farming route](https://cdn.discordapp.com/attachments/879011114963304508/880539221482418176/Screenshot_20210826-221950_Botworld2.jpg) (just the top route)
+
+- High grounds, Trees, Bandits, Wild bots
+- Drops: Tanker, Splasher
+
+*62 gold/can, 24 gold/min, 2min30/run*
+
+
+- [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
+
+
+## Other Routes
 
 ### Giant's Step by @foocker#2431 
 
@@ -259,8 +273,9 @@ Below are short summaries for each the most interesting recorded routes. Check o
 
 *63 gold/run, 21gold/min, 3min/run*
 
+- Roadmap: ![Giant's Step farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/883413365538570310/Polish_20210904_020343518.jpg)
 - note: critters really easy to catch here, with so many toads and snakes
-Roadmap & Video: https://discord.com/channels/824807656945745951/879011114963304508/883413212299673611
+- [Discord post with demo clip](https://discord.com/channels/824807656945745951/879011114963304508/883413212299673611)
 
 ### Crater Dome
 
