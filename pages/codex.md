@@ -25,6 +25,8 @@ Each [Map](</maps>) has its own quest list and you can get cosmetic rewards for 
 Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>)
 </div>
 
+<div markdown="1" class=" ghcms ghcms-scrappercoast">
+
 ## Scrapper Coast
 
 ### Missions
@@ -56,6 +58,7 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ### Guides
 
+- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no spot to farm for this, it's just random and you'll eventually find one doing the other Codex missions
 - **Rare Tulips:** replace Scrap Piles and can be found anywhere
 - **Wild Yanky:** 5-7 can be found if you start at cobblestone clearing. run north and stay left to River Run.
 - **Rat Bandits:** A good place to farm these is Cobblestone Trail
