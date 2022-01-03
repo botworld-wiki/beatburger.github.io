@@ -2,15 +2,15 @@
 
 layout: breadcrumbs
 permalink: /codex
-title: Codex
-description: The brand new Codex missions will get you new Outfits! Discover everything we already know about it to help you complete them! 
+title: "Codex Guide"
+description: Every Codex objectives, with Maps & Pictures to help you complete every mission and complete your Outfits collection! Rare Jackalope, Tulips, Pumpkins, Wolf Packs & Fork Tongue Fanatics...
 breadcrumbs:
   "Botworld": "/#botworld"
   "Exploring": "/exploring"
 
 ---
 
-# Codex
+# Codex Guide
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
