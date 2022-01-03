@@ -19,6 +19,13 @@ To farm Botworld efficiently, you will need:
 - **Good routes**: different places drop gold at varying amounts, and offer a different selection of [Rare Materials](/materials#rare)
 - **Good area knowledge**: As you get to know the precise [spawn location of every potential loot](/maps) and mob for a given area, your performance there will significantly improve. **Especially if your recruits are somewhat lacking**
 
+**Example:**
+
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">
+    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
 
 I don't think you should feel the need to dedicate yourself to farming before lvl 15 at the earliest. I started researching it when I was around lvl 17 myself, and it had been pretty easy to upgrade my main bots just doing the story, contracts & arena.
 
@@ -167,13 +174,19 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 
 ## Cobblestone Trail
 
+![half-right Cobblestone Trail farming route](https://cdn.discordapp.com/attachments/923510071026155550/927676986560753675/Screenshot_20220103-223459_Botworld.jpg) 
+
 - Trees, Water, Bandits
 - Drops: Evader, Splasher
 
 *73 gold/can, 35 gold/min, 2 min/run*
 
-- [Video by @Lekoi#4551 (44mb)](https://cdn.discordapp.com/attachments/824807657550381088/878006692049219604/Screen_Recording_20210819-130354_Botworld.mp4)
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
+
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">
+    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
 
 <span class="menu-link-target" id="swamp"></span>
 
@@ -193,7 +206,7 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 
 ## Strange Monument + Grand Fissure
 
-![half-right Strange Monument + Grand Fissure farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/888771492828045422/iMarkup_20210918_142430.jpg)
+![half-right Strange Monument + Grand Fissure farming route roadmap](https://cdn.discordapp.com/attachments/923510071026155550/927686825684905995/Screenshot_20220103-225748_Botworld.jpg)
 
 - Ancient Ruins, High Ground, Trees, Bandits, Wild Bots, Mines
 - Drops: Tanker, Chaser Cores, Splasher
@@ -203,11 +216,16 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 - Credit: @Terranova360#0208 
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927686825059971162/XRecorder_Edited_03012022_225402.mp4">
+    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927686825059971162/XRecorder_Edited_03012022_225402.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
 <span class="menu-link-target" id="redleaf"></span>
 
 ## Redleaf Ridge
 
-![half-right Redleaf Ridge farming route](https://cdn.discordapp.com/attachments/879011114963304508/880539221482418176/Screenshot_20210826-221950_Botworld2.jpg) (just the top route)
+![half-right Redleaf Ridge farming route](https://cdn.discordapp.com/attachments/923510071026155550/927694328946634812/Screenshot_20220103-234357_Botworld.jpg) 
 
 - High grounds, Trees, Bandits, Wild bots
 - Drops: Tanker, Splasher
@@ -216,7 +234,10 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
-
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927694328283951124/XRecorder_Edited_03012022_234020.mp4">
+    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927694328283951124/XRecorder_Edited_03012022_234020.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
 
 ## Other Routes
 
