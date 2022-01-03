@@ -58,7 +58,10 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ### Guides
 
-- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no real place to farm for this, it's just random and you'll eventually find one doing the other Codex missions. Anyways this is what it looks like: ![300px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no real place to farm for this, it's just random and you'll eventually find one doing the other Codex missions. Anyways this is what it looks like:
+
+[300px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+
 - **Rare Tulips:** replace Scrap Piles and can be found anywhere
 - **Wild Yanky:** 5-7 can be found if you start at cobblestone clearing. run north and stay left to River Run.
 - **Rat Bandits:** A good place to farm these is Cobblestone Trail
