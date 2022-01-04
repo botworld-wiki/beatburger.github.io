@@ -151,6 +151,8 @@ Some hidden gems amongst bots:
 - **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
 
 ### Story
+
+- **Reginald:** You offend me with your lack of skill, there will be barely any honour to be gained with my victory.
  
 After you've defeated Reginald:
 
@@ -175,6 +177,8 @@ An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bo
 He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee), [Evaders](/bots#evaders), and [Splashers](/bots#splashers)
 
 ### Story
+ 
+- **Jack:** C'mon, let's get into it. I'm gonna thump your bots back into scrap. Don't even think of running away.
  
 After you've defeated Jack:
 
