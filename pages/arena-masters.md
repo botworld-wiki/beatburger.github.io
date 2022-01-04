@@ -192,17 +192,21 @@ After you've defeated Jack:
 
 A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack power. Prepare to fight, prepare to dodge cause this Arena Master will make your battle, filled with chaos.
 
-- **Level: 20**
-- **Rewards:** revenge
+![arenamaster nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)
 
-### Bots & Abilities
+- **Bots:** = 2x [Pluggie](/pluggie), [Pupil](/pupil), [Bigshot](/bigshot), 2x [Nozzle](/nozzle) Level 20
+- **Abilities:** [Zap Tower](/zap-tower), [Charge Bolt](/charge-bolt), [Firewall](/firewall), [Unstable Plasma](/unstable-plasma)
 
-- 2x [Pluggie](/pluggie), 2x [Nozzle](/nozzle), 1x [Bigshot](/bigshot), 1x [Pupil](/pupil)
-- [Firewall!](/firewall)
 
 ### Tips
 
 lol
+
+### Story
+
+After you've defeated Nicola:
+
+- **Nicola:** I've never felt so flat, I'm completely drained, gonna take some time out to recharge. I guess this orange series botpack is yours.
 
 ### Trivia
 
