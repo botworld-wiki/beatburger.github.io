@@ -49,7 +49,6 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
 - **Player:** I was born ready. Who di I fight?
 - **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
-
  
  
 After you've defeated Brad:
@@ -81,12 +80,11 @@ Lv10 bots, Missiles
 ### Story
 
 - **Astrid:** - Waaaaaaaaaaaaagh! Watch where you're going little one, I#m gonna stomp you!
-
  
  
 After you've defeated Astrid:
 
-- Waaaaaaaaa... Hmmpf. I've gotta admit you can handle yourself in a chaotic fight, you deserve this upgrade to a green series botpack.
+- **Astrid:** Waaaaaaaaa... Hmmpf. I've gotta admit you can handle yourself in a chaotic fight, you deserve this upgrade to a green series botpack.
 
 
 ## Kelvin
