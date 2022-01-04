@@ -9,6 +9,8 @@ breadcrumbs:
 
 ---
 
+<div markdown="1" class=" ghcms ghcms-intro">
+
 # Getting Started: Beginner Guide
 
 ## Hello young Botmaster !
@@ -21,9 +23,13 @@ Let's make one thing clear: **this game won't punish you for any choice you make
 
 Botworld is well worth exploring at your own pace, and won't punish you for trying stuff or fooling around, so really you can stop reading and go straight in ! 
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-starterbot">
 
 ## Starter bot
 
+![starter-selection](https://cdn.discordapp.com/attachments/923510071026155550/927866008197287956/starter-selection-min.png)
 
 It's really just that: your starter bot. **You will find botframes to build the other two** just like any other bot wandering through Botworld. 
 
@@ -47,6 +53,10 @@ Whenever you feel ready for a challenge and like trying something new, **make yo
 - Each Arena Master you beat will give you better botpack, which means more abilities, that's very powerful. 
 - Climbing the first ranks of the Solo Arena will reward you with some really cool bots that you should try out.
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-business">
+
 ## What business upgrades should I take ?
 
 
@@ -66,3 +76,5 @@ But as with everything else, as you upgrade your boat you'll have more energy po
 Click any material required to upgrade your bot to **get a description of how to get them**. Alternatively, your machines or even the shop might help.
 
 I think that's really all you need to know at this point, so you'd better go and explore Botworld right now ! 
+
+</div>
