@@ -74,7 +74,7 @@ breadcrumbs:
 You can find Info about Arena Masters and how to defeat them here (click):
 
 [![200px brad](https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png)](/arena-masters#brad)
-[![200px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
+[![150px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
 [![200px inline Kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)](/arena-masters#kelvin)
 [![200px inline Reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)](/arena-masters#reginald)
 [![200px inline Jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)](/arena-masters#jack)
