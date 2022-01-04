@@ -153,6 +153,8 @@ Some hidden gems amongst bots:
 - **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
 
 ### Story
+ 
+After you've defeated Reginald:
 
 - **Reginald:** I'm finished, done! How can I ever show my face in this town again? Here's your red series botpack, may you glow with its magnificence.
 
@@ -164,18 +166,27 @@ Some hidden gems amongst bots:
 
 An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bots, he will deploy **4 bots at a time**. 
 
--**Level: 17**
--**Rewards**:
+![arenamaster jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)
 
-### Bots & Abilities
+- **Bots:** = [Beat](/beat), [Yanky](/yanky), [Chainer](/chainer), [Thump](/thump), 2x [K.O.](/ko) Level 17
+- **Abilities:** [Hasty Ground](/hasty-ground), [Charge Field](/charge-field), [Immobilize Field](/immobilize-field), [Vortex](/vortex)
+
 
 ### Tips
 
 He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee), [Evaders](/bots#evaders), and [Splashers](/bots#splashers)
 
+### Story
+ 
+After you've defeated Jack:
 
+- **Jack:** Hmmph, you were just out of my reach. Go on, grab a purple series botpack, knock yourself out!
 
 </div>
+
+
+
+
 
 ## Nicola
 
