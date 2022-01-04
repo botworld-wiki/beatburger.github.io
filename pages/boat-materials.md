@@ -50,7 +50,7 @@ What you need to upgrade your [Boat and its Business](/business).
     </tr>
   </thead>
   <tbody>
-    {% assign mats_by_rarity = site.boat-materials | sort: "matRaritySortOrder" %}
+    {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
         {% if material.matType == 'Boat' %}
           <tr class="collection-list-entry rarity_{{material.matRarity}}">
