@@ -98,8 +98,6 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 - **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot) Level 10
 - **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Missile](/missile), [Freeze](/freeze)
 
-*credit: Emph_asis*
-
 ### Tips
 
 - [Slicer](/slicer)/[Yanky](/yanky) with Immunity to slow and immobilizing effects
@@ -219,23 +217,28 @@ She used to spam [Zap Towers](/zap-tower) like back when that ability was 5p and
 
 A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the perfect fighting team (pretty much like Brads but with reserves). Scales don't want your bots to use its ult. whenever your bots escaped from his, he will teleport his bots to yours with an explosive entrance. make sure you choose your bots carefully
 
+![arenamaster scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)
 
-- **Level: 25**
-- **Rewards:** inner peace...
+- **Bots:** = [Virus](/virus), [Froggy](/froggy), [Dune Bug](/dune-bug), [Ram](/ram), [Longshot](/longshot), [Slicer](/slicer) Level 25
+- **Abilities:** [Hasty Ground](/hasty-ground), [Charge Field](/charge-field), [Immobilize Field](/immobilize-field), [Vortex](/vortex)
 
-### Bots & Abilities
-
-- [Slicer](/slicer), [Ram](/ram), [missing data]](/contribute#tbw)
-- [Hyperdrain](/hyperdrain), [missing data]](/contribute#tbw)
 
 ### Tips
 
 [Virus](/virus) + [Hypercharge](/hypercharge) = GG.
 
+### Story
+
+I look forward to our duel, I always enjoy a challenge though I am confident you won't shake me.
+
+After you've defeated Scales:
+
+- **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-Credit to GlareFacer for the orinigal work of listing all the masters on discord!
+*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph_asis*
 
 </div>
