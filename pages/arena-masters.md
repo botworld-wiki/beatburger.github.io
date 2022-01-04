@@ -200,7 +200,8 @@ A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack
 
 ### Tips
 
-lol
+- It's HER or prepare to get nuked ;)
+- Try [Chainer](/chainer) or [Vortex](/vortex) and group her damage dealers, then use Splashers
 
 ### Story
 
