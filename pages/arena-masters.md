@@ -6,7 +6,8 @@ title: The Arena Masters
 description: Challenge the Arena Masters to climb up the ranks and unlock precious Botpack slots! Tips & Infos on how to beat every Arena Master you'll have to face in Botworld Adventure!
 breadcrumbs:
   "Botworld": "/#botworld"
-  "Scavenger Landing": "/scavenger-landing"
+  "Arena": "/arena"
+  "Arena-Masters": "/arena-masters"
 
 ---
 
