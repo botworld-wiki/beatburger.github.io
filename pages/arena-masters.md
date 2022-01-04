@@ -154,6 +154,8 @@ Some hidden gems amongst bots:
 
 ### Story
 
+- **Reginald:** I'm finished, done! How can I ever show my face in this town again? Here's your red series botpack, may you glow with its magnificence.
+
 </div>
 
 ## Jack
