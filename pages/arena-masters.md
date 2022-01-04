@@ -66,7 +66,7 @@ After you've defeated Brad:
 
 Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
-![200px arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
+![300px arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
 - **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) Level 6
 - **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Frost Missile](/frost-missile)
@@ -93,7 +93,7 @@ After you've defeated Astrid:
 
 Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He also uses a sniper to support his remaining bots. A very cool Arena Botmaster that likes to cool things.
 
-![arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
+![300px arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
 
 - **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot) Level 10
 - **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Frost Missile](/frost-missile), [Freeze](/freeze)
@@ -119,7 +119,7 @@ After you've defeated Kelvin:
 
 Regi is a dueling master who likes to battle someone with **one bot at a time**. While the rules are simple to fight with, he carries a long-lasting Freeze ability with a stun resistance booster for his bots. A very mean arena master with an attitude.
 
-![arenamaster reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)
+![300px arenamaster reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)
 
 - **Bots:** = [Slicer](/slicer), [Froggy](/froggy), [Tether](/tether), [Scatter](/scatter), [Longshot](/longshot), [Brute](/brute) Level 14
 - **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](/snowball), [Super Charge](/super-charge)
@@ -164,7 +164,7 @@ After you've defeated Reginald:
 
 An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bots, he will deploy **4 bots at a time**. 
 
-![arenamaster jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)
+![300px arenamaster jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)
 
 - **Bots:** = [Beat](/beat), [Yanky](/yanky), [Chainer](/chainer), [Thump](/thump), 2x [K.O.](/ko) Level 17
 - **Abilities:** [Hasty Ground](/hasty-ground), [Charge Field](/charge-field), [Immobilize Field](/immobilize-field), [Vortex](/vortex)
@@ -192,7 +192,7 @@ After you've defeated Jack:
 
 A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack power. Prepare to fight, prepare to dodge cause this Arena Master will make your battle, filled with chaos.
 
-![arenamaster nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)
+![300px arenamaster nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)
 
 - **Bots:** = 2x [Pluggie](/pluggie), [Pupil](/pupil), [Bigshot](/bigshot), 2x [Nozzle](/nozzle) Level 20
 - **Abilities:** [Zap Tower](/zap-tower), [Charge Bolt](/charge-bolt), [Firewall](/firewall), [Unstable Plasma](/unstable-plasma)
@@ -222,7 +222,7 @@ She used to spam [Zap Towers](/zap-tower) like back when that ability was 5p and
 
 A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the perfect fighting team (pretty much like Brads but with reserves). Scales don't want your bots to use its ult. whenever your bots escaped from his, he will teleport his bots to yours with an explosive entrance. make sure you choose your bots carefully
 
-![arenamaster scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)
+![300px arenamaster scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)
 
 - **Bots:** = [Virus](/virus), [Froggy](/froggy), [Dune Bug](/dune-bug), [Ram](/ram), [Longshot](/longshot), [Slicer](/slicer) Level 25
 - **Abilities:** [Hasty Ground](/hasty-ground), [Charge Field](/charge-field), [Immobilize Field](/immobilize-field), [Vortex](/vortex)
