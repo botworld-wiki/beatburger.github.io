@@ -73,6 +73,9 @@ breadcrumbs:
 
 You can find Info about Arena Masters and how to defeat them here:
 
+[![100px ]https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png](/https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png)
+[![100px inline]https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
+
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="/arena-masters#brad">Brad</a></li>
   <li class="toc-block-entry" ><a href="/arena-masters#astrid">Astrid</a></li>
