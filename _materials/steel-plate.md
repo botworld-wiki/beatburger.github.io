@@ -6,7 +6,7 @@ updatedAt: "2022-01-04"
 
 title: "Steel Plate"
 name: "Steel Plate"
-description: "Req. for Boat level 11 - Found scattered around ancient ruins throughout Botworld"
+description: "Req. for Boat level 11/12 - Found scattered around ancient ruins throughout Botworld"
 imageUrl: "/assets/img/abilities/steel-plate.png"
 breadcrumbs:
   Materials: "/materials"
@@ -15,10 +15,10 @@ breadcrumbs:
 matName: "Steel Plate"
 matRarity: "Special"
 matImageUrl: "/assets/img/abilities/steel-plate.png"
-matRaritySortOrder: "#REF!"
+matRaritySortOrder: "2"
 matType: "Boat"
-matDescription: "Req. for Boat level 11"
-matOverview: "Req. for Boat level 11"
+matDescription: "Req. for Boat level 11/12"
+matOverview: "Req. for Boat level 11/12"
 ---
 
 
