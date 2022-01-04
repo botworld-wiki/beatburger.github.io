@@ -17,7 +17,7 @@ matRarity: "Special"
 matImageUrl: "/assets/img/abilities/unbroken-glass.png"
 matRaritySortOrder: "#REF!"
 matType: "Boat"
-matDescription: ""
+matDescription: "Req. for Boat level 11"
 matOverview: "Req. for Boat level 11"
 ---
 
