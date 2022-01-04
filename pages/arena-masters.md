@@ -205,6 +205,8 @@ A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack
 
 ### Story
 
+- **Nicola:** Chaaaaaaaaaaaaaaaaaaarge me up, haha. Just you wait I'm brimming with power, or don't wait, lets battle right now, I'm wired!
+
 After you've defeated Nicola:
 
 - **Nicola:** I've never felt so flat, I'm completely drained, gonna take some time out to recharge. I guess this orange series botpack is yours.
