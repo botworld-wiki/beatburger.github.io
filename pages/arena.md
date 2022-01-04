@@ -6,6 +6,7 @@ title: Arena Guide
 description: "The Arena, where Masters and Botmasters are waiting for you to challenge them! Everything you need to know about it to have great success in Botworld Adventure!"
 breadcrumbs:
   Botworld: "/#botworld"
+  Arena: "/arena"
   
 ---
 
