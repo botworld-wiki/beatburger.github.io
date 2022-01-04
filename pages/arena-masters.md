@@ -247,6 +247,6 @@ After you've defeated Scales:
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph_asis*
+*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph_asis, debb*
 
 </div>
