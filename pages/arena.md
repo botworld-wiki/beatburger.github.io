@@ -74,10 +74,19 @@ breadcrumbs:
 You can find Info about Arena Masters and how to defeat them here (click):
 
 [![200px brad](https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png)](/arena-masters#brad)
-[![150px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
+[![200px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
 [![200px inline Kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)](/arena-masters#kelvin)
 [![200px inline Reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)](/arena-masters#reginald)
 [![200px inline Jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)](/arena-masters#jack)
 [![200px inline Nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)](/arena-masters#nicola)
 [![200px inline Scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)](/arena-masters#scales)
+
+## test
+[![100px brad](https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png)](/arena-masters#brad)
+[![100px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
+[![100px inline Kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)](/arena-masters#kelvin)
+[![100px inline Reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)](/arena-masters#reginald)
+[![100px inline Jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)](/arena-masters#jack)
+[![100px inline Nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)](/arena-masters#nicola)
+[![100px inline Scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)](/arena-masters#scales)
 .
