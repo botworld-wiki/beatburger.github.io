@@ -70,6 +70,8 @@ breadcrumbs:
 
 ## Arena Masters
 
+You can find Info about Arena Masters and how to defeat them here:
+
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="/arena-masters#brad">Brad</a></li>
   <li class="toc-block-entry" ><a href="/arena-masters#astrid">Astrid</a></li>
