@@ -111,7 +111,7 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 - **Black Line:** Roaming Super Flamer
 
 
-![Great Desert Codex](<https://cdn.discordapp.com/attachments/923510071026155550/926945205905686528/great-desert-codex-new-min.png>)
+![Great Desert Codex](<https://cdn.discordapp.com/attachments/923510071026155550/928070772717666384/great-desert-codex-new.png>)
 
 *Credit: O.J., debb, BloodxReaper, Hex*
 
