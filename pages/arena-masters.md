@@ -12,19 +12,53 @@ breadcrumbs:
 
 # Arena Masters
 
-## Astrid
+<div markdown="1" class=" ghcms ghcms-brad">
+
+## Brad
+
+Brad is your introduction into the Arena. He won't let you battle the real masters unless you defeat him first.
+
+![arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
+
+- Bots: [Slicer](</slicer>) and [Chomp](</chomp>) lvl 2
+- Abilities: [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
+
+
+### Tipps:
+
+- You can't mess this up. just place your strongest bots and be done with it.
+
+
+### Story
+
+- **Brad:** Hi kid, I'm Brad the Arena Manager, you here to get an autograph grom one of the arena masters?
+- **Player:** Nope, I've come to take them on!
+- **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
+- **Player:** I was born ready. Who di I fight?
+- **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
+
+</div>
 
 <div markdown="1" class=" ghcms ghcms-astrid">
 
-Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
+## Astrid
 
-- **Level: 6**
-- **Rewards:**
+Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
 ### Bots & Abilities
 
-- 2x [Frosty](/frosty), 2x [Scatter](/scatter), and 2x [Berserker](/berserker)
+- 2x [<span>Frosty</span>
+
+
+
+![Image of the bot Frosty](</assets/img/bots/small/frosty.png>)\]\( "Page about the bot Frosty"), 2x [<span>Scatter</span>
+
+![Image of the bot Scatter](</assets/img/bots/small/scatter.png>)\]\( "Page about the bot Scatter"), and 2x [<span>Berserker</span>
+
+![Image of the bot Berserker](</assets/img/bots/small/berserker.png>)\]\( "Page about the bot Berserker")
+
 - ?
+
 
 ### Tips
 
