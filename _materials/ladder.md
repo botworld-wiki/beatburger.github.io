@@ -17,7 +17,7 @@ matRarity: "Rare"
 matImageUrl: "/assets/img/abilities/ladder.png"
 matRaritySortOrder: "3"
 matType: "Boat"
-matDescription: ""
+matDescription: "Req. for Boat level 11"
 matOverview: "Req. for Boat level 11"
 ---
 
