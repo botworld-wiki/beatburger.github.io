@@ -32,8 +32,8 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 
 ![arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
 
-- Bots: [Slicer](</slicer>) and [Chomp](</chomp>) lvl 2
-- Abilities: [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
+- **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) lvl 2
+- **Abilities:** [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
 
 
 ### Tipps:
@@ -68,8 +68,8 @@ Astrid is an arena master who doesn't believe in reserves and likes to deploy al
 
 ![arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
-- Bots: 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) lvl 6
-- Abilities: [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Missile](/missile)
+- **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) lvl 6
+- **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Missile](/missile)
 
 ### Tips
 
@@ -93,10 +93,10 @@ After you've defeated Astrid:
 
 Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He also uses a sniper to support his remaining bots. A very cool Arena Botmaster that likes to cool things.
 
+![arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
 
-
-Bots = Slicer, Brute, Froggy, Scatter, Tether and Longshot
-Abilities: snowball, speed boost, super charge, chaos translocator
+- **Bots:** = Kelvin: 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot)
+- **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Missile](/missile), [Freeze](/freeze)
 
 *credit: Emph_asis*
 
@@ -105,6 +105,12 @@ Abilities: snowball, speed boost, super charge, chaos translocator
 - [Slicer](/slicer)/[Yanky](/yanky) with Immunity to slow and immobilizing effects
 - Effective [Sniper Bots](/bots#snipers)
 - [Chaser Stun Res](/chaser-stun-resistance-special) or rare [Stun resistance](/stun-resistance-rare) boosters
+
+### Story
+ 
+After you've defeated Astrid:
+
+- **Kelvin:** Wow i got melted, I'm just going to go and chill somehwere for a while. Take your blue series botpack and leave me be.
 
 </div>
 
