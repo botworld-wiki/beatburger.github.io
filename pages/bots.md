@@ -403,7 +403,7 @@ Getting your bot to AI5 will make it so much better, AI trees are very powerful.
 
 ### Training
 
-- **Have [the right business perk](/contribute#tbw):** +15% will help a lot!
+- **Have [the right business perk](/business):** +15% will help a lot!
 - **Only use bots in training:** bots already at AI5 still get their share of the xp, and it is wasted.
 - **Focus on wild bots:** you gain XP for beating bots, it's more efficient if you don't have to endure adverse abilities while doing so
 - **Fight above your level:** The higher the level, the more the XP gain. Aim for at least 2 levels above yours.
