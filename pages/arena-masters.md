@@ -47,7 +47,7 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Brad:** Hi kid, I'm Brad the Arena Manager, you here to get an autograph from one of the arena masters?
 - **Player:** Nope, I've come to take them on!
 - **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
-- **Player:** I was born ready. Who di I fight?
+- **Player:** I was born ready. Who do I fight?
 - **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
  
  
