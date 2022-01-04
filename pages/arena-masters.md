@@ -50,7 +50,8 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Player:** I was born ready. Who di I fight?
 - **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
 
-</br>
+ 
+ 
 After you've defeated Brad:
 
 - **Brad:** Well played kid, maybe you really could join a team and become an arena star one day.
