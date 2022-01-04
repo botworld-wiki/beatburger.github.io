@@ -30,7 +30,7 @@ breadcrumbs:
 
 Brad is your introduction into the Arena. He won't let you battle the real masters unless you defeat him first.
 
-![400px arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
+![300px arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
 
 - **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) Level 2
 - **Abilities:** [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
@@ -66,7 +66,7 @@ After you've defeated Brad:
 
 Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
-![400px arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
+![200px arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
 - **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) Level 6
 - **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Frost Missile](/frost-missile)
