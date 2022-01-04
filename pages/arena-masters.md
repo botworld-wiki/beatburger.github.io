@@ -95,7 +95,7 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 
 ![arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
 
-- **Bots:** = Kelvin: 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot)
+- **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot)
 - **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Missile](/missile), [Freeze](/freeze)
 
 *credit: Emph_asis*
@@ -121,13 +121,10 @@ After you've defeated Kelvin:
 
 Regi is a dueling master who likes to battle someone with **one bot at a time**. While the rules are simple to fight with, he carries a long-lasting Freeze ability with a stun resistance booster for his bots. A very mean arena master with an attitude.
 
-- **Level: 14**
-- **Rewards:**
+![arenamaster reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)
 
-### Bots & Abilities
-
-- [Brute](/brute), [Frosty](/frosty), ?
-
+- **Bots:** = [Slicer](/slicer), [Froggy](/froggy), [Tether](/tether), [Scatter](/scatter), [Longshot](/longshot), [Brute](/brute)
+- **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](/snowball), [Super Charge](/super-charge)
 
 ### Tips
 
@@ -155,7 +152,7 @@ Some hidden gems amongst bots:
 - **[Rocketeer](/rocketeer) AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo [Brute](/brute), and then some.
 - **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
 
-
+### Story
 
 </div>
 
