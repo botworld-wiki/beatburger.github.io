@@ -108,7 +108,7 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 
 ### Story
  
-After you've defeated Astrid:
+After you've defeated Kelvin:
 
 - **Kelvin:** Wow i got melted, I'm just going to go and chill somehwere for a while. Take your blue series botpack and leave me be.
 
