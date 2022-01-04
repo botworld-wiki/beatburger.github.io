@@ -39,6 +39,7 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 
 - You can't mess this up. just place your strongest bots and be done with it.
 
+</div>
 
 ### Story
 
@@ -48,6 +49,7 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Player:** I was born ready. Who di I fight?
 - **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
 
+</br>
 After you've defeated Brad:
 
 - **Brad:** Well played kid, maybe you really could join a team and become an arena star one day.
@@ -56,7 +58,6 @@ After you've defeated Brad:
 - **Player:** What are boosters?
 - **Brad:** Boosters improve different aspects of your botpack or bot team. The booster you have gives you botpack energy right at the start of the battle.
 
-</div>
 
 <div markdown="1" class=" ghcms ghcms-astrid">
 
