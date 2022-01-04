@@ -79,7 +79,7 @@ Lv10 bots, Missiles
 
 ### Story
 
-- **Astrid:** Waaaaaaaaaaaaagh! Watch where you're going little one, I#m gonna stomp you!
+- **Astrid:** Waaaaaaaaaaaaagh! Watch where you're going little one, I'm gonna stomp you!
  
  
 After you've defeated Astrid:
