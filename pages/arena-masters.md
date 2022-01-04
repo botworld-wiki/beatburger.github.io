@@ -32,7 +32,7 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 
 ![arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
 
-- **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) lvl 2
+- **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) Level 2
 - **Abilities:** [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
 
 
@@ -44,7 +44,7 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 
 ### Story
 
-- **Brad:** Hi kid, I'm Brad the Arena Manager, you here to get an autograph grom one of the arena masters?
+- **Brad:** Hi kid, I'm Brad the Arena Manager, you here to get an autograph from one of the arena masters?
 - **Player:** Nope, I've come to take them on!
 - **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
 - **Player:** I was born ready. Who di I fight?
@@ -68,7 +68,7 @@ Astrid is an arena master who doesn't believe in reserves and likes to deploy al
 
 ![arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
-- **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) lvl 6
+- **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) Level 6
 - **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Missile](/missile)
 
 ### Tips
@@ -95,7 +95,7 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 
 ![arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
 
-- **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot)
+- **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot) Level 10
 - **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Missile](/missile), [Freeze](/freeze)
 
 *credit: Emph_asis*
@@ -123,7 +123,7 @@ Regi is a dueling master who likes to battle someone with **one bot at a time**.
 
 ![arenamaster reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)
 
-- **Bots:** = [Slicer](/slicer), [Froggy](/froggy), [Tether](/tether), [Scatter](/scatter), [Longshot](/longshot), [Brute](/brute)
+- **Bots:** = [Slicer](/slicer), [Froggy](/froggy), [Tether](/tether), [Scatter](/scatter), [Longshot](/longshot), [Brute](/brute) Level 14
 - **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](/snowball), [Super Charge](/super-charge)
 
 ### Tips
