@@ -21,6 +21,17 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
 </ul>
 
+You can find Info about [Arena Masters](/arena-masters) and how to defeat them here
+
+<ul class="page-toc toc-block-list links">
+  <li class="toc-block-entry" ><a href="/arena-masters#brad">Brad</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#astrid">Astrid</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#kelvin">Kelvin</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#reginald">Reginald</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#jack">Jack</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#nicola">Nicola</a></li>
+  <li class="toc-block-entry" ><a href="/arena-masters#scales">Scales</a></li>
+</ul>
 
 
 
@@ -69,19 +80,7 @@ breadcrumbs:
 
 </div>
 
-## Arena Masters
 
-You can find Info about [Arena Masters](/arena-masters) and how to defeat them here
-
-<ul class="page-toc toc-block-list links">
-  <li class="toc-block-entry" ><a href="/arena-masters#brad">Brad</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#astrid">Astrid</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#kelvin">Kelvin</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#reginald">Reginald</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#jack">Jack</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#nicola">Nicola</a></li>
-  <li class="toc-block-entry" ><a href="/arena-masters#scales">Scales</a></li>
-</ul>
 
 
 .
