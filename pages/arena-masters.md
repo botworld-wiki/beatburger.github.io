@@ -67,26 +67,26 @@ After you've defeated Brad:
 
 Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
-### Bots & Abilities
+![arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
-- 2x [<span>Frosty</span>
-
-
-
-![Image of the bot Frosty](</assets/img/bots/small/frosty.png>)\]\( "Page about the bot Frosty"), 2x [<span>Scatter</span>
-
-![Image of the bot Scatter](</assets/img/bots/small/scatter.png>)\]\( "Page about the bot Scatter"), and 2x [<span>Berserker</span>
-
-![Image of the bot Berserker](</assets/img/bots/small/berserker.png>)\]\( "Page about the bot Berserker")
-
-- ?
-
+- Bots: 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) lvl 6
+- Abilities: [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Missile](/missile)
 
 ### Tips
 
 Lv10 bots, Missiles
 
 </div>
+
+### Story
+
+- **Astrid:** - Waaaaaaaaaaaaagh! Watch where you're going little one, I#m gonna stomp you!
+
+ 
+ 
+After you've defeated Astrid:
+
+- Waaaaaaaaa... Hmmpf. I've gotta admit you can handle yourself in a chaotic fight, you deserve this upgrade to a green series botpack.
 
 
 ## Kelvin
@@ -95,15 +95,12 @@ Lv10 bots, Missiles
 
 Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He also uses a sniper to support his remaining bots. A very cool Arena Botmaster that likes to cool things.
 
-- 
 
-- **[Level: ?](/contribute#tbw)**
-- **Rewards:**
 
-### Bots & Abilities
+Bots = Slicer, Brute, Froggy, Scatter, Tether and Longshot
+Abilities: snowball, speed boost, super charge, chaos translocator
 
-- ?x [Longshot](/longshot), ?x [Frosty](/frosty), and ?x [Icicool](/icicool). 
-- ?
+*credit: Emph_asis*
 
 ### Tips
 
