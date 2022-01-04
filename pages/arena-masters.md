@@ -12,6 +12,17 @@ breadcrumbs:
 
 # Arena Masters
 
+<ul class="page-toc toc-block-list links">
+  <li class="toc-block-entry" ><a href="#brad">Brad</a></li>
+  <li class="toc-block-entry" ><a href="#astrid">Astrid</a></li>
+  <li class="toc-block-entry" ><a href="#kelvin">Kelvin</a></li>
+  <li class="toc-block-entry" ><a href="#reginald">Reginald</a></li>
+  <li class="toc-block-entry" ><a href="#jack">Jack</a></li>
+  <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
+  <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
+</ul>
+
+
 <div markdown="1" class=" ghcms ghcms-brad">
 
 ## Brad
@@ -36,6 +47,14 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
 - **Player:** I was born ready. Who di I fight?
 - **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
+
+After you've defeated Brad:
+
+- **Brad:** Well played kid, maybe you really could join a team and become an arena star one day.
+- **Brad:** The actual masters will be much tougher than me, but you've definitely earned your new botpack today.
+- **Brad:** It's just a white series botpack. which means it only holds two boosters. But if you defeat an arena master they will upgrade it to a green series.
+- **Player:** What are boosters?
+- **Brad:** Boosters improve different aspects of your botpack or bot team. The booster you have gives you botpack energy right at the start of the battle.
 
 </div>
 
