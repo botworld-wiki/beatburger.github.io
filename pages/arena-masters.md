@@ -236,8 +236,9 @@ After you've defeated Scales:
 - **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
 
 
-<br>
 </div>
+
+<br>
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
