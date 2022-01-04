@@ -76,4 +76,4 @@ You can find Info about Arena Masters and how to defeat them here:
 [![150px brad](https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png)](/arena-masters#brad)
 [![150px inline astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)](/arena-masters#astrid)
 
-
+.
