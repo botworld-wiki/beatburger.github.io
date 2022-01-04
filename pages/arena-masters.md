@@ -69,7 +69,7 @@ Astrid is an arena master who doesn't believe in reserves and likes to deploy al
 ![arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
 
 - **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) Level 6
-- **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Missile](/missile)
+- **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Frost Missile](/frost-missile)
 
 ### Tips
 
@@ -96,7 +96,7 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 ![arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
 
 - **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot) Level 10
-- **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Missile](/missile), [Freeze](/freeze)
+- **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Frost Missile](/frost-missile), [Freeze](/freeze)
 
 ### Tips
 
