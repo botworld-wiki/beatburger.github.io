@@ -36,7 +36,7 @@ Just creating this section real quick, gonna figure out where it goes best later
 - lvl 3: Requirements - Benefits
 - ...
 
-Requirements: check out the [Boat Materials](/materials#boat) page, and learn about [Ancient Ruins](/loot#ancient-ruins) also
+Requirements: check out the [Boat Materials](/boat-materials) page, and learn about [Ancient Ruins](/loot#ancient-ruins) also
 
 ## Business Upgrades
 
