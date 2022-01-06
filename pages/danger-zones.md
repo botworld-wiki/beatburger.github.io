@@ -73,7 +73,7 @@ Snowball Canons
 - **Mobs lvl:** 19-23
 
 
-![Image](<https://cdn.discordapp.com/attachments/882136646001238038/882144014084755496/DZ-Frozen_Wastes.png>)
+![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928738325001547816/frozen-wastes-pathing-min.png>)
 
 </div>
 
