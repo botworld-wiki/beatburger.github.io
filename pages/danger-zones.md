@@ -46,7 +46,7 @@ Gadget Repair: Will refill all your gadgets [!inline gadget fill](https://cdn.di
 
 - **Unlock:** by progressing through the main Story
 - **Difficulty:** HIGHER
-- **Rewards:** [Rare & Epic chests](/loot#chests) respawn
+- **Rewards:** [Rare & Epic chests](/loot#chests) respawn, one every 4 days
 - **New Encounters:** CleanerBots & [Exterminator Squads](#exterminator-squads) after a point.
 
 </div>
@@ -146,7 +146,7 @@ Teddy Bears (check [the Event](</news>))
 
 ![bexley](https://cdn.discordapp.com/attachments/923510071026155550/928579389153763378/unknown.png)
 
-Bexley The Brave:He got 6 bots with abilities. Fight him for loot. Or not.
+Bexley The Brave: He got 6 bots with abilities. Fight him for loot. Or not.
 
 - **Bexley:** Why hello! I see you are another intrepid adventurer like myself!
 - **Bexley:** Well I must warn you: I am certain to reach the treasure first. So you might as well give up now!
@@ -173,7 +173,7 @@ Larry: Good old Larry selling 10 cold batteries for 25 gold. Take it Or not.
 
 ![madscientist](https://cdn.discordapp.com/attachments/923510071026155550/928578187032657970/unknown.png)
 
-Fight for loot. Or not.
+Mad Scientist: Fight for loot. Or not.
 
 - **Mad Scientist:** Muahaha! My experiment is nearly complete. All I need now is a willing subject...
 - **Player:** Uh ... hello?
@@ -193,7 +193,7 @@ Mechanic: Recharge your full Cannister for 10 gold(He can refill your full red b
 
 ![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
-Sell them your entire canister for 100 gold. Or not.
+Merchant: Sell them your entire canister for 100 gold. Or not.
 
 </div>
 
