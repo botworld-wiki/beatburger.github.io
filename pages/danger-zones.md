@@ -20,13 +20,13 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 
 ### Situations and Events 
 
-Obstacles: Some paths may be blocked by obstacles, check the zone maps below on how to move around.![inline block](https://cdn.discordapp.com/attachments/923510071026155550/928587497712287784/icon-blocked.png) test
+Obstacles ![inline block](https://cdn.discordapp.com/attachments/923510071026155550/928587497712287784/icon-blocked.png): Some paths may be blocked by obstacles, check the zone maps below on how to move around.
 
-Repair Stations: These will fill half your repair canister. ![inline repair canister](https://cdn.discordapp.com/attachments/923509490307977227/928584230739542087/icon-repair-station.png)
+Repair Stations ![inline repair canister](https://cdn.discordapp.com/attachments/923509490307977227/928584230739542087/icon-repair-station.png): These will fill half your repair canister. 
 
 Random Encounters: Find a List of possible encounters [here](/danger-zones#randomencounters)
 
-Gadget Repair: Will refill all your gadgets ![inline gadget fill](https://cdn.discordapp.com/attachments/923510071026155550/928585390183550986/icon-gadget-fill.png)
+Gadget Repair ![inline gadget fill](https://cdn.discordapp.com/attachments/923510071026155550/928585390183550986/icon-gadget-fill.png): Will refill all your gadgets 
 
 </div>
 
