@@ -12,6 +12,21 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-06
+
+- Arenamaster Scales Lineup-date(lol)
+
+## 2022-01-05
+
+- Found inconsistencies in Bot stats. Probably a rework in the future.
+
+## 2022-01-04
+
+- Added Boat level 11 and 12 materials
+- Starter Bots and Getting Started pages reworked
+- Arena and Masters rework with all Lineups
+- 
+
 ## 2022-01-02
 
 - Auto-generated inlined assets for Bots, Abilities, Boosters, Mats (for now)
