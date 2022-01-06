@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, Soft"
-updatedAt: "2021-12-23"
+updatedAt: "2021-12-30"
 
 
-title: "Slicer"
+title: "Slicer (Special Chaser)"
 name: "Slicer"
-description: "Special Chaser: Slicer has the highest DPS in the game (discounting [Slash](/slash)) and has the second-highest burst damage in the game (6208!), just below [Brute](/brute). Unlike [Brute](/brute) however, Slicer doesn't need any setup for his burst and has a respectable 15 mSPD ontop of a gapcloser ability, and he's immune to slows and roots too! He's not all too squishy either, overall a very scary, high-risk high-reward pick for any team. - With swords for arms this bot is all about damage. Also good in the kitchen."
+description: "Slicer has the highest DPS in the game (discounting [Slash](/slash)) and has the second-highest burst damage in the game (6208!), just below [Brute](/brute). Unlike [Brute](/brute) however, Slicer doesn't need any setup for his burst and has a respectable 15 mSPD ontop of a gapcloser ability, and he's immune to slows and roots too! He's not all too squishy either, overall a very scary, high-risk high-reward pick for any team.\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397058445385738/slicer.png"
 breadcrumbs:
   Bots: "/bots"
@@ -80,8 +80,6 @@ commonMat2: "Frost Fuel"
 commonMat3: "Sputtering Generator"
 ---
 
-### Tips
-Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
 
 ### 'Full Damage Build' by Hex
 - **ABCAB:** Full Damage Build.
@@ -91,3 +89,12 @@ Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
 
 ### 'Chaser Build' by Hex 
 - **BACAA:** This AI comes with Unstoppable Ai and Leap immobilize on enemy for 1s ( for detaining enemy).
+
+## Comments
+
+### Evaluation by Soft
+Slicer has the highest DPS in the game (discounting [Slash](/slash)) and has the second-highest burst damage in the game (6208!), just below [Brute](/brute). Unlike [Brute](/brute) however, Slicer doesn't need any setup for his burst and has a respectable 15 mSPD ontop of a gapcloser ability, and he's immune to slows and roots too! He's not all too squishy either, overall a very scary, high-risk high-reward pick for any team. Tier S.
+
+### Tips
+- Equip AI Unstoppable, so it can be immune to slow and immobilizing effects
+
