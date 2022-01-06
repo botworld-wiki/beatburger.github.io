@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-24"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Longshot"
+title: "Longshot (Special Sniper)"
 name: "Longshot"
-description: "Special Sniper: A must use in the early game - Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
+description: "A must use in the early game\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
 breadcrumbs:
   Bots: "/bots"
   Sniper: "/bots#snipers"
+
 
 botName: "Longshot"
 botDescription: "Deals steady damage from afar. Doesn't have much armor, but can electrocute nearby attackers to keep them at bay."
@@ -21,6 +22,7 @@ botRaritySortOrder: "2"
 botAcquisition: "Arena (500)"
 botOpinion: "A must use in the early game"
 searchKeywords: "dmg, burst, ranged, instakill, special, newbie, sniper, longshot, shooter"
+
 
 ability1Name: "Blaster"
 ability1Info: "Range: 10 , Attack Speed: 0.85s , Physical Damage: 100%"
@@ -78,8 +80,6 @@ commonMat2: "Thick Tube"
 commonMat3: "Double Cog"
 ---
 
-### Tips
-Equip with Crit Boosters to maximize effect for it's AI "Critical strikes".
 
 ### 'Full Damage Build' by Hex
 - **BAACB:** Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
@@ -89,3 +89,13 @@ Equip with Crit Boosters to maximize effect for it's AI "Critical strikes".
 
 ### 'Close range Build' by Hex
 - **BBACA:** Short range with high defense sniper. A mix of Options 1 and 2.
+
+## Comments
+
+### Evaluation by Soft
+While there are other snipers that have better DPS than Longshot on paper, they are far more easily countered than Longshot. Longshot has very consistent damage and a failsafe ability to buy itself some time when enemies get close. A very safe pick that can easily find a great spot in any team composition. Tier S.
+
+### Tips
+A must use in the early game
+Equip with Crit Boosters to maximize effect for it's AI ""Critical strikes"".
+
