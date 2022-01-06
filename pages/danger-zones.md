@@ -148,6 +148,26 @@ Teddy Bears (check [the Event](</news>))
 
 ![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
+### Ember and Flake
+
+![emberandflake](https://cdn.discordapp.com/attachments/923510071026155550/928577367658614824/unknown.png)
+
+Ember and Flake: Fight them for solving their dispute over what's better- ice or fire abilities and for loot. Or not.
+
+- **Ember:** Obviously fire abliities are better! You can set the whole battlefield on fire.
+- **Flake:** Everyone knows ice abilities are best, but this buffoon thinks fire abilities are better.
+
+### Mad Scientist
+
+![madscientist](https://cdn.discordapp.com/attachments/923510071026155550/928578187032657970/unknown.png)
+
+Fight for loot. Or not.
+
+- **Mad Scientist:** Muahaha! My experiment is nearly complete. All I need now is a willing subject...
+- **Player:** Uh ... hello?
+- **Mad Scientist:** Yes, yes, you'll do perfectly! I just finished an experimental loadout of electric bots and abilities. Will you help me test it?
+- **Mad Scientist:** I'll give you some scrap if you test your bots against mine. But only if your bots survive the battle, of course! Mwahaha"
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-exterminator-squads">
@@ -170,8 +190,14 @@ Teddy Bears (check [the Event](</news>))
 
 ### Exterminator bosses
 
-- **Frozen Waste:** Buffalo
-- **Molten Rock:** Cat
+- **Frozen Waste:** Buffalo Pest Control
+
+![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928556572345532426/IMG_20220106_154924.jpg)
+
+- **Molten Rock:** Cat Pest Control
+
+![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928561303579136020/IMG_20220106_151028.jpg)
+
 - **Vivid Valey:** Lizard Pest Control
 
 ![Pest Control](<https://media.discordapp.net/attachments/923510071026155550/927407498363797585/IMG_20220103_104432.jpg>)
@@ -180,4 +206,8 @@ Teddy Bears (check [the Event](</news>))
 
 </div>
 
-*Credit: Pix, Xen*
+<div markdown="1" class=" ghcms ghcms-credits">
+
+*Credit: Pix, Xen, cloud9, chael*
+
+</div>
