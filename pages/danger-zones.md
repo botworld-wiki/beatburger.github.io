@@ -95,10 +95,11 @@ Floor is lava
 - **Mobs lvl:** 20-24
 
 
-![Image](<https://cdn.discordapp.com/attachments/882136646001238038/886485822734499870/Molten_Rock.png>)
+![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928728168230170674/molten-rock-pathing-min.png>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-vividvalley">
+
 ## Vivid Valley
 
 Sneks
@@ -120,6 +121,7 @@ Sneks
 </div>
 
 <div markdown="1" class=" ghcms ghcms-scrapeyard">
+
 ## Scrapeyard
 
 Teddy Bears (check [the Event](</news>))
