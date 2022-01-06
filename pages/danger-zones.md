@@ -231,7 +231,9 @@ Sell them your entire canister for 100 gold. Or not.
 
 ![Pest Control](<https://media.discordapp.net/attachments/923510071026155550/927407498363797585/IMG_20220103_104432.jpg>)
 
-- **Scrapyard:** Dog
+- **Scrapyard:** Dog Pest Control
+
+![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928577241284239360/IMG_20220106_161413.jpg)
 
 </div>
 
