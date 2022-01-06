@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "K.O."
+title: "K.O. (Rare Brawler)"
 name: "K.O."
-description: "Rare Brawler - Gets stronger and stronger the longer the battle lasts. K.O. can deliver a knockout blow"
+description: "Boxer\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397302184804372/KO.png"
 breadcrumbs:
- Bots: "/bots"
- Brawler: "/bots#brawlers"
+  Bots: "/bots"
+  Brawler: "/bots#brawlers"
+
 
 botName: "K.O."
 botDescription: "Gets stronger and stronger the longer the battle lasts. K.O. can deliver a knockout blow"
@@ -20,7 +21,7 @@ botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Season, Random drop after Starter Season"
 botOpinion: "Boxer"
-searchKeywords: "stack, damage, burst, crit, critical, thicc, brawler, rare, knock-out"
+searchKeywords: "punch, stacks, sprint, KO, brawler, rare, "
 
 
 ability1Name: "Punch"
@@ -79,5 +80,16 @@ commonMat2: "Double Cog"
 commonMat3: "Hardened Fiberglass"
 ---
 
-### Suggested Ai Build
-- ABCAB
+
+### Suggested AI Build
+- **ABCAB:**
+
+## Comments
+
+### Evaluation by Soft
+KO has some of the best potential for a bot in the game, but needs a lot to reach it. It takes him 16 seconds to fully charge himself up to having 4088 damage per auto attack, which is a crazy amount. Unfortunately, his HP is on the low end for a brawler and most of the time doesn't live long enough to reach his third stack. He needs a full stall team and abilities to help him out. Tier B.
+
+### Tips
+- Greatest Obstacle when fighting K.O. is ....
+- DON'T let it stack or it will change the tide of your battle.
+
