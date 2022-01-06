@@ -19,7 +19,7 @@ botImageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 botType: "Splasher"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Unknown"
+botAcquisition: "[Season Reward](/seasons)"
 botOpinion: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  "
 searchKeywords: ""
 
