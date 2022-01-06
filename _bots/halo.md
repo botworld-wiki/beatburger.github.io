@@ -1,17 +1,17 @@
 ---
 layout: bot
 contributors: "MrGold and Diamond, the 2 shiniest out there that gives us light in our darkest moment"
-updatedAt: "2021-21-24"
+updatedAt: "2021-12-30"
 
 
-
-title: "Halo"
+title: "Halo (Rare Support)"
 name: "Halo"
-description: "Rare Support: Team Player - Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
+description: "Team Player\n\n\n"
 imageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
 breadcrumbs:
   Bots: "/bots"
-  Support: "/bots#tanks"
+  Support: "/bots#supports"
+
 
 botName: "Halo"
 botDescription: "Tries to stay far away from the action while protecting and buffing its allies with bubbles. A real team player"
@@ -21,7 +21,7 @@ botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "drop"
 botOpinion: "Team Player"
-searchKetwords: "Teamwork, boost, shield, support, rare, glass, weak"
+searchKeywords: "Teamwork, boost, shield, support, rare, glass, weak"
 
 
 ability1Name: "Pop"
@@ -80,10 +80,14 @@ commonMat2: "Sputtering Generator"
 commonMat3: "Sparky Wires"
 ---
 
-### Tips
-Do not let Halo get hacked
+### 'Boost Bubble' Build
+- **BACBB:** 
 
-### Suggested Ai Build
-BACBB - Boost Bubble Build 
-AACBA - Shield Bubble Build
+### 'Shield Bubble Build'
+- **AACBA:** 
+
+## Comments
+
+### Tips
+- Do not let Halo get hacked
 
