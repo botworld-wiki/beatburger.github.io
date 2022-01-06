@@ -26,7 +26,7 @@ Repair Stations: These will fill half your repair canister. ![inline repair cani
 
 Random Encounters: Find a List of possible encounters [here](/danger-zones#randomencounters)
 
-Gadget Repair: Will refill all your gadgets
+Gadget Repair: Will refill all your gadgets [!inline gadget fill](https://cdn.discordapp.com/attachments/923510071026155550/928585390183550986/icon-gadget-fill.png)
 
 </div>
 
