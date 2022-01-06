@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Thump"
+title: "Thump (Rare Tank)"
 name: "Thump"
-description: "Rare Tank - A tough bot that leaps into the fray to protects its teammates"
+description: "Brawler Tank\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
 breadcrumbs:
- Bots: "/bots"
- Tank: "/bots#tanks"
+  Bots: "/bots"
+  Tank: "/bots#tanks"
+
 
 botName: "Thump"
 botDescription: "A tough bot that leaps into the fray to protects its teammates"
@@ -20,7 +21,8 @@ botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot, Random Drop"
 botOpinion: "Brawler Tank"
-searchKeywords: "tank, brawler"
+searchKeywords: ""
+
 
 ability1Name: "Punch"
 ability1Info: "Range: Melee , Attack Speed: 0.85s , Physical Damage: 100%"
@@ -34,7 +36,7 @@ ability3Description: "Thump goes into a rage pounding the ground, dealing damage
 
 
 ai1aName: "A: Heavyweight"
-ai1aDescription: "Cannonball stun duration"
+ai1aDescription: "Cannonball stun duration increased by 50%"
 ai1bName: "B: Stunnner"
 ai1bDescription: "Punch has 20% chance to stun"
 ai2aName: "A: Slammer"
@@ -78,5 +80,15 @@ commonMat2: "Clear Oil"
 commonMat3: "Frost Fuel"
 ---
 
-### Suggested Ai Build
-ABACB
+
+### Suggested AI Build
+- **AACAB:**
+
+## Comments
+
+### Evaluation by Soft
+The bot that stole your lunch money, Thump is the best harasser in the game. He sticks to your squishy bots like crazy, and throws a long-lasting stun tantrum when you try to push him off. Handsdown the best CC bot there is, with respectable damage for a tank as well. Tier B+.
+
+### Tips
+- He protects he attacks
+
