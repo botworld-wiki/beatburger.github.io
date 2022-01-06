@@ -36,7 +36,7 @@ Exterminator Squads ![inline ext squads](https://cdn.discordapp.com/attachments/
 
 ## Tips
 
-- [Plan your route](/maps) carefully
+- Plan your route carefully
 - Keep your priorities straight
 - Every bit of [Can Energy](/exploring#canister) is precious, avoid & dodge as many fights as you can
 - Use your [Recruits](/recruits) as decoy to dodge [Megas Bots](/exploring#mega-bots) and [Bosses](/exploring#bosses)
