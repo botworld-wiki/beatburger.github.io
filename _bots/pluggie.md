@@ -1,32 +1,34 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: ", Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Pluggie"
+title: "Pluggie (Rare Splasher)"
 name: "Pluggie"
-description: "Rare Splasher - With a chain lightning attack that bounces to nearby enemies, Pluggie is amped for battle"
+description: "Best Splasher at close range\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396927117557771/pluggie.png"
 breadcrumbs:
- Bots: "/bots"
- Splasher: "/bots#splashers"
+  Bots: "/bots"
+  Splasher: "/bots#splashers"
+
 
 botName: "Pluggie"
-botDescription: "With a chain lightning attack that bounces to nearby enemies, Pluggie is amped for battle"
+botDescription: "With a chain lightning attack that bounces to nearby enemies, Pluggie is amped up for battle"
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396927117557771/pluggie.png"
 botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Solo Arena 2000 rating"
+botAcquisition: "Arena (2000)"
 botOpinion: "Best Splasher at close range"
-searchKeywords: "splasher, stun, electric, chain, lightning, rare, pluggie"
+searchKeywords: ""
+
 
 ability1Name: "Chain Lightning"
 ability1Info: "Max Enemies Hit: 3 , Bounce Range: 4 , Range: 5 , Attack Speed: 1.1s , Energy Damage: 75% - 125%"
 ability1Description: "Bounces from enemy to nearby enemy, doing less damage each jump"
 ability2Name: "Electric Shock"
-ability2Info: "Chance When Hi: 100% , Range: Melee , Energy Damage: 21%"
+ability2Info: "Chance When Hit: 100% , Range: Melee , Energy Damage: 21%"
 ability2Description: "Melee enemies take damage when attacking Pluggie"
 ability3Name: "Electrocute"
 ability3Info: "Max Enemies Hit: 3 , Bounce Range: 4 , Range: 5 , Cooldown: 9s , Energy Damage: 125% - 208% , Stun Duration: 1s"
@@ -42,7 +44,7 @@ ai2aDescription: "Electrocute slightly drains enemy bots' ultimate abilities"
 ai2bName: ""
 ai2bDescription: ""
 ai3aName: "A: Longer Bounces"
-ai3aDescription: "Maximum bounces distance between enemies"
+ai3aDescription: "Maximum bounce distance between enemies increased by 25%"
 ai3bName: "B: Longer Range"
 ai3bDescription: "Initial range increased by 40%"
 ai4aName: "A: Conductive Coating"
@@ -78,10 +80,11 @@ commonMat2: "Mini Sensor"
 commonMat3: "Clear Oil"
 ---
 
-### Tips
-Pluggie is recommended subsitute for Mort, Pluggie deals enemies with its stun
-Recomended boosters for Pluggie are Bot stuns, Bot damage or Stun resistance
+### Suggested AI Build
+- **ACBBA:**
 
-### Suggested Ai Build
-ACBBA
+## Comments
+
+### Evaluation by Soft
+Unlike other Splashers, Pluggie doesn't have splash damage, but rather damage that bounces with a max range of 4 between 4 enemies. This almost always guarantees hitting at least two, if not three bots with extremely good damage ontop of that, and he also has a baseline bouncing stun with big damage that drains ultimate charge. Tier A+.
 
