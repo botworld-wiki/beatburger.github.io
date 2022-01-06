@@ -107,13 +107,18 @@ Ridges, Mountains or other High Places
 
 <div markdown="1" class=" ghcms ghcms-bythewater">
 
-## By the Wather
+## By the Water
 
-- **Notably drops:** [Rusty Cog](/rusty-cog), [Evader Spray](/evader-spray)
-- Up until we get [the right maps](/contribute#tbw), you can make do with referring to the [Farming Guide](/farming)
+- **Notably drops:** [<span>Rusty Cog</span>
 
-[To be written](/contribute#tbw)
+[![Image of the material Rusty Cog](</assets/img/materials/rusty-cog.png>)]( "Page about the material Rusty Cog"),
+[<span>Evader Spray</span>
+[![Image of the material Evader Spray](</assets/img/materials/evader-spray.png>)]( "Page about the material Evader Spray")
 
+- Up until we get [the right maps](</contribute#tbw>), you can make do with referring to the [Farming Guide](</farming>)
+
+
+[To be written](</contribute#tbw>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-neartrees">
