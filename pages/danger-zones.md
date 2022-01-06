@@ -172,7 +172,10 @@ Teddy Bears (check [the Event](</news>))
 
 - **Frozen Waste:** Buffalo
 - **Molten Rock:** Cat
-- **Vivid Valey:** Lizard
+- **Vivid Valey:** Lizard Pest Control
+
+![Pest Control](<https://media.discordapp.net/attachments/923510071026155550/927407498363797585/IMG_20220103_104432.jpg>)
+
 - **Scrapyard:** Dog
 
 </div>
