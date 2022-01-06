@@ -26,6 +26,18 @@ breadcrumbs:
 
 </div>
 
+## V1.2.1
+
+**Released:** 2022-01-04
+
+**Bug fixes:**
+
+- Various bugs regarding [Codex](</Codex>) about the achievements not being recorded such as Wolf pack scrapper count
+- Story quests not registering as completed such as Rani's Letter
+- Contracts not registering as completed such as Salvage the Caravan
+- DPS value fixes for Slash, Slicer and Pluggie
+
+
 ## d2021-12-30
 
 - [Ptage talks about us!](https://www.youtube.com/watch?v=jqeymvKmIs8): 
