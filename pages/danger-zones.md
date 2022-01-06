@@ -28,6 +28,8 @@ Random Encounters ![inline random encounters](https://cdn.discordapp.com/attachm
 
 Gadget Repair ![inline gadget fill](https://cdn.discordapp.com/attachments/923510071026155550/928585390183550986/icon-gadget-fill.png): Will refill all your gadgets 
 
+Exterminator Squads ![inline ext squads](https://cdn.discordapp.com/attachments/923510071026155550/928606147492057108/icon-exterminator.png): are listed [here](/danger-zones#exterminatorsquads)
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-main">
