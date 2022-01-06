@@ -20,7 +20,7 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 
 ### Situations and Events 
 
-Obstacles: Some paths may be blocked by obstacles, check the zone maps below on how to move around.
+Obstacles: Some paths may be blocked by obstacles, check the zone maps below on how to move around.![inline block](https://cdn.discordapp.com/attachments/923510071026155550/928587497712287784/icon-blocked.png)
 
 Repair Stations: These will fill half your repair canister. ![inline repair canister](https://cdn.discordapp.com/attachments/923509490307977227/928584230739542087/icon-repair-station.png)
 
