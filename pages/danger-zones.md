@@ -138,7 +138,7 @@ Teddy Bears (check [the Event](</news>))
 - **Mobs lvl:** 22-26
 
 
-![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928635829092499496/scrapyard-pathing2-min.png>)
+![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928773426863300638/scrapyard-pathing3-min.png>)
 
 </div>
 
