@@ -1,16 +1,17 @@
 ---
 layout: bot
 contributors: "Hex"
-updatedAt: "2021-12-24"
+updatedAt: "2021-12-30"
 
 
-title: "Tether"
+title: "Tether (Special Support)"
 name: "Tether"
-description: "Special Support - Digs its cables into the ground to grab enemies from afar and hold them in place. Tether isn't afraid to get its hands dirty."
+description: "Dr. Octopus\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/902085059228618782/1635144196654.png"
 breadcrumbs:
- Bots: "/bots"
- Support: "/bots#supports"
+  Bots: "/bots"
+  Support: "/bots#supports"
+
 
 botName: "Tether"
 botDescription: "Digs its cables into the ground to grab enemies from afar and hold them in place. Tether isn't afraid to get its hands dirty."
@@ -21,6 +22,7 @@ botRaritySortOrder: "2"
 botAcquisition: "drop"
 botOpinion: "Dr. Octopus"
 searchKeywords: "Immobilize, hold, support, special"
+
 
 ability1Name: "Glance"
 ability1Info: "Range: 7 , Attack Speed: 0.7s , Energy Damage: 100%"
@@ -78,12 +80,15 @@ commonMat2: "Frost Fuel"
 commonMat3: "Sputtering Generator"
 ---
 
-### Tips
-
-Put Tether in the back
 
 ### Suggested AI Build
+- **BCBBB:** Full Support
 
-BCBBB - Full Support
+### 'Contain and Damage' Build
+- **ACAAB:**
 
-ACAAB - Contain and Damage
+## Comments
+
+### Tips
+- Put Tether in the back
+
