@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-24"
+contributors: "Kurt, BloodxReaper, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Fork"
+title: "Fork (Epic Chaser)"
 name: "Fork"
-description: "Epic Chaser - A sneaky bot who moves around the battlefield, dodging attacks and leaving enemies poisoned"
+description: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548328291557386/fork.png"
-breadcrumbs: 
- Bots: "/bots"
- Chaser: "/bots#chasers"
+breadcrumbs:
+  Bots: "/bots"
+  Chaser: "/bots#chasers"
+
 
 botName: "Fork"
 botDescription: "A sneaky bot who moves around the battlefield, dodging attacks and leaving enemies poisoned"
@@ -22,14 +23,15 @@ botAcquisition: "drop"
 botOpinion: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight"
 searchKeywords: "poison, dodge, fork, epic, chaser, dot"
 
+
 ability1Name: "Poison Strike"
-ability1Info: "Range: Melee , Attack Speed: 0,5s , Physical Damage: 31 , Poison Duration: 5s , Poison Damage per Second: 62 "
+ability1Info: "Range: Melee , Attack Speed: 0.5s , Physical Damage: 30% , Poison Duration: 5s , Poison Damage per Second:61%"
 ability1Description: "Damages and poisons the enemy bot"
 ability2Name: "Smoke Cloud"
 ability2Info: "Impact Radius: 3 , Cooldown: 6s , Dodge Chance: +50%"
 ability2Description: "Envelopes Fork and other nearby ally bots in smoke, increasing their dodge against enemy melee attacks"
 ability3Name: "Backstab"
-ability3Info: "Cooldown: 8s , Impact Radius: 2,5 , Stun Duration: 2s , Physical Damage: 80"
+ability3Info: "Cooldown: 8s , Impact Radius: 2.5 , Stun Duration: 2s , Physical Damage: 78%"
 ability3Description: "Teleports to a random, distant bot and strikes them in the back, stunning and damaging them"
 
 
@@ -78,5 +80,11 @@ commonMat2: "Frost Fuel"
 commonMat3: "Sparky Wires"
 ---
 
-### suggested ai build
-- ABACB
+### 'Arena Build' by Soft
+- **ABACB:**
+
+## Comments
+
+### Evaluation by Soft
+Recently buffed, Fork fills a niche role where he is currently the best poison-based attacker in Botworld. Good damage, great evasiveness and a fantastic CC ultimate. His poison also bypasses shields like Barrie's barrier, but he has trouble finishing bots off before moving onto an unfortunately bulkier target, allowing his previous target to nuke Fork down from behind. Tier B+.
+
