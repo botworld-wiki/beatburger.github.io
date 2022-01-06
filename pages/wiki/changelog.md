@@ -16,7 +16,7 @@ breadcrumbs:
 
 - Arenamaster Scales Lineup-date(lol)
 - [Danger Zones](/danger-zones) complete overhaul
-- Custom Cards for [Exterminator Bosses](/danger-zones#exterminator-squads)
+- Custom Cards and Icons for [Exterminator Bosses](/danger-zones#exterminator-squads)
 
 ## 2022-01-05
 
