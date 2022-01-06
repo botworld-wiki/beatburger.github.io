@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-24"
+contributors: "Hex, Soft, BloodxReaper"
+updatedAt: "2021-12-30"
 
 
-title: "Icicool"
+title: "Icicool (Common Evader)"
 name: "Icicool"
-description: "Common Evader: Goodest bot, period. - A quick bot who slows enemies from a distance with its icicle shots."
+description: "It's Ult can be either AoE when Icicool is far from the fight, or one of the most terrifying source of damage if the enemy is close enough to take all the icicles.  \n- Speciality: Slows from afar and kills up-close\n- Counters: will lose most 1v1 vs any bot at range\n- Notes: S+ tier meme potential"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
-botOpinion: "Goodest bot, period."
+botOpinion: "It's Ult can be either AoE when Icicool is far from the fight, or one of the most terrifying source of damage if the enemy is close enough to take all the icicles.  "
 searchKeywords: "Goodest, best, good, weak, strong, dodge, slow, freeze, evader, common, icicool, supremacy, epic, bestest"
 
 
@@ -31,7 +31,7 @@ ability2Name: ""
 ability2Info: ""
 ability2Description: ""
 ability3Name: "Blizzard"
-ability3Info: "Icicles Fired: 12 , Energy damage: 60% of Damage , Range: 9 , Slow: 50% , Cooldown: 10s"
+ability3Info: "Icicles Fired: 12 , Energy damage: , Range: 9 , Slow: 50% , Cooldown: 10s"
 ability3Description: "Shoots lots of icicles in a wide arc"
 
 
@@ -52,9 +52,9 @@ ai4aDescription: "Blizzard recharges 30% faster"
 ai4bName: "B: Energy Shielding"
 ai4bDescription: "Reduces energy damage taken by 30%"
 ai5aName: "A: Snap Freeze"
-ai5aDescription: "Icicles have 10% chance to freeze"
+ai5aDescription: "Icicles have a 10% chance to freeze"
 ai5bName: "B: Splintered Icicles"
-ai5bDescription: "Icicles slows nearby enemies"
+ai5bDescription: "Icicles slow nearby enemies"
 
 
 lvl1Hp: "1344"
@@ -80,11 +80,17 @@ commonMat2: "Mini Sensor"
 commonMat3: "Cold Battery"
 ---
 
-### 'Evader Build' by Hex 
--**BACAB:** Dodge and Shoot
+## 'Evader Build' by Hex 
+- **BACAB:** Dodge and Shoot
 
 ### 'Sniper Build' by Hex
--**AACBB:** Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
+- **AACBB:** Think of it as a Longshot but it slows every shot it hits, a sniper that slows down enemy from afar. Also slow icicle speed
 
 ### 'Hybrid Build' by Hex
--**ABCAA:** A mix build.
+- **ABCAA:** A mix build.
+
+## Comments
+
+### Evaluation by Soft
+The Tachanka of Botworld, Icicool is ""the meme"" of the botmaster community. On paper, his ability should deal around ~3k damage, if only his spread wasn't three times as worse as [Scatters](/scatter) autoattack. And even if they did all hit, it's still not that amazing of a burst. This doesn't stop people from trying to make him work, though. Tier D.
+
