@@ -111,9 +111,7 @@ Ridges, Mountains or other High Places
 
 - **Notably drops:** [<span>Rusty Cog</span>
 
-[![Image of the material Rusty Cog](</assets/img/materials/rusty-cog.png>)]( "Page about the material Rusty Cog"),
-[<span>Evader Spray</span>
-[![Image of the material Evader Spray](</assets/img/materials/evader-spray.png>)]( "Page about the material Evader Spray")
+[![Image of the material Rusty Cog](</assets/img/materials/rusty-cog.png>)]( "Page about the material Rusty Cog") [![inline Image of the material Evader Spray](</assets/img/materials/evader-spray.png>)]( "Page about the material Evader Spray")
 
 - Up until we get [the right maps](</contribute#tbw>), you can make do with referring to the [Farming Guide](</farming>)
 
