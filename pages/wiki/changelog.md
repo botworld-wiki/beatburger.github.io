@@ -15,6 +15,8 @@ breadcrumbs:
 ## 2022-01-06
 
 - Arenamaster Scales Lineup-date(lol)
+- [Danger Zones](/danger-zones) complete overhaul
+- Custom Cards for [Exterminator Bosses](/danger-zones#exterminator-squads)
 
 ## 2022-01-05
 
@@ -25,7 +27,6 @@ breadcrumbs:
 - Added Boat level 11 and 12 materials
 - Starter Bots and Getting Started pages reworked
 - Arena and Masters rework with all Lineups
-- 
 
 ## 2022-01-02
 
