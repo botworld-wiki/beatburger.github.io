@@ -144,9 +144,14 @@ Teddy Bears (check [the Event](</news>))
 
 ## Random Encounters
 
-- **Merchant**: Sell them your entire canister for 100 gold. Or not.
+### Bexley The Brave
 
-![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
+https://cdn.discordapp.com/attachments/923510071026155550/928579389153763378/unknown.png
+
+Bexley The Brave:He got 6 bots with abilities. Fight him for loot. Or not.
+
+- **Bexley:** Why hello! I see you are another intrepid adventurer like myself!
+- **Bexley:** Well I must warn you: I am certain to reach the treasure first. So you might as well give up now!
 
 ### Ember and Flake
 
@@ -156,6 +161,15 @@ Ember and Flake: Fight them for solving their dispute over what's better- ice or
 
 - **Ember:** Obviously fire abliities are better! You can set the whole battlefield on fire.
 - **Flake:** Everyone knows ice abilities are best, but this buffoon thinks fire abilities are better.
+
+### Larry
+
+https://cdn.discordapp.com/attachments/923510071026155550/928579235398963200/unknown.png
+
+Larry: Good old Larry selling 10 cold batteries for 25 gold. Take it Or not.
+
+- **Larry:** Hey ... hey kid! You wanna buy some Cold Batteries?
+- **Larry:** HLook, because you're a friend, I'll give you 10 Cold Batteries for 25 Coins. You interested?
 
 ### Mad Scientist
 
@@ -167,6 +181,21 @@ Fight for loot. Or not.
 - **Player:** Uh ... hello?
 - **Mad Scientist:** Yes, yes, you'll do perfectly! I just finished an experimental loadout of electric bots and abilities. Will you help me test it?
 - **Mad Scientist:** I'll give you some scrap if you test your bots against mine. But only if your bots survive the battle, of course! Mwahaha"
+
+### Mechanic
+
+https://cdn.discordapp.com/attachments/923510071026155550/928579316051238933/unknown.png
+
+Mechanic: Recharge your full Cannister for 10 gold(He can refill your full red bar). Or not.
+
+- **Mechanic:** Hey there! I see your bots are lookin' a little worse for wear.
+- **Mechanic:** How'd ya like me to repair those scraggly-lookin' bots for 10 Coins?
+
+### Merchant
+
+![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
+
+Sell them your entire canister for 100 gold. Or not.
 
 </div>
 
