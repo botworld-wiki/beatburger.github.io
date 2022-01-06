@@ -11,17 +11,22 @@ breadcrumbs:
 ---
 # Danger Zones
 
-## Index
-
-Danger Zones, Random Encounters, Exterminator Squads
-
-## Intro
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
 Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Best make the most out of every trip
 
 **Danger Zones Fuel:** Replenishes every 24h.
+
+### Situations and Events 
+
+Obstacles: Some paths may be blocked by obstacles, check the zone maps below on how to move around.
+
+Repair Stations: These will fill half your repair canister. ![inline repair canister](https://cdn.discordapp.com/attachments/923509490307977227/928584230739542087/icon-repair-station.png)
+
+Random Encounters: Find a List of possible encounters [here](/danger-zones#randomencounters)
+
+Gadget Repair: Will refill all your gadgets
 
 </div>
 
@@ -36,13 +41,6 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 - Any [Gadget](/botpack#gadgets) left when you die is a wasted slot
 - Use the environment to harm your foes!
 
-### Situations and Events 
-
-### Obstacles
-
-### Repair Stations
-
-### Gadget Repair
 
 ## Heroic mode
 
