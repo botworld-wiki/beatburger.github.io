@@ -24,7 +24,7 @@ breadcrumbs:
 
 ## 2022-01-04
 
-- Added Boat level 11 and 12 materials
+- Added [Boat](/boat-materials) level 11 and 12 materials by @BloodxReaper
 - Starter Bots and Getting Started pages reworked
 - Arena and Masters rework with all Lineups
 
