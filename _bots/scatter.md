@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Diamond, Kurt"
-updatedAt: "2020-12-24"
+contributors: "Diamond, Kurt, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Scatter"
+title: "Scatter (Special Brawler)"
 name: "Scatter"
-description: "Special Brawler: dangerous when close - Shoots garbage at its enemies. Wildly inaccurately, but hurts when it's up close."
+description: "dangerous when close\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548818374991872/scatter.png"
 breadcrumbs:
   Bots: "/bots"
   Brawler: "/bots#brawlers"
+
 
 botName: "Scatter"
 botDescription: "Shoots garbage at its enemies. Wildly inaccurately, but hurts when it's up close."
@@ -26,9 +27,12 @@ searchKeywords: "shotgun, close, range, ranged, special, brawler"
 ability1Name: "Scattershot"
 ability1Info: "Range: 10 , Pellets fired: 8 , Physical damage: 100% , Attack speed: 1.25s"
 ability1Description: "Sprays out pellets of garbage in a wide arc"
-ability2Name: "Stunshot"
-ability2Info: "Pellets Fired: 8 , Range: 8 , Physical damage: 100% , Cooldown: 8s , Stun duration: 1.6s"
-ability2Description: "Supercharges the gun and fires a wave of stunning pellets"
+ability2Name: ""
+ability2Info: ""
+ability2Description: ""
+ability3Name: "Stunshot"
+ability3Info: "Pellets Fired: 8 , Range: 8 , Physical damage: 100% , Cooldown: 8s , Stun duration: 1.6s"
+ability3Description: "Supercharges the gun and fires a wave of stunning pellets"
 
 
 ai1aName: "A: Precycling"
@@ -85,3 +89,9 @@ commonMat3: "Frost Fuel"
 
 ### 'Hybrid Build' by Hex
 - **AACBX:**  You can decide for yourself at Ai5, if you want scatter to have high health or low mvspeed but high damage.
+
+## Comments
+
+### Evaluation by Soft
+Absolutely terrible, Scatter gets horribly outclassed as an anti-melee bot by [Brute](/brute), [Ram](/ram) and even [Frosty](/frosty). Even at point-blank it's difficult to hit all his pellets and he's the only bot that gets a negative benefiit from having ranged attacks. It's way too far away to the point that sometimes no pellets hit at all, making him completely useless against ranged enemy bots. Tier C.
+
