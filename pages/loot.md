@@ -109,9 +109,9 @@ Ridges, Mountains or other High Places
 
 ## By the Water
 
-- **Notably drops:** [<span>Rusty Cog</span>
+- **Notably drops:** 
 
-[![Image of the material Rusty Cog](</assets/img/materials/rusty-cog.png>)]( "Page about the material Rusty Cog") [![inline Image of the material Evader Spray](</assets/img/materials/evader-spray.png>)]( "Page about the material Evader Spray")
+[![inline Image of the material Rusty Cog](</assets/img/materials/rusty-cog.png>)](/rusty-cog)[![inline Image of the material Evader Spray](</assets/img/materials/evader-spray.png>)](/evader-spray")
 
 - Up until we get [the right maps](</contribute#tbw>), you can make do with referring to the [Farming Guide](</farming>)
 
