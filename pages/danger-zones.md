@@ -166,7 +166,7 @@ Ember and Flake: Fight them for solving their dispute over what's better- ice or
 
 ### Larry
 
-![larry](https://cdn.discordapp.com/attachments/923510071026155550/928584608000393226/unknown.png)
+![larry](https://cdn.discordapp.com/attachments/923510071026155550/928744778785513543/unknown.png)
 
 Larry: Good old Larry selling 10 cold batteries for 25 gold. Take it Or not.
 
@@ -198,6 +198,22 @@ Mechanic: Recharge your full Cannister for 10 gold(He can refill your full red b
 ![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
 Merchant: Sell them your entire canister for 100 gold. Or not.
+
+### Trix
+
+![trix](https://cdn.discordapp.com/attachments/923510071026155550/928742141650419752/unknown.png)
+
+Trix is an adventurer that's overburdened. You can help him by taking his loot.
+
+- **Trix:** Hey! Hey you there! Can you help me?
+- **Player:**Maybe?
+- **Trix:**I want to impress my crush by picking a rare frost frlower for him from the Danger Zone
+- **Trix:**Have you seen one? It's a little snow-coloured flower that's rumored to blossom out here once every 3 years.
+- **Player:** No.
+- **Trix:**Dang it! All I've found so far is terrifying wild bots and a pile of treasure and scrap.
+- **Player optopn A:** Do you want me to take some of that scrap off your hands?
+- **Player option B:** I can hold some of that treasure for you if you'd like.
+- **Trix:**That's so kind of you, it's really slowing me down. Just tell me if you see a frost flower, okay?
 
 </div>
 
