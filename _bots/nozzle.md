@@ -1,16 +1,17 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Nozzle"
+title: "Nozzle (Epic Tank)"
 name: "Nozzle"
-description: "Epic Tank - Shy and sturdy. The more it's attacked, the more of in its shell. Great at being focus of the entire enemy team."
+description: "Distraction Turtle\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396953956896868/nozzle.png"
 breadcrumbs:
- Bots: "/bots"
- Tank: "/bots#tanks"
+  Bots: "/bots"
+  Tank: "/bots#tanks"
+
 
 botName: "Nozzle"
 botDescription: "Shy and sturdy. The more it's attacked, the more of in its shell. Great at being focus of the entire enemy team."
@@ -18,9 +19,10 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339695
 botType: "Tank"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Solo Arena 4000 Rating"
+botAcquisition: "Arena (4000)"
 botOpinion: "Distraction Turtle"
-searchKeywords: "tank, distraction, range, ranged, stun, tough, epic, nozzle"
+searchKeywords: ""
+
 
 ability1Name: "Squirt"
 ability1Info: "Range: 10 , Attack Speed: 1s , Energy Damage: 100%"
@@ -55,9 +57,9 @@ ai5bName: "B: Water Tanks"
 ai5bDescription: "Tidal Wave stun duration increased by 40%"
 
 
-lvl1Hp: "2352"
-lvl1Dmg: "35"
-lvl1Dps: "35"
+lvl1Hp: ""
+lvl1Dmg: ""
+lvl1Dps: ""
 lvl1Speed: "5"
 lvl10Hp: ""
 lvl10Dmg: ""
@@ -78,9 +80,12 @@ commonMat2: "Clear Oil"
 commonMat3: "Sputtering Generator"
 ---
 
-### Tips
-Drop Nozzle on top of enemies, it will deal stun at Ai 3
-Use Gust to direct enemies to nozzle to keep them company while your damage dealers deal with them
 
-### Suggested Ai Build
-AACBA
+### Suggested AI Build
+- **AACBA:**
+
+## Comments
+
+### Evaluation by Soft
+The least traditional tank out of the high-tier trio, Nozzle has the best survivability out of any bot in the game. Both fortunately and unfortunately, his kit is entirely ranged. This means that he doesn't take aggro off enemy bots by chasing them off his team, but also means that he can consistently deal damage and stun enemies with his ranged ability. He needs help from [Gust](/gust) or similar to steer enemies into him. Tier A-.
+
