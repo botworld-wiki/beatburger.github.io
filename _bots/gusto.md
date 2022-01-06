@@ -1,16 +1,16 @@
 ---
 layout: bot
 contributors: "Groovy"
-updatedAt: "2021-12-15"
+updatedAt: "2021-12-30"
 
 
-title: "Gusto"
+title: "Gusto (Epic Support)"
 name: "Gusto"
-description: "Epic Support - A timid bot that throws its allies into the fray. Loves to go bowling."
+description: "Kobe\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/912341631666106448/1637589480024.png"
 breadcrumbs:
   Bots: "/bots"
-  Support: "/bots#supports"
+  Support: "/bots#tanks"
 
 
 botName: "Gusto"
@@ -80,9 +80,12 @@ commonMat2: "Double Cog"
 commonMat3: "Mini Sensor"
 ---
 
-### Tips
-Don't put Snipers or Splashers near Gusto or Gusto will throw them at the enemy.
-Put Brawlers near Gusto, so that Gusto can launch them at the enemy.
+### Suggested AI Build
+- **ABAAC:**
 
-### Suggested Ai Build
-ABAAC
+## Comments
+
+### Tips
+- Don't put Snipers or Splashers near Gusto or Gusto will throw them at the enemy.
+- Put Brawlers near Gusto, so that Gusto can launch them at the enemy.
+
