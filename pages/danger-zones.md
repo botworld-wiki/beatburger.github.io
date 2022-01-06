@@ -218,20 +218,13 @@ Merchant: Sell them your entire canister for 100 gold. Or not.
 ### Exterminator bosses
 
 - **Frozen Waste:** Buffalo Pest Control
-
-![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928556572345532426/IMG_20220106_154924.jpg)
-
 - **Molten Rock:** Cat Pest Control
-
-![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928561303579136020/IMG_20220106_151028.jpg)
-
 - **Vivid Valey:** Lizard Pest Control
-
-![Pest Control](<https://media.discordapp.net/attachments/923510071026155550/927407498363797585/IMG_20220103_104432.jpg>)
-
 - **Scrapyard:** Dog Pest Control
 
-![Pest Control](https://cdn.discordapp.com/attachments/923510071026155550/928577241284239360/IMG_20220106_161413.jpg)
+![200px pc buff](https://cdn.discordapp.com/attachments/923510071026155550/928599446550355998/pest-control-buffalo.png) ![200px inline pc cat](https://cdn.discordapp.com/attachments/923510071026155550/928599446835589180/pest-control-cat.png) ![200px inline pc liz](https://cdn.discordapp.com/attachments/923510071026155550/928599446332264509/pest-control-lizard.png) ![200px inline pc dpg](https://cdn.discordapp.com/attachments/923510071026155550/928599446109949972/pest-control-dog.png) 
+ 
+ 
 
 </div>
 
