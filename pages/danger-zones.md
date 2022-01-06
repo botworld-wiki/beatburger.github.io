@@ -203,7 +203,7 @@ Merchant: Sell them your entire canister for 100 gold. Or not.
 
 ![trix](https://cdn.discordapp.com/attachments/923510071026155550/928742141650419752/unknown.png)
 
-Trix is an adventurer that's overburdened. You can help him by taking his loot.
+Trix: an adventurer that's overburdened. You can help him by taking his loot.
 
 - **Trix:** Hey! Hey you there! Can you help me?
 - **Player:** Maybe?
