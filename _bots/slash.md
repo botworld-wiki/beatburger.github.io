@@ -1,20 +1,18 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-24"
-# Wiki page infos: ""
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Slash"
+title: "Slash (Common Chaser)"
 name: "Slash"
-description: "Common Chaser: Glass Melee - A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
+description: "Glass Melee\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
 breadcrumbs:
   Bots: "/bots"
   Chaser: "/bots#chasers"
 
 
-# Bot infos: ""
 botName: "Slash"
 botDescription: "A fragile but lethal bot who relentlessly chases its enemies. Thin skinned."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
@@ -25,7 +23,7 @@ botAcquisition: "drop"
 botOpinion: "Glass Melee"
 searchKeywords: "common, slash, chaser, shredder, glass, critical, burst"
 
-# Abilities infos: ""
+
 ability1Name: "Slash"
 ability1Info: "Range: Melee , Attack Speed: 0.5s , Physical Damage: 100%"
 ability1Description: "Melee Attack"
@@ -36,7 +34,7 @@ ability3Name: "Super Slash"
 ability3Info: "Range: Melee , Cooldown: 8s , Physical Damage: 294%"
 ability3Description: "An extra powerful melee attack"
 
-# AI tree infos: ""
+
 ai1aName: "A: Slow down"
 ai1aDescription: "Attacks slow enemy movement by 40%"
 ai1bName: "B: Power up "
@@ -58,7 +56,7 @@ ai5aDescription: "Bot has a 25% chance to dodge melee attacks"
 ai5bName: "B: Critical Strikes"
 ai5bDescription: "Attacks have 15% critical chance (critical hits deals double damage)"
 
-# Stats infos: ""
+
 lvl1Hp: "896"
 lvl1Dmg: "85"
 lvl1Dps: "243"
@@ -73,7 +71,7 @@ lvl25Hp: "7880"
 lvl25Dmg: "837"
 lvl25Dps: "2392"
 
-# Upgrade infos: ""
+
 epicMat: "Slash Essence"
 rareMat: "Chaser Core"
 specialMat: "Hard Botplates"
@@ -83,8 +81,14 @@ commonMat3: "Sparky Wires"
 ---
 
 ### Chaser Build by Hex
--**ABCAB:** For chasing support, snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
+
+- **ABCAB:** For chasing support, snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
 
 ### 'Full Damage Build' by Hex
--**BACAB**
+- **BACAB**
+
+## Comments
+
+### Evaluation by Soft
+Although Slash has the highest DPS in the game, he has: No gapcloser, No disengage, slow or safety and, 2nd lowest HP in the game. It's hard to make him work when he dies before he can even hit a bot. Tier D.
 
