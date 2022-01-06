@@ -144,7 +144,7 @@ Teddy Bears (check [the Event](</news>))
 
 ### Bexley The Brave
 
-https://cdn.discordapp.com/attachments/923510071026155550/928579389153763378/unknown.png
+![bexley](https://cdn.discordapp.com/attachments/923510071026155550/928579389153763378/unknown.png)
 
 Bexley The Brave:He got 6 bots with abilities. Fight him for loot. Or not.
 
@@ -162,7 +162,7 @@ Ember and Flake: Fight them for solving their dispute over what's better- ice or
 
 ### Larry
 
-https://cdn.discordapp.com/attachments/923510071026155550/928579235398963200/unknown.png
+![larry](https://cdn.discordapp.com/attachments/923510071026155550/928584608000393226/unknown.png)
 
 Larry: Good old Larry selling 10 cold batteries for 25 gold. Take it Or not.
 
@@ -182,7 +182,7 @@ Fight for loot. Or not.
 
 ### Mechanic
 
-https://cdn.discordapp.com/attachments/923510071026155550/928579316051238933/unknown.png
+![mechanic](https://cdn.discordapp.com/attachments/923510071026155550/928579316051238933/unknown.png)
 
 Mechanic: Recharge your full Cannister for 10 gold(He can refill your full red bar). Or not.
 
@@ -237,6 +237,6 @@ Sell them your entire canister for 100 gold. Or not.
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit: Pix, Xen, cloud9, chael*
+*Credit: Pix, Xen, cloud9, chael, Kurt*
 
 </div>
