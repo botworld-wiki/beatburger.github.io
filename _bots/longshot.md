@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, caique concê"
+updatedAt: "2022-01-06"
 
 
 title: "Longshot (Special Sniper)"
@@ -19,7 +19,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/87339738
 botType: "Sniper"
 botRarity: "Special"
 botRaritySortOrder: "2"
-botAcquisition: "Arena (500)"
+botAcquisition: "Arena (200)"
 botOpinion: "A must use in the early game"
 searchKeywords: "dmg, burst, ranged, instakill, special, newbie, sniper, longshot, shooter"
 
