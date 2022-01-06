@@ -9,8 +9,13 @@ breadcrumbs:
     Exploring: "/exploring"
     
 ---
-
 # Danger Zones
+
+## Index
+
+Danger Zones, Random Encounters, Exterminator Squads
+
+## Intro
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
@@ -31,19 +36,13 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 - Any [Gadget](/botpack#gadgets) left when you die is a wasted slot
 - Use the environment to harm your foes!
 
-## Situations and Events 
+### Situations and Events 
 
 ### Obstacles
 
 ### Repair Stations
 
 ### Gadget Repair
-
-### Random
-
-- **Merchant**: Sell them your entire canister for 100 gold. Or not.
-
-![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
 ## Heroic mode
 
@@ -53,8 +52,6 @@ Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce 
 - **New Encounters:** CleanerBots & [Exterminator Squads](#exterminator-squads) after a point.
 
 </div>
-
-
 
 <div markdown="1" class=" ghcms ghcms-frozenwastes">
 
@@ -140,6 +137,16 @@ Teddy Bears (check [the Event](</news>))
 
 
 ![Image](<https://cdn.discordapp.com/attachments/918419557792776202/919078550093574154/DZ_-_Scrapyard.png>)
+
+</div>
+
+<div markdown="1" class=" ghcms ghcms-randomencounters">
+
+## Random Encounters
+
+- **Merchant**: Sell them your entire canister for 100 gold. Or not.
+
+![merchant needs help](https://cdn.discordapp.com/attachments/923510071026155550/924217044356976670/Screenshot_20211225-092737_Discord.jpg)
 
 </div>
 
