@@ -206,14 +206,14 @@ Merchant: Sell them your entire canister for 100 gold. Or not.
 Trix is an adventurer that's overburdened. You can help him by taking his loot.
 
 - **Trix:** Hey! Hey you there! Can you help me?
-- **Player:**Maybe?
-- **Trix:**I want to impress my crush by picking a rare frost frlower for him from the Danger Zone
-- **Trix:**Have you seen one? It's a little snow-coloured flower that's rumored to blossom out here once every 3 years.
+- **Player:** Maybe?
+- **Trix:** I want to impress my crush by picking a rare frost flower for him from the Danger Zone
+- **Trix:** Have you seen one? It's a little snow-coloured flower that's rumored to blossom out here once every 3 years.
 - **Player:** No.
-- **Trix:**Dang it! All I've found so far is terrifying wild bots and a pile of treasure and scrap.
+- **Trix:** Dang it! All I've found so far is terrifying wild bots and a pile of treasure and scrap.
 - **Player optopn A:** Do you want me to take some of that scrap off your hands?
 - **Player option B:** I can hold some of that treasure for you if you'd like.
-- **Trix:**That's so kind of you, it's really slowing me down. Just tell me if you see a frost flower, okay?
+- **Trix:** That's so kind of you, it's really slowing me down. Just tell me if you see a frost flower, okay?
 
 </div>
 
