@@ -1,26 +1,27 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-15"
+contributors: "Hex, Soft, BloodxReaper"
+updatedAt: "2021-12-30"
 
 
-title: "Froggy"
+title: "Froggy (Rare Evader)"
 name: "Froggy"
-description: "Rare Evader - A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate."
+description: "Waddles, Does not Hop\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
-breadcrumbs: 
- Bots: "/bots"
- Evader: "/bots#evaders"
+breadcrumbs:
+  Bots: "/bots"
+  Evader: "/bots#evaders"
+
 
 botName: "Froggy"
-botDescription: "A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devstating poison tank ultimate"
+botDescription: "A ranged bot with a slowing slime attack, powerful legs to leap away from enemies, and a devastating poison tank ultimate."
 botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
 botType: "Evader"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot , Random Drop"
-botOpinion: "Cutest Bot in Botworld"
-searchKeywords: "aoe, slow, poison, distance, ranged, dot, damage over time"
+botOpinion: "Waddles, Does not Hop"
+searchKeywords: "froggy, rare, evader ,  aoe ult, slow, ranged"
 
 
 ability1Name: "Slime Ball"
@@ -78,12 +79,12 @@ commonMat1: "Sparky Wires"
 commonMat2: "Mini Sensor"
 commonMat3: "Double Cog"
 ---
-### Tips
 
+### 'Arena Build' by Soft
+- **AABCB:**
 
-### Suggested Ai Build
-Option 1: ABBCB - Evader Build. Slows down enemy while maintaining the range. Attack enemy from a safe spot.
+## Comments
 
-Option 2: AAACA - Full Damage Build. 
+### Evaluation by Soft
+One of the best bots in the early game, Froggy significantly starts dropping off in damage and usefulness past level ~10. His damage simply isn't where it used to be and he gets easily countered by botpack abilities, chasers with smart AI choices or simple bot abilities. Still the cutest mascot of the game though. Tier B.
 
-Option 3: BBACB - Hybrid Build
