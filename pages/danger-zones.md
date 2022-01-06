@@ -115,7 +115,7 @@ Sneks
 - **Mobs lvl:** 21-25
 
 
-![Image](<https://cdn.discordapp.com/attachments/882136646001238038/887926987920932894/Vivid_Valley.png>)
+![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928616231412572220/vivid-valley-pathing1-min.png>)
 
 </div>
 
