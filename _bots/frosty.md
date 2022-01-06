@@ -1,19 +1,20 @@
 ---
 layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-24"
+contributors: "Kurt, Soft, BloodxReaper"
+updatedAt: "2021-12-30"
 
 
-title: "Frosty"
+title: "Frosty (Rare Evader)"
 name: "Frosty"
-description: "Rare Evader: a good crowd control bot - Frosty slows down its enemies and then freeze them in places. Particulary strong against melee bots"
+description: "a good crowd control bot\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547678686142534/frosty.png"
 breadcrumbs:
   Bots: "/bots"
   Evader: "/bots#evaders"
 
+
 botName: "Frosty"
-botDescription: "Frosty slows down its enemies and then freeze them in places. Particulary strong against melee bots"
+botDescription: "Frosty slows down its enemies and then freezes them in place. Particularly strong against melee bots"
 botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547678686142534/frosty.png"
 botType: "Evader"
 botRarity: "Rare"
@@ -24,13 +25,13 @@ searchKeywords: "slow, freeze, rare, evader, fast, annoying"
 
 
 ability1Name: "Frost Spray"
-ability1Info: "Range: 5 , Energy Damage: 47 , Hit Rate: 0.4s , Slow Enemies: 75%"
+ability1Info: "Range: 5 , Energy Damage: 100% , Hit Rate: 0.4s , Slow Enemies: 50%"
 ability1Description: "Sprays an area with ice dealing damage and slowing enemies"
 ability2Name: "Teleport"
 ability2Info: "Teleport Distance: 6 , Cooldown: 6s"
 ability2Description: "Teleports away from enemy bots that are too close for comfort"
 ability3Name: "Cold Snap"
-ability3Info: "Impact Radius: 3,5 ,Stun Duration: 3,5s ,Cooldown: 12s"
+ability3Info: "Impact Radius: 3.5 ,Stun Duration: 3.5s ,Cooldown: 12s"
 ability3Description: "Spins around freezing all nearby enemies"
 
 
@@ -47,16 +48,16 @@ ai3aDescription: "Health increased by 20%"
 ai3bName: "B: Speed Boost"
 ai3bDescription: "Move speed increased by 20%"
 ai4aName: "A: Permafrost"
-ai4aDescription: "Cold snap stun duration increased by 20%"
+ai4aDescription: "Cold snap stun duration increased by 205"
 ai4bName: "B: Hard to catch"
 ai4bDescription: "Teleport cooldown reduce by 20%"
 ai5aName: "A: Cold and Defenceless"
 ai5aDescription: "Enemies take 20% more damage during cold snap"
 ai5bName: "B: Cold Gateway"
-ai5bDescription: "Teleport slows nearby enemies for 1,5s"
+ai5bDescription: "Teleport slows nearby enemies for 1.5s"
 
 
-lvl1Hp: "1568"
+lvl1Hp: "1300"
 lvl1Dmg: "20"
 lvl1Dps: "50"
 lvl1Speed: "15"
@@ -79,5 +80,11 @@ commonMat2: "Cold Battery"
 commonMat3: "Sputtering Generator"
 ---
 
-### suggested ai build
-- BCBAB
+### 'Arena Build' by Soft
+- **BCBAB:**
+
+## Comments
+
+### Evaluation by Soft
+Flamer and Hornet's brother that hangs out with Thump the bully too much, Frosty's damage is absolutely terrible but makes up for it by having the best kiting in the game. Especially now with the botpack generation nerf, it's harder to counter Frosty when he's keeping an enemy melee bot permanently slowed. Unfortunately though, there's better melee counters like Brute. Tier C.
+
