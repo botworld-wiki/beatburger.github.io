@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "O.J, Pix, Gold"
-updatedAt: "2021-12-25"
+contributors: "O.J, Pix, Gold, caique concê"
+updatedAt: "2022-01-06"
 
 
 title: "Sheller (Epic Splasher)"
 name: "Sheller"
-description: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  \n- Speciality: lays down Mines\n- Note: still untested!\n- Acquisition: most likely Snail Season reward"
+description: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  \n- Speciality: lays down Mines\n- Note: still untested!\n- Acquisition: Snail Season 30 reward"
 imageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
 breadcrumbs:
   Bots: "/bots"
@@ -85,3 +85,4 @@ commonMat3: "Frost Fuel"
 Just revealed 2021-12-25.
 
 Demo clips on the [official FW twitter](https://twitter.com/BotworldGame/status/1474726625262510080)
+
