@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-24"
+contributors: "Hex, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Yanky"
+title: "Yanky (Common Brawler)"
 name: "Yanky"
-description: "Common Brawler: Best bot in 1v1 Stun lock - Equipped with a grappling hook, this bot keeps its enemies close."
+description: "Best bot in 1v1 Stun lock\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397854083883018/yanky.png"
 breadcrumbs:
   Bots: "/bots"
@@ -40,7 +40,7 @@ ai1aDescription: "Grapple stun increased by 50%"
 ai1bName: "B: Speed Boost"
 ai1bDescription: "Move Speed increased by 20%"
 ai2aName: "A: Powerful Strikes"
-ai2aDescription: "All attack damage increased by 20%"
+ai2aDescription: "All attacke damage increased by 20%"
 ai2bName: "B: Armor Plated"
 ai2bDescription: "Reduces physical damage taken by 30%"
 ai3aName: "A: Unstoppable"
@@ -81,8 +81,13 @@ commonMat3: "Double Cog"
 ---
 
 ### 'Full Damage Build' by Hex
--**AAACA:** For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
+- **AAACA:** For 1v1 battle. Doesn't let it enemy escape with it's Ultimate Grapple with 50% increase stun duration. Keeps your enemy company.
 
 ### 'Tanky Brawler' by Hex
--**ABBCB:** Reduce physical and energy damage taken by 30% each. Last longer in battle.
+- **ABBCB:** Reduce physical and energy damage taken by 30% each. Last longer in battle.
+
+## Comments
+
+### Evaluation by Soft
+Basically a [Chainer](/chainer) prototype v1.0. Just don't use him. People have tried using him with [Chainer](/chainer), but the damage of your team is just too low. Don't use Yanky. I repeat. Don't use Yanky. Tier F.
 
