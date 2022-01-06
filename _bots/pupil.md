@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Kurt"
-updatedAt: "2021-12-14"
+contributors: "Kurt, BloodxReaper, Soft"
+updatedAt: "2021-12-30"
 
 
-title: "Pupil"
+title: "Pupil (Rare Sniper)"
 name: "Pupil"
-description: "Rare Sniper: Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents - Born into this world with a single eye. while it can't perceive depth, pupil can fire powerful laser beams which overall is not a bad trade "
+description: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547091991080970/pupil.png"
 breadcrumbs:
   Bots: "/bots"
@@ -21,17 +21,17 @@ botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Season"
 botOpinion: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents"
-searchKeywords: ""
+searchKeywords: "melt, burst, single, damage, laser, eye, pupil, rare, sniper"
 
 
 ability1Name: "Laser Beam"
-ability1Info: "Beam hit rate: 0,3s , Charge time: 2s , Range: 4-8 , Energy Damage: 30-60"
+ability1Info: "Beam hit rate: 0.3s , Charge time: 2s , Range: 4-8 , Energy Damage: 67%-133%"
 ability1Description: "Fires a laser beam that gets more powerfull overtime, however the bots ability to turn whilst firing is limited"
 ability2Name: ""
 ability2Info: ""
 ability2Description: ""
 ability3Name: "Ultra Beam"
-ability3Info: "Beam hit rate: 0,3s , Charge time: 1s , Cooldown: 10 , Range: 8 , Energy Damage: 40-80"
+ability3Info: "Beam hit rate: 0.3s , Charge time: 1s , Cooldown: 10s , Range: 8 , Energy Damage: 89%-178%"
 ability3Description: "An extra powerfull beam that can shoot straight through enemies"
 
 
@@ -80,5 +80,11 @@ commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 ---
 
-### suggested ai build
-AACAA
+### Suggested AI Build
+- **AACAA:**
+
+## Comments
+
+### Evaluation by Soft
+Once again looking good on paper, Pupil just doesn't make the cut and is outclassed by [Bigshot](/bigshot) if you want to keep your sniper far away for high damage, [Longshot](/longshot) if you want to risk going close for consistent damage, and [Beat](/beat) if you want to amplify your team damage. His tracking is too slow to keep up with evaders even with the AI speed and his ramp-up takes too long to reach the max. Tier B.
+
