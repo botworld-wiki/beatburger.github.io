@@ -29,36 +29,35 @@ Botworld is well worth exploring at your own pace, and won't punish you for tryi
 
 ## Starter bot
 
-![starter-selection](https://cdn.discordapp.com/attachments/923510071026155550/927866008197287956/starter-selection-min.png)
+## Starter bot
 
-It's really just that: your starter bot. **You will find botframes to build the other two** just like any other bot wandering through Botworld. 
+![starter-selection](<https://cdn.discordapp.com/attachments/923510071026155550/927866008197287956/starter-selection-min.png>)
 
-You can always check out tier-lists to compare them, but those were made considering end-game strategies and don't necessarily apply to your current situation. By the time they do, you'll surely have had all 3 for quite some time.
+It's really just that: your starter bot. **You will find botframes to build the other two** just like any other bot wandering through Botworld.
 
+You can always check out tier-lists to compare them, but those were made considering end-game strategies and don’t necessarily apply to your current situation. By the time they do, you’ll surely have had all 3 for quite some time.
 
 ## What should I do first ?
 
-
-You want to **upgrade your boat** to get the sweet business upgrades, and assemble a good comp of bots you like. The story will make both happen, so start with that ! 
+You want to **upgrade your [Boat](</boat>)** to get the sweet [Business](</business>) upgrades, and assemble a good [comp](</comps>) of bots you like. The [Story](</story>) will make both happen, so start with that !
 
 As you **wander around in the wilderness**:
 
-- Make sure you have 3 active contracts before leaving town so you can get extra rewards as you go.
-- Try and chase the rabbits and other critters, they can also drop scraps !
+- Make sure you have 3 active [Contracts](</contracts>) before leaving town so you can get extra rewards as you go.
+- Try and chase the rabbits and other [Critters](</exploring#critters>), they can also drop scraps !
 - Losing a fight will simply make you jetpack back to town
 - If you ever find yourself short on canisters, you can get some more from the shop by watching ads.
 
-Whenever you feel ready for a challenge and like trying something new, **make your way to the Arena**: 
 
-- Each Arena Master you beat will give you better botpack, which means more abilities, that's very powerful. 
-- Climbing the first ranks of the Solo Arena will reward you with some really cool bots that you should try out.
+Whenever you feel ready for a challenge and like trying something new, **make your way to the [Arena](</arena>)**:
 
+- Each [Arena Master](</arena>) you beat will give you better [Botpack](</botpack>), which means more [Abilities](</abilities>), that’s very powerful.
+- Climbing the first ranks of the Solo [Arena](</arena>) will reward you with some really cool [Bots](</bots>) that you should try out.
 </div>
 
 <div markdown="1" class=" ghcms ghcms-business">
 
 ## What business upgrades should I take ?
-
 
 It is recommended to start with the machines, their passive generation of scraps, gold, and abilities are really good, especially at your stage of the game !
 
@@ -69,12 +68,13 @@ My personal favorites next are:
 - **Terrify**: lets you avoid some fights completely, but you still get the rewards ! Big time saver.
 - **Contract Master**: if you find yourself doing lots of contracts like I did, extra tokens is great.
 
-But as with everything else, as you upgrade your boat you'll have more energy points to spend and eventually you'll get everything you need.
+
+But as with everything else, as you upgrade your boat you’ll have more energy points to spend and eventually you’ll get everything you need.
 
 ## How do I get the materials to upgrade my bots ?
 
-Click any material required to upgrade your bot to **get a description of how to get them**. Alternatively, your machines or even the shop might help.
+Click any [Material](</materials>) required to upgrade your [Bot](</bot>) to **get a description of how to get them**. Alternatively, your machines or even the shop might help.
 
-I think that's really all you need to know at this point, so you'd better go and explore Botworld right now ! 
+I think that’s really all you need to know at this point, so you’d better go and explore Botworld right now !
 
 </div>
