@@ -38,9 +38,9 @@ Exterminator Squads ![inline ext squads](https://cdn.discordapp.com/attachments/
 
 - Plan your route carefully
 - Keep your priorities straight
-- Every bit of [Can Energy](/exploring#canister) is precious, avoid & dodge as many fights as you can
-- Use your [Recruits](/recruits) as decoy to dodge [Megas Bots](/exploring#mega-bots) and [Bosses](/exploring#bosses)
-- Any [Gadget](/botpack#gadgets) left when you die is a wasted slot
+- Every bit of [Can Energy](</exploring#canister>) is precious, avoid & dodge as many fights as you can
+- Use your [Recruits](</recruits>) as decoy to dodge [Megas Bots](</exploring#mega-bots>) and [Bosses](</exploring#bosses>)
+- Any [Gadget](</botpack#gadgets>) left when you die is a wasted slot
 - Use the environment to harm your foes!
 
 
@@ -48,8 +48,8 @@ Exterminator Squads ![inline ext squads](https://cdn.discordapp.com/attachments/
 
 - **Unlock:** by progressing through the main Story
 - **Difficulty:** HIGHER
-- **Rewards:** [Rare & Epic chests](/loot#chests) respawn, one every 4 days
-- **New Encounters:** CleanerBots & [Exterminator Squads](#exterminator-squads) after a point.
+- **Rewards:** [Rare & Epic chests](</loot#chests>) respawn, one every 5 days
+- **New Encounters:** CleanerBots & [Exterminator Squads](<#exterminator-squads>) after a point.
 
 </div>
 
@@ -221,7 +221,17 @@ Trix is an adventurer that's overburdened. You can help him by taking his loot.
 
 ## Exterminator Squads
 
+Exterminator Squad is a higher game challenge. Exterminators are found on danger zone maps. Once you upgrade your [Boat](</boat>) to level 15, your danger zone map menu will change. Exterminators has 4 types : Buffalo ![inline icon buff](<https://cdn.discordapp.com/attachments/923510071026155550/928740159455911986/exterminator_buffalo_icon.png>)(Frozen Waste), Cat ![inline icon cat](<https://cdn.discordapp.com/attachments/923510071026155550/928740158805798952/exterminator_cat_icon.png>)(Molten Rock), Lizard ![inline icon liz](<https://cdn.discordapp.com/attachments/923510071026155550/928740158998720572/exterminator_lizard_icon.png>)(Vivid Valley) and Dog ![inline icon dog](<https://cdn.discordapp.com/attachments/923510071026155550/928740159229411328/exterminator_dog_icon.png>) (Scrapyard).
+
+![extsquad](<https://cdn.discordapp.com/attachments/923510071026155550/928655311693291580/unknown.png>)
+
+### Rewards
+
+... nothing besides satisfaction.
+
 ### Difficulty Levels
+
+Exterminator Squads levels will rise up and it will get harder every time. It's really hard and also fun at the same time.
 
 - Level 1: First exterminator boss
 - Level 2: Additional exterminators arrived
@@ -242,14 +252,15 @@ Trix is an adventurer that's overburdened. You can help him by taking his loot.
 - **Vivid Valey:** Lizard Pest Control
 - **Scrapyard:** Dog Pest Control
 
-![200px pc buff](https://cdn.discordapp.com/attachments/923510071026155550/928599446550355998/pest-control-buffalo.png) ![200px inline pc cat](https://cdn.discordapp.com/attachments/923510071026155550/928599446835589180/pest-control-cat.png) ![200px inline pc liz](https://cdn.discordapp.com/attachments/923510071026155550/928599446332264509/pest-control-lizard.png) ![200px inline pc dpg](https://cdn.discordapp.com/attachments/923510071026155550/928599446109949972/pest-control-dog.png) 
- 
- 
+
+![300px pc buff](<https://media.discordapp.net/attachments/923510071026155550/928637165343236146/Pest_Control_Buffalo.png>) ![300px inline pc cat](<https://media.discordapp.net/attachments/923510071026155550/928637165678784573/Pest_Control_Cat.png>)
+
+![300px pc liz](<https://media.discordapp.net/attachments/923510071026155550/928637165972377630/Pest_Control_Lizard.png>)![300px inline pc dpg](<https://media.discordapp.net/attachments/923510071026155550/928637166333091860/Pest_Control_Dog.png>)
 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit: Pix, Xen, cloud9, chael, Kurt*
+*Credit: Pix, Xen, cloud9, chael, Kurt, MrGold, debb*
 
 </div>
