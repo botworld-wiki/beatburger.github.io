@@ -1,7 +1,7 @@
 ---
 
 layout: breadcrumbs
-permalink: /shop
+permalink: /faq1
 title: "Shop & Services"
 description: All the NPCs, locations, and businesses available in Scavenger's Landing - Everything there is to know about it on the Botworld Community Wiki!
 breadcrumbs:
