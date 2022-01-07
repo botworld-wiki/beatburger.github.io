@@ -81,6 +81,7 @@ You can find Info about Arena Masters here
  
 </div>
 
+<br>
 
 # Arena Masters
 
