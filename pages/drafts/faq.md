@@ -6,6 +6,8 @@ title: "Frequently Asked Questions"
 description: Frequently Asked Questions. Your Discord buddy got THAT question again? Link this!
 breadcrumbs:
   Botworld: "/#botworld"
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
 
 ---
 
