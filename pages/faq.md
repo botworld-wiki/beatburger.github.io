@@ -1,7 +1,7 @@
 ---
 
 layout: breadcrumbs
-permalink: /arena
+permalink: /faq
 title: "Frequently Asked Questions"
 description: Frequently Asked Questions. Your Discord buddy got THAT question again? Link this!
 breadcrumbs:
