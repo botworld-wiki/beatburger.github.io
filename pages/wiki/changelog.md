@@ -12,6 +12,9 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-07
+- Arena and Arena Masters page have been merged
+
 ## 2022-01-06
 
 - Arenamaster Scales Lineup-date(lol)
