@@ -2,8 +2,8 @@
 
 layout: breadcrumbs
 permalink: /arena
-title: Frequently Asked Questions
-description: "Frequently Asked Questions. Your Discord buddy got THAT question again? Link this!"
+title: "Frequently Asked Questions"
+description: Frequently Asked Questions. Your Discord buddy got THAT question again? Link this!
 breadcrumbs:
   Botworld: "/#botworld"
   
