@@ -215,7 +215,6 @@ Then, tip your comp heavily towards **ranged bots so you can kill from afar**. S
 **Good to have**: [Gust](/gust), [Freeze](/freeze), [Super-Charge](/super-charge)
 
 - Boosters to help generate power, like [Power Start](/power-start-common)
-- [Any more tips we're missing?](/contribute#tbw)
 
 
 The more snipers you have, the better. **Longshot is king and easy to get**, Chomp is so-so but okay. Put them down on the field, keep the enemies away with Imobilize/Gust/Freeze, save 2p for CT to dodge Freeze Ball, and occasionally Overcharge if you can afford it.
@@ -224,6 +223,7 @@ Some hidden gems amongst bots:
 
 - **[Rocketeer](/rocketeer) AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo [Brute](/brute), and then some.
 - **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
+- [Any more tips we're missing?](/contribute#tbw)
 
 ### Story
 
