@@ -204,7 +204,6 @@ Your top priority is to **avoid the Freeze Balls**. Two ways around it:
 
 - have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
 - have [Chaos Translocator](/chaos-translocator) (CT) at hand and save power to use it in a pinch
-- [Any more tips we're missing?](/contribute#tbw)
 
 
 Ps: I believe [Proximity Translocator](/proximity-translocator) can be used instead of CT and work considerably better. I didn't have it myself
@@ -216,6 +215,7 @@ Then, tip your comp heavily towards **ranged bots so you can kill from afar**. S
 **Good to have**: [Gust](/gust), [Freeze](/freeze), [Super-Charge](/super-charge)
 
 - Boosters to help generate power, like [Power Start](/power-start-common)
+- [Any more tips we're missing?](/contribute#tbw)
 
 
 The more snipers you have, the better. **Longshot is king and easy to get**, Chomp is so-so but okay. Put them down on the field, keep the enemies away with Imobilize/Gust/Freeze, save 2p for CT to dodge Freeze Ball, and occasionally Overcharge if you can afford it.
