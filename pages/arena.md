@@ -21,7 +21,7 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
 </ul>
 
-You can find Info about [Arena Masters](/arena-masters) and how to defeat them here
+You can find Info about Arena Masters here
 
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#brad">Brad</a></li>
