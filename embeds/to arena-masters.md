@@ -2,7 +2,10 @@
 
 layout: embed
 permalink: /arena%20masters
-permalink: /trololo
+permalink: /arena%20master
+permalink: /arenamaster
+permalink: /arenamasters
+permalink: /masters
 redirectTo: "https://www.botworld.wiki/arena-masters"
 
 
