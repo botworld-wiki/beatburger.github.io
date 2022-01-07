@@ -231,7 +231,7 @@ A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the 
 ![300px arenamaster scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)
 
 - **Bots:** = [Virus](/virus), [Froggy](/froggy), [Dune Bug](/dune-bug), [Ram](/ram), [Halo](/halo), [Slicer](/slicer) Level 25
-- **Abilities:** [Supercharged Chaos Translocator](/supercharged-chaos-translocator), [Ball Lightning](/ball-lightning), [Hypercharge](/hypercharge), [Hyperdrain](/hyperdrain)
+- **Abilities:** [Supercharged Chaos Translocator](/supercharged-chaos-translocator), [Explosive Proximity Translocator](/explosive-proximity-translocator), [Hypercharge](/hypercharge), [Hyperdrain](/hyperdrain)
 
 
 ### Tips
