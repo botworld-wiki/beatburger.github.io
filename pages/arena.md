@@ -145,7 +145,8 @@ Astrid is an arena master who doesn't believe in reserves and likes to deploy al
 
 ### Tips
 
-Lv10 bots, Missiles
+- Lv10 bots, Missiles
+- [Any more tips we're missing?](/contribute#tbw)
 
 </div>
 
@@ -175,6 +176,7 @@ Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He als
 - [Slicer](/slicer)/[Yanky](/yanky) with Immunity to slow and immobilizing effects
 - Effective [Sniper Bots](/bots#snipers)
 - [Chaser Stun Res](/chaser-stun-resistance-special) or rare [Stun resistance](/stun-resistance-rare) boosters
+- [Any more tips we're missing?](/contribute#tbw)
 
 ### Story
  
@@ -202,6 +204,7 @@ Your top priority is to **avoid the Freeze Balls**. Two ways around it:
 
 - have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
 - have [Chaos Translocator](/chaos-translocator) (CT) at hand and save power to use it in a pinch
+- [Any more tips we're missing?](/contribute#tbw)
 
 
 Ps: I believe [Proximity Translocator](/proximity-translocator) can be used instead of CT and work considerably better. I didn't have it myself
@@ -246,7 +249,8 @@ An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bo
 
 ### Tips
 
-He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee), [Evaders](/bots#evaders), and [Splashers](/bots#splashers)
+- He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee), [Evaders](/bots#evaders), and [Splashers](/bots#splashers)
+- [Any more tips we're missing?](/contribute#tbw)
 
 ### Story
  
@@ -278,6 +282,7 @@ A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack
 
 - It's HER or prepare to get nuked ;)
 - Try [Chainer](/chainer) or [Vortex](/vortex) and group her damage dealers, then use Splashers
+- [Any more tips we're missing?](/contribute#tbw)
 
 ### Story
 
@@ -308,7 +313,8 @@ A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the 
 
 ### Tips
 
-[Virus](/virus) + [Hypercharge](/hypercharge) = GG.
+- [Virus](/virus) + [Hypercharge](/hypercharge) = GG.
+- [Any more tips we're missing?](/contribute#tbw)
 
 ### Story
 
