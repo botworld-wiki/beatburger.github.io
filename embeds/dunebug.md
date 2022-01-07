@@ -5,8 +5,8 @@ permalink: /dunebug
 redirectTo: "https://www.botworld.wiki/dune-bug"
 
 
-title: The Arena Masters
-name: The Arena Masters
-description: Challenge the Arena Masters to climb up the ranks and unlock precious Botpack slots! Tips & Infos on how to beat every Arena Master you'll have to face in Botworld Adventure!
+title: Dune Bug
+name: Dune Bug
+description: Dune Bug is the fastest yet squishiest bot that ever existed in game. However, both of its rolling abilities provide high surviving capability. Also good damage output. - Speciality: very aggressive, requires specific answers - Note: can do AoE damage with Piercing Shots - Combos: Hypercharge, Grouping
 
 ---
