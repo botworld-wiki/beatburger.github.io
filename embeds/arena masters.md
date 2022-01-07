@@ -1,7 +1,7 @@
 ---
 
 layout: embed
-permalink: /arena masters
+permalink: /arena%20masters
 redirectTo: "https://www.botworld.wiki/arena-masters"
 
 
