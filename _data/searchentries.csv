@@ -1,5 +1,6 @@
 name,url
 
+
 Arena,/arena
 Jack,/arena#jack
 Brad,/arena#brad
@@ -8,7 +9,7 @@ Reginald,/arena#reginald
 Jack,/arena#jack
 Nicola,/arena#nicola
 Scales,/arena#scales
-Arena,/arena
+
 
 Codex,/codex
 Scrapper Coast,/codex#scrapper-coast
@@ -16,6 +17,7 @@ Great Desert,/codex#great-desert
 Fall Grove,/codex#fall-grove
 Saltwater Swamp,/codex#saltwater-swamp
 Parched Sea,/codex#parched-sea
+
 
 Danger Zones,/danger-zones
 Exterminator,/danger-zones#exterminator-squads
