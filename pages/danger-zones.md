@@ -261,6 +261,6 @@ Exterminator Squads levels will rise up and it will get harder every time. It's 
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit: Pix, Xen, cloud9, chael, Kurt, MrGold, debb*
+*Credit: Pix, Xen, cloud9, chael, Kurt, MrGold, debb, BloodxReaper*
 
 </div>
