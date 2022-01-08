@@ -33,5 +33,11 @@ layout: none
   {
   	"title": "sct",
   	"url": "/supercharged-chaos-translocator"
-  }
+  },
+  {% for entry in site.data.searchentries %}
+    {
+      "title"    : "{{ entry.name }}",
+      "url"      : "{{ entry.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
