@@ -9,6 +9,8 @@ breadcrumbs:
   "Fighting Tips": "/fighting"
 robots: "NOINDEX, NOFOLLOW"
 sitemap: false
+
+for tests:
 matName: "Rusty Cog"
 
 ---
@@ -16,6 +18,7 @@ matName: "Rusty Cog"
 # TESTING
 
 
+{% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
 
  <table class="collection-list no-inline">
   <thead>
@@ -32,7 +35,6 @@ matName: "Rusty Cog"
     </tr>
   </thead>
   <tbody>
-    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     {% for bot in bots_by_rarity %}
     {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
@@ -44,6 +46,14 @@ matName: "Rusty Cog"
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
+        
+        
+        
+        
+        
+        
+        
+        
             {% if bot.botAcquisition == "Random Drop" or bot.botAcquisition == "drop" %}
                 <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
             {% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
@@ -55,6 +65,14 @@ matName: "Rusty Cog"
             {% else %}
                 <td>{{bot.botAcquisition}}</td>
             {% endif %}
+        
+        
+        
+        
+        
+        
+        
+        
             <td class="rarity_Common">
               <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
                 <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
