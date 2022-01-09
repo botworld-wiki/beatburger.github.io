@@ -45,7 +45,7 @@ const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $botlevelmin.value + $botlevelmax.value;
+		$output.innerText = $botlevelmin.value + 25;
 }
 function alertcalc(){
 		alert($botlevelmin.value * pageConstants.coef);
