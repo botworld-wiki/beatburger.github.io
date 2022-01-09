@@ -28,6 +28,7 @@ matType: "Bot"
 
 <div id="calculator-demo">
 	<input class="demo-class" type="text" placeholder="1">
+	<input class="mats-max" type="text" placeholder="25">
 	<button class="demo-class" >calculate</button>
 	<span class="demo-class" ></span>
 </div>
@@ -53,50 +54,6 @@ $input.addEventListener('input', calc);
 $button.addEventListener('click', alertcalc);
 
 </script>
-
-
-
-
-<br>
-<br>
-<br>
-
-
-
-
-<div id="calculator-mats">
-	<input class="mats-min" type="text" placeholder="1">
-	<input class="mats-max" type="text" placeholder="25">
-	<button class="demo-class" >calculate</button>
-	<span class="mats-min" ></span>
-</div>
-
-<script type="text/javascript">
-
-const pageConstants = {
-	'coef':4
-}
-
-const $input = document.querySelector('#calculator-mats input.mats-min');
-const $input = document.querySelector('#calculator-mats input.mats-max');
-const $output = document.querySelector('#calculator-mats span.mats-min');
-
-function calc(){
-		$output.innerText = $input.value * pageConstants.coef;
-}
-function alertcalc(){
-		alert($input.value * pageConstants.coef);
-}
-
-$input.addEventListener('input', calc);
-$button.addEventListener('click', alertcalc);
-
-</script>
-
-
-
-
-
 
 
 
