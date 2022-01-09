@@ -36,8 +36,8 @@ matType: "Bot"
 <script type="text/javascript">
 
 const pageConstants = {
-	'coef':4
-	'min':1
+	'coef':4;
+	'min':1;
 	'max':25
 }
 
