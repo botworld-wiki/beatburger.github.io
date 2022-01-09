@@ -12,6 +12,83 @@ layout: breadcrumbs
   <li><strong>Used to upgrade</strong>: {{page.matType}} </li>
 </ul>
 
+ <table class="collection-list no-inline">
+  <thead>
+    <tr>
+      <th>Bot</th>
+      <th>Name</th>
+      <th>Acquisition</th>
+      <th>Common 1</th>
+      <th>Common 2</th>
+      <th>Common 3</th>
+      <th>Special</th>
+      <th>Rare</th>
+      <th>Essence</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
+    {% for bot in bots_by_rarity %}
+    {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
+      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
+          <td class="table-pic">
+       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
+        <img loading="lazy"   src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
+       </a>
+          </td>
+          <td>
+            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
+          </td>
+            {% if bot.botAcquisition == "Random Drop" or bot.botAcquisition == "drop" %}
+                <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
+            {% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
+                <td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{bot.botAcquisition}}</a></td>
+            {% elsif bot.botAcquisition contains "season" or bot.botAcquisition contains "Season" %}
+                <td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+            {% elsif bot.botAcquisition contains "starter" or bot.botAcquisition contains "Starter" %}
+                <td><a href="/starter-bots" title="The 3 starter bots in Botworld Adventure">Starter Bot</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+            {% else %}
+                <td>{{bot.botAcquisition}}</td>
+            {% endif %}
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
+                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
+              </a>
+            </td>
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat2 | slugify}}" title="{{bot.commonMat2}}">
+                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat2 | slugify}}.png" alt="{{bot.commonMat2}}" >
+              </a>
+            </td>
+            <td class="rarity_Common">
+              <a href="/{{bot.commonMat3 | slugify}}" title="{{bot.commonMat3}}">
+                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat3 | slugify}}.png" alt="{{bot.commonMat3}}" >
+              </a>
+            </td>
+            <td class="rarity_Special">
+              <a href="/{{bot.specialMat | slugify}}" title="{{bot.specialMat}}">
+                <img loading="lazy"   src="/assets/img/materials/{{bot.specialMat | slugify}}.png" alt="{{bot.specialMat}}" >
+              </a>
+            </td>
+            <td class="rarity_Rare">
+              <a href="/{{bot.rareMat | slugify}}" title="{{bot.rareMat}}">
+                <img loading="lazy"   src="/assets/img/materials/{{bot.rareMat | slugify}}.png" alt="{{bot.rareMat}}" >
+              </a>
+            </td>
+            <td class="rarity_Epic">
+              <a href="/essence" title="Default Essence page">
+                <img loading="lazy"   src="/assets/img/materials/essence.png" alt="Default Essence pic" >
+              </a>
+            </td>
+        </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+
 {{content}}
 
 	<div id="contribs" style="flex: 1 0 100%; margin:20px auto">
