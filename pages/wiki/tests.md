@@ -37,6 +37,8 @@ matType: "Bot"
 
 const pageConstants = {
 	'coef':4
+	'min':1
+	'max':25
 }
 
 const $botlevelmin = document.querySelector('#calculator-demo input.demo-class');
@@ -45,7 +47,7 @@ const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $botlevelmin.value + 25;
+		$output.innerText = $botlevelmin.value + pageConstants.max;
 }
 function alertcalc(){
 		alert($botlevelmin.value * pageConstants.coef);
