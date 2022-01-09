@@ -28,7 +28,6 @@ matType: "Bot"
 
 <div id="calculator-demo">
 	<input class="demo-class" type="text" placeholder="1">
-	<input class="mats-max" type="text" placeholder="25">
 	<button class="demo-class" >calculate</button>
 	<span class="demo-class" ></span>
 </div>
@@ -36,29 +35,24 @@ matType: "Bot"
 <script type="text/javascript">
 
 const pageConstants = {
-	'coef':4;
-	'min':1;
-	'max':25
+	'coef':4
 }
 
-const $botlevelmin = document.querySelector('#calculator-demo input.demo-class');
-const $botlevelmax = document.querySelector('#calculator-demo input.mats-max');
+const $input = document.querySelector('#calculator-demo input.demo-class');
 const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $botlevelmin.value + pageConstants.max;
+		$output.innerText = $input.value * 2;
 }
 function alertcalc(){
-		alert($botlevelmin.value * pageConstants.coef);
+		alert($input.value * pageConstants.coef);
 }
 
-$botlevelmin.addEventListener('input', calc);
-$botlevelmax.addEventListener('input', calc);
+$input.addEventListener('input', calc);
 $button.addEventListener('click', alertcalc);
 
 </script>
-
 
 
 
