@@ -34,7 +34,7 @@ matName: "Rusty Cog"
   <tbody>
     {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     {% for bot in bots_by_rarity %}
-    {% if bot.rareMat == 'page.matName' or bot.specialMat == 'page.matName' or bot.commonMat1 == 'page.matName' or bot.commonMat2 == 'page.matName' or bot.commonMat3 == 'page.matName' %}
+    {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
