@@ -22,13 +22,13 @@ matType: "Bot"
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
 <br>
-{% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
+{% assign bots_by_rarity = site.bots | sort: "botName" %}
  <table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
       <th>Name</th>
-      <th>Required till max</th>
+      <th>N° to max</th>
       <th>Common 1</th>
       <th>Common 2</th>
       <th>Common 3</th>
@@ -49,8 +49,6 @@ matType: "Bot"
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
-        
-        
             {% if page.matName == bot.commonMat1 %}
                 <td>2648</td>
             {% elsif page.matName == bot.commonMat2 or page.matName == bot.commonMat3 %}
@@ -62,12 +60,6 @@ matType: "Bot"
             {% else %}
                 <td>8</td>   
             {% endif %}        
-        
-        
-        
-        
-        
-        
             <td class="rarity_Common">
               <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
                 <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
