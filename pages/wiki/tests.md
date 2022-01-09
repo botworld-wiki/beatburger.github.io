@@ -12,15 +12,17 @@ sitemap: false
 
 for tests:
 matName: "Rusty Cog"
-matType: "Boat"
+matType: "Bot"
 
 ---
 
 # TESTING
 
 {% if page.matType == 'Bot' %}
+<br>
+<h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
+<br>
 {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
-
  <table class="collection-list no-inline">
   <thead>
     <tr>
@@ -49,25 +51,17 @@ matType: "Boat"
           </td>
         
         
-        
-        
-        
-        
-        
-        
-            {% if bot.botAcquisition == "Random Drop" or bot.botAcquisition == "drop" %}
-                <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
-            {% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
-                <td><a href="/arena#rewards" title="See the rewards you can get from the arena">{{bot.botAcquisition}}</a></td>
-            {% elsif bot.botAcquisition contains "season" or bot.botAcquisition contains "Season" %}
-                <td><a href="/seasons" title="Read everything about season rewards">Season</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
-            {% elsif bot.botAcquisition contains "starter" or bot.botAcquisition contains "Starter" %}
-                <td><a href="/starter-bots" title="The 3 starter bots in Botworld Adventure">Starter Bot</a> then <a href="/loot#botframes" title="How to find random Botframes">Drop</a></td>
+            {% if page.matName == bot.commonMat1 %}
+                <td>2648</td>
+            {% elsif page.matName == bot.commonMat2 or page.matName == bot.commonMat3 %}
+                <td>1345</td>
+            {% elsif page.matName == bot.specialMat %}
+                <td>519</td>
+            {% elsif page.matName == bot.rareMat %}
+                <td>38</td>
             {% else %}
-                <td>{{bot.botAcquisition}}</td>
-            {% endif %}
-        
-        
+                <td>8</td>   
+            {% endif %}        
         
         
         
