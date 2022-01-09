@@ -18,6 +18,37 @@ matType: "Bot"
 
 # TESTING
 
+
+## Calculator
+
+<div id="calculator">
+	<input type="text" placeholder="3">
+	<button>calculate</button>
+	<span></span>
+</div>
+
+<script type="text/javascript">
+
+const pageConstants = {
+	'coef':4
+}
+
+const $input = document.querySelector('#calculator input');
+const $button = document.querySelector('#calculator button');
+const $output = document.querySelector('#calculator span');
+
+function calc(){
+		$output.innerText = $input.value * pageConstants.coef;
+}
+function alertcalc(){
+		alert($input.value * pageConstants.coef);
+}
+
+$input.addEventListener('input', calc);
+$button.addEventListener('click', alertcalc);
+
+</script>
+
 {% if page.matType == 'Bot' %}
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
