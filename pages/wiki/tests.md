@@ -28,7 +28,7 @@ matType: "Bot"
 
 <div id="calculator-demo">
 	<input class="demo-class" type="text" placeholder="1">
-	<button class="demo-class" >calculate</button>
+	<input class="demo-class2" type="text" placeholder="4">
 	<span class="demo-class" ></span>
 </div>
 
@@ -39,18 +39,13 @@ const pageConstants = {
 }
 
 const $input = document.querySelector('#calculator-demo input.demo-class');
-const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
 		$output.innerText = $input.value * 2;
 }
-function alertcalc(){
-		alert($input.value * pageConstants.coef);
-}
 
 $input.addEventListener('input', calc);
-$button.addEventListener('click', alertcalc);
 
 </script>
 
