@@ -39,7 +39,6 @@ const pageConstants = {
 	'coef':4
 }
 
-const $botlevelmax = 25;
 const $botlevelmin = document.querySelector('#calculator-demo input.demo-class');
 const $botlevelmax = document.querySelector('#calculator-demo input.mats-max');
 const $button = document.querySelector('#calculator-demo button.demo-class');
