@@ -12,12 +12,13 @@ sitemap: false
 
 for tests:
 matName: "Rusty Cog"
+matType: "Boat"
 
 ---
 
 # TESTING
 
-
+{% if page.matType == 'Bot' %}
 {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
 
  <table class="collection-list no-inline">
@@ -108,3 +109,4 @@ matName: "Rusty Cog"
     {% endfor %}
   </tbody>
 </table>
+{% endif %}
