@@ -39,13 +39,15 @@ const pageConstants = {
 }
 
 const $input = document.querySelector('#calculator-demo input.demo-class');
+const $input2 = document.querySelector('#calculator-demo input.demo-class2');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $input.value * 2;
+		$output.innerText = $input.value * $input2.value;
 }
 
 $input.addEventListener('input', calc);
+$input2.addEventListener('input', calc);
 
 </script>
 
