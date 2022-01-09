@@ -17,7 +17,7 @@ layout: breadcrumbs
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
 <br>
-{% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
+{% assign bots_by_rarity = site.bots | sort: "botName" %}
  <table class="collection-list no-inline">
   <thead>
     <tr>
