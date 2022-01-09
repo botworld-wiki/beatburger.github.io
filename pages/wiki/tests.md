@@ -40,18 +40,19 @@ const pageConstants = {
 }
 
 const $botlevelmin = document.querySelector('#calculator-demo input.demo-class');
-const $botlevelmax = document.querySelector('#calculator-demo input.demo-class');
+const $botlevelmax = document.querySelector('#calculator-demo input.mats-max');
 const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $botlevelmin.value + $botlevelmin.value * pageConstants.coef;
+		$output.innerText = $botlevelmin.value + $botlevelmax.value;
 }
 function alertcalc(){
 		alert($botlevelmin.value * pageConstants.coef);
 }
 
 $botlevelmin.addEventListener('input', calc);
+$botlevelmax.addEventListener('input', calc);
 $button.addEventListener('click', alertcalc);
 
 </script>
