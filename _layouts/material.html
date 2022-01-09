@@ -12,16 +12,20 @@ layout: breadcrumbs
   <li><strong>Used to upgrade</strong>: {{page.matType}} </li>
 </ul>
 
+
+{% if page.matType == 'Bot' %}
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
 <br>
+
+{% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
 
  <table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
       <th>Name</th>
-      <th>Acquisition</th>
+      <th>Required till max</th>
       <th>Common 1</th>
       <th>Common 2</th>
       <th>Common 3</th>
@@ -31,7 +35,6 @@ layout: breadcrumbs
     </tr>
   </thead>
   <tbody>
-    {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     {% for bot in bots_by_rarity %}
     {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
@@ -43,6 +46,14 @@ layout: breadcrumbs
           <td>
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
+        
+        
+        
+        
+        
+        
+        
+        
             {% if bot.botAcquisition == "Random Drop" or bot.botAcquisition == "drop" %}
                 <td><a href="/loot#botframes" title="How to find random Botframes">Random Drop</a></td>
             {% elsif bot.botAcquisition contains "arena" or bot.botAcquisition contains "Arena" %}
@@ -54,6 +65,14 @@ layout: breadcrumbs
             {% else %}
                 <td>{{bot.botAcquisition}}</td>
             {% endif %}
+        
+        
+        
+        
+        
+        
+        
+        
             <td class="rarity_Common">
               <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
                 <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
@@ -89,6 +108,7 @@ layout: breadcrumbs
     {% endfor %}
   </tbody>
 </table>
+{% endif %}
 
 
 
