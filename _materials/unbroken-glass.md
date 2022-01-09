@@ -7,7 +7,7 @@ updatedAt: "2022-01-04"
 title: "Unbroken Glass"
 name: "Unbroken Glass"
 description: "Req. for Boat level 11 - Rarely found in scrap piles"
-imageUrl: "/assets/img/abilities/unbroken-glass.png"
+imageUrl: "/assets/img/materials/unbroken-glass.png"
 breadcrumbs:
   Materials: "/materials"
 
