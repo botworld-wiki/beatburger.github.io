@@ -9,13 +9,12 @@ breadcrumbs:
   "Fighting Tips": "/fighting"
 robots: "NOINDEX, NOFOLLOW"
 sitemap: false
+matName: "Rusty Cog"
 
 ---
 
 # TESTING
 
-
-matName: "Rusty Cog"
 
 
  <table class="collection-list no-inline">
@@ -23,7 +22,7 @@ matName: "Rusty Cog"
     <tr>
       <th>Bot</th>
       <th>Name</th>
-      <th>Acquisition</th>
+      <th>Required till max</th>
       <th>Common 1</th>
       <th>Common 2</th>
       <th>Common 3</th>
