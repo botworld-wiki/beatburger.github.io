@@ -35,7 +35,7 @@ sitemap: false
   <tbody>
     {% assign bots_by_rarity = site.bots | sort: "botRaritySortOrder" %}
     {% for bot in bots_by_rarity %}
-    {% if bot.botName == 'Beat'  %}
+    {% if bot.rareMat == 'Brawler Battery'  %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
           <td class="table-pic">
        <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
