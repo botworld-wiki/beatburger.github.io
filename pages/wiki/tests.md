@@ -22,8 +22,12 @@ matType: "Bot"
 ## Calculator
 
 <div id="calculator">
-	<inputmin type="text" placeholder="1">
-	<inputmax type="text" placeholder="25">
+	<input type="text" placeholder="1">
+	<button>calculate</button>
+	<span></span>
+</div>
+<div id="calculator2">
+	<input type="text" placeholder="1">
 	<button>calculate</button>
 	<span></span>
 </div>
