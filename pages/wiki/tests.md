@@ -39,18 +39,19 @@ const pageConstants = {
 	'coef':4
 }
 
-const $input = document.querySelector('#calculator-demo input.demo-class');
+const $botlevelmin = document.querySelector('#calculator-demo input.demo-class');
+const $botlevelmax = document.querySelector('#calculator-demo input.demo-class');
 const $button = document.querySelector('#calculator-demo button.demo-class');
 const $output = document.querySelector('#calculator-demo span.demo-class');
 
 function calc(){
-		$output.innerText = $input.value * pageConstants.coef;
+		$output.innerText = $botlevelmin.value + $botlevelmin.value * pageConstants.coef;
 }
 function alertcalc(){
-		alert($input.value * pageConstants.coef);
+		alert($botlevelmin.value * pageConstants.coef);
 }
 
-$input.addEventListener('input', calc);
+$botlevelmin.addEventListener('input', calc);
 $button.addEventListener('click', alertcalc);
 
 </script>
