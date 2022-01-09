@@ -54,6 +54,67 @@ $button.addEventListener('click', alertcalc);
 
 </script>
 
+
+
+
+
+
+<div id="calculator-mats">
+	<input class="mats-min" type="text" placeholder="1">
+	<input class="mats-max" type="text" placeholder="25">
+	<span class="mats-min" ></span>
+</div>
+
+<script type="text/javascript">
+
+const pageConstants = {
+	'coef':4
+}
+
+const $input = document.querySelector('#calculator-mats input.mats-min');
+const $input = document.querySelector('#calculator-mats input.mats-max');
+const $output = document.querySelector('#calculator-mats span.mats-min');
+
+function calc(){
+		$output.innerText = $input.value * pageConstants.coef;
+}
+function alertcalc(){
+		alert($input.value * pageConstants.coef);
+}
+
+$input.addEventListener('input', calc);
+$button.addEventListener('click', alertcalc);
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% if page.matType == 'Bot' %}
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
