@@ -19,17 +19,17 @@ matType: "Bot"
 # TESTING
 
 
+
+
+
+
+
 ## Calculator
 
 <div id="calculator-demo">
 	<input class="demo-class" type="text" placeholder="1">
 	<button class="demo-class" >calculate</button>
 	<span class="demo-class" ></span>
-</div>
-<div id="calculator2">
-	<input type="text" placeholder="1">
-	<button>calculate</button>
-	<span></span>
 </div>
 
 <script type="text/javascript">
@@ -57,11 +57,17 @@ $button.addEventListener('click', alertcalc);
 
 
 
+<br>
+<br>
+<br>
+
+
 
 
 <div id="calculator-mats">
 	<input class="mats-min" type="text" placeholder="1">
 	<input class="mats-max" type="text" placeholder="25">
+	<button class="demo-class" >calculate</button>
 	<span class="mats-min" ></span>
 </div>
 
