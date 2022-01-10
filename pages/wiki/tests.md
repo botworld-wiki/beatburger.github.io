@@ -33,33 +33,33 @@ matType: "Bot"
 
 ## Calculator
 
-<div id="calculator-demo">
-	<input class="demo-class" type="text" value="1">
-	<input class="demo-class2" type="text" value="25">
-	<span class="demo-class" ></span>
+<div id="scrap-calc">
+	<input class="minlvl" type="text" value="1">
+	<input class="maxlvl" type="text" value="25">
+	<span class="scrapcost" ></span>
 </div>
 
 <script type="text/javascript">
 
 
-const $input = document.querySelector('#calculator-demo input.demo-class');
-const $input2 = document.querySelector('#calculator-demo input.demo-class2');
-const $output = document.querySelector('#calculator-demo span.demo-class');
+const $inputmin = document.querySelector('#scrap-calc input.minlvl');
+const $inputmax = document.querySelector('#scrap-calc input.maxlvl');
+const $output = document.querySelector('#scrap-calc span.scrapcost');
 const arraycommon1 = [ "0","1","2","2","3","4","4","5","6","8","10","10","15","15","15","20","20","25","25","30","65","130","210","300","410" ];
 
 
+
 function calc(){
-		var levelcounter = 0;
-		for (let min = $input.value, max = $input2.value ; min < max; min++) {
-        levelcounter += (arraycommon1[min]);
+		var scrapcounter = 0;
+		for (let start = parseInt($input.value), end = parseInt($input2.value) ; start < end; start++) {
+        scrapcounter += parseInt(arraycommon1[start]);
         }
-        $output.innerText = levelcounter;
+        $output.innerText = scrapcounter;
    
 }
 
-
-$input.addEventListener('input', calc);
-$input2.addEventListener('input', calc);
+$inputmin.addEventListener('input', calc);
+$inputmax.addEventListener('input', calc);
 
 </script>
 
