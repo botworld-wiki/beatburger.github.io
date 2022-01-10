@@ -123,11 +123,12 @@ matType: "Bot"
 const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
 const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
 const $output = document.querySelector('#scrap-calc span.scrapcost');
-const $outputC1 = document.querySelectorAll('#scrap-table span.scrapcostC1');
-const $outputC23 = document.querySelector('#scrap-table span.scrapcostC23');
+const $outputC1 = document.querySelector('#scrap-table span.scrapcostC1');
+const $outputC23 = document.querySelecto('#scrap-table span.scrapcostC23');
 const $outputS = document.querySelector('#scrap-table span.scrapcostS');	
 const $outputR = document.querySelector('#scrap-table span.scrapcostR');	
-const $outputE = document.querySelector('#scrap-table span.scrapcostE');	
+const $outputE = document.querySelector('#scrap-table span.scrapcostE');
+	
 const arraycommon1 = [ 0, 2, 3, 4, 6, 8, 10, 10, 15, 15, 20, 20, 25, 30, 30, 35, 40, 45, 50, 60, 135, 260, 410, 590, 810 ];
 const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
 const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 35, 60, 75, 110, 160 ];
@@ -149,7 +150,14 @@ function calc(){
         scrapCounterE += arrayepic[i];
     }
     $output.innerText = scrapCounterC1;
-    $outputC1.innerText = scrapCounterC1;
+										 
+    var x = document.querySelectorAll('#scrap-table span.scrapcostC1';
+    var i;
+    for (i = 0; i < x.length; i++) {
+    	x[i].innerText = scrapCounterC1;
+    }									 
+										 
+   
     $outputC23.innerText = scrapCounterC23;										 
     $outputS.innerText = scrapCounterS;										 
     $outputR.innerText = scrapCounterR;										 
