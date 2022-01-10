@@ -156,12 +156,29 @@ function calc(){
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterC1;
     }									 
-										 
-   
-    $outputC23.innerText = scrapCounterC23;										 
-    $outputS.innerText = scrapCounterS;										 
-    $outputR.innerText = scrapCounterR;										 
-    $outputE.innerText = scrapCounterE;										 
+    var x = document.querySelectorAll('#scrap-table span.scrapcostC23');
+    var i;
+    for (i = 0; i < x.length; i++) {
+    	x[i].innerText = scrapCounterC23;
+    }											 
+    }									 
+    var x = document.querySelectorAll('#scrap-table span.scrapcostS');
+    var i;
+    for (i = 0; i < x.length; i++) {
+    	x[i].innerText = scrapCounterS;
+    }	
+    }									 
+    var x = document.querySelectorAll('#scrap-table span.scrapcostR');
+    var i;
+    for (i = 0; i < x.length; i++) {
+    	x[i].innerText = scrapCounterR;
+    }	
+    }									 
+    var x = document.querySelectorAll('#scrap-table span.scrapcostE');
+    var i;
+    for (i = 0; i < x.length; i++) {
+    	x[i].innerText = scrapCounterE;
+    }			     									 
 }
 
 $currentLevel.addEventListener('input', calc);
