@@ -34,8 +34,8 @@ matType: "Bot"
 ## Calculator
 
 <div id="scrap-calc">
-	<input class="calc-current" type="number" value="1">
-	<input class="calc-target" type="number" value="25">
+	<input class="calc-current" type="number" value="1" min="1" max="24">
+	<input class="calc-target" type="number" value="25" min="2" max="25">
 	<span class="scrapcost" >1335</span>
 </div>
 
@@ -46,6 +46,10 @@ const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
 const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
 const $output = document.querySelector('#scrap-calc span.scrapcost');
 const arraycommon1 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
+const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
+const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 35, 60, 75, 110, 160 ];
+const arrayrare = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 5, 8, 10 ];
+const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 3 ];
 
 
 function calc(){
