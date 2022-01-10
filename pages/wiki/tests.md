@@ -21,10 +21,9 @@ matType: "Bot"
 
 
 
+
+
 {% if page.matType == 'Bot' %}
-{% assign bots_by_rarity = site.bots | sort: "botName" %}
-
-
 
 ## Calculator
 
@@ -57,6 +56,7 @@ matType: "Bot"
     </tr>
   </thead>
   <tbody>
+    {% assign bots_by_rarity = site.bots | sort: "botName" %}
     {% for bot in bots_by_rarity %}
     {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
       <tr class="collection-list-entry rarity_{{bot.botRarity}}">
@@ -114,7 +114,6 @@ matType: "Bot"
     {% endfor %}
   </tbody>
 </table>
-{% endif %}
 
 </div>
 
@@ -161,4 +160,6 @@ $currentLevel.addEventListener('input', calc);
 $targetLevel.addEventListener('input', calc);
 
 </script>
+	
+{% endif %}
 
