@@ -34,32 +34,30 @@ matType: "Bot"
 ## Calculator
 
 <div id="scrap-calc">
-	<input class="minlvl" type="text" value="1">
-	<input class="maxlvl" type="text" value="25">
-	<span class="scrapcost" ></span>
+	<input class="calc-current" type="number" value="1">
+	<input class="calc-target" type="number" value="25">
+	<span class="scrapcost" >1335</span>
 </div>
 
 <script type="text/javascript">
 
 
-const $inputmin = document.querySelector('#scrap-calc input.minlvl');
-const $inputmax = document.querySelector('#scrap-calc input.maxlvl');
+const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
+const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
 const $output = document.querySelector('#scrap-calc span.scrapcost');
-const arraycommon1 = [ "0","1","2","2","3","4","4","5","6","8","10","10","15","15","15","20","20","25","25","30","65","130","210","300","410" ];
-
+const arraycommon1 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
 
 
 function calc(){
-		var scrapcounter = 0;
-		for (let start = parseInt($input.value), end = parseInt($input2.value) ; start < end; start++) {
-        scrapcounter += parseInt(arraycommon1[start]);
-        }
-        $output.innerText = scrapcounter;
-   
+    var scrapCounter = 0;
+    for (let i = $currentLevel.value; i < $targetLevel.value; i++) {
+        scrapCounter += arraycommon1[i];
+    }
+    $output.innerText = scrapCounter;
 }
 
-$inputmin.addEventListener('input', calc);
-$inputmax.addEventListener('input', calc);
+$currentLevel.addEventListener('input', calc);
+$targetLevel.addEventListener('input', calc);
 
 </script>
 
