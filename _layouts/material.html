@@ -170,8 +170,8 @@ $currentLevel.addEventListener('input', calc);
 $targetLevel.addEventListener('input', calc);
 
 /* dirty overlay poc */
-const pageMatCells = document.querySelectorAll('a[href="/'+{{bot.commonMat1 | slugify}}+'"]');
-//const pageMatCells = document.querySelectorAll('a[href="/'+'splasher-explosives'+'"]');
+const pageMatCells = document.querySelectorAll('a[href="/{{page.matName | slugify}}"]');
+//const pageMatCells = document.querySelectorAll('a[href="/splasher-explosives"]');
 
 for (var i = 0; i < pageMatCells.length; i++) {
     pageMatCells[i].classList.add('calc-result-container');
