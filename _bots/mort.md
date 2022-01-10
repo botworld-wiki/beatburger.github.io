@@ -85,7 +85,7 @@ commonMat3: "Clear Oil"
 Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
 
 ### 'Consistent Dmg' by BloodxReaper
-- **ABCAB:** Focused on basic attack. 
+- **ABCAB:** Focused on basic attack. Mort has the highest atk spd amongst all the splashers at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have ult cdr abilities or are using them on recruits.
 
 ## Comments
 
