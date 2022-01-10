@@ -15,35 +15,25 @@ layout: breadcrumbs
 
 {% if page.matType == 'Bot' %}
 
-<br>
-<h2 id="{{page.path}}"calculator>Material Calculator</h2>
-<br>
-
-<div id="scrap-calc">
-	You can calculate how much Scrap you'll need for a certain level.
-	<br>
-	Current Bot Level:
-	<input class="calc-current" type="number" value="1" min="1" max="24">
-	Wanted Bot Level:
-	<input class="calc-target" type="number" value="25" min="2" max="25">
-	<br>
-	Check the Table below to see how much it'll cost you.
-</div>
-
 
 
 <div id="scrap-table">
 
 <br>
-<h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h2>
+<h2 id="table">Table of bots that require {{page.matName}} to upgrade.</h2>
 <br>
+
+<h3>Upgrades Scrap Calculator</h3>
+
+  Show the total to upgrade from level <input class="calc-current" type="number" value="10" min="1" max="24"> to <input class="calc-target" type="number" value="20" min="2" max="25">
+  <br>
 
  <table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Bot</th>
       <th>Name</th>
-      <th>Cost</th>
+      <th>Level <bold class="display-current"></bold>><bold class="display-target"></bold></th>
       <th>Common 1</th>
       <th>Common 2</th>
       <th>Common 3</th>
@@ -171,10 +161,13 @@ function calc(){
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterE;
     }			     									 
+    document.querySelector('table .display-current').innerText = $currentLevel.value;
+    document.querySelector('table .display-target').innerText = $targetLevel.value;
 }
 
 $currentLevel.addEventListener('input', calc);
 $targetLevel.addEventListener('input', calc);
+calc();
 
 </script>
 	
