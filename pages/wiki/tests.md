@@ -29,13 +29,12 @@ matType: "Bot"
 
 <div id="scrap-calc">
 	You can calculate how much Scrap you'll need for a certain level.
+	<br>
 	Current Bot Level:
 	<input class="calc-current" type="number" value="1" min="1" max="24">
 	Wanted Bot Level:
 	<input class="calc-target" type="number" value="25" min="2" max="25">
 	<br>
-	It'll take you 
-	<span class="scrapcost" >1335</span> of this Scrap.
 	Check the Table below to see how much it'll cost you.
 </div>
 
@@ -154,9 +153,7 @@ function calc(){
         scrapCounterS += arrayspecial[i];
         scrapCounterR += arrayrare[i];
         scrapCounterE += arrayepic[i];
-    }
-    $output.innerText = scrapCounterC1;
-										 
+    }								 
     var x = document.querySelectorAll('#scrap-table span.scrapcostC1');
     var i;
     for (i = 0; i < x.length; i++) {
