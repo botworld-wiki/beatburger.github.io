@@ -36,7 +36,7 @@ matType: "Bot"
 <div id="scrap-calc">
 	<input class="calc-current" type="number" value="1" min="1" max="24">
 	<input class="calc-target" type="number" value="25" min="2" max="25">
-	<span class="scrapcost" >1335</span>
+	<span class="scrapcostC1" >1335</span>
 </div>
 
 <script type="text/javascript">
@@ -44,7 +44,11 @@ matType: "Bot"
 
 const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
 const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
-const $output = document.querySelector('#scrap-calc span.scrapcost');
+const $outputC1 = document.querySelector('#scrap-table span.scrapcostC1');
+const $outputC23 = document.querySelector('#scrap-table span.scrapcostC23');
+const $outputS = document.querySelector('#scrap-table span.scrapcostS');	
+const $outputR = document.querySelector('#scrap-table span.scrapcostR');	
+const $outputE = document.querySelector('#scrap-table span.scrapcostE');	
 const arraycommon1 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
 const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
 const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 35, 60, 75, 110, 160 ];
@@ -53,11 +57,23 @@ const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 
 
 function calc(){
-    var scrapCounter = 0;
-    for (let i = $currentLevel.value; i < $targetLevel.value; i++) {
-        scrapCounter += arraycommon1[i];
+    var scrapCounterC1 = 0;
+    var scrapCounterC23 = 0;
+    var scrapCounterS = 0;
+    var scrapCounterR = 0;
+    var scrapCounterE = 0;
+    for (let i = parseInt($currentLevel.value); i < parseInt($targetLevel.value); i++) {
+        scrapCounterC1 += arraycommon1[i];
+        scrapCounterC23 += arraycommon2[i];
+        scrapCounterS += arrayspecial[i];
+        scrapCounterR += arrayrare[i];
+        scrapCounterE += arrayepic[i];
     }
-    $output.innerText = scrapCounter;
+    $outputC1.innerText = scrapCounterC1;
+    $outputC23.innerText = scrapCounterC23;										 
+    $outputS.innerText = scrapCounterS;										 
+    $outputR.innerText = scrapCounterR;										 
+    $outputE.innerText = scrapCounterE;										 
 }
 
 $currentLevel.addEventListener('input', calc);
@@ -85,10 +101,10 @@ $targetLevel.addEventListener('input', calc);
 
 
 
-
+<div id="scrap-table">
 
 <br>
-<h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
+<h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h2>
 <br>
 
  <table class="collection-list no-inline">
@@ -118,13 +134,13 @@ $targetLevel.addEventListener('input', calc);
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
             {% if page.matName == bot.commonMat1 %}
-                <td>2648</td>
+                <td><span class="scrapcostC1" >common1</span></td>
             {% elsif page.matName == bot.commonMat2 or page.matName == bot.commonMat3 %}
-                <td>1345</td>
+                <td><span class="scrapcostC23" >common23</span></td>
             {% elsif page.matName == bot.specialMat %}
-                <td>519</td>
+                <td><span class="scrapcostS" >special</span></td>
             {% elsif page.matName == bot.rareMat %}
-                <td>38</td>
+                <td><span class="scrapcostR" >rare</span></td>
             {% else %}
                 <td>8</td>   
             {% endif %}        
@@ -164,3 +180,5 @@ $targetLevel.addEventListener('input', calc);
   </tbody>
 </table>
 {% endif %}
+
+</div>
