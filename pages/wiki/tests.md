@@ -21,6 +21,13 @@ matType: "Bot"
 
 
 
+{% if page.matType == 'Bot' %}
+{% assign bots_by_rarity = site.bots | sort: "botName" %}
+
+
+
+
+
 
 
 
@@ -34,9 +41,6 @@ matType: "Bot"
 
 <script type="text/javascript">
 
-const pageConstants = {
-	'coef':4
-}
 
 const $input = document.querySelector('#calculator-demo input.demo-class');
 const $input2 = document.querySelector('#calculator-demo input.demo-class2');
@@ -74,11 +78,10 @@ $input2.addEventListener('input', calc);
 
 
 
-{% if page.matType == 'Bot' %}
 <br>
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h1>
 <br>
-{% assign bots_by_rarity = site.bots | sort: "botName" %}
+
  <table class="collection-list no-inline">
   <thead>
     <tr>
