@@ -44,15 +44,15 @@ matType: "Bot"
  <table class="collection-list no-inline">
   <thead>
     <tr>
-      <th>Bot</th>
-      <th>Name</th>
-      <th>N° to max</th>
-      <th>Common 1</th>
-      <th>Common 2</th>
-      <th>Common 3</th>
-      <th>Special</th>
-      <th>Rare</th>
-      <th>Essence</th>
+      <th><button onclick="myFunction()">Bot</button></th>
+      <th><button onclick="myFunction()">Name</button></th>
+      <th><button onclick="myFunction()">N° to max</button></th>
+      <th><button onclick="myFunction()">Common 1</button></th>
+      <th><button onclick="myFunction()">Common 2</button></th>
+      <th><button onclick="myFunction()">Common 3</button></th>
+      <th><button onclick="myFunction()">Special</button></th>
+      <th><button onclick="myFunction()">Rare</button></th>
+      <th><button onclick="myFunction()">Essence</button></th>
     </tr>
   </thead>
   <tbody>
