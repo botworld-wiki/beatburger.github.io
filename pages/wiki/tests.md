@@ -160,19 +160,16 @@ function calc(){
     var i;
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterC23;
-    }											 
-    }									 
+    }											 									 
     var x = document.querySelectorAll('#scrap-table span.scrapcostS');
     var i;
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterS;
-    }	
-    }									 
+    }										 
     var x = document.querySelectorAll('#scrap-table span.scrapcostR');
     var i;
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterR;
-    }	
     }									 
     var x = document.querySelectorAll('#scrap-table span.scrapcostE');
     var i;
