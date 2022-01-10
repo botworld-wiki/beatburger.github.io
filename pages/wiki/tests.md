@@ -28,9 +28,15 @@ matType: "Bot"
 ## Calculator
 
 <div id="scrap-calc">
+	You can calculate how much Scrap you'll need for a certain level.
+	Current Bot Level:
 	<input class="calc-current" type="number" value="1" min="1" max="24">
+	Wanted Bot Level:
 	<input class="calc-target" type="number" value="25" min="2" max="25">
-	<span class="scrapcost" >1335</span>
+	<br>
+	It'll take you 
+	<span class="scrapcost" >1335</span> of this Scrap.
+	Check the Table below to see how much it'll cost you.
 </div>
 
 
@@ -44,15 +50,15 @@ matType: "Bot"
  <table class="collection-list no-inline">
   <thead>
     <tr>
-      <th><button onclick="myFunction()">Bot</button></th>
-      <th><button onclick="myFunction()">Name</button></th>
-      <th><button onclick="myFunction()">N° to max</button></th>
-      <th><button onclick="myFunction()">Common 1</button></th>
-      <th><button onclick="myFunction()">Common 2</button></th>
-      <th><button onclick="myFunction()">Common 3</button></th>
-      <th><button onclick="myFunction()">Special</button></th>
-      <th><button onclick="myFunction()">Rare</button></th>
-      <th><button onclick="myFunction()">Essence</button></th>
+      <th>Bot</th>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Common 1</th>
+      <th>Common 2</th>
+      <th>Common 3</th>
+      <th>Special</th>
+      <th>Rare</th>
+      <th>Essence</th>
     </tr>
   </thead>
   <tbody>
@@ -69,13 +75,13 @@ matType: "Bot"
             <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
           </td>
             {% if page.matName == bot.commonMat1 %}
-                <td><span class="scrapcostC1" >common1</span></td>
+                <td><span class="scrapcostC1" >2633</span></td>
             {% elsif page.matName == bot.commonMat2 or page.matName == bot.commonMat3 %}
-                <td><span class="scrapcostC23" >common23</span></td>
+                <td><span class="scrapcostC23" >1335</span></td>
             {% elsif page.matName == bot.specialMat %}
-                <td><span class="scrapcostS" >special</span></td>
+                <td><span class="scrapcostS" >519</span></td>
             {% elsif page.matName == bot.rareMat %}
-                <td><span class="scrapcostR" >rare</span></td>
+                <td><span class="scrapcostR" >38</span></td>
             {% else %}
                 <td>8</td>   
             {% endif %}        
