@@ -168,9 +168,30 @@ function calc(){
 
 $currentLevel.addEventListener('input', calc);
 $targetLevel.addEventListener('input', calc);
-calc();
 
+/* dirty overlay poc */
+const pageMatCells = document.querySelectorAll('a[href="/'+{{bot.commonMat1 | slugify}}+'"]');
+//const pageMatCells = document.querySelectorAll('a[href="/'+'splasher-explosives'+'"]');
+
+for (var i = 0; i < pageMatCells.length; i++) {
+    pageMatCells[i].classList.add('calc-result-container');
+    var newSpan = document.createElement('span');
+    newSpan.classList.add( pageMatCells[i].parentElement.parentElement.querySelector('span').classList[0] );
+    pageMatCells[i].append(newSpan);
+}   
+calc();
 </script>
+	
+<style type="text/css">
+ .calc-result-container{
+    position: relative;
+ }
+ .calc-result-container span{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+ }
+</style>
 	
 {% endif %}
 
