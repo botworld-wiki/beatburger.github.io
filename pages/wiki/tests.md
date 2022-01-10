@@ -123,7 +123,7 @@ matType: "Bot"
 const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
 const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
 const $output = document.querySelector('#scrap-calc span.scrapcost');
-const $outputC1 = document.querySelector('#scrap-table span.scrapcostC1');
+const $outputC1 = document.querySelectorAll('#scrap-table span.scrapcostC1');
 const $outputC23 = document.querySelector('#scrap-table span.scrapcostC23');
 const $outputS = document.querySelector('#scrap-table span.scrapcostS');	
 const $outputR = document.querySelector('#scrap-table span.scrapcostR');	
