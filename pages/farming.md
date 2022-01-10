@@ -262,6 +262,21 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
     <a href="https://cdn.discordapp.com/attachments/824807657550381088/882263205148242010/V_20210831_1555326.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
+### Dragon's Ridge
+
+![half-right Dragon's Ridge farming route](https://cdn.discordapp.com/attachments/930118522997203037/930120144091504670/unknown.png)
+
+- High Places, Bandits, ..?
+- Drops: [Tank Platings](/tank-plating), ..?
+- Credit: cmoi
+
+*83 gold/can, 30 gold/min, 2min45/run*
+
+<video controls style="max-width:100%; width:400px">
+    <source src="https://cdn.discordapp.com/attachments/923510071026155550/930133192718049400/Dragons_Ridge_example_run.mp4">
+    <a href="https://cdn.discordapp.com/attachments/923510071026155550/930133192718049400/Dragons_Ridge_example_run.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>
+
 ### Cobblestone Trail + River Run + Southbank
 
 - Trees, Water, Bandits, Wild bots
