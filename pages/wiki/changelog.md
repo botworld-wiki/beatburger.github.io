@@ -12,6 +12,14 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-10
+- Scrap Upgrade Calculators on [bot pages](/beat) and [mat pages](/clear-oil)
+- new Farming route by cmoi: [Dragon's Ridge](/farming#dragons-ridge)
+
+## 2022-01-08
+- extended Search to offer links to dedicated section for custom keywords (eg: Jack)
+
+
 ## 2022-01-07
 - Arena and Arena Masters page have been merged
 
