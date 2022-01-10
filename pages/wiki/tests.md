@@ -48,16 +48,15 @@ const $output = document.querySelector('#calculator-demo span.demo-class');
 const arraycommon1 = [ "0","1","2","2","3","4","4","5","6","8","10","10","15","15","15","20","20","25","25","30","65","130","210","300","410" ];
 
 
-var levelcounter = 0;
-
 function calc(){
+		var levelcounter = 0;
 		for (let min = $input.value, max = $input2.value ; min < max; min++) {
-        levelcounter = levelcounter + arraycommon1[min];
+        levelcounter += (arraycommon1[min]);
         }
         $output.innerText = levelcounter;
-        levelcounter = 0;
    
 }
+
 
 $input.addEventListener('input', calc);
 $input2.addEventListener('input', calc);
