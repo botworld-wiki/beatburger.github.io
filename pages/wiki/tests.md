@@ -151,7 +151,7 @@ function calc(){
     }
     $output.innerText = scrapCounterC1;
 										 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostC1';
+    var x = document.querySelectorAll('#scrap-table span.scrapcostC1');
     var i;
     for (i = 0; i < x.length; i++) {
     	x[i].innerText = scrapCounterC1;
