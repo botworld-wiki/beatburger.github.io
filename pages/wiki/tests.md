@@ -46,7 +46,7 @@ matType: "Bot"
 <h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h2>
 <br>
 
- <table class="collection-list no-inline">
+ <table class="collection-list no-inline" id="scrap-sorttable">
   <thead>
     <tr>
       <th onclick="sortTable(0)">Bot</th>
@@ -190,7 +190,7 @@ $targetLevel.addEventListener('input', calc);
 
 function sortTable(n) {
     var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-    table = document.getElementById("scrap-table");
+    table = document.getElementById("scrap-sorttable");
     switching = true;
     dir = "asc";
 
