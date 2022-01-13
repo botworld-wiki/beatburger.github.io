@@ -11,11 +11,12 @@ Scales,/arena#scales
 
 
 Codex,/codex
-Scrapper Coast,/codex#scrapper-coast
-Great Desert,/codex#great-desert
-Fall Grove,/codex#fall-grove
-Saltwater Swamp,/codex#saltwater-swamp
-Parched Sea,/codex#parched-sea
+Scrapper Coast Codex,/codex#scrapper-coast
+Great Desert Codex,/codex#great-desert
+Fall Grove Codex,/codex#fall-grove
+Saltwater Swamp Codex,/codex#saltwater-swamp
+Parched Sea Codex,/codex#parched-sea
+Rare Jackalope,/codex#scrapper-coast
 
 
 Danger Zones,/danger-zones
@@ -31,3 +32,21 @@ Mad Scientist,/danger-zones#mad-scientist
 Mechanic,/danger-zones#mechanic
 Merchant,/danger-zones#merchant
 Trix,/danger-zones#trix
+
+
+Maps,/maps
+Scrapper Coast Maps,/maps#scrapper-coast
+Great Desert Maps,/maps#great-desert
+Fall Grove Maps,/maps#fall-grove
+Saltwater Swamp Maps,/maps#saltwater-swamp
+Parched Sea Maps,/maps#parched-sea
+Spore Woods Maps,/maps#spore-woods
+Ashen Shore Maps,/maps#ashen-shore
+
+
+Recruits,/recruits
+
+
+Comps & Combos,/comps
+Combos,/comps
+Comps,/comps
