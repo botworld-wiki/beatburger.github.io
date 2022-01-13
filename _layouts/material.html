@@ -9,7 +9,19 @@ layout: breadcrumbs
 <ul>
   <li><strong>Description</strong>: <code> {{page.matDescription}} </code></li>
   <li><strong>Overview</strong>: {{page.matOverview}} </li>
+{% if page.matType == 'Bot' %}
+  {% if page.matRarity == "Common" %}
+	<li><a href="/shop#scrap" title="Price to buy this Scrap Materials from the Shop">Shop Price:</a> 5 gold/piece </li>
+  {% elsif page.matRarity == "Special" %}
+	<li><a href="/shop#scrap" title="Price to buy this Scrap Materials from the Shop">Shop Price:</a> 50 gold/piece </li>
+  {% elsif page.matRarity == "Rare" %}
+	<li><a href="/shop#scrap" title="Price to buy this Scrap Materials from the Shop">Shop Price:</a> 500 gold/piece </li>
+  {% elsif page.matRarity == "Epic" %}
+	<li><a href="/shop#scrap" title="Price to buy this Scrap Materials from the Shop">Shop Price:</a> 5000 gold/piece </li>
+  {% endif %} 
+{% endif %} 
   <li><strong>Used to upgrade</strong>: {{page.matType}} </li>
+	
 </ul>
 
 
