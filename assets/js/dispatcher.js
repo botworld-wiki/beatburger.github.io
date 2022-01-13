@@ -91,8 +91,8 @@ async function fetchInlines(){
         }
     }
 }
-
-$(document).ready(fetchInlines);
+editorModeOn()? 0: $(document).ready(fetchInlines);
+//$(document).ready(fetchInlines);
 
 // GA
 /* hardened privacy settings
