@@ -1,0 +1,23 @@
+---
+layout: breadcrumbs
+---
+
+<h1 id="{{page.path}}">{{page.matName}}</h1>
+
+<p><img loading="lazy"   src="{{page.matImageUrl}}" alt="Image of the {{page.matName}} material" /></p>
+
+<ul>
+  <li><strong>Boat Upgrade mat</strong></li>
+  <li><strong>Description</strong>: <code> {{page.matDescription}} </code></li>
+  <li><strong>Overview</strong>: {{page.matOverview}} </li>
+</ul>
+
+
+
+
+{{content}}
+
+	<div id="contribs" style="flex: 1 0 100%; margin:20px auto">
+		<span>Last updated at: {{page.updatedAt}}</span>
+		<p>Contributors: {{page.contributors}}, cloud9</p>
+	</div>
