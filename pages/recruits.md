@@ -23,7 +23,7 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#acquisition">Acquisition</a></li>
-  <li class="toc-block-entry" ><a href="#managment">Managment</a></li>
+  <li class="toc-block-entry" ><a href="#management">Management</a></li>
   <li class="toc-block-entry" ><a href="#mechanics">Mechanics</a></li>
   <li class="toc-block-entry" ><a href="#squad-cup">Squad Cup</a></li>
   <li class="toc-block-entry" ><a href="#jobs">Jobs</a></li>
@@ -46,9 +46,9 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-managment">
+<div markdown="1" class=" ghcms ghcms-management">
 
-## Managment
+## Management
 
 Unlocked at Boat lvl 7, you can change their bots, abilities and boosters.
 
