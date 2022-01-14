@@ -20,7 +20,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 1
 
-![half-left Boat upgraded to lvl 1](/assets/img/boat/boat-1.png)
+![half-right Boat upgraded to lvl 1](/assets/img/boat/boat-1.png)
 
 ### Unlocks
 - **Business**: Earn income and get [Business Upgrades](/business)
@@ -70,7 +70,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 2
 
-![half-left Boat upgraded to lvl 2](/assets/img/boat/boat-2.png)
+![half-right Boat upgraded to lvl 2](/assets/img/boat/boat-2.png)
 
 ### Unlocks
 - **The Arena:** Take on [Arena Masters](/arena) for fame and fortune
@@ -121,7 +121,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 3
 
-![half-left Boat upgraded to lvl 3](/assets/img/boat/boat-3.png)
+![half-right Boat upgraded to lvl 3](/assets/img/boat/boat-3.png)
 
 ### Unlocks
 - **Multiplayer Arena:** Multiplayer battles unlocked in the [Arena](/arena) *Needs a linked Google Play account*
@@ -168,7 +168,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 4
 
-![half-left Boat upgraded to lvl 4](/assets/img/boat/boat-4.png)
+![half-right Boat upgraded to lvl 4](/assets/img/boat/boat-4.png)
 
 ### Unlocks
 - **Recruits:** Add [Recruits](/recruits) to your squad
@@ -215,7 +215,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 5
 
-![half-left Boat upgraded to lvl 5](/assets/img/boat/boat-5.png)
+![half-right Boat upgraded to lvl 5](/assets/img/boat/boat-5.png)
 
 ### Unlocks
 - **Danger Zones:** Unlocks daily [Danger Zones runs](/danger-zones)
@@ -262,7 +262,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 6
 
-![half-left Boat upgraded to lvl 6](/assets/img/boat/boat-6.png)
+![half-right Boat upgraded to lvl 6](/assets/img/boat/boat-6.png)
 
 ### Unlocks
 - **Gadget Lab lvl2:** New [Gadgets](/botpack#gadgets) available to be researched
@@ -308,10 +308,10 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 7
 
-![half-left Boat upgraded to lvl 7](/assets/img/boat/boat-7.png)
+![half-right Boat upgraded to lvl 7](/assets/img/boat/boat-7.png)
 
 ### Unlocks
-- **Arena Squad Battles:** Squad battles unlocked in the Arena
+- **Arena Squad Battles:** Squad battles unlocked in the [Arena](/arena)
 - **Recruits lvl 2:** [Recruit loadouts can be edited](/recruits#managment). Add an extra [Recruit](/recruits) to your squad
 - **Fall Grove:** Travel to the [Fall Grove](/maps#fall-grove)
 
@@ -358,7 +358,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 8
 
-![half-left Boat upgraded to lvl 8](/assets/img/boat/boat-8.png)
+![half-right Boat upgraded to lvl 8](/assets/img/boat/boat-8.png)
 
 ### Unlocks
 - **Danger Zone 2:** Unlocks a new [Danger Zone](/danger-zones) to explore: [Molten Rock](/danger-zones#molten-rock)
@@ -409,7 +409,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 9
 
-![half-left Boat upgraded to lvl 9](/assets/img/boat/boat-9.png)
+![half-right Boat upgraded to lvl 9](/assets/img/boat/boat-9.png)
 
 ### Unlocks
 - **Bot Builder lvl 4:** [Bots](/bots) can be [upgraded](/materials) to lvl 20
@@ -461,7 +461,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 10
 
-![half-left Boat upgraded to lvl 10](/assets/img/boat/boat-10.png)
+![half-right Boat upgraded to lvl 10](/assets/img/boat/boat-10.png)
 
 ### Unlocks
 - **Danger Zone 3:** Unlocks a new [Danger Zone](/danger-zones) to explore: [Vivid Valley](/danger-zones#vivid-valley)
@@ -511,7 +511,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 11
 
-![half-left Boat upgraded to lvl 11](/assets/img/boat/boat-11.png)
+![half-right Boat upgraded to lvl 11](/assets/img/boat/boat-11.png)
 
 ### Unlocks
 - **Recruits lvl 3:** Adds an extra [Recruit](/recruits) to your squad
@@ -561,7 +561,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 12
 
-![half-left Boat upgraded to lvl 12](/assets/img/boat/boat-12.png)
+![half-right Boat upgraded to lvl 12](/assets/img/boat/boat-12.png)
 
 ### Unlocks
 - **Danger Zone 4:** Unlocks a new [Danger Zone](/danger-zones) to explore: [Scrapyard](/danger-zones#scrapyard)
@@ -612,7 +612,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 13
 
-![half-left Boat upgraded to lvl 13](/assets/img/boat/boat-13.png)
+![half-right Boat upgraded to lvl 13](/assets/img/boat/boat-13.png)
 
 ### Unlocks
 - **Gadget Lab lvl 7:** New [Gadgets](/botpack#gadgets) available to be researched
@@ -662,7 +662,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 14
 
-![half-left Boat upgraded to lvl 14](/assets/img/boat/boat-14.png)
+![half-right Boat upgraded to lvl 14](/assets/img/boat/boat-14.png)
 
 ### Unlocks
 - **Gadget Lab lvl 8:** New [Gadgets](/botpack#gadgets) available to be researched
@@ -712,7 +712,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 15
 
-![half-left Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
+![half-right Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
 
 ### Unlocks
 - **Exterminator Squads:** New tier of [bosses added to Danger Zones](/danger-zones#exterminator-squads)
