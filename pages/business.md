@@ -15,16 +15,7 @@ breadcrumbs:
 
 Business Upgrades will offer you lucrative or convenient perks that will all make your life easier.
 
-**Missing something to upgrade your Boat?**: [Story & Boat Materials](/boat-materials)
-
-## Boat Upgrae Rewards by Level 
-
-- **Every level:** 3 Power units to upgrade your business. You'll have enough by Boat lvl15 to max everything out.
-- **Level 4:** 1st [Recruit](/recruit)
-- **Level 7:** 2nd [Recruit](/recruit)
-- **Level 11:** 3rd [Recruit](/recruit)
-- **Level 15:** Max.
-
+**Missing something to upgrade your Boat?**: [Boat Upgrades Walktrhough](/boat)
 
 </div>
 
