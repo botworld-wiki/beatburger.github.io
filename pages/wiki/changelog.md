@@ -12,6 +12,9 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-01-14
+- [Boat Upgrade](/boat) complete overhaul
+
 ## 2022-01-10
 - Scrap Upgrade Calculators on [bot pages](/beat) and [mat pages](/clear-oil)
 - new Farming route by cmoi: [Dragon's Ridge](/farming#dragons-ridge)
