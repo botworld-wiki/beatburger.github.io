@@ -55,7 +55,6 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - **Requirements:** Defeat [Arena Master Kelvin](/arena#kelvin), build 14 [Bots](/bots), [upgrade](/materials) 110 bots levels.
 
 ### Materials
-
 <table class="collection-list no-inline">
   <thead>
     <tr>
@@ -73,7 +72,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
           <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
-            <img loading="lazy"   src="/assets/img/materials/{{ material.matName | slugify }}.png" alt="Image of the material {{ material.matName }}"> 
+            <img loading="lazy"   src="{{ material.matImageUrl" alt="Image of the material {{ material.matName }}"> 
           </a>
         </td>
         <td class="overview">{{material.matReqBoatLvl7}}</td>
@@ -86,4 +85,5 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
     {% endfor %}
   </tbody>
 </table>
+
 
