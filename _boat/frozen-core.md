@@ -1,26 +1,26 @@
 ---
 layout: material
 contributors: "Pix"
-updatedAt: "2022-01-16"
+updatedAt: "2022-01-15"
 
 
-title: "Scrap Metal (Boat lvl 7)"
-name: "Scrap Metal"
-description: "Often found scattered around ruins of the Ancient World - Farmable"
-imageUrl: "/assets/img/boat-materials/scrap-metal.png"
-matImageUrl: "/assets/img/boat-materials/scrap-metal.png"
+title: "Frozen Core (Boat lvl 7)"
+name: "Frozen Core"
+description: "Only found in scrap piles in the Frozen Wastes Danger Zone - Can be acquired through Recruit Jobs"
+imageUrl: "/assets/img/boat-materials/frozen-core.png"
+matImageUrl: "/assets/img/boat-materials/frozen-core.png"
 breadcrumbs:
   Boat: "/boat"
 
 
-matName: "Scrap Metal"
+matName: "Frozen Core"
 matReqBoatLvl1: ""
 matReqBoatLvl2: ""
 matReqBoatLvl3: ""
 matReqBoatLvl4: ""
 matReqBoatLvl5: ""
 matReqBoatLvl6: ""
-matReqBoatLvl7: "5"
+matReqBoatLvl7: "4"
 matReqBoatLvl8: ""
 matReqBoatLvl9: ""
 matReqBoatLvl10: ""
@@ -29,10 +29,10 @@ matReqBoatLvl12: ""
 matReqBoatLvl13: ""
 matReqBoatLvl14: ""
 matReqBoatLvl15: ""
-matRarity: "Common"
-matRaritySortOrder: "1"
-matDescription: "Often found scattered around <a href='/loot#ancient-world'>ruins of the Ancient World</a>"
-matOverview: "<a href='/farming'>Farmable</a>"
+matRarity: "Special"
+matRaritySortOrder: "2"
+matDescription: "Only found in <a href='/loot#scrap-piles'>Scrap Piles</a> in the <a href='/danger-zones#frozen-wastes'>Frozen Wastes Danger Zone</a>"
+matOverview: "Can be acquired through <a href='/jobs'>Recruit Jobs</a>"
 ---
 
 
