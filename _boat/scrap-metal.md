@@ -10,7 +10,7 @@ description: "Often found scattered around ruins of the Ancient World - Farmable
 imageUrl: "/assets/img/boat-materials/scrap-metal.png"
 matImageUrl: "/assets/img/boat-materials/scrap-metal.png"
 breadcrumbs:
-Boat: "/boat"
+  Boat: "/boat"
 
 
 matName: "Scrap Metal"
