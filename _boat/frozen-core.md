@@ -1,5 +1,5 @@
 ---
-layout: material
+layout: boat-material
 contributors: "Pix"
 updatedAt: "2022-01-15"
 
