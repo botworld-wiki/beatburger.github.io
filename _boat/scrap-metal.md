@@ -31,7 +31,7 @@ matReqBoatLvl14: ""
 matReqBoatLvl15: ""
 matRarity: "Common"
 matRaritySortOrder: "1"
-matDescription: "Often found scattered around <a href='/loot#ancient-world>ruins of the Ancient World</a>"
+matDescription: "Often found scattered around <a href='/loot#ancient-world'>ruins of the Ancient World</a>"
 matOverview: "<a href='/farming'>Farmable</a>"
 ---
 
