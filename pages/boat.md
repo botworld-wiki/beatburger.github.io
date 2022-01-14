@@ -111,12 +111,10 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class=" ghcms ghcms-lvl2">
 
-</div>
-- [Drift Wood](/drift-wood): Found washed up on beaches
-- [Barrel](/barrel): Found scattered all around the Scrapper Coast
-- [Old Mast](/old-mast) One was spotted in somewhere in Southbank
-
 ![boat lvl2 map](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
+
+</div>
+
 
 
 ## Level 3
