@@ -1,10 +1,10 @@
 ---
 layout: boat-material
-contributors: "Pix"
-updatedAt: "2022-01-15"
+contributors: "Chael, Pix"
+updatedAt: "2022-01-14"
 
 
-title: "Frozen Core (Boat lvl 7)"
+title: "Frozen Core (Boat lvl 6 & 7)"
 name: "Frozen Core"
 description: "Only found in scrap piles in the Frozen Wastes Danger Zone - Can be acquired through Recruit Jobs"
 imageUrl: "/assets/img/boat-materials/frozen-core.png"
@@ -19,7 +19,7 @@ matReqBoatLvl2: ""
 matReqBoatLvl3: ""
 matReqBoatLvl4: ""
 matReqBoatLvl5: ""
-matReqBoatLvl6: ""
+matReqBoatLvl6: "3"
 matReqBoatLvl7: "4"
 matReqBoatLvl8: ""
 matReqBoatLvl9: ""
