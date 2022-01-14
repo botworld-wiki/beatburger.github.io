@@ -20,7 +20,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 1
 
-[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
+![half-left](https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png)
 
 - **Unlocks:** 
 - **Requirements:** Defeat [Arena Master Brad](/arena#brad), ...
@@ -33,7 +33,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 2
 
-[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
+![half-left](https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png)
 
 - **Unlocks:** 
 - **Requirements:** Defeat [Arena Master Brad](/arena#brad), ...
@@ -49,7 +49,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 7
 
-[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
+![half-left](https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png)
 
 - **Unlocks:** [Squad Cup](/arena), 2nd [Recruit](/recruits) & [Recruits Management](/recruits#managment)
 - **Requirements:** Defeat [Arena Master Kelvin](/arena#kelvin), build 14 [Bots](/bots), [upgrade](/materials) 110 bots levels.
