@@ -2,43 +2,62 @@
 
 layout: breadcrumbs
 permalink: /boat
-title: Boat & Business Upgrades
-description: "All the perks you'll get for upgrading your Boat, including the Business Upgrades, and what you will need to do so - Everything there is to know about it on the Botworld Community Wiki!"
+title: Boat Upgrades
+description: "Locations of everything you need to upgrade your Boat, unlocks & requirements"
 breadcrumbs:
   Botworld: "/#botworld"
-  Scavenger Landing: "/town"
   
 ---
 
 
-# Boat & Business Upgrades
+# Boat Upgrades
+
+
+Upgrading your Boat will be required to advance the main story, unlock new [Maps](/maps) and many cool perks
+
+- **Business Upgrade:** [Business Upgrades page](/business)
+
+
+## Level 1
+
+[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
+
+- **Unlocks:** 
+- **Requirements:** Defeat [Arena Master Brad](/arena#brad), ...
+
+### Materials
+
+- [Drift Wood](/drift-wood): Found washed up on beaches
 
 
 
-<div markdown="1" class=" ghcms ghcms-intro">
+## Level 2
 
-Upgrading your Boat is cool for lotsa reasons.
+[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
 
-## Boat materials locations
+- **Unlocks:** 
+- **Requirements:** Defeat [Arena Master Brad](/arena#brad), ...
 
-Just creating this section real quick, gonna figure out where it goes best later on
+### Materials
 
-### Blue Tarp
+- [Drift Wood](/drift-wood): Found washed up on beaches
+- [Barrel](/barrel): Found scattered all around the Scrapper Coast
+- [Old Mast](/old-mast) One was spotted in somewhere in Southbank
 
-![blue tarp map](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
+[boat lvl2 map](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
 
-</div>
 
-## Boat Improvement Unlocks
+## Level 7
 
-- lvl 1: Requirements - Benefits
-- lvl 2: Requirements - Benefits
-- lvl 3: Requirements - Benefits
-- ...
+[half-left https://cdn.discordapp.com/attachments/923510071026155550/931487194122702858/boat-lvl.png]
 
-Requirements: check out the [Boat Materials](/boat-materials) page, and learn about [Ancient Ruins](/loot#ancient-ruins) also
+- **Unlocks:** [Squad Cup](/arena), 2nd [Recruit](/recruits) & [Recruits Management](/recruits#managment)
+- **Requirements:** Defeat [Arena Master Kelvin](/arena#kelvin), build 14 [Bots](/bots), [upgrade](/materials) 110 bots levels.
 
-## Business Upgrades
+### Materials
 
-- list: ?
-- tips: check out the [Getting Started](/getting-started) guide
+- **[Motor](/motor):** One was spotted near the Howling Cliffs, Great Desert
+- **[Nails](/nails):** Occasionally found when defeating wild bots
+- **[Frozen Core](/frozen-core):** Only found in scrap piles in the Frozen Wastes Danger Zone
+- **[Scrap Metal](/scrap-metal):** Often found scattered around [ruins of the Ancient World](/loot#ancient-ruins)
+
