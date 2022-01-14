@@ -72,7 +72,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
           <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
-            <img loading="lazy"   src="{{ material.matImageUrl" alt="Image of the material {{ material.matName }}"> 
+            <img loading="lazy"   src="{{ material.matImageUrl }}" alt="Image of the material {{ material.matName }}"> 
           </a>
         </td>
         <td class="overview">{{material.matReqBoatLvl7}}</td>
