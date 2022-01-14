@@ -44,7 +44,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl1 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl1 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -92,7 +92,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl2 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl2 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -145,7 +145,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl3 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl3 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -192,7 +192,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl4 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl4 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -239,7 +239,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl5 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl5 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -285,7 +285,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl6 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl6 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -335,7 +335,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl7 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl7 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -383,7 +383,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl8 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl8 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -435,7 +435,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl9 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl9 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -485,7 +485,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl10 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl10 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -535,7 +535,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl11 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl11 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -586,7 +586,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl12 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl12 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -636,7 +636,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl13 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl13 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -686,7 +686,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl14 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl14 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
@@ -733,7 +733,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </thead>
   <tbody>
     {% assign mats_by_rarity = site.boat | where_exp:"mat",
-"mat.matReqBoatLvl15 > 0" | sort: "matRaritySortOrder" %}
+"mat.matReqBoatLvl15 | to_integer > 0" | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
       <tr class="collection-list-entry rarity_{{material.matRarity}}">
         <td class="table-pic">
