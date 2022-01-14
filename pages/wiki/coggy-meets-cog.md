@@ -72,25 +72,29 @@ Freshness may vary, I'll try and update regularly.
 - [abilities](/abilities)
 - [boosters](/boosters)
 
+- [comps](/comps)
+- [fighting](/fighting)
 
 - [recruits](/recruits)
 - [jobs](/jobs)
+- [business](/business)
 
 ### Botworld
 
 - [exploring](/exploring)
 - [maps](/maps)
-- [materials](/materials)
-- [loot](/loot)
-- [contracts](/contracts)
-
-
-- [town](/town)
+- [danger zones](/danger-zones)
 - [boat](/boat)
-- [arena](/arena)
-- [arena-masters](/arena-masters)
-- [seasons](/seasons)
+- [codex](/codex)
 
+- [materials](/materials)
+- [farming](/farming)
+- [loot](/loot)
+
+
+- [arena](/arena)
+- [seasons](/seasons)
+- [contracts](/contracts)
 
 - [larry](/larry)
 - [mia](/mia)
