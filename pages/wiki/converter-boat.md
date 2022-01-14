@@ -41,7 +41,7 @@ function select(s){
     return s.split('__begin__\n')[1].split('\n__end__')[0]
 }
 function decorate(s){
-    return '---\nlayout: material\n'+s+'\n---'
+    return '---\nlayout: boat-material\n'+s+'\n---'
 }
 function formatStr(str){
     var i=0;
