@@ -187,10 +187,10 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Exploring](/exploring): Infos and Tips about Canisters, Mobs, Critters, Mega, Bosses, Random Encounters, Level Scaling...
     - [Maps](/maps): Full Pictures, Wild Bots, Locations of Interest...  
     - [Danger Zones](/danger-zones): Tips, Random Encounters, Exterminator Squads...
-    - [Farming](/farming): the most efficient ways to get lots of anything.
-    - [Bots Materials](/materials): full list.
-    - [Story & Boat Materials](/boat-materials): list & maps.
+    - [Boat Upgrades Guide](/boat): list & maps.
     - [Codex](/codex): the new Codex missions & outfits.
+    - [Bots Materials](/materials): full list.
+    - [Farming Guide](/farming): the most efficient ways to get lots of anything.
     - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
 - [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
 - [Seasons](/seasons): Starter Season vs Global Season, Rewards.
