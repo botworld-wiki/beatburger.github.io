@@ -56,8 +56,34 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ### Materials
 
-- **[Motor](/motor):** One was spotted near the Howling Cliffs, Great Desert
-- **[Nails](/nails):** Occasionally found when defeating wild bots
-- **[Frozen Core](/frozen-core):** Only found in scrap piles in the Frozen Wastes Danger Zone
-- **[Scrap Metal](/scrap-metal):** Often found scattered around [ruins of the Ancient World](/loot#ancient-ruins)
+<table class="collection-list no-inline">
+  <thead>
+    <tr>
+      <th>Material</th>
+      <th>Name</th>
+      <th>Qty</th>
+      <th>Description</th>
+      <th>Overview</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign mats_by_rarity = site.boat | find_exp:"mat",
+"mat.matReqBoatLvl7 != ''" | sort: "matRaritySortOrder" %}
+    {% for material in mats_by_rarity %}
+      <tr class="collection-list-entry rarity_{{material.matRarity}}">
+        <td class="table-pic">
+          <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
+            <img loading="lazy"   src="/assets/img/materials/{{ material.matName | slugify }}.png" alt="Image of the material {{ material.matName }}"> 
+          </a>
+        </td>
+        <td class="overview">{{material.matReqBoatLvl7}}</td>
+        <td>
+          <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> {{ material.matName }} </a>
+        </td>
+        <td class="overview">{{material.matDescription}}</td>
+        <td class="overview">{{material.matOverview}}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
