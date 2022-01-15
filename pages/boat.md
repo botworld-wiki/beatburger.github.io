@@ -20,6 +20,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 1
 
+<div markdown="1" class="ghcms ghcms-lvl1infos">
+
 ![half-right Boat upgraded to lvl 1](/assets/img/boat/boat-1.png)
 
 ### Unlocks
@@ -30,7 +32,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 - Defeat [Arena Master Brad](/arena#brad)
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -61,7 +63,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl1">
+<div markdown="1" class=" ghcms ghcms-lvl1"extra>
 
 </div>
 
@@ -69,6 +71,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 2
+
+<div markdown="1" class="ghcms ghcms-lvl2infos">
 
 ![half-right Boat upgraded to lvl 2](/assets/img/boat/boat-2.png)
 
@@ -78,7 +82,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 ### Requirements
 , ...
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -109,7 +113,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl2">
+<div markdown="1" class=" ghcms ghcms-lvl2"extra>
 
 ![boat lvl2 map](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
 
@@ -118,6 +122,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 3
+
+<div markdown="1" class="ghcms ghcms-lvl3infos">
 
 ![half-right Boat upgraded to lvl 3](/assets/img/boat/boat-3.png)
 
@@ -129,7 +135,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -160,11 +166,13 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl3">
+<div markdown="1" class=" ghcms ghcms-lvl3"extra>
 
 </div>
 
 ## Level 4
+
+<div markdown="1" class="ghcms ghcms-lvl4infos">
 
 ![half-right Boat upgraded to lvl 4](/assets/img/boat/boat-4.png)
 
@@ -176,7 +184,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -207,11 +215,13 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl4">
+<div markdown="1" class=" ghcms ghcms-lvl4"extra>
 
 </div>
 
 ## Level 5
+
+<div markdown="1" class="ghcms ghcms-lvl5infos">
 
 ![half-right Boat upgraded to lvl 5](/assets/img/boat/boat-5.png)
 
@@ -223,7 +233,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -254,11 +264,13 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl5">
+<div markdown="1" class=" ghcms ghcms-lvl5"extra>
 
 </div>
 
 ## Level 6
+
+<div markdown="1" class="ghcms ghcms-lvl6infos">
 
 ![half-right Boat upgraded to lvl 6](/assets/img/boat/boat-6.png)
 
@@ -266,10 +278,11 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - **Gadget Lab lvl2:** New [Gadgets](/botpack#gadgets) available to be researched
 
 ### Requirements
+- Complete 5 [Contracts](/contracts)
+- [upgrade](/materials) 90 bots levels.
 
 
-
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -300,11 +313,13 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl6">
+<div markdown="1" class=" ghcms ghcms-lvl6"extra>
 
 </div>
 
 ## Level 7
+
+<div markdown="1" class="ghcms ghcms-lvl7infos">
 
 ![half-right Boat upgraded to lvl 7](/assets/img/boat/boat-7.png)
 
@@ -319,7 +334,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - Build 14 [Bots](/bots)
 - [upgrade](/materials) 110 bots levels.
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -350,11 +365,13 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl7">
+<div markdown="1" class=" ghcms ghcms-lvl7"extra>
 
 </div>
 
 ## Level 8
+
+<div markdown="1" class="ghcms ghcms-lvl8infos">
 
 ![half-right Boat upgraded to lvl 8](/assets/img/boat/boat-8.png)
 
@@ -367,7 +384,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -398,7 +415,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl8">
+<div markdown="1" class=" ghcms ghcms-lvl8"extra>
 
 </div>
 
@@ -406,6 +423,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 9
+
+<div markdown="1" class="ghcms ghcms-lvl9infos">
 
 ![half-right Boat upgraded to lvl 9](/assets/img/boat/boat-9.png)
 
@@ -419,7 +438,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -450,7 +469,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl9">
+<div markdown="1" class=" ghcms ghcms-lvl9"extra>
 
 </div>
 
@@ -459,6 +478,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 10
 
+<div markdown="1" class="ghcms ghcms-lvl1infos">
+
 ![half-right Boat upgraded to lvl 10](/assets/img/boat/boat-10.png)
 
 ### Unlocks
@@ -466,10 +487,10 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - **Gadget Lab lvl 5:** New [gadgets](/botpack#gadgets) available to be researched
 
 ### Requirements
+- Complete 10 [Contracts](/contracts)
+- [Upgrade](/materials) 170 bots levels.
 
-
-
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -500,7 +521,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl10">
+<div markdown="1" class=" ghcms ghcms-lvl10extra">
 
 </div>
 
@@ -509,6 +530,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 11
 
+<div markdown="1" class="ghcms ghcms-lvl1infos">
+
 ![half-right Boat upgraded to lvl 11](/assets/img/boat/boat-11.png)
 
 ### Unlocks
@@ -516,10 +539,12 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - **Bot Builder lvl 5:** [Bots](/bots) can be [upgraded](/materials) to lvl 25
 
 ### Requirements
+- Defeat [Arena Master Jack](/arena#jack)
+- Build 20 [Bots](/bots)
+- [upgrade](/materials) 200 bots levels.
 
 
-
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -550,7 +575,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl11">
+<div markdown="1" class=" ghcms ghcms-lvl11extra">
 
 </div>
 
@@ -558,6 +583,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 12
+
+<div markdown="1" class="ghcms ghcms-lvl1infos">
 
 ![half-right Boat upgraded to lvl 12](/assets/img/boat/boat-12.png)
 
@@ -570,7 +597,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -601,7 +628,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl12">
+<div markdown="1" class=" ghcms ghcms-lvl12extra">
 
 </div>
 
@@ -609,6 +636,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 13
+
+<div markdown="1" class="ghcms ghcms-lvl1infos">
 
 ![half-right Boat upgraded to lvl 13](/assets/img/boat/boat-13.png)
 
@@ -620,7 +649,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -651,7 +680,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl13">
+<div markdown="1" class=" ghcms ghcms-lvl13extra">
 
 </div>
 
@@ -659,6 +688,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 ## Level 14
+
+<div markdown="1" class="ghcms ghcms-lvl1infos">
 
 ![half-right Boat upgraded to lvl 14](/assets/img/boat/boat-14.png)
 
@@ -670,7 +701,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -701,7 +732,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl14">
+<div markdown="1" class=" ghcms ghcms-lvl14extra">
 
 </div>
 
@@ -710,6 +741,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 15
 
+<div markdown="1" class="ghcms ghcms-lvl1infos">
+
 ![half-right Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
 
 ### Unlocks
@@ -717,7 +750,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ### Requirements
 
-
+</div>
 
 <table class="collection-list no-inline">
   <thead>
@@ -748,6 +781,6 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl15">
+<div markdown="1" class=" ghcms ghcms-lvl15extra">
 
 </div>
