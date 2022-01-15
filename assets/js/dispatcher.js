@@ -94,6 +94,22 @@ async function fetchInlines(){
 editorModeOn()? 0: $(document).ready(fetchInlines);
 //$(document).ready(fetchInlines);
 
+function videoEmbeds(){  
+    const videoTemplate = `<video controls style="max-width:100%; width:400px">
+    <source src="_url_">
+    <a href="_url_">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+</video>`;
+    var links = document.querySelectorAll('section p a, section ul a');
+
+    for (let i=0; i < links.length; i++){
+        if ( links[i].innerText.startsWith('video ') ) {
+            var url = links[i].href;
+            links[i].outerHTML =  videoTemplate.replaceAll('_url_', url);
+        }
+    }
+}
+editorModeOn()? 0: $(document).ready(videoEmbeds);
+
 // GA
 /* hardened privacy settings
 https://developers.google.com/tag-platform/devguides/privacy#disable_google_analytics
