@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+updatedAt: "2021-01-15"
 
 
 title: "Flamer (Special Evader)"
 name: "Flamer"
-description: "Having damage that is nothing to laugh at with well-picked AI, Flamer s DPS is fantastic and splashes in a wide arc. Ontop of that, his Flamefield ability deals extremely high damage, optionally heals him and forces enemies to run away from him, allowing Flamer to continue kiting if previously slowed or rooted. \n\n\n"
+description: "Very high damage output, every bit is AoE. This bot is all offense, and doesn't have much to survive by itself, even though it needs to be almost at melee range.\n- Speciality: very deadly, good combo piece\n- Note: damage on entrance handy to finish injured bots\n- Combos: Freeze/Stun/Slow, Grouping"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397575686955028/flamer.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "Starter Season (Tier 4)"
-botOpinion: "Having damage that is nothing to laugh at with well-picked AI, Flamer s DPS is fantastic and splashes in a wide arc. Ontop of that, his Flamefield ability deals extremely high damage, optionally heals him and forces enemies to run away from him, allowing Flamer to continue kiting if previously slowed or rooted. "
+botOpinion: "Very high damage output, every bit is AoE. This bot is all offense, and doesn't have much to survive by itself, even though it needs to be almost at melee range."
 searchKeywords: "aoe melee, aoe, special, evader, flamer, fire, stun, heal"
 
 
