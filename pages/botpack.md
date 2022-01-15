@@ -116,7 +116,9 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 ### Usage
 
-- **Activation:** From your botpack (bottom right while in the wild) or at the start of a fight (turn off auto battle)
+- **Activation:** From your botpack (bottom right while in the wild) or at the start of a fight (turn off auto battle). Demo:
+
+[video demo of gadgets activation](https://cdn.discordapp.com/attachments/826340570908721203/931917757501550683/XRecorder_Edited_15012022_152654.mp4)
 - **Require:** that you pay to unlock them, and equip them
 - **Refresh:** every time you leave town
 
