@@ -93,10 +93,9 @@ Your 2-3 free bot slots
 
 ### Demo Clips
 
-- **No Chainer Clean Kill:** by @Lekoi
-
-<video controls style="max-width:100%; width:400px"><source src="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4"><a href="https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
-</video>
+- **Chainer + Mort/SCT + Beat:** clean [video](https://cdn.discordapp.com/attachments/879389444812206110/931894458797146152/XRecorder_Edited_15012022_135455.mp4)
+- **Chainer + Mort/SCT + Beat:** through obstacles [video](https://cdn.discordapp.com/attachments/879389444812206110/931894532516245514/XRecorder_Edited_15012022_135358.mp4) 
+- **No Chainer Clean Kill:** by @Lekoi [video](https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4)
 
 
 <div markdown="1" class=" ghcms ghcms-drop">
@@ -115,6 +114,9 @@ Nozzle/Flamer/Bombee.
 ### Nuclear Mort
 
 [SCT](/sct) your [Mort](/mort) while its ult's cannon ball is mid-flight for a devastating first strike.
+
+- [video](https://cdn.discordapp.com/attachments/879389444812206110/931894458797146152/XRecorder_Edited_15012022_135455.mp4)
+- [video](https://cdn.discordapp.com/attachments/879389444812206110/931894532516245514/XRecorder_Edited_15012022_135358.mp4)
 
 ### Undying Frosty
 
