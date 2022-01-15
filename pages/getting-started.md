@@ -70,10 +70,26 @@ My personal favorites next are:
 
 But as with everything else, as you [upgrade your boat](/boat) you’ll have more energy points to spend and eventually you’ll get everything you need.
 
-## How do I get the materials to upgrade my bots ?
+## Which Bots should I upgrade first?
+
+As you progress, you will have access to better ways to earn resources, and **the investment to bring any bot to lvl 10 will very soon feel pretty negligible**. It makes it really forgiving if you started experimenting with a bot but want to go with another instead later. Also, you will have [Recruits joining your squad](/recruits), and **they will need some bots of their own** if they are to help you! Any bot you don't use anymore yourself will be great with them.
+
+That being said, here are some of my favorite bots that are accessible very early and I suggest you give a good try:
+
+- [Lobbie](/lobbie): [AoE CC](/fighting) bot, very powerful when you can dictate the way the fight will go
+- [Longshot](/longshot): Consistent single-target DPS king, just does the work and does it well
+- [Rocketeer](/rocketeer): Especially that early in the game, Rocketeer will provide specific answers to easily get out of otherwise tricky situations
+- [Flamer](/flamer): All-in aggression, when you just want to close the fight fast
+- [Chainer](/chainer): Opens up whole new horizons and [powerful comp strategies](/comps#grouper-comp) 
+
+
+
+## How to find the right materials to upgrade your bots
 
 Click any [Material](</materials>) required to upgrade your [Bot](</bot>) to **get a description of how to get them**. Alternatively, your machines or even the shop might help.
 
+
+## That's it!
 I think that’s really all you need to know at this point, so you’d better go and [explore Botworld](/exploring) right now !
 
 </div>
