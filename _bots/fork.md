@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2021-01-15"
 
 
 title: "Fork (Epic Chaser)"
 name: "Fork"
-description: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight\n\n\n"
+description: "Half a Chaser, half an Evader. Very good at picking out ranged DPS bots that would otherwise stay safe far from the fight. Has a good kit to survive and stand its ground against most bots.\n- Speciality: Poison on hit, Teleport+Stun ult\n- Note: damage on entrance handy to finish injured bots\n- Combos: Hypercharge, Ult CD boosters"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548328291557386/fork.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Chaser"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "drop"
-botOpinion: "a Chaser, half an Evader. Great a picking out ranged bots hidden away from the fight"
+botOpinion: "Half a Chaser, half an Evader. Very good at picking out ranged DPS bots that would otherwise stay safe far from the fight. Has a good kit to survive and stand its ground against most bots."
 searchKeywords: "poison, dodge, fork, epic, chaser, dot"
 
 
