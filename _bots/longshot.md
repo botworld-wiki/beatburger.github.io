@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, Soft, caique concê"
-updatedAt: "2022-01-06"
+updatedAt: "2021-01-15"
 
 
 title: "Longshot (Special Sniper)"
 name: "Longshot"
-description: "A must use in the early game\n\n\n"
+description: "Probably the most reliable and consistend ranged damage dealer. Other snipers have the potential to outperform it in the right situations, but Longshot will just get the job done no matter what.\n- Speciality: heavy hits and high rate of fire\n- Note: defensive ability to keep melee away\n- Combos: translocators, gust, supercharge"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397383575240734/longshot.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Sniper"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "Arena (200)"
-botOpinion: "A must use in the early game"
+botOpinion: "Probably the most reliable and consistend ranged damage dealer. Other snipers have the potential to outperform it in the right situations, but Longshot will just get the job done no matter what."
 searchKeywords: "dmg, burst, ranged, instakill, special, newbie, sniper, longshot, shooter"
 
 
@@ -74,7 +74,7 @@ lvl25Dps: "1043"
 
 epicMat: "Longshot Essence"
 rareMat: "Sniper Gyro"
-specialMat: "Dull Steel"
+specialMat: "Heavy Steel"
 commonMat1: "Sparky Wires"
 commonMat2: "Thick Tube"
 commonMat3: "Double Cog"
