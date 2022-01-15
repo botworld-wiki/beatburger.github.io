@@ -102,7 +102,7 @@ function videoEmbeds(){
     var links = document.querySelectorAll('section p a, section ul a');
 
     for (let i=0; i < links.length; i++){
-        if ( links[i].innerText.startsWith('video ') ) {
+        if ( links[i].innerText.startsWith('video') ) {
             var url = links[i].href;
             links[i].outerHTML =  videoTemplate.replaceAll('_url_', url);
         }
