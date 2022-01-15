@@ -89,14 +89,22 @@ Your 2-3 free bot slots
 - **Cleaner:** But sometimes the opener isn't enough to actually close the fight by itself, like when your opponent has 6 bots in [Arena](/arena) or they're a [Boss](/exploring#bosses). That's what you need Cleaners for. They're usually high mobility or ranged bots: [Fork](/fork), [Ram](/ram), [Virus](/virus) (Hack is ranged), [Longshot](/longshot)...
 - **Utility:** It's good to save 1 or 2 bot slots to have the right counter in difficult situations. Like [Mega Bots](/exploring#mega-bots) or when your [Canister](/exploring#canister) is getting empty. Maybe then you'd rather use a regular tanky [Tank](/bots#tanks) instead of Chainer whenever you can do without it and save some of its precious HP.
 
-</div>
 
 ### Demo Clips
 
-- **Chainer + Mort/SCT + Beat:** clean [video](https://cdn.discordapp.com/attachments/879389444812206110/931894458797146152/XRecorder_Edited_15012022_135455.mp4)
-- **Chainer + Mort/SCT + Beat:** through obstacles [video](https://cdn.discordapp.com/attachments/879389444812206110/931894532516245514/XRecorder_Edited_15012022_135358.mp4) 
-- **No Chainer Clean Kill:** by @Lekoi [video](https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4)
+- **Chainer + Mort/SCT + Beat:** clean 
 
+[video](https://cdn.discordapp.com/attachments/879389444812206110/931894458797146152/XRecorder_Edited_15012022_135455.mp4)
+
+- **Chainer + Mort/SCT + Beat:** through obstacles 
+
+[video](https://cdn.discordapp.com/attachments/879389444812206110/931894532516245514/XRecorder_Edited_15012022_135358.mp4) 
+
+- **No Chainer Clean Kill:** by @Lekoi 
+
+[video](https://cdn.discordapp.com/attachments/824807657550381088/927009190424227900/Screen_Recording_20211227-182143_Botworld.mp4)
+
+</div>
 
 <div markdown="1" class=" ghcms ghcms-drop">
 
