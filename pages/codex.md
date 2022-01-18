@@ -235,6 +235,6 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 - **Black Line:** Roaming Super K.O.
 
 
-![Parched Sea](<https://cdn.discordapp.com/attachments/923509490307977227/929386167504355338/parched-sea-codex-new2-min_1.png>)*credit: Hex, debb, cloud9, Chael*
+![Parched Sea](<https://cdn.discordapp.com/attachments/923510071026155550/932915315514425384/parched-sea-codex-new3-min.png>)*credit: Hex, debb, cloud9, Chael*
 
 </div>
