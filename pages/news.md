@@ -26,6 +26,14 @@ breadcrumbs:
 
 </div>
 
+## d2022-01-29
+
+### New Bot coming soon!
+
+![New Bot 2021-12-18](<https://media.discordapp.net/attachments/824813164142788619/936969262529146920/Mystery_Bot_Reveal_5.jpg>)
+
+[Official Annoucement](<https://twitter.com/BotworldGame/status/1487410199426060291?t=OjENQStYLCuuq1iEkv3vJQ&s=19>)
+
 ## V1.2.1
 
 **Released:** 2022-01-04
