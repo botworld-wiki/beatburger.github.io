@@ -215,6 +215,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Credits](/credits): A big **Thank You** to everyone!
 - [Wiki Changelog](/changelog): What's new on the wiki ?
 - [Discord Bot](/help): Coggy bot integration with the [Official BWA Discord](https://discord.gg/FsJzvtFrgq) - documentation and "help" command.
+- [Privacy Policy](/privacy): the wiki only uses cookies required by Google services
 
 </div>
 
