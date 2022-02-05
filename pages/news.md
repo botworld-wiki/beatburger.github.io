@@ -26,6 +26,17 @@ breadcrumbs:
 
 </div>
 
+## d2022-02-05
+
+### New Bot Revealed: **Phantom**
+
+![Phantom reveal poster by FW](https://media.discordapp.net/attachments/824813164142788619/939505774021971998/Character_Reveal_Phantom.jpg)
+
+Official announcement & demo clip on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1489946913596080129?t=C7Hy4huEZK3I1LCC2Kp-JQ&s=19)
+
+
+
+
 ## d2022-01-29
 
 ### New Bot coming soon!
