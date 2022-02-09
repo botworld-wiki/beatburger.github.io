@@ -26,6 +26,23 @@ breadcrumbs:
 
 </div>
 
+## V1.3.0
+**Released:** 2022-02-09
+
+### New Bot: Phantom
+
+**Features:**
+- Added new hats
+- Added new ninja outfit
+- Added new ability: Vanish.
+- New season pass: Season of the Mist.
+
+**Bug Fixes:**
+
+- Fixed: Sheller's AI not working as intended.
+- Fixed: ''Defeat Wild Pluggie Packs'' Achievement in Codex was not registering properly.
+
+
 ## d2022-02-05
 
 ### New Bot Revealed: **Phantom**
