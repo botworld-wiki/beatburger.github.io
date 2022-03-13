@@ -26,6 +26,21 @@ breadcrumbs:
 
 </div>
 
+##V1.3.1 
+**Released:** 2202-03-07
+
+**Features:**
+
+- Added a new anti-cheat system 
+
+**Balance Changes:**
+
+- Phantom was buffed featuring more health & faster movement during stealth 
+
+**Bug Fixes:**
+
+- Localisation fixes
+
 ## V1.3.0
 **Released:** 2022-02-09
 
