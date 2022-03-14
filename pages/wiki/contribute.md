@@ -52,7 +52,7 @@ Tell us if you have content ready and need someone to add it into the wiki. and 
 
 ## Links
 
-- [Discord](/https://discord.gg/FsJzvtFrgq)
+- [Discord](<https://discord.gg/FsJzvtFrgq>)
 - [Credits](/credits)
 - [Changelog](/changelog)
 - [Roadmap](/roadmap)
