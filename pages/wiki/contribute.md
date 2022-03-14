@@ -14,7 +14,7 @@ breadcrumbs:
 
 What we need the most now, is information & content about everything in Botworld. **You know the game ? There's something you can write about that we're currently missing!**
 
-Then come to [the official Discord](/https://discord.gg/FsJzvtFrgq) if you haven't joined already, meet us and tell us about what you've got. Any Editor or Maintainer will shortly update the wiki accordingly.
+Then come to [the official Discord](<https://discord.gg/FsJzvtFrgq>) if you haven't joined already, meet us and tell us about what you've got. Any Editor or Maintainer will shortly update the wiki accordingly.
 
 If you want to become part of any team of ours, here's an overview below. Rest assured **there's nothing we like more than to have someone come by and offer help**, any kind, so we're eager to see you!
 
