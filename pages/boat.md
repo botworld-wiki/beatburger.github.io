@@ -63,7 +63,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl1"extra>
+<div markdown="1" class=" ghcms ghcms-lvl1extra">
 
 </div>
 
@@ -113,7 +113,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl2"extra>
+<div markdown="1" class=" ghcms ghcms-lvl2extra">
 
 ![boat lvl2 map](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
 
@@ -166,7 +166,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl3"extra>
+<div markdown="1" class=" ghcms ghcms-lvl3extra">
 
 </div>
 
@@ -215,7 +215,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl4"extra>
+<div markdown="1" class=" ghcms ghcms-lvl4extra">
 
 </div>
 
@@ -264,7 +264,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl5"extra>
+<div markdown="1" class=" ghcms ghcms-lvl5extra">
 
 </div>
 
@@ -313,7 +313,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl6"extra>
+<div markdown="1" class=" ghcms ghcms-lvl6extra">
 
 </div>
 
@@ -365,7 +365,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl7"extra>
+<div markdown="1" class=" ghcms ghcms-lvl7extra">
 
 </div>
 
@@ -415,7 +415,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl8"extra>
+<div markdown="1" class=" ghcms ghcms-lvl8extra">
 
 </div>
 
@@ -469,7 +469,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
   </tbody>
 </table>
 
-<div markdown="1" class=" ghcms ghcms-lvl9"extra>
+<div markdown="1" class=" ghcms ghcms-lvl9extra">
 
 </div>
 
