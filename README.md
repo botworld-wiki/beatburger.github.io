@@ -51,8 +51,9 @@ This mode aims to provide a **simple and straightforward** way for everyone to e
 *Requirements: [Markdown markup language](/_docs/wiki-md.md), github*
 
 - [Edit .md files directly](/_docs/manage-pages.md#edit-md-files-directly)
-- [Create a new page](/_docs/manage-pages.md#create-a-new-page)
+- [Understanding a page structure](/_docs/manage-pages.md#understanding-a-page-structure)
 - [Expose sections to Editor Mode](/_docs/manage-pages.md#expose-sections-to-editor-mode)
+- [Create a new page](/_docs/manage-pages.md#create-a-new-page)
 - [Merge Edits](/_docs/manage-pages.md#merge-edits)
 
 
@@ -82,7 +83,8 @@ Used for discord integration
 
 ### Other
 
-[Markdown Cheat Sheet](/_docs/wiki-md.md)
+- [Markdown Cheat Sheet](/_docs/wiki-md.md)
+- [url & filenames format conventions](/_docs/conventions.md)
 
 **Github for the wiki**
 
