@@ -32,23 +32,25 @@ Some special and more advanced cases, best left to the most accustomed maintaine
 
 ### Content
 
-**Editor Mode**
+**Using Editor Mode (Editors)**
+
+This mode aims to provide a **simple and straightforward** way for everyone to edit **specific sections** of the content. In order to lower the skill requirements to contribute this way, the **edition capabilities are restricted to simple and localized edits**. 
 
 - [Activate](/_docs/editor-mode.md#activate)
 - [Edit Content](/_docs/editor-mode.md#edit-content)
   - [Pictures](/_docs/editor-mode.md#pictures)
   - [Video clips](/_docs/editor-mode.md#video-clips)
-- [Expose sections to Editor Mode](/_docs/editor-mode.md#expose-sections-to-editor-mode)
-- [Merge Edits](/_docs/editor-mode.md#merge-edits)
+- [Precautions](/_docs/editor-mode.md#precautions)
 
 ![Editor Mode in action](https://cdn.discordapp.com/attachments/917809790284079114/979408919778697226/editor-mode.png)
 
+**Managing Pages (Maintainers)**
 
-**Edit Content without Editor Mode**
+- Edit .md files directly
+- Create a new page
+- [Expose sections to Editor Mode](/_docs/managing-pages.md#expose-sections-to-editor-mode)
+- [Merge Edits](/_docs/managing-pages.md#merge-edits)
 
-*Role: Maintainer*
-
-- Github folder: https://github.com/beatburger/beatburger.github.io/tree/main/pages
 
 
 
