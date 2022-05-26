@@ -2,6 +2,10 @@
 
 ![Editor Mode in action](https://cdn.discordapp.com/attachments/917809790284079114/979408919778697226/editor-mode.png)
 
+This mode aims to provide a **simple and straightforward** way for everyone to edit **specific sections** of the content. In order to lower the skill requirements to contribute this way, the **edition capabilities are restricted to simple and localized edits**. 
+
+- You can use it to edit sections of a pages and change their text, pictures, video clips. You can't use it to change anything with site-wide repercussions like an [Entity](/README.md#content-types) (bot, abilities, etc.)
+- [Maintainers](roles.md#maintainer) enable suitable page sections manually on a case-by-case basis
 
 ## Activate
 
@@ -60,12 +64,25 @@ It will show as a regular link while you have Editor Mode active, but as a video
 - Be mindful of the filesize. 75% of our users are on mobile, they don't want to have 80mb videos... My combos clips are both under 2mb
 
 
-## Expose sections to Editor Mode
+## Precautions
 
-*Role: Maintainer*
 
-## Merge Edits
+Some issues may arise when multiple persons are using editor mode at the same time. (roughly: your own editor loads the current version of the page, someone else updates it separately, you edit and publish your version: theirs is lost). Only under specific circumstances and unlikely given the size of our group, but potentially painful for big updates!
 
-*Role: Maintainer*
 
-https://www.botworld.wiki/merge-edits
+**tldr: Save your work (for your sake), and Refresh Before commit (for others sake)**
+
+
+
+- Write your new content on a separate text editor
+- Try it on the Editor Mode to proofread/see how it looks
+- Refresh the page to make sure you have the last version of the edits.json file (that you're all updating, so don't wanna delete other's work)
+- copy your content again
+- Save (commit)
+- (opt) check the commit was registered (instant)
+- (opt) check the content got updated (10s-3min)
+- (opt) delete your local backup
+
+Sorry that's a bit messy but that's what we get when building software fast and not testing it properly, we do the tests live...
+
+
