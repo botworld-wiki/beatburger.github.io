@@ -32,9 +32,11 @@ Some special and more advanced cases, best left to the most accustomed maintaine
 
 ### Content
 
-**Using Editor Mode (Editors)**
+**Use Editor Mode (Editors)**
 
 This mode aims to provide a **simple and straightforward** way for everyone to edit **specific sections** of the content. In order to lower the skill requirements to contribute this way, the **edition capabilities are restricted to simple and localized edits**. 
+
+*Requirements: [Markdown markup language](/_docs/wiki-md.md)*
 
 - [Activate](/_docs/editor-mode.md#activate)
 - [Edit Content](/_docs/editor-mode.md#edit-content)
@@ -44,14 +46,14 @@ This mode aims to provide a **simple and straightforward** way for everyone to e
 
 ![Editor Mode in action](https://cdn.discordapp.com/attachments/917809790284079114/979408919778697226/editor-mode.png)
 
-**Managing Pages (Maintainers)**
+**Manage Pages (Maintainers)**
 
-- Edit .md files directly
-- Create a new page
-- [Expose sections to Editor Mode](/_docs/managing-pages.md#expose-sections-to-editor-mode)
-- [Merge Edits](/_docs/managing-pages.md#merge-edits)
+*Requirements: [Markdown markup language](/_docs/wiki-md.md), github*
 
-
+- [Edit .md files directly](/_docs/manage-pages.md#edit-md-files-directly)
+- [Create a new page](/_docs/manage-pages.md#create-a-new-page)
+- [Expose sections to Editor Mode](/_docs/manage-pages.md#expose-sections-to-editor-mode)
+- [Merge Edits](/_docs/manage-pages.md#merge-edits)
 
 
 ### Entities
