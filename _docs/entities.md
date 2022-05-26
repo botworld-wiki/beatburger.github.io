@@ -78,5 +78,5 @@ The process is the same as for updating one, with only a couple differences:
 
 They're all to be uploaded into the relevant folder in https://github.com/beatburger/beatburger.github.io/tree/main/assets/img/
 
-A strict naming convention is to be enforced: small caps, no spaces (use: -), no special characters, .png, ...
+Pics should be png (.png), and [naming conventions need to be enforced](conventions.md)
 
