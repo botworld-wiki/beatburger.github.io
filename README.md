@@ -26,7 +26,7 @@ Some special and more advanced cases, best left to the most accustomed maintaine
 
 - Coordination: https://discord.com/invite/FsJzvtFrgq
 - Code & Hosting: https://github.com/beatburger/beatburger.github.io/
-- Collaborative documents incl. DataSheets: https://drive.google.com/drive/folders/13ZKZipuTUg8KfSVQwKNKAoiKYJcuQ4fT?usp=sharing
+- Collaborative documents incl. WikiSheets: https://drive.google.com/drive/folders/13ZKZipuTUg8KfSVQwKNKAoiKYJcuQ4fT?usp=sharing
 
 ## HowTos
 
@@ -58,18 +58,24 @@ This mode aims to provide a **simple and straightforward** way for everyone to e
 
 ### Entities
 
-#### Bots
+They're collections of game elements that the wiki needs to be able to reference from many pages, request specific attributes, filter, etc. As such, they're not simply written down in a specific page, but instead stored as data from which everything can be generated automatically.
 
-**Resources & Locations**
+We went with a 2-steps process to work with them collaboratively:
 
-- DataSheet: https://docs.google.com/spreadsheets/d/12eKq1OxHjfLERbBPOmjjN3yLjKbRcXmChsho00IrJeU/edit#gid=0
-- Converter: https://www.botworld.wiki/converter-bots
-- Github Folder: https://github.com/beatburger/beatburger.github.io/tree/main/_bots
-- Images: https://github.com/beatburger/beatburger.github.io/tree/main/assets/img/bots
+- Infos are collectivelly gathered into [WikiSheets](/_docs/entities.md#wikisheets) (google sheets).
+- Maintainers can export entries from the WikiSheets on request, convert them with the provided tool, and use the result to create/update the Entity on the wiki.
 
 
 ### Embeds
 
+### Other
+
+[Markdown Cheat Sheet](/_docs/wiki-md.md)
+
+**Github for the wiki**
+
+- [Get access](/_docs/github.md#get-access)
+- [Deployment](/_docs/github.md#deployment)
 
 
 ## Roles
