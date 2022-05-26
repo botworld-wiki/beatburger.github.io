@@ -7,14 +7,15 @@
 
 ## Edit .md files directly
 
-## Create a new page
+You can totally do that as a [Maintainer](roles.md#maintainer), and that'll be the only way to do some edits that Editor Mode just can't handle.
 
+TBW
 
 ## Understanding a page structure
 
 Here's the top of the ["Bots Materials" page](https://www.botworld.wiki/materials) in its current version. It illustrates a bunch of different elements you can expect to find in most pages, so let's break it down to explain each part individually. 
 
-You can see in here some [headers](#headers) (up until ---), and everything below is the body. It's mostly [Markdown](wiki-md.md), with some html code when markdown isn't powerful enough to give us the desired design or features. A couple Editor Mode tags (ghcms) are present also, to enable Editor Mode access to these specific page locations.
+You can first see some [headers](#headers) (up until ---), and then a mix of Markdown and HTML. In their entirety, most pages are mostly [Markdown](wiki-md.md), But some HTML code is used when markdown isn't powerful enough to give us the desired design or features. A couple Editor Mode tags (ghcms) are present also, to enable Editor Mode access to these specific page locations.
 
 ```
 ---
@@ -110,9 +111,9 @@ That's a list of meta-data [used by Github/Jekyll to build the wiki pages](githu
 **---**
 - separator, must be present at the start and at the end of the headers block
 
-### Body
+The header section must be formatted according to the **YAML syntax**. I know you've had to learn 2 markup languages already, and there's yet another one, so by that point YAML could as well stand for *Yet Another Markup Language*! Sorry about that, but that's just how the cookie crumbles I guess. Anyway here's a suggestion to read more about it: https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
 
-#### Markdown
+### Markdown
 
 Let's strip and ignore everything in-between html tags for now (<>), we're left with the markdown content:
 
@@ -132,7 +133,7 @@ What you need to upgrade your bots.
 - `## Bots Materials` : the title of a section in the page. It gets automatically applied the blue line separator
 - and regular plain text
 
-#### Html
+### Html
 
 ```
 <ul class="page-toc toc-block-list links">
@@ -152,7 +153,7 @@ Best used with parcimony.
 `<span id="bots"></span>` : also html, this element is actually empty and thus invisible. Its only purpose is to place an anchor at that position in the page, so that we can link directly to it like: https://www.botworld.wiki/materials#bots
 
 
-#### GHCMS
+### GHCMS
 
 aka "Editor Mode tags"
 
@@ -171,7 +172,125 @@ Used to encapsulate portions of the page exposed to Editor Mode, for others to u
 
 TBW
 
+
 ## Expose sections to Editor Mode
+
+TBW
+
+## Create a new page
+
+Let's create a new Guilds page as an example:
+
+### First, headers
+
+
+```
+---
+
+layout: breadcrumbs
+permalink: /guilds
+title: Guilds
+description: "Guilds: gather your friends to complete ojectives and compete with others! - Everything there is to know about it on the Botworld Community Wiki!"
+breadcrumbs:
+  
+---
+```
+
+- **layout**: `breadcrumbs`, like every page should be
+- **permalink**: `/guilds`, no need to get fancy
+- **title**: `Guilds`, same
+- **description**: I don't know the first thing about Guilds but that seems sensible? Note: my description includes a ":". It's a significant character in the [YAML syntax](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started) so in order to not confuse it, the entire description is encapsulated (ie: neutralized, "escaped") in-between `"`
+- **breadcrumbs**: ensure it's better suited to be under "Botmasters" or "Botworld" (cf main menu), so I'll go with blank for now?
+
+### Next, body
+
+```
+# Guilds
+
+## Introduction
+
+## Completing Objectives
+
+## Joining a Guild
+
+## Creating a Guild
+```
+
+A main title and a couple sections that seem to make sense.
+
+### Some Editor Mode blocs
+
+Let's add some ghcms blocs so Editors can start filling out our new page:
+
+```
+# Guilds
+
+## Introduction
+
+<div markdown="1" class=" ghcms ghcms-intro">
+</div>
+
+## Completing Objectives
+
+<div markdown="1" class=" ghcms ghcms-objectives">
+</div>
+
+## Joining a Guild
+
+<div markdown="1" class=" ghcms ghcms-joining">
+</div>
+
+## Creating a Guild
+
+<div markdown="1" class=" ghcms ghcms-create">
+</div>
+```
+
+### Let's create the file!
+
+- Every pages are in https://github.com/beatburger/beatburger.github.io/tree/main/pages
+- Let's name our file... `guilds.md` ?
+- Sold, here's what I'm putting into https://github.com/beatburger/beatburger.github.io/commits/main/pages/guilds.md :
+
+```
+---
+
+layout: breadcrumbs
+permalink: /guilds
+title: Guilds
+description: "Guilds: gather your friends to complete ojectives and compete with others! - Everything there is to know about it on the Botworld Community Wiki!"
+breadcrumbs:
+  
+---
+
+# Guilds
+
+## Introduction
+
+<div markdown="1" class=" ghcms ghcms-intro">
+</div>
+
+## Completing Objectives
+
+<div markdown="1" class=" ghcms ghcms-objectives">
+</div>
+
+## Joining a Guild
+
+<div markdown="1" class=" ghcms ghcms-joining">
+</div>
+
+## Creating a Guild
+
+<div markdown="1" class=" ghcms ghcms-create">
+</div>
+```
+
+- The page may change in the future, but using the [history (commits)](github.md), you will always be able to consult this first, initial version of the file: https://github.com/beatburger/beatburger.github.io/commit/1490fe319e49f59c06209205e07f147e394daaa7
+- I check and wait for the [Build & Deployment](github.md#deployment) to be complete
+- The page is soon available at https://www.botworld.wiki/guilds, ready for Editors to fill it out!
+- All that's left is to link to the page from all the right places: other pages, but especially the menu & homepage.
+
 
 ## Merge Edits
 
