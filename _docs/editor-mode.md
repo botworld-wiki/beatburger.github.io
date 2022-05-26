@@ -46,7 +46,7 @@ Available directives declarations:
 > - img[alt^="**half-right**"]{float:right;margin-left: 30px;width: 50%;}
 
 
-## Clips
+## Video Clips
 
 Meant to include direct video links (eg: from discord, but not from youtube)
 
@@ -60,11 +60,7 @@ It will show as a regular link while you have Editor Mode active, but as a video
 - Be mindful of the filesize. 75% of our users are on mobile, they don't want to have 80mb videos... My combos clips are both under 2mb
 
 
-## Expose Content to Editor Mode
-
-*Role: Maintainer*
-
-## Edit Content without Editor Mode
+## Expose sections to Editor Mode
 
 *Role: Maintainer*
 
