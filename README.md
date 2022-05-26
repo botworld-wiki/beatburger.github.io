@@ -65,6 +65,14 @@ We went with a 2-steps process to work with them collaboratively:
 - Infos are collectivelly gathered into [WikiSheets](/_docs/entities.md#wikisheets) (google sheets).
 - Maintainers can export entries from the WikiSheets on request, convert them with the provided tool, and use the result to create/update the Entity on the wiki.
 
+- [WikiSheets](/_docs/entities.md#wikisheets)
+- [Update an Entity](/_docs/entities.md#update-an-entity)
+- [Create an Entity](/_docs/entities.md#create-an-entity)
+- [Converters](/_docs/entities.md#converters)
+  - [Troubleshooting Converters](/_docs/entities.md#converters)
+- [Github Folders](/_docs/entities.md#github-folders)
+  - [Images](/_docs/entities.md#images)
+
 
 ### Embeds
 
@@ -74,7 +82,7 @@ We went with a 2-steps process to work with them collaboratively:
 
 **Github for the wiki**
 
-- [Get access](/_docs/github.md#get-access)
+- [Get access](/_docs/github.md#access)
 - [Deployment](/_docs/github.md#deployment)
 
 
