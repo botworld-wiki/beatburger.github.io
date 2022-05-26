@@ -65,6 +65,8 @@ We went with a 2-steps process to work with them collaboratively:
 - Infos are collectivelly gathered into [WikiSheets](/_docs/entities.md#wikisheets) (google sheets).
 - Maintainers can export entries from the WikiSheets on request, convert them with the provided tool, and use the result to create/update the Entity on the wiki.
 
+More about it on the dedicated page:
+
 - [WikiSheets](/_docs/entities.md#wikisheets)
 - [Update an Entity](/_docs/entities.md#update-an-entity)
 - [Create an Entity](/_docs/entities.md#create-an-entity)
@@ -75,6 +77,8 @@ We went with a 2-steps process to work with them collaboratively:
 
 
 ### Embeds
+
+Used for discord integration
 
 ### Other
 
