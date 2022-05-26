@@ -21,11 +21,11 @@ This mode aims to provide a **simple and straightforward** way for everyone to e
 
 Recorded demo footage: https://cdn.discordapp.com/attachments/918419557792776202/920055054436798524/Edited_20211213_214536.mp4
 
-
+The text formatting is done using [Markdown](wiki-md.md), with a few specific extra features listed below:
 
 ### Pictures
 
-You include pictures alongside your text with the default markdown syntax:
+You include pictures alongside your text with the default [Markdown syntax](wiki-md.md):
 
 `![image description](<image-location-url>)` or `![image description](image-location-url)` 
 
@@ -50,7 +50,7 @@ Available directives declarations:
 > - img[alt^="**half-right**"]{float:right;margin-left: 30px;width: 50%;}
 
 
-## Video Clips
+### Video Clips
 
 Meant to include direct video links (eg: from discord, but not from youtube)
 
@@ -63,6 +63,9 @@ It will show as a regular link while you have Editor Mode active, but as a video
 - no `!`, it's a link and not an image
 - Be mindful of the filesize. 75% of our users are on mobile, they don't want to have 80mb videos... My combos clips are both under 2mb
 
+### Rich links
+
+Linking to an [Entity page](/README.md#content-types) directly will be recognized by the wiki and enriched by adding a little picture of the relevant entity directly next to the link. Ex: `[Evader Spray](/evader-spray)`
 
 ## Precautions
 
