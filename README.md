@@ -91,6 +91,10 @@ Used for discord integration
 - [Get access](/_docs/github.md#access)
 - [Deployment](/_docs/github.md#deployment)
 
+**Developpers**
+
+- [Update Cog](/_docs/developpers.md#update-cog)
+
 
 ## Roles
 
