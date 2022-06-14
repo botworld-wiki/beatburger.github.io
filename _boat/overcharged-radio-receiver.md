@@ -1,6 +1,6 @@
 
 ---
-layout: material
+layout: boat-material
 contributors: "BloodxReaper, Pix"
 updatedAt: "2022-06-22"
 
