@@ -26,7 +26,7 @@ You can first see some [headers](#headers) (up until ---), and then a mix of Mar
 layout: breadcrumbs
 permalink: /materials
 title: Bots Materials
-description: The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!
+description: "The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
