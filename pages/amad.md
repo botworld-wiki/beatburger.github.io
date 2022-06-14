@@ -10,10 +10,22 @@ breadcrumbs: "/story"
 
 # Amad
 
+<div markdown="1" class=" ghcms ghcms-intro">
+</div>
+
 ## Character
+
+<div markdown="1" class=" ghcms ghcms-character">
+</div>
 
 ## Story Involvement
 
 ### Faerie Bot
 
+<div markdown="1" class=" ghcms ghcms-faerie">
+</div>
+
 ### Origin of Botworld
+
+<div markdown="1" class=" ghcms ghcms-botworld-origin">
+</div>
