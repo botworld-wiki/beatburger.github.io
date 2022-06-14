@@ -1,6 +1,6 @@
 ---
-layout: material
-contributors: "BloodxReaper"
+layout: boat-material
+contributors: "BloodxReaper, Pix"
 updatedAt: "2022-01-14"
 
 
@@ -24,14 +24,14 @@ matReqBoatLvl7: ""
 matReqBoatLvl8: ""
 matReqBoatLvl9: ""
 matReqBoatLvl10: ""
-matReqBoatLvl11: "?"
+matReqBoatLvl11: "3"
 matReqBoatLvl12: ""
 matReqBoatLvl13: ""
 matReqBoatLvl14: ""
 matReqBoatLvl15: ""
 matRarity: "Special"
 matRaritySortOrder: "2"
-matDescription: "Rarely found in  <a href='/loot#scrap-piles'>scrap piles</a>"
+matDescription: "'Rarely found in  <a href=''/loot#scrap-piles''>scrap piles</a>'"
 matOverview: "Randomly appears at a <a href='/loot#spawn-locations'>Spawn Location</a>"
 ---
 
