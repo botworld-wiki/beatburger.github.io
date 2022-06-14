@@ -8,12 +8,12 @@ breadcrumbs: "/story"
 
 ---
 
-#Amad
+# Amad
 
-##Character
+## Character
 
-##Story Involvement
+## Story Involvement
 
-###Faerie Bot
+### Faerie Bot
 
-###Origin of Botworld
+### Origin of Botworld
