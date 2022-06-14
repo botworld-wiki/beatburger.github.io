@@ -20,12 +20,10 @@ breadcrumbs: "/story"
 
 ## Story Involvement
 
-### Faerie Bot
+<div markdown="1" class=" ghcms ghcms-story">
 
-<div markdown="1" class=" ghcms ghcms-faerie">
-</div>
+### Faerie Bot
 
 ### Origin of Botworld
 
-<div markdown="1" class=" ghcms ghcms-botworld-origin">
 </div>
