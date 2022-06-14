@@ -1,6 +1,6 @@
 ---
-layout: material
-contributors: "BloodxReaper"
+layout: boat-material
+contributors: "BloodxReaper, Pix"
 updatedAt: "2022-01-14"
 
 
@@ -25,7 +25,7 @@ matReqBoatLvl8: ""
 matReqBoatLvl9: ""
 matReqBoatLvl10: ""
 matReqBoatLvl11: ""
-matReqBoatLvl12: "?"
+matReqBoatLvl12: "4"
 matReqBoatLvl13: ""
 matReqBoatLvl14: ""
 matReqBoatLvl15: ""
