@@ -1,4 +1,3 @@
-
 ---
 layout: boat-material
 contributors: "BloodxReaper, Pix"
