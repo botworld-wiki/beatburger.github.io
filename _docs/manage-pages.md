@@ -9,11 +9,14 @@
 
 You can totally do that as a [Maintainer](roles.md#maintainer), and that'll be the only way to do some edits that Editor Mode just can't handle.
 
+
 TBW
 
 ## Understanding a page structure
 
 Here's the top of the ["Bots Materials" page](https://www.botworld.wiki/materials) in its current version. It illustrates a bunch of different elements you can expect to find in most pages, so let's break it down to explain each part individually. 
+
+**You don't need to understand or master it all** some parts are totally optional and you can skip them: any html is either for custom stuff, not required, or for Editor Mode, not required either. Very worth learning about still so ask and we will teach you so you can have fun later!
 
 You can first see some [headers](#headers) (up until ---), and then a mix of Markdown and HTML. In their entirety, most pages are mostly [Markdown](wiki-md.md), But some HTML code is used when markdown isn't powerful enough to give us the desired design or features. A couple Editor Mode tags (ghcms) are present also, to enable Editor Mode access to these specific page locations.
 
@@ -68,9 +71,9 @@ What you need to upgrade your bots.
 ---
 
 layout: breadcrumbs
-permalink: /materials
-title: Bots Materials
-description: The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!
+permalink: "/materials"
+title: "Bots Materials"
+description: "The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
@@ -135,6 +138,8 @@ What you need to upgrade your bots.
 
 ### Html
 
+**If you don't already know HTML, just skip** this part and any HTML (stuff between `<> tags`) you see in pages. It's totally optional so don't worry about it.
+
 ```
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#bots" title="Every Bots Material info">Bots Mats</a></li>
@@ -156,6 +161,8 @@ Best used with parcimony.
 ### GHCMS
 
 aka "Editor Mode tags"
+
+**If you don't already know HTML, just skip**
 
 ```
 <div markdown="1" class=" ghcms ghcms-intro">
@@ -201,6 +208,13 @@ breadcrumbs:
 - **title**: `Guilds`, same
 - **description**: I don't know the first thing about Guilds but that seems sensible? Note: my description includes a ":". It's a significant character in the [YAML syntax](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started) so in order to not confuse it, the entire description is encapsulated (ie: neutralized, "escaped") in-between `"`
 - **breadcrumbs**: ensure it's better suited to be under "Botmasters" or "Botworld" (cf main menu), so I'll go with blank for now?
+
+Here's the codex breacrumbs as an example to remind you the proper format, slightly different than other parameters:
+```
+breadcrumbs:
+  "Botworld": "/#botworld"
+  "Exploring": "/exploring"
+```
 
 ### Next, body
 
@@ -250,6 +264,7 @@ Let's add some ghcms blocs so Editors can start filling out our new page:
 
 - Every pages are in https://github.com/beatburger/beatburger.github.io/tree/main/pages
 - Let's name our file... `guilds.md` ?
+- "Create New File" is fine, but you can also work in your favorite text editor then upload the result ![edit file button](https://cdn.discordapp.com/attachments/923509490307977227/986149486566985748/unknown.png)
 - Sold, here's what I'm putting into https://github.com/beatburger/beatburger.github.io/commits/main/pages/guilds.md :
 
 ```
