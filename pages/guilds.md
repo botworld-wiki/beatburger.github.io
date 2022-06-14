@@ -5,7 +5,6 @@ permalink: /guilds
 title: Guilds
 description: "Guilds: gather your friends to complete ojectives and compete with others! - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
-  "Botmasters": "/#botmasters"
   
 ---
 
