@@ -43,12 +43,21 @@ function select(s){
 function decorate(s){
     return '---\nlayout: boat-material\n'+s+'\n---'
 }
+	
+// Hotfix on top of hot mess because the mobile Sheet app corrupts the clipboard for some reason
+// demo: https://cdn.discordapp.com/attachments/923509490307977227/986282674337484881/XRecorder_Edited_14062022_165448.mp4
+function fixVal(val){
+    if (val.match("''/")){
+        val = val.replaceAll("''",'___').replaceAll("'",'').replaceAll('___',"'")
+    }
+    return val
+}
 function formatStr(str){
     var i=0;
     return  decorate(
         select(str).replaceAll('"\nhttp', 'http',).split('\n')
             .map(function(line){return line.replaceAll('"','\'')})
-            .map(function(val){return boatMaterialRows[i++]+': "'+val+'"'})
+            .map(function(val){return boatMaterialRows[i++]+': "'+fixVal(val)+'"'})
             .join('\n').replace(/#.*"_?_?"/g,'\n').replaceAll('__','')
         )
 }
