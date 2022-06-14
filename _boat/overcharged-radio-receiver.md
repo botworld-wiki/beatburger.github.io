@@ -1,7 +1,8 @@
+
 ---
-layout: material
-contributors: "BloodxReaper"
-updatedAt: "2022-01-14"
+layout: boat-material
+contributors: "BloodxReaper, Pix"
+updatedAt: "2022-06-22"
 
 
 title: "Overcharged Radio Receiver (Boat lvl 11)"
@@ -24,7 +25,7 @@ matReqBoatLvl7: ""
 matReqBoatLvl8: ""
 matReqBoatLvl9: ""
 matReqBoatLvl10: ""
-matReqBoatLvl11: "?"
+matReqBoatLvl11: "35"
 matReqBoatLvl12: ""
 matReqBoatLvl13: ""
 matReqBoatLvl14: ""
