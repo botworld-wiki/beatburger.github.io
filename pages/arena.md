@@ -31,6 +31,7 @@ You can find Info about Arena Masters here
   <li class="toc-block-entry" ><a href="#jack">Jack</a></li>
   <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
   <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
+  <li class="toc-block-entry" ><a href="#laydee">Laydee</a></li>
 </ul>
 
 
@@ -93,6 +94,7 @@ You can find Info about Arena Masters here
   <li class="toc-block-entry" ><a href="#jack">Jack</a></li>
   <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
   <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
+  <li class="toc-block-entry" ><a href="#laydee">Laydee</a></li>
 </ul>
 
 
@@ -335,8 +337,8 @@ This pop star turned judge waits for you to place bots before delivering his "st
 
 ![300px arenamaster laydee](https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png)
 
--**Bots:** 2x [Mort](/mort), 2x [Chainer](/chainer), [Beat](/beat), [Scatter](/scatter)
--**Abilities:** [Hypercharge](/hypercharge), [Icewall](/icewall), [Immobilize Field](/immobilize-field), [Immobilize](/immobilize)
+- **Bots:** 2x [Mort](/mort), 2x [Chainer](/chainer), [Beat](/beat), [Scatter](/scatter) Level 30
+- **Abilities:** [Hypercharge](/hypercharge), [Icewall](/icewall), [Immobilize Field](/immobilize-field), [Immobilize](/immobilize)
 
 
 ### Tips
