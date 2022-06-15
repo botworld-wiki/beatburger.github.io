@@ -333,7 +333,7 @@ After you've defeated Scales:
 
 <div markdown="1" class=" ghcms ghcms-laydee">
 
-This pop star turned judge waits for you to place bots before delivering his "stunning" verdict. He uses **4 bots at a time**.
+This pop star turned judge waits for you to place bots before delivering her "stunning" verdict. She uses **4 bots at a time and starts placing her bots only after player has put their bots onto the battlefield.
 
 ![300px arenamaster laydee](https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png)
 
