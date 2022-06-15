@@ -16,7 +16,7 @@ breadcrumbs:
 
 Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Best make the most out of every trip
 
-**Danger Zones Fuel:** Replenishes every 24h.
+**Danger Zones Fuel:** Replenishes every 24h upto [boat level 14](/boat#level-14). Replenishes **3x faster** from [boat level 15](/boat#level-15).
 
 ### Situations and Events 
 
