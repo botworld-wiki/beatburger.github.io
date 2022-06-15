@@ -52,9 +52,9 @@ breadcrumbs:
 
 ![Rare Super Chests](https://cdn.discordapp.com/attachments/923510071026155550/924334449146073088/Screenshot_20211225-171254_Botworld.jpg)
 
-**Epic *??* Chests**
+**Epic *Mega* Chests**
 
-[missing data](/contribute#tbw)
+![Epic Mega Chests](https://media.discordapp.net/attachments/985501437733797969/986529333168472064/Screenshot_20220615-100036_Botworld.png)
 
 ## Botframes
 
