@@ -23,8 +23,53 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-main">
 
 
-
 </div>
+
+## V1.6.0
+
+**Released:** 2022-06-15
+
+**Features:**
+
+- Added new epic bot: Link
+- Added new epic ability: Shield Field
+- New season pass: Season of Protection
+- Added [new Level 30 Arena Boss](</arena#laydee>)
+- Added new [Guild Events](</guilds#events>)
+
+
+**Bug Fixes:**
+
+- Fixed rare crash caused by missing assets in Parched Sea
+- Fixed rare issue where obstacles in Scrapyard Danger Zone would block players from proceeding down the correct path
+- Fixed visual bugs on Lobbie and Rocketeer VS screen portraits in Low Resolution mode
+- Fixed issue where players would not get damaged by lava streams in Molten Rock Danger Zone
+- Additional minor bug fixes
+
+
+**Balance Changes:**
+
+- Increased Rare Jackalope and Rare Ruby Scarab spawn chance
+- Improved Guild search filters and search improvements
+- Improved Guild notifications
+
+
+## D2022.06.05
+
+New Bot announcement
+
+![new bot 8](<https://media.discordapp.net/attachments/824813164142788619/982962416306503700/Mystery_Bot_Reveal_8.jpg>)
+
+[Official announcement](<https://twitter.com/BotworldGame/status/1533403259284725761>)
+
+## Missing backlog
+
+We've missed a couple months worth of updates, including:
+
+- **Level 30 bots**: You can now upgrade your bots to level 30 instead of 25!
+- **Shuffle**: A new bot, Shuffle joins the game!
+- **New Abilities**: Corrupted and Chaos Boosters join the game!
+- **Guilds**: You can now join or create a guild and participate in guild events!
 
 ## V1.3.1 
 
