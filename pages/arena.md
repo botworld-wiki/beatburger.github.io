@@ -324,6 +324,32 @@ After you've defeated Scales:
 
 - **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
 
+</div>
+
+
+## Laydee
+
+<div markdown="1" class=" ghcms ghcms-laydee">
+
+This pop star turned judge waits for you to place bots before delivering his "stunning" verdict. He uses **4 bots at a time**.
+
+![300px arenamaster laydee](https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png)
+
+-**Bots:** 2x [Mort](/mort), 2x [Chainer](/chainer), [Beat](/beat), [Scatter](/scatter)
+-**Abilities:** [Hypercharge](/hypercharge), [Icewall](/icewall), [Immobilize Field](/immobilize-field), [Immobilize](/immobilize)
+
+
+### Tips
+
+- [Any more tips we're missing?](/contribute#tbw)
+
+### Story
+
+- **Laydee:** I hope you don't stage fright, 'cause my bots are about to hurl some critique your way!
+
+After you defeated Laydee:
+
+- **Laydee:** Normally I don't take kindly to being upstaged, but that was a 10/10 performance back there. You deserve this.
 
 </div>
 
