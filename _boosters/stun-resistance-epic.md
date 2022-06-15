@@ -1,7 +1,7 @@
 ---
 layout: booster
 contributors: "Pix, debb, Kartoffel, GlareFacer"
-updatedAt: "2021-12-21"
+updatedAt: "2022-06-15"
 
 
 title: "Stun Resistance (Epic)"
@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Stun Resistance"
 boosterDescription: "Reduces durations of stuns on all bots by 50%"
 boosterImageUrl: "/assets/img/boosters/stun-resistance-epic.png"
-boosterStacks: "Multiplicative"
+boosterStacks: "Additive"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: ""
