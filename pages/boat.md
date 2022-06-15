@@ -78,7 +78,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ### Unlocks
 - **The Arena:** Take on [Arena Masters](/arena) for fame and fortune
-- **Guilds:** Create or join a [guild](/guild) with other players
+- **Guilds:** Create or join a [guild](/guilds) with other players
 
 ### Requirements
 , ...
