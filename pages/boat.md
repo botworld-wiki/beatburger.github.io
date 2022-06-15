@@ -78,6 +78,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ### Unlocks
 - **The Arena:** Take on [Arena Masters](/arena) for fame and fortune
+- **Guilds:** Create or join a [guild](/guild) with other players
 
 ### Requirements
 , ...
@@ -276,6 +277,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ### Unlocks
 - **Gadget Lab lvl2:** New [Gadgets](/botpack#gadgets) available to be researched
+- **Bot builder level 3:** [Bots](/bots) can be [upgraded](/materials) to level 15
 
 ### Requirements
 - Complete 5 [Contracts](/contracts)
@@ -537,6 +539,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 ### Unlocks
 - **Recruits lvl 3:** Adds an extra [Recruit](/recruits) to your squad
 - **Bot Builder lvl 5:** [Bots](/bots) can be [upgraded](/materials) to lvl 25
+- **Parched Sea:** Travel to the [Parched Sea](/maps#parched-sea)
 
 ### Requirements
 - Defeat [Arena Master Jack](/arena#jack)
@@ -591,9 +594,11 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 ### Unlocks
 - **Danger Zone 4:** Unlocks a new [Danger Zone](/danger-zones) to explore: [Scrapyard](/danger-zones#scrapyard)
 - **Gadget Lab lvl 6:** New [Gadgets](/botpack#gadgets) available to be researched
-- **Parched Sea:** Travel to the [Parched Sea](/maps#parched-sea)
 
 ### Requirements
+- Defeat the Pirate Captain
+- Complete 12 [contracts](/contracts)
+- [Upgrade](/materials) 240 [bots](/bots)
 
 
 
@@ -696,6 +701,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 ### Unlocks
 - **Gadget Lab lvl 8:** New [Gadgets](/botpack#gadgets) available to be researched
 - **Ashen Shore:** Travel to the [Ashen Shore](/maps#ashen-shore)
+- **Bot builder level 6:** [Bots](/bots) can be upgraded to level 30
 
 ### Requirements
 
@@ -746,7 +752,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 ![half-right Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
 
 ### Unlocks
-- **Exterminator Squads:** New tier of [bosses added to Danger Zones](/danger-zones#exterminator-squads)
+- **Exterminator Squads:** All Danger Zones become max level with a [new tier of boses](/danger-zones#exterminator-squads)
+- **Canister Production:** [Danger Zone](/danger-zones) Canisters recharge 3x faster
 
 ### Requirements
 
