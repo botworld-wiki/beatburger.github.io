@@ -7,7 +7,7 @@ updatedAt: "2022-5-26"
 title: "Shuffle (Epic Support)"
 name: "Shuffle "
 description: "Jack of All chaos\n\n\n"
-imageUrl: ""
+imageUrl: "https://media.discordapp.net/attachments/985501437733797969/987059675356889158/shuffle.png"
 breadcrumbs:
   Bots: "/bots"
   Support: "/bots#support"
