@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "Shuffle"
 botDescription: "Can't decide what ability to use? This bot can play a random ability for you!"
-botImageUrl: ""
+botImageUrl: "https://media.discordapp.net/attachments/985501437733797969/987059675356889158/shuffle.png"
 botType: "Support"
 botRarity: "Epic"
 botRaritySortOrder: "4"
