@@ -6,7 +6,7 @@ updatedAt: "2022-3-28"
 
 title: "Bullseye (Epic Sniper)"
 name: "Bullseye"
-description: "\n\n\n"
+description: "Sniper Splasher Hybrid\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/957875194784014386/bullseye.png"
 breadcrumbs:
   Bots: "/bots"
@@ -77,7 +77,7 @@ rareMat: "Sniper Gyro"
 specialMat: "Matte Coating"
 commonMat1: "Clear Oil"
 commonMat2: "Double Cog"
-commonMat3: "Sputtering Generators"
+commonMat3: "Sputtering Generator"
 ---
 
 
