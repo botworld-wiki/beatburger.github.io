@@ -1,27 +1,28 @@
 ---
-layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+layout: booster
+contributors: "Pix, debb, Kartoffel, GlareFacer"
+updatedAt: "2021-12-21"
 permalink: "/tests"
 
 
-title: "Barrier Wall"
-name: "Barrier Wall"
-description: "3P - Drops a temporary barrier into the arena"
-imageUrl: "/assets/img/abilities/barrier-wall.png"
+title: "Bot Crit (Epic)"
+name: "Bot Crit"
+description: ""
+imageUrl: "/assets/img/boosters/bot-crit-epic.png"
 breadcrumbs:
   Botpack: "/botpack"
-  Abilities: "/abilities"
+  Boosters: "/boosters"
 
 
-abilityName: "Barrier Wall"
-abilityDescription: "Drops a temporary barrier into the arena"
-abilityImageUrl: "/assets/img/abilities/barrier-wall.png"
-abilityCost: "3"
-abilityRarity: "Rare"
-abilityRaritySortOrder: "3"
-abilityAcquisition: ""
-abilityOpinion: ""
+boosterName: "Bot Crit"
+boosterDescription: "All bot attacks have 10% critical chance (critical hits deal double damage)"
+boosterImageUrl: "/assets/img/boosters/bot-crit-epic.png"
+boosterStacks: "Additive"
+boosterRarity: "Epic"
+boosterRaritySortOrder: "4"
+boosterAcquisition: ""
+boosterOpinion: ""
 searchKeywords: ""
 ---
+
 
