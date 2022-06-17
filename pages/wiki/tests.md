@@ -8,7 +8,7 @@ permalink: "/tests"
 title: "Link (Epic Tank)"
 name: "Link"
 description: "The ultimate damage absorber\n\n\n"
-imageUrl: "assets/img/bots/thump.png"
+imageUrl: "/assets/img/bots/thump.png"
 breadcrumbs:
   Bots: "/bots"
   Tank: "/bots#tank"
