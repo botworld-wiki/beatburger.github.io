@@ -1,0 +1,381 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+{% if page.url == "/" %}
+    <title>{{page.title}}</title>
+{% else %}
+    <title>{{page.title}} - {{site.title}}</title>
+{% endif %}
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="{{page.description}}" />
+<meta property="og:description" content="{{page.description}}" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:site_name" content="Botworld Community Wiki" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{{page.description}}"/>
+{% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
+  <meta property="og:image" content="{{page.imageUrl}}"/>
+{% else %}
+  <meta property="og:image" content="https://www.botworld.wiki/assets/img/icons/party-cog.png"/>
+{% endif %}
+<script type="application/ld+json">
+{"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
+<meta name="google-site-verification" content="RhLHJEi3hAsfqwSwE-lzaF1r4TXxF_ss7Ho4z4S-lWA" />
+{% if page.robots and page.robots != "" and page.robots != nil %}
+    <meta name="robots" content="{{page.robots}}"/>
+{% else %}
+      <meta name="robots" content="index, follow">
+{% endif %}
+<!-- End Jekyll SEO tag -->
+
+      <!-- default midnight theme -->
+    <!-- <link rel="stylesheet" href="/assets/css/style.css?v=cf56747e20c372760b23189e10db18236bea9f91"> -->
+      
+      
+      
+   <!-- idk about that js doug...
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- end custom head snippets -->
+
+<!-- google font async-optimized -->
+<link rel="preconnect" href="https://fonts.gstatic.com/" />
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Abel"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+        rel="stylesheet"
+        type="text/css"
+    />
+    <link
+        href="https://fonts.googleapis.com/css?family=Abel"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+      
+<!-- end google font async-optimized -->
+
+   <style type="text/css">
+/* Critical CSS */
+     .dropdown-menu{display:none}
+/* from https://jonassebastianohlsson.com/criticalpathcssgenerator/ */
+/* Do not edit, everything is from /assets/css/wiki-style.css */
+nav,section{display:block}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,input{font-family:sans-serif}body{margin:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3,h3 *{font-size:1.17em;margin:1em 0}p{margin:1em 0}ul{margin:1em 0}ul{padding:0 0 0 40px}nav ul{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}input{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}input{line-height:normal}input[type="checkbox"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input::-moz-focus-inner{border:0;padding:0}body{padding:0px 0 20px 0px;margin:0px;font:18px/1.3 "Abel","Helvetica Neue",Helvetica,Arial,sans-serif;color:#f0e7d5;font-weight:normal;background:#252525;background-attachment:fixed!important;background:linear-gradient(#2a2a29,#1c1c1c)}h1,h2,h3{color:#e8e8e8;margin:0 0 10px;font-family:'Abel',"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:normal}p,ul{margin:0 0 20px}h1,h2,h3{line-height:1.1}h1{font-size:28px}h2{font-size:24px}h3{font-size:18px;line-height:24px;font-family:'Abel',"Helvetica Neue",Helvetica,Arial,sans-serif!important;font-weight:normal;color:#b6b6b6}a{color:#ffcc00;font-weight:600;text-decoration:none}ul{list-style-image:url("/assets/images/bullet.png")}.wrapper{max-width:650px;margin:0 auto;position:relative;padding:0 20px}section img{max-width:100%}hr{border:0;outline:none;height:3px;margin:0 0 20px}section{max-width:650px;padding:30px 0px 50px 0px;margin:20px 0;margin-top:70px}@media print,screen and (max-width:480px){section{margin-top:40px}nav{display:none}}.wrapper h1,.wrapper h2,.wrapper .toc-block-title *,.toc-block-entry *,nav#nav *,nav#nav a{font-family:"Luckiest Guy"}.toc-block-entry *,nav#nav .menu *{font-size:14px;font-weight:100}h3{font-size:24px;font-weight:bold}section h2{background-repeat:no-repeat;background-size:100% 100%!important;background:url(https://www.botworld.wiki/assets/img/bg/title-bg.png);margin-top:10px;margin-bottom:0px;padding-bottom:15px}section p,section ul{margin-top:0px;margin-bottom:0px;background:url(https://www.botworld.wiki/assets/img/bg/text-bg.png);background-repeat:no-repeat;background-position:right;padding:0px 10px 20px 5px}section ul{padding:5px 10px 5px 10px}.toc-block h2,.toc-block ul{background-repeat:no-repeat;background-size:none;background:none;padding:none}.toc-block-title h2{margin-top:0px}ul.toc-block-list{margin-top:20px;margin-bottom:20px}#site_toc{margin-bottom:30px}html{background-color:#202020;scroll-padding-top:70px}body{background:url('https://www.botworld.wiki/assets/img/bg/background.webp') no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}.wrapper{min-width:55%;max-width:800px!important}section{max-width:100%!important;margin:10px 0;padding-top:10px}section>p:first-child{width:80%;margin:0 auto;min-width:260px}section>p:first-child img{width:100%}.rarity_Common{border-radius:5px;border:5px solid #d3e1f3}.rarity_Special{border-radius:5px;border:5px solid #00ff79}.rarity_Rare{border-radius:5px;border:5px solid #ff485a}.rarity_Epic{border-radius:5px;border:5px solid #c706ff}.toc-block-entry.rarity_Common{border:2px solid #d3e1f3}.toc-block-entry.rarity_Special{border:2px solid #00ff79}.toc-block-entry.rarity_Rare{border:2px solid #ff485a}.toc-block-entry.rarity_Epic{border:2px solid #c706ff}#site_toc{display:flex;flex-direction:row;flex-wrap:wrap}.toc-block{background-repeat:no-repeat;background-size:100% 100%!important;background:url(https://www.botworld.wiki/assets/img/bg/block-bg.png);border:0px!important;max-width:250px!important;margin:10px auto!important;padding:15px 30px 0px 30px!important}.toc-block-title{background-color:cyan;border-radius:5px;padding:4px;display:flex;height:20px;margin:0px 22px 0px 17px}.toc-block-title img{position:relative;height:50px;top:-9px;left:-15px}.toc-block-title h2{color:#02468b;padding:0px!important;text-shadow:2px 2px 1px #5b8a8e}.toc-block-list{list-style:none;padding:10px 20px 0px 10px;display:flex;flex-wrap:wrap}.toc-block-entry{width:40%;min-width:105px;margin:2px auto;border:2px solid #00f778;border-radius:10px;background:linear-gradient(340deg,rgb(13 138 126) 0%,rgb(27 20 100) 80%)}.toc-block-entry a{flex-grow:1;display:flex;align-items:center}.toc-block-entry img{width:30px}.toc-block-entry span{flex-grow:1;line-height:3em}#banner{background-image:url('https://www.botworld.wiki/assets/img/banners/wiki.webp');background-repeat:no-repeat;background-position:top center;height:350px}@media print,screen and (max-width:480px){#banner{background-position:-290px -30px;height:320px}#title-container h3{margin-top:0px!important}}.wrapper{position:relative;top:-130px}h2{padding-top:27px}#title-container{padding:5px}#title-container a{margin:0 auto}#title-container img{max-width:80px;position:relative;top:25px;right:10px}#title-container div{display:flex}#title-container h3{text-align:center;margin-top:20px}.wiki-title{font-family:'Trebuchet MS',sans-serif;text-shadow:4px -5px 5px #202020,-4px -5px 5px #202020;font-size:40px;font-weight:800;display:inline}@media print,screen and (max-width:480px){.wiki-title{font-size:25px;line-height:2.5em}}#nav-container{height:125px!important}nav.override{display:block}nav img{height:40px}.mini-menu{display:none;width:100%;z-index:200}.mini-menu .wiki-title{margin:0 auto}nav .tab-label{background-image:url(https://www.botworld.wiki/assets/img/icons/hamburger-icon.png);background-position:center;background-size:cover;width:50px}.menu{display:flex;flex-wrap:nowrap;flex-direction:column}.menu span{padding:10px;flex-grow:1;text-align:center}nav ul{background:#403d3d;display:flex;justify-content:right;z-index:500;flex-wrap:wrap}.discord-link{background:url(https://www.botworld.wiki/assets/img/icons/discord.png);background-size:cover;background-repeat:no-repeat;height:25px;width:25px}span.wtf-discord{background:url(https://www.botworld.wiki/assets/img/icons/discord.png);background-size:cover;background-repeat:no-repeat;height:25px;width:25px}.wtf{position:fixed;bottom:20px;right:20px;z-index:100;display:none}#meet-bb img{height:60px;width:60px;;}#meet-bb h3{display:none;position:relative;bottom:20px;background-color:#3f414d;border-radius:5px;padding:20px}h1,h2,.menu a,.wiki-title a{text-shadow:2px 2px 1px #ad5522}
+    
+    
+    </style>
+      
+<noscript><style>
+/* in case no webp support AND no js for webp-modernizr.js... */
+body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
+#banner{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
+</style></noscript>
+
+<!-- adsense <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2009369193496648" crossorigin="anonymous"></script> -->
+    
+  </head>
+  <body>
+    <div id="banner"></div>
+    <div class="wrapper">
+        <div id="title-container">
+                <div>
+                    <a href="{{ site.url }}{{ site.baseurl }}" class="over_banner" title="Home Page of the Botworld Wiki">
+                        <img loading="lazy"   src="https://www.botworld.wiki/assets/img/icons/party-cog.png" alt="Botworld Wiki logo">
+                        {% if page.url == "/" %}
+                            <h1 class="wiki-title"> {{site.title}} </h1>
+                        {% else %}
+                            <h2 class="wiki-title"> {{site.title}} </h2>
+                        {% endif %}
+                    </a>
+                </div>
+          <h3 class="over_banner">{{site.description}}</h3>
+            </div>
+
+
+<div id="nav-container" style="height:54px !important">
+            <nav id="nav" class="override">
+                <div class="mini-menu">
+                    <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki">
+                        <img loading="lazy" src="https://www.botworld.wiki/assets/img/icons/party-cog.png" alt="Botworld Wiki logo">
+                    </a>
+                    <span class="wiki-title">
+                        <a href="https://www.botworld.wiki/" title="Home Page of the Botworld Wiki"> Botworld Wiki </a>
+                    </span>
+                    <label class="tab-label" for="dropdown-checkbox"></label>
+                </div>
+        <input style="display: none;" type="checkbox" id="dropdown-checkbox">
+        <div class="menu">
+            <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
+            <div class="menu-first-row">
+                <div class="menu-links">
+                    <!-- search -->
+                    <span class="menu-search"><input type="text" id="search-input" placeholder="Bots, abilities.."></span>
+                </div>
+                <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
+            </div>
+            <div class="extended-menu">
+                <ul id="results-container" style="/*please someday tell me why*/background: #403d3d;display: flex;justify-content: right;z-index: 500;;flex-wrap: wrap;width:auto; padding:0px; border-radius: 5px;border-bottom: 3px dotted grey;border-right: 3px dotted grey;border-left: 3px dotted grey; margin: 0px 0px 0px 0px !important;">
+                </ul><div class="dropdown-menu">
+                    <div class="dropdown-block">
+                        <span class="dropdown-title">Botmasters</span>
+                        <ul>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/bots" title="Every Bot">
+                                <span>Robopedia</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/starter-bots" title="All 3 starter Bots explained">
+                                        <span>Starter Bots</span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/botpack" title="Everything about your Botpack">
+                                <span>Botpack</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/abilities" title="Every Ability">
+                                        <span>Abilities</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/boosters" title="Every Booster">
+                                        <span>Boosters</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/botpack#gadgets" title="Every Gadget">
+                                        <span>Gadgets</span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/comps" title="Comp Tips &amp; Strategies">
+                                <span>Comps &amp; Combos</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/fighting" title="Combat Guide">
+                                        <span>Fighting Tips</span></a>
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/recruits" title="Infos &amp; Tips about Recruits">
+                                <span>Recruits</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/jobs" title="Every Recruit Job">
+                                        <span>Jobs</span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/business" title="All the Business Upgrades">
+                                <span>Business Upgrades</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/guilds" title="Everything about Guilds and Events">
+                                <span>Guilds & Events</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/getting-started" title="Beginner Guide">
+                                <span>Getting Started</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="dropdown-block">
+                        <span class="dropdown-title">Botworld</span>
+                        <ul>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/exploring" title="Everything you can encouter in the wilderness, and tips">
+                                <span>Exploring</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/maps" title="Maps &amp; info for every zone">
+                                        <span>Maps</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/danger-zones" title="Danger Zones infos & Tips">
+                                        <span>Danger Zones</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/boat" title="What you need to upgrade your Boat or progress through the Story">
+                                        <span>Boat Upgrades</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/codex" title="What you need to complete your entire Codex without trouble">
+                                        <span>Codex Guide</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/materials" title="What you need to upgrade your Bots">
+                                        <span>Bots Materials</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/farming" title="Fastest ways to get anything you need">
+                                        <span>Farming Guide</span></a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/loot" title="How loot works, what special zones can drop what etc.">
+                                        <span>Loot Infos</span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/arena" title="Arena Tips &amp; Arena Masters explained">
+                                <span>Arena</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/seasons" title="Starter Season vs Global Season, Rewards, etc.">
+                                <span>Seasons</span></a>
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="https://www.botworld.wiki/contracts" title="List of every contract and Tips to complete them">
+                                        <span>Contracts</span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/story" title="Quests, Characters (NPCs), Lore...">
+                                <span>Story</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="dropdown-block">
+                        <span class="dropdown-title">Community Adventure</span>
+                        <ul>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/news" title="Every News, fresh or archived">
+                                <span>BWA News &amp; Updates</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/content-creators" title="Great video content from the community" class="dropdown-link"><span>YouTubers &amp; Streamers</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                    <a href="https://www.botworld.wiki/play-on-windows" title="How-to guide to link your Android phone to your PC on Windows">
+                                <span>Play on Windows</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                    <a href="https://www.botworld.wiki/contribute" title="The wiki needs any useful content you can provide!">
+                                <span>How to Contribute</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/credits" title="Endless Thanks to everyone in there!">
+                                <span>Credits</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/changelog" title="What’s new on the wiki ?">
+                                <span>Changelog</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/help" title="Coggy meets Cog, and Cog is helpful!">
+                                <span>Discord Bot</span></a>
+                            </li>
+                            <li class="dropdown-link">
+                                <a href="https://www.botworld.wiki/privacy" title="Privacy, Cookies, & Hosting">
+                                <span>Privacy</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>  <!-- closing dropdown menu -->
+            </div>   
+        </div>
+    </nav>
+</div>
+
+      <section>
+          
+        {{ content }}
+
+      </section>
+
+    </div>
+      
+<footer style="padding:10px"><a href="/">Home</a> - <a href="/privacy" rel="nofollow">Privacy Policy</a></footer>
+      
+<div id="meet-bb" class="wtf">
+      <input style="display: none;" type="checkbox" id="bb-checkbox">
+      <h3>Meet us <a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">on Discord</a> !</h3>
+      <label for="bb-checkbox" title="Meet Beat Burger">
+        <img loading="lazy"   src="/assets/img/icons/beatburger-mini.png" alt="Beat Burger logo by Lollitree">
+      </label>
+</div>
+
+
+
+<link
+    rel="preload"
+    href="/assets/css/wiki-style.css?v=0.9"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+
+<noscript>
+    <link
+        href="/assets/css/wiki-style.css"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+
+ <script type="text/javascript">
+ window.onscroll = function() {changeMenu()};
+
+var $nav = document.getElementById("nav");
+var $bb = document.getElementById("meet-bb");
+function changeMenu() {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
+        $nav.classList.add('fixed');
+        $bb.style.display = 'block';
+    } else {
+        $nav.classList.remove('fixed');
+        $bb.style.display = 'none';
+    }
+}
+</script>
+
+<script defer="defer" async="async" async src="/assets/js/dispatcher.js?v=0.5"></script>
+
+
+  </body>
+</html>
