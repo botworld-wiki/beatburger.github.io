@@ -24,7 +24,7 @@
     
     
 
-{% if page.layout contains "bot" %}
+{% if page.layout == "bot" %}
   <meta property="og:image" content="/assets/img/bots/{{page.botName | slugify}}.png"/>
 {% elsif page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
   <meta property="og:image" content="{{page.imageUrl}}"/>
