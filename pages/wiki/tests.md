@@ -1,5 +1,5 @@
 ---
-layout: testing-bot
+layout: testing-ability
 contributors: "QC, OJ"
 updatedAt: "2022-06-16"
 permalink: "/tests"
