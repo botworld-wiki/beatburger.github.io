@@ -75,6 +75,12 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 **Rewards**:
 
+| **Guild Coins** | **Reward** |
+| --------------- | ---------- |
+| 1000 | Merchant Hat |
+| 2500 | Merchant Garb |
+| 5000 | 30 Gems |
+
 - 1000 guild coins: Merchant Hat
 - 2500 guild coins: Merchant Garb
 - 5000 guild coins: 30 gems
