@@ -22,7 +22,7 @@ botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "Season of Protection"
 botOpinion: "The ultimate damage absorber"
-searchKeywords: "tank, epic"
+searchKeywords: "tank,  epic"
 
 
 ability1Name: "Headbutt"
