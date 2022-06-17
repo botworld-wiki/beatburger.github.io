@@ -1,235 +1,84 @@
 ---
+layout: testing-default
+contributors: "QC, OJ"
+updatedAt: "2022-06-16"
 
-layout: breadcrumbs
-permalink: /tests
-title: TESTING
-description: "Having the right Bots & Botpack Composition is what got the best Botmasters where they are today. Learn everything you need to be one of them in here!" 
+
+title: "Link (Epic Tank)"
+name: "Link"
+description: "The ultimate damage absorber\n\n\n"
+imageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
 breadcrumbs:
-  Botmasters: "/#botmasters"
-  "Fighting Tips": "/fighting"
-robots: "NOINDEX, NOFOLLOW"
-sitemap: false
+  Bots: "/bots"
+  Tank: "/bots#tank"
 
-for tests:
-matName: "Rusty Cog"
-matType: "Bot"
 
+botName: "Link"
+botDescription: "Keeps your other bots alive by absorbing some of the damage they take. Link finds it easy to make new friends."
+botImageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
+botType: "Tank"
+botRarity: "Epic"
+botRaritySortOrder: "4"
+botAcquisition: "Season of Protection"
+botOpinion: "The ultimate damage absorber"
+searchKeywords: "tank, epic"
+
+
+ability1Name: "Headbutt"
+ability1Info: "Range: Melee, Attack Speed: 0.85s, Physical Damage: 40, Critical Chance: 10%"
+ability1Description: "Whacks the nearest Enemy with its face, dealing melee damage"
+ability2Name: "Damage Siphon"
+ability2Info: "Transfer Amount: 50%"
+ability2Description: "Forms a link with its nearest ally, transferring some of the damage taken onto itself"
+ability3Name: "Energy Barrier"
+ability3Info: "Cooldown: 10s, Block Damage: 100%, Duration: 2.5s"
+ability3Description: "Takes no damage for a few seconds"
+
+
+ai1aName: "A: Reflective Barrier"
+ai1aDescription: "Energy Barrier reflects 30% of the damage blocked"
+ai1bName: "B: Fortitude"
+ai1bDescription: "Health increased by 20%"
+ai2aName: "A: Stronger Connection"
+ai2aDescription: "Damage Siphon transfers 30% more of the damage"
+ai2bName: "B: Energy Shielding"
+ai2bDescription: "Reduces energy damage taken by 40%"
+ai3aName: "C: Rapid Defense"
+ai3aDescription: "Energy Barrier cooldown reduced by 20%"
+ai3bName: ""
+ai3bDescription: ""
+ai4aName: "A: Powerful Strikes"
+ai4aDescription: "All attack damage increased by 30%"
+ai4bName: "B: Speed Boost"
+ai4bDescription: "Move speed increased by 30%"
+ai5aName: "A: Siphon Fight Enhancer"
+ai5aDescription: "Linked bot damage increased by 20% when linked"
+ai5bName: "B: Siphon Flight Enhancer"
+ai5bDescription: "Linked bot movement speed increased by 35% when linked"
+
+
+lvl1Hp: "2872"
+lvl1Dmg: "40"
+lvl1Dps: "47"
+lvl1Speed: "10"
+lvl10Hp: ""
+lvl10Dmg: ""
+lvl10Dps: ""
+lvl20Hp: ""
+lvl20Dmg: ""
+lvl20Dps: ""
+lvl25Hp: ""
+lvl25Dmg: ""
+lvl25Dps: ""
+
+
+epicMat: "Link Essence"
+rareMat: "Tank Plating"
+specialMat: "Tangled Wires"
+commonMat1: "Cold Battery"
+commonMat2: "Rusty Cog"
+commonMat3: "Hardened Fiberglass"
 ---
 
-# TESTING
 
-
-
-
-
-
-{% if page.matType == 'Bot' %}
-
-## Calculator
-
-<div id="scrap-calc">
-	You can calculate how much Scrap you'll need for a certain level.
-	<br>
-	Current Bot Level:
-	<input class="calc-current" type="number" value="1" min="1" max="24">
-	Wanted Bot Level:
-	<input class="calc-target" type="number" value="25" min="2" max="25">
-	<br>
-	Check the Table below to see how much it'll cost you.
-</div>
-
-
-
-<div id="scrap-table">
-
-<br>
-<h2 id="{{page.path}}"table>Table of bots that require {{page.matName}} to upgrade.</h2>
-<br>
-
- <table class="collection-list no-inline" id="scrap-sorttable">
-  <thead>
-    <tr>
-      <th onclick="sortTable(0)">Bot</th>
-      <th onclick="sortTable(1)">Name</th>
-      <th onclick="sortTable(2)">Cost</th>
-      <th onclick="sortTable(3)">Common 1</th>
-      <th onclick="sortTable(4)">Common 2</th>
-      <th onclick="sortTable(5)">Common 3</th>
-      <th onclick="sortTable(6)">Special</th>
-      <th onclick="sortTable(7)">Rare</th>
-      <th onclick="sortTable(8)">Essence</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% assign bots_by_rarity = site.bots | sort: "botName" %}
-    {% for bot in bots_by_rarity %}
-    {% if bot.rareMat == page.matName or bot.specialMat == page.matName or bot.commonMat1 == page.matName or bot.commonMat2 == page.matName or bot.commonMat3 == page.matName %}
-      <tr class="collection-list-entry rarity_{{bot.botRarity}}">
-          <td class="table-pic">
-       <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> 
-        <img loading="lazy"   src="/assets/img/bots{{ bot.url }}.png" alt="Image of the bot {{ bot.botName }}"> 
-       </a>
-          </td>
-          <td>
-            <a href="{{ site.baseurl }}{{ bot.url }}" title="Everything about the bot {{ bot.botName }}"> {{ bot.botName }} </a>
-          </td>
-            {% if page.matName == bot.commonMat1 %}
-                <td><span class="scrapcostC1" >2633</span></td>
-            {% elsif page.matName == bot.commonMat2 or page.matName == bot.commonMat3 %}
-                <td><span class="scrapcostC23" >1335</span></td>
-            {% elsif page.matName == bot.specialMat %}
-                <td><span class="scrapcostS" >519</span></td>
-            {% elsif page.matName == bot.rareMat %}
-                <td><span class="scrapcostR" >38</span></td>
-            {% else %}
-                <td>8</td>   
-            {% endif %}        
-            <td class="rarity_Common">
-              <a href="/{{bot.commonMat1 | slugify}}" title="{{bot.commonMat1}}">
-                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat1 | slugify}}.png" alt="{{bot.commonMat1}}" >
-              </a>
-            </td>
-            <td class="rarity_Common">
-              <a href="/{{bot.commonMat2 | slugify}}" title="{{bot.commonMat2}}">
-                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat2 | slugify}}.png" alt="{{bot.commonMat2}}" >
-              </a>
-            </td>
-            <td class="rarity_Common">
-              <a href="/{{bot.commonMat3 | slugify}}" title="{{bot.commonMat3}}">
-                <img loading="lazy"   src="/assets/img/materials/{{bot.commonMat3 | slugify}}.png" alt="{{bot.commonMat3}}" >
-              </a>
-            </td>
-            <td class="rarity_Special">
-              <a href="/{{bot.specialMat | slugify}}" title="{{bot.specialMat}}">
-                <img loading="lazy"   src="/assets/img/materials/{{bot.specialMat | slugify}}.png" alt="{{bot.specialMat}}" >
-              </a>
-            </td>
-            <td class="rarity_Rare">
-              <a href="/{{bot.rareMat | slugify}}" title="{{bot.rareMat}}">
-                <img loading="lazy"   src="/assets/img/materials/{{bot.rareMat | slugify}}.png" alt="{{bot.rareMat}}" >
-              </a>
-            </td>
-            <td class="rarity_Epic">
-              <a href="/essence" title="Default Essence page">
-                <img loading="lazy"   src="/assets/img/materials/essence.png" alt="Default Essence pic" >
-              </a>
-            </td>
-        </tr>
-    {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-
-</div>
-
-<script type="text/javascript">
-
-
-const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
-const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
-const $output = document.querySelector('#scrap-calc span.scrapcost');
-const $outputC1 = document.querySelector('#scrap-table span.scrapcostC1');
-const $outputC23 = document.querySelector('#scrap-table span.scrapcostC23');
-const $outputS = document.querySelector('#scrap-table span.scrapcostS');	
-const $outputR = document.querySelector('#scrap-table span.scrapcostR');	
-const $outputE = document.querySelector('#scrap-table span.scrapcostE');
-	
-const arraycommon1 = [ 0, 2, 3, 4, 6, 8, 10, 10, 15, 15, 20, 20, 25, 30, 30, 35, 40, 45, 50, 60, 135, 260, 410, 590, 810 ];
-const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
-const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 35, 60, 75, 110, 160 ];
-const arrayrare = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 5, 8, 10 ];
-const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 3 ];
-
-
-function calc(){
-    var scrapCounterC1 = 0;
-    var scrapCounterC23 = 0;
-    var scrapCounterS = 0;
-    var scrapCounterR = 0;
-    var scrapCounterE = 0;
-    for (let i = parseInt($currentLevel.value); i < parseInt($targetLevel.value); i++) {
-        scrapCounterC1 += arraycommon1[i];
-        scrapCounterC23 += arraycommon2[i];
-        scrapCounterS += arrayspecial[i];
-        scrapCounterR += arrayrare[i];
-        scrapCounterE += arrayepic[i];
-    }								 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostC1');
-    var i;
-    for (i = 0; i < x.length; i++) {
-    	x[i].innerText = scrapCounterC1;
-    }									 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostC23');
-    var i;
-    for (i = 0; i < x.length; i++) {
-    	x[i].innerText = scrapCounterC23;
-    }											 									 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostS');
-    var i;
-    for (i = 0; i < x.length; i++) {
-    	x[i].innerText = scrapCounterS;
-    }										 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostR');
-    var i;
-    for (i = 0; i < x.length; i++) {
-    	x[i].innerText = scrapCounterR;
-    }									 
-    var x = document.querySelectorAll('#scrap-table span.scrapcostE');
-    var i;
-    for (i = 0; i < x.length; i++) {
-    	x[i].innerText = scrapCounterE;
-    }			     									 
-}
-
-$currentLevel.addEventListener('input', calc);
-$targetLevel.addEventListener('input', calc);
-
-</script>
-
-<script>
-
-function sortTable(n) {
-    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-    table = document.getElementById("scrap-sorttable");
-    switching = true;
-    dir = "asc";
-
-    while (switching) {
-        switching = false;
-        rows = table.rows;
-
-        for (i = 1; i < (rows.length - 1); i++) {
-            shouldSwitch = false;
-            x = rows[i].getElementsByTagName("TD")[n];
-            y = rows[i + 1].getElementsByTagName("TD")[n];
-
-            if (dir == "asc") {
-                if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
-                    shouldSwitch = true;
-                    break;
-                }
-            } else if (dir == "desc") {
-                if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
-                    shouldSwitch = true;
-                    break;
-                }
-            }
-        }
-        if (shouldSwitch) {
-            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-            switching = true;
-            switchcount ++;
-        } else {
-            if (switchcount == 0 && dir == "asc") {
-                dir = "desc";
-                switching = true;
-            }
-        }
-    }
-}
-
-
-</script>
-	
-{% endif %}
 
