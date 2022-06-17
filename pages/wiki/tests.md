@@ -2,6 +2,7 @@
 layout: testing-default
 contributors: "QC, OJ"
 updatedAt: "2022-06-16"
+permalink: "/tests"
 
 
 title: "Link (Epic Tank)"
