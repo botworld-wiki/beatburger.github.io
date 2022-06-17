@@ -8,7 +8,7 @@ updatedAt: "2021-12-30"
 title: "Berserker (Special Tank)"
 name: "Berserker"
 description: "Very aggressive and mobile tank that'll run through the battlefield to push, stun, and damage enemy bots. Makes the life of your squishy bots that much easier.\n- Speciality: bully foes, protect friends\n- Combos: melee bots that lack defensive or evasive abilities\n"
-imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545693383634984/berserker.png"
+imageUrl: ""
 breadcrumbs:
   Bots: "/bots"
   Tank: "/bots#tanks"
