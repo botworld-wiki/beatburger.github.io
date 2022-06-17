@@ -14,7 +14,7 @@ breadcrumbs:
   Tank: "/bots#tank"
 
 
-botName: "Link"
+botName: "Link Halo"
 botDescription: "Keeps your other bots alive by absorbing some of the damage they take. Link finds it easy to make new friends."
 botImageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
 botType: "Tank"
