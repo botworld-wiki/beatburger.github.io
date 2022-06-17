@@ -25,15 +25,15 @@
     
 {% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
     {% if page.layout contains "bot" %}
-	     <meta property="og:image" content="/assets/img/bots/{{page.botName | slugify}}.png"/>
+	     <meta property="og:image" content="/assets/img/bots/{{page.botName}}.png"/>
     {% elsif page.layout == "ability" %}
-	    <meta property="og:image" content="/assets/img/abilities/{{page.abilityName | slugify}}.png"/>
+	    <meta property="og:image" content="/assets/img/abilities/{{page.abilityName}}.png"/>
     {% elsif page.layout == "booster" %}
-	    <meta property="og:image" content="/assets/img/boosters/{{page.boosterName | slugify}}.png"/>
+	    <meta property="og:image" content="/assets/img/boosters/{{page.boosterName}}.png"/>
     {% elsif page.layout == "material" %}
-	    <meta property="og:image" content="/assets/img/materials/{{page.matName | slugify}}.png"/>
+	    <meta property="og:image" content="/assets/img/materials/{{page.matName}}.png"/>
     {% elsif page.layout == "boat-material" %}
-	    <meta property="og:image" content="/assets/img/boat-materials/{{page.matName| slugify}}.png"/>
+	    <meta property="og:image" content="/assets/img/boat-materials/{{page.matName}}.png"/>
     {% endif %}
 {% else %}
   <meta property="og:image" content="https://www.botworld.wiki/assets/img/icons/party-cog.png"/>
