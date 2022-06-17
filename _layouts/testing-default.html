@@ -21,11 +21,25 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{page.title}}" />
 <meta name="twitter:description" content="{{page.description}}"/>
+    
+    
 {% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
-  <meta property="og:image" content="{{page.imageUrl}}"/>
+    {% if page.layout contains "bot" %}
+	     <meta property="og:image" content="/assets/img/bots/" + "{{page.name}}"+ ".png"/>
+    {% elsif page.layout contains "ability" %}
+	    <meta property="og:image" content="/assets/img/abilities/" + "{{page.name}}"+ ".png"/>
+    {% elsif page.layout contains "booster" %}
+	    <meta property="og:image" content="/assets/img/boosters/" + "{{page.name}}"+ ".png"/>
+    {% elsif page.layout == "material" %}
+	    <meta property="og:image" content="/assets/img/materials/" + "{{page.name}}"+ ".png"/>
+    {% elsif page.layout == "boat-material" %}
+	    <meta property="og:image" content="/assets/img/boat-materials/" + "{{page.name}}"+ ".png"/>
+    {% endif %}
 {% else %}
   <meta property="og:image" content="https://www.botworld.wiki/assets/img/icons/party-cog.png"/>
 {% endif %}
+    
+    
 <script type="application/ld+json">
 {"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
 <meta name="google-site-verification" content="RhLHJEi3hAsfqwSwE-lzaF1r4TXxF_ss7Ho4z4S-lWA" />
