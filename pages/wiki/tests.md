@@ -8,13 +8,13 @@ permalink: "/tests"
 title: "Link (Epic Tank)"
 name: "Link"
 description: "The ultimate damage absorber\n\n\n"
-imageUrl: "/assets/img/bots/thump.png"
+imageUrl: ""
 breadcrumbs:
   Bots: "/bots"
   Tank: "/bots#tank"
 
 
-botName: "Link Halo"
+botName: "Link"
 botDescription: "Keeps your other bots alive by absorbing some of the damage they take. Link finds it easy to make new friends."
 botImageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
 botType: "Tank"
