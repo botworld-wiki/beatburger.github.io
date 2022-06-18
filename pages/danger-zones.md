@@ -122,7 +122,7 @@ Sneks
 
 <div markdown="1" class=" ghcms ghcms-scrapeyard">
 
-## Scrapeyard
+## Scrapyard
 
 Teddy Bears (check [the Event](</news>))
 
