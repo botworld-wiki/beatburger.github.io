@@ -480,7 +480,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 10
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl10infos">
 
 ![half-right Boat upgraded to lvl 10](/assets/img/boat/boat-10.png)
 
@@ -532,7 +532,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 11
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl11infos">
 
 ![half-right Boat upgraded to lvl 11](/assets/img/boat/boat-11.png)
 
@@ -587,7 +587,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 12
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl12infos">
 
 ![half-right Boat upgraded to lvl 12](/assets/img/boat/boat-12.png)
 
@@ -642,7 +642,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 13
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl13infos">
 
 ![half-right Boat upgraded to lvl 13](/assets/img/boat/boat-13.png)
 
@@ -651,7 +651,9 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 - **Spore Woods:** Travel to the [Spore Woods](/maps#spore-woods)
 
 ### Requirements
-
+- Investigate the [Scrapyard Danger Zone](/danger-zones#scrapyard)
+- Defeat [Arena Master Nicola](/arena#nicola)
+- [Upgrade](/materials) 290 [bots](/bots)
 
 
 </div>
@@ -694,7 +696,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 14
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl14infos">
 
 ![half-right Boat upgraded to lvl 14](/assets/img/boat/boat-14.png)
 
@@ -747,7 +749,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 ## Level 15
 
-<div markdown="1" class="ghcms ghcms-lvl1infos">
+<div markdown="1" class="ghcms ghcms-lvl15infos">
 
 ![half-right Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
 
