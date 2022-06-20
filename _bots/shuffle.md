@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: ""
-updatedAt: "2022-5-26"
+updatedAt: "2022-06-20"
 
 
 title: "Shuffle (Epic Support)"
@@ -61,12 +61,12 @@ lvl1Hp: "1400"
 lvl1Dmg: "50"
 lvl1Dps: "76"
 lvl1Speed: "10"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl10Hp: "2947"
+lvl10Dmg: "165"
+lvl10Dps: "250"
+lvl20Hp: "7645"
+lvl20Dmg: "428"
+lvl20Dps: "649"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
