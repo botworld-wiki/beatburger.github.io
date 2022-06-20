@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "QC, OJ"
-updatedAt: "2022-06-16"
+updatedAt: "2022-06-20"
 
 
 title: "Link (Epic Tank)"
@@ -61,12 +61,12 @@ lvl1Hp: "2872"
 lvl1Dmg: "40"
 lvl1Dps: "47"
 lvl1Speed: "10"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl10Hp: "5187"
+lvl10Dmg: "94"
+lvl10Dps: "111"
+lvl20Hp: "13455"
+lvl20Dmg: "245"
+lvl20Dps: "288"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
@@ -79,6 +79,5 @@ commonMat1: "Cold Battery"
 commonMat2: "Rusty Cog"
 commonMat3: "Hardened Fiberglass"
 ---
-
 
 
