@@ -1,10 +1,10 @@
 ---
-layout: material
-contributors: "Xen"
-updatedAt: "2022-01-14"
+layout: boat-material
+contributors: "Xen, Pix"
+updatedAt: "2022-07-01"
 
 
-title: "Barrel (Boat lvl 2)"
+title: "Barrel (Boat lvl 2 & 3)"
 name: "Barrel"
 description: "Found scattered all around the Scrapper Coast - Randomly appears at a spawn location"
 imageUrl: "/assets/img/boat-materials/barrel.png"
@@ -15,8 +15,8 @@ breadcrumbs:
 
 matName: "Barrel"
 matReqBoatLvl1: ""
-matReqBoatLvl2: "?"
-matReqBoatLvl3: ""
+matReqBoatLvl2: "2"
+matReqBoatLvl3: "3"
 matReqBoatLvl4: ""
 matReqBoatLvl5: ""
 matReqBoatLvl6: ""
