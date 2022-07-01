@@ -1,10 +1,10 @@
 ---
-layout: material
-contributors: ""
-updatedAt: "2022-01-14"
+layout: boat-material
+contributors: "Pix"
+updatedAt: "2022-07-01"
 
 
-title: "Steel Fencing (Boat lvl 14)"
+title: "Steel Fencing (Boat lvl 9 & 14)"
 name: "Steel Fencing"
 description: "Found scattered around ridges, mountains and other high places - Farmable"
 imageUrl: "/assets/img/boat-materials/steel-fencing.png"
@@ -22,7 +22,7 @@ matReqBoatLvl5: ""
 matReqBoatLvl6: ""
 matReqBoatLvl7: ""
 matReqBoatLvl8: ""
-matReqBoatLvl9: ""
+matReqBoatLvl9: "5"
 matReqBoatLvl10: ""
 matReqBoatLvl11: ""
 matReqBoatLvl12: ""
