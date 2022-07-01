@@ -1,23 +1,23 @@
 ---
 layout: boat-material
 contributors: "Pix"
-updatedAt: "2022-01-17"
+updatedAt: "2022-07-01"
 
 
-title: "Nails (Boat lvl 7)"
+title: "Nails (Boat lvl 4 & 7)"
 name: "Nails"
 description: "Occasionally found when defeating wild bots - Farmable"
 imageUrl: "/assets/img/boat-materials/nails.png"
 matImageUrl: "/assets/img/boat-materials/nails.png"
 breadcrumbs:
-Boat: "/boat"
+  Boat: "/boat"
 
 
 matName: "Nails"
 matReqBoatLvl1: ""
 matReqBoatLvl2: ""
 matReqBoatLvl3: ""
-matReqBoatLvl4: ""
+matReqBoatLvl4: "5"
 matReqBoatLvl5: ""
 matReqBoatLvl6: ""
 matReqBoatLvl7: "11"
