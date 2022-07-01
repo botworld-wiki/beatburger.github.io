@@ -31,7 +31,7 @@ matReqBoatLvl14: ""
 matReqBoatLvl15: ""
 matRarity: "Special"
 matRaritySortOrder: "2"
-matDescription: "Left in a trailer that was attacked by <a href='/exploring#wild-bots'>Wild Bots</a> in Valley Floor, <a href='/maps#scrapper-coast'>Scrapper Coast</a> "
+matDescription: "Left in a trailer that was attacked by <a href='/exploring#wild-bots'>Wild Bots</a> in <a href='/maps#scrapper-coast'>Valley Floor, Scrapper Coast</a> "
 matOverview: "Known  <a href='/blue-tarp'>fixed Spawn Location</a>"
 ---
 
