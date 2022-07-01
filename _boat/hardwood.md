@@ -1,10 +1,10 @@
 ---
-layout: material
+layout: boat-material
 contributors: "BloodxReaper, Pix"
-updatedAt: "2022-01-14"
+updatedAt: "2022-07-01"
 
 
-title: "Hardwood (Boat lvl 10)"
+title: "Hardwood (Boat lvl 5 & 10)"
 name: "Hardwood"
 description: "Often found stacked near trees - Farmable"
 imageUrl: "/assets/img/boat-materials/hardwood.png"
@@ -18,7 +18,7 @@ matReqBoatLvl1: ""
 matReqBoatLvl2: ""
 matReqBoatLvl3: ""
 matReqBoatLvl4: ""
-matReqBoatLvl5: ""
+matReqBoatLvl5: "4"
 matReqBoatLvl6: ""
 matReqBoatLvl7: ""
 matReqBoatLvl8: ""
