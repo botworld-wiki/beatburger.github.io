@@ -1,10 +1,10 @@
 ---
-layout: material
+layout: boat-material
 contributors: "BloodxReaper, Pix"
-updatedAt: "2022-01-14"
+updatedAt: "2022-07-01"
 
 
-title: "Fencing (Boat lvl 10)"
+title: "Fencing (Boat lvl 9 & 10)"
 name: "Fencing"
 description: "Found scattered around ancient ruins in Fall Grove - Farmable"
 imageUrl: "/assets/img/boat-materials/fencing.png"
@@ -22,7 +22,7 @@ matReqBoatLvl5: ""
 matReqBoatLvl6: ""
 matReqBoatLvl7: ""
 matReqBoatLvl8: ""
-matReqBoatLvl9: ""
+matReqBoatLvl9: "5"
 matReqBoatLvl10: "5"
 matReqBoatLvl11: ""
 matReqBoatLvl12: ""
