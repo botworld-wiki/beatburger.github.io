@@ -1,10 +1,10 @@
 ---
 layout: boat-material
 contributors: "BloodxReaper, Pix"
-updatedAt: "2022-06-22"
+updatedAt: "2022-07-01"
 
 
-title: "Overcharged Radio Receiver (Boat lvl 11)"
+title: "Overcharged Radio Receiver (Boat lvl 9 & 11)"
 name: "Overcharged Radio Receiver"
 description: "Often found when fighting multiple enemies simultaneously"
 imageUrl: "/assets/img/boat-materials/overcharged-radio-receiver.png"
@@ -22,7 +22,7 @@ matReqBoatLvl5: ""
 matReqBoatLvl6: ""
 matReqBoatLvl7: ""
 matReqBoatLvl8: ""
-matReqBoatLvl9: ""
+matReqBoatLvl9: "21"
 matReqBoatLvl10: ""
 matReqBoatLvl11: "35"
 matReqBoatLvl12: ""
