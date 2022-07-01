@@ -1,7 +1,7 @@
 ---
-layout: material
-contributors: "Xen"
-updatedAt: "2022-01-14"
+layout: boat-material
+contributors: "Xen, Pix"
+updatedAt: "2022-07-01"
 
 
 title: "Drift Wood (Boat lvl 1 & 2)"
@@ -14,8 +14,8 @@ breadcrumbs:
 
 
 matName: "Drift Wood"
-matReqBoatLvl1: "?"
-matReqBoatLvl2: "?"
+matReqBoatLvl1: "1"
+matReqBoatLvl2: "2"
 matReqBoatLvl3: ""
 matReqBoatLvl4: ""
 matReqBoatLvl5: ""
