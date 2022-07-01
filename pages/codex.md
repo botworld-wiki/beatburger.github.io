@@ -238,3 +238,14 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 ![Parched Sea](<https://cdn.discordapp.com/attachments/923510071026155550/932915315514425384/parched-sea-codex-new3-min.png>)*credit: Hex, debb, cloud9, Chael*
 
 </div>
+
+## Spore Woods
+
+<div markdown="1" class=" ghcms ghcms-sporewoods">
+### Missions
+
+### Rewards
+
+### Guides
+
+</div>
