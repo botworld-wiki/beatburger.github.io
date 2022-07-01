@@ -1,7 +1,7 @@
 ---
 layout: boat-material
 contributors: "QC"
-updatedAt: "2022-07-01"
+updatedAt: "2022-7-01"
 
 
 title: "Living Shard (Boat lvl 15)"
