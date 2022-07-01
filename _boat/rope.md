@@ -1,10 +1,10 @@
 ---
-layout: material
+layout: boat-material
 contributors: "BloodxReaper, Chael, Pix"
 updatedAt: "2022-01-14"
 
 
-title: "Rope (Boat lvl 6, 8 & 13)"
+title: "Rope (Boat lvl 3, 6, 8 & 13)"
 name: "Rope"
 description: "Often carried by bandits who stay near the water - Farmable"
 imageUrl: "/assets/img/boat-materials/rope.png"
@@ -16,7 +16,7 @@ breadcrumbs:
 matName: "Rope"
 matReqBoatLvl1: ""
 matReqBoatLvl2: ""
-matReqBoatLvl3: ""
+matReqBoatLvl3: "4"
 matReqBoatLvl4: ""
 matReqBoatLvl5: ""
 matReqBoatLvl6: "10"
