@@ -31,6 +31,6 @@ matReqBoatLvl14: ""
 matReqBoatLvl15: "28"
 matRarity: "Common"
 matRaritySortOrder: "1"
-matDescription: "Can be collected by defeating wild bots quickly in the <a href='/maps#ashen-shore>Ashen Shore</a>"
+matDescription: "Can be collected by defeating wild bots quickly in the <a href='/maps#ashen-shore'>Ashen Shore</a>"
 matOverview: "<a href='/farming'>Farmable</a>"
 ---
