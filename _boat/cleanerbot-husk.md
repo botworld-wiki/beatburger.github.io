@@ -1,10 +1,10 @@
 ---
-layout: material
+layout: boat-material
 contributors: ""
-updatedAt: "2022-01-14"
+updatedAt: "2022-07-01"
 
 
-title: "Cleanerbot Husk (Boat lvl 14)"
+title: "Cleanerbot Husk (Boat lvl 14 & 15)"
 name: "Cleanerbot Husk"
 description: "Often found after a CleanerBot attack in a Danger Zone (Heroic) - Heroic Danger Zones need to be unlocked by progressing the Story Quests"
 imageUrl: "/assets/img/boat-materials/cleanerbot-husk.png"
