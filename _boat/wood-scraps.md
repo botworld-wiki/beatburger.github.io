@@ -1,10 +1,10 @@
 ---
-layout: material
+layout: boat-material
 contributors: "Chael, Pix"
 updatedAt: "2022-01-14"
 
 
-title: "Wood Scraps (Boat lvl 6)"
+title: "Wood Scraps (Boat lvl 4 & 6)"
 name: "Wood Scraps"
 description: "Often found in piles of scrap near trees - Farmable"
 imageUrl: "/assets/img/boat-materials/wood-scraps.png"
@@ -17,7 +17,7 @@ matName: "Wood Scraps"
 matReqBoatLvl1: ""
 matReqBoatLvl2: ""
 matReqBoatLvl3: ""
-matReqBoatLvl4: ""
+matReqBoatLvl4: "3"
 matReqBoatLvl5: ""
 matReqBoatLvl6: "4"
 matReqBoatLvl7: ""
