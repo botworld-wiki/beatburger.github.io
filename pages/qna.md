@@ -17,7 +17,7 @@ sitemap: true
 
 *My name is Eren, I am the Social Media & Community Manager at Featherweight Games. On behalf of our team, I want to thank you and the Botworld community for the amazing support that you have shown us. I am happy to go over some of the exciting questions from you regarding Botworld Adventure.*
 
-*Q&A from june 2022, game version 1.6.4*
+Q&A from june 2022, game version 1.6.4
 
 - **Every new update comes as a coordination of several areas, from creative works (art, writing…) to game design (balance, economy…) and development (bug fixes, new systems…). Can you tell us a bit about each team and their priorities?**
 
