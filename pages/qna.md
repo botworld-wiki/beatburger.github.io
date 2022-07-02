@@ -2,14 +2,21 @@
 
 layout: breadcrumbs
 permalink: /qna
-title: Interview
+title: Interviews with Featherweight Games
 description: Interview with Featherweight Developers
 robots: "INDEX, FOLLOW"
 sitemap: true
   
 ---
 
-## Interview with Eren
+# Interviews with Featherweight Games
+
+## First QnA
+
+### Hi FW, what's up with Botworld, behind the stage?
+
+*Q&A from june 2022, game version 1.6.4*
+
 
 - **Every new update comes as a coordination of several areas, from creative works (art, writing…) to game design (balance, economy…) and development (bug fixes, new systems…). Can you tell us a bit about each team and their priorities?**
 
