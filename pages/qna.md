@@ -15,8 +15,9 @@ sitemap: true
 
 ### Hi FW, what's up with Botworld, behind the stage?
 
-*Q&A from june 2022, game version 1.6.4*
+*My name is Eren, I am the Social Media & Community Manager at Featherweight Games. On behalf of our team, I want to thank you and the Botworld community for the amazing support that you have shown us. I am happy to go over some of the exciting questions from you regarding Botworld Adventure.*
 
+*Q&A from june 2022, game version 1.6.4*
 
 - **Every new update comes as a coordination of several areas, from creative works (art, writing…) to game design (balance, economy…) and development (bug fixes, new systems…). Can you tell us a bit about each team and their priorities?**
 
@@ -61,3 +62,13 @@ We love seeing the ideas for new bots just for our own entertainment and there a
 
 The Guild feature is one that we were very excited to introduce and was based on the community's request for it. As of now, the Guild feature is still in its early stages and we are constantly discussing and working on upcoming updates that will enhance the Guild experience for players. Guild events are meant to be sometimes challenging so players can plan and work together to achieve certain tasks in specific events and in other cases they may be more fun and less demanding. Each event is unique and its difficulty level may differ from the next. However, as Guild events are new to the community, they are also new to us and we are gradually learning from the community based on their feedback to help us better structure and improve them in the future. As for the direction we have in mind, we do have some events that will be themed after certain holidays of the year but we will also work on unique themes that will be fun and competitive in their own merit.
 
+## Get in touch with FW on socials
+
+Where can I find Botworld Adventure on social media?
+
+- Twitter: [https://twitter.com/BotworldGame](https://twitter.com/BotworldGame)
+- Facebook: [https://www.facebook.com/BotworldAdventure](https://www.facebook.com/BotworldAdventure)
+- Instagram: [https://www.instagram.com/botworldadventure/](https://www.instagram.com/botworldadventure/)
+- TikTok: [https://www.tiktok.com/@botworldadventure](https://www.tiktok.com/@botworldadventure)
+
+And of course, join the discord server! [https://discord.gg/FsJzvtFrgq](https://discord.gg/FsJzvtFrgq)
