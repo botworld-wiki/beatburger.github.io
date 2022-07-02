@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /qna
 title: Interviews with Featherweight Games
-description: Interview with Featherweight Developers
+description: Interviews and QnAs with the team behind Botworld, Featherweight Games.
 robots: "INDEX, FOLLOW"
 sitemap: true
   
