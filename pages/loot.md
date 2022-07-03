@@ -132,32 +132,4 @@ Ridges, Mountains or other High Places
 
 <div markdown="1" class=" ghcms ghcms-droprates">
 
-## Materials
-
-![Frost Fuel](<https://media.discordapp.net/attachments/922111845958037525/923439915449069619/PicsArt_12-23-12.59.15.png>)
-
-### Frost Fuel
-
-- **Wild Bots** \- 18% Chance
-
-- **Critters** \- 0% Chance
-
-- **Bandits / Pirates** \- 9% Chance
-
-- **Runaway Chest/ Blue Chest** \- 8% chance
-
-- **Scrap Piles** 21% Chance
-
-- **Battle Chest** \- 16% Chance
-
-- **Special Chest** \- 34% chance
-
-- **Rare Chest** \- 45% chance
-
-- **Epic Chest** \- 50-100% chance
-
-- **Tips** \-Try Battling 2-5 Multiple Enemies To Get The Higher Droprates
-
-- **Work In Progress**
-
 </div>
