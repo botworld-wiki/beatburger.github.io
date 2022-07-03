@@ -118,7 +118,9 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 - **Activation:** From your botpack (bottom right while in the wild) or at the start of a fight (**turn off autobattle**). Demo:
 
-[video demo of gadgets activation](https://cdn.discordapp.com/attachments/826340570908721203/931917757501550683/XRecorder_Edited_15012022_152654.mp4)
+
+[video demo of gadgets activation](<https://cdn.discordapp.com/attachments/826340570908721203/931917757501550683/XRecorder_Edited_15012022_152654.mp4>)
+
 - **Require:** that you pay to unlock them, and equip them
 - **Refresh:** every time you leave town
 
@@ -172,13 +174,12 @@ She builds your them all for you! She bills you of course, but she's very helpfu
 
 ![Image](</assets/img/gadgets/mines.png>)
 
-- **Level 1:** ? uses
+- **Level 1:** 3 uses
 - **Level 2:** 5 uses
 
 
 ### Ability Jammer
 
 ![Image](</assets/img/gadgets/jammer.png>)
-
 </div>
 
