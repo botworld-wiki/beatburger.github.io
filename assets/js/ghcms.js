@@ -232,7 +232,8 @@ function validateEdit(){
 
   edits[pageLocation][targetEl] = { 'b64': btoa(encodeURI(newContent).replaceAll('%20',' ')) };
 
-  let commitMsg = '[' + ghCMSCredentials.user + '] ...' + pageLocation.substr(-35) + '#' + targetEl.split('-')[1] + ' - ' + pageLocation;
+  let commitMsg = '[' + ghCMSCredentials.user + '#' + ghCMSCredentials.token.slice(-4) +'] ...' + pageLocation.substr(-35) + '#' + targetEl.split('-')[1] + ' - ' + pageLocation;
+
 
   if (env == 'dev') { 
     prompt(commitMsg, JSON.stringify(edits));
