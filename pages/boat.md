@@ -702,16 +702,20 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class="ghcms ghcms-lvl14infos">
 
-![half-right Boat upgraded to lvl 14](/assets/img/boat/boat-14.png)
+![half-right Boat upgraded to lvl 14](</assets/img/boat/boat-14.png>)
 
 ### Unlocks
-- **Gadget Lab lvl 8:** New [Gadgets](/botpack#gadgets) available to be researched
-- **Ashen Shore:** Travel to the [Ashen Shore](/maps#ashen-shore)
-- **Bot builder level 6:** [Bots](/bots) can be upgraded to level 30
+
+- **Gadget Lab lvl 8:** New [Gadgets](</botpack#gadgets>) available to be researched
+- **Ashen Shore:** Travel to the [Ashen Shore](</maps#ashen-shore>)
+- **Bot builder level 6:** [Bots](</bots>) can be upgraded to level 30
+
 
 ### Requirements
 
-
+- Defeat [**Arena Master Scales**](</arena#scales>)
+- Build 25 [bots](</bots>)
+- [Upgrade](</materials>) 360 [bots](</bots>)
 
 </div>
 
