@@ -58,40 +58,43 @@ Don't worry, you don’t actually die or lose anything besides you Can Energy le
 
 Mobs display their level in different colors to give you an idea of the danger level of fighting them:
 
-- **Red:** dangerous, high ai exp gain
-- **Yellow:** fight with caution, medium ai exp gain
-- **Green:** easy, low ai exp gain
+- **Red:** dangerous, high ai exp gain, 3 or more levels higher than self botpack level
+- **Orange:** less dangerous than red, medium-high exp gain, 1 or 2 more levels higher than self botpack level
+- **Yellow:** fight with caution, medium ai exp gain, same or 1 or 2 levels lower than self botpack level
+- **Green:** easy, low ai exp gain, 3 levels lower than self botpack level
+
 
 ### Wild bots
 
 - All there at the begining of the fight
-- **Notably Drop:** [Sparky Wires](/sparky-wires), [Hard Botplates](/hard-botplates)
+- **Notably Drop:** [Sparky Wires](</sparky-wires>), [Hard Botplates](</hard-botplates>)
 
 
 ### Bandits
 
 - Place bots at the same time as you do, so you can't plan quite as much.
-- They have a full [Botpack](/botpack), that means abilities and boosters!
-- **Notably Drop:** x-xx Gold, [Clear Oil](/clear-oil), [Glass Tube](/glass-tube)
+- They have a full [Botpack](</botpack>), that means abilities and boosters!
+- **Notably Drop:** x-xx Gold, [Clear Oil](</clear-oil>), [Glass Tube](</glass-tube>)
+
 
 There are 5 types of bandits:
 
-- **Cats:** Just your ordinary bandit.
-- **Rats:** Can mount cannons or energy blasters.
+- **Cats:** Just your ordinary bandit. Can mount cannons.
+- **Rats:** Can mount cannons, grapple hooks, or energy blasters.
 - **Dog:** Ability to run extremely fast and can outrun you.
 - **Lizard:** Bandits with slowing nets.
-- **Buffalo:** Has an ability to charge at you, annoying to run into. Notably drop [Thick Oil](/thick-oil)
+- **Buffalo:** Has an ability to charge at you, annoying to run into. Notably drop [Thick Oil](</thick-oil>)
+
 
 ### Mega Bots
 
-They're big and sometime nasty. They have a skull logo
+They’re big and sometime nasty. They have a skull logo
 
-**Interesting Counters:** [Bigshot](/bigshot), [Rocketeer](/Rocketeer), [Hyperdrain](/hyperdrain)...
+**Interesting Counters:**[Bigshot](</bigshot>), [Rocketeer](</Rocketeer>), [Hyperdrain](</hyperdrain>)...
 
 ### Bosses
 
-Same. You get [Season Reward Tokens](/seasons) for beating them!
-
+Same. You get [Season Reward Tokens](</seasons>) for beating them!
 
 </div>
 
