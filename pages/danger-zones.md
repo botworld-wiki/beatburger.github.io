@@ -219,7 +219,7 @@ Trix: an adventurer that's overburdened. You can help her by taking her loot.
 
 <div markdown="1" class=" ghcms ghcms-exterminator-squads">
 
-## Exterminator Squads
+## Exterminator Squads!
 
 Exterminator Squad is a higher game challenge. Exterminators are found on danger zone maps. Once you upgrade your [Boat](</boat>) to level 15, your danger zone map menu will change. Exterminators has 4 types : Buffalo ![inline icon buff](<https://cdn.discordapp.com/attachments/923510071026155550/928740159455911986/exterminator_buffalo_icon.png>)(Frozen Waste), Cat ![inline icon cat](<https://cdn.discordapp.com/attachments/923510071026155550/928740158805798952/exterminator_cat_icon.png>)(Molten Rock), Lizard ![inline icon liz](<https://cdn.discordapp.com/attachments/923510071026155550/928740158998720572/exterminator_lizard_icon.png>)(Vivid Valley) and Dog ![inline icon dog](<https://cdn.discordapp.com/attachments/923510071026155550/928740159229411328/exterminator_dog_icon.png>) (Scrapyard).
 
@@ -253,7 +253,7 @@ Exterminator Squads levels will rise up and it will get harder every time. It's 
 - **Scrapyard:** Dog Pest Control
 
 
-![300px pc buff](<https://media.discordapp.net/attachments/923510071026155550/928637165343236146/Pest_Control_Buffalo.png>) ![300px inline pc cat](<https://media.discordapp.net/attachments/923510071026155550/928637165678784573/Pest_Control_Cat.png>)
+![300px pc buff](<https://media.discordapp.net/attachments/923510071026155550/928637165343236146/Pest_Control_Buffalo.png>) ![300px inline pc cat](<https://media.discordapp.net/attachments/923510071026155550/928830798369546260/Pest_Control_Cath.png>)
 
 ![300px pc liz](<https://media.discordapp.net/attachments/923510071026155550/928637165972377630/Pest_Control_Lizard.png>)![300px inline pc dpg](<https://media.discordapp.net/attachments/923510071026155550/928637166333091860/Pest_Control_Dog.png>)
 
