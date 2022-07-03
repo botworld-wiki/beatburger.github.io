@@ -177,7 +177,6 @@ She builds your them all for you! She bills you of course, but she's very helpfu
 - **Level 1:** 3 uses
 - **Level 2:** 5 uses
 
-
 ### Ability Jammer
 
 ![Image](</assets/img/gadgets/jammer.png>)
