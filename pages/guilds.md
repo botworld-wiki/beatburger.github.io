@@ -53,11 +53,19 @@ To create a guild:
 
 ## Events
 
+<div markdown="1" class=" ghcms ghcms-volcanic-eruption">
+
+### Volcanic Eruption
+
+</div>
+
+
+
 <div markdown="1" class=" ghcms ghcms-scavengers-fair">
 
 ### Scavenger's Fair
 
-**Start**: June 17, 2022 (currently running)
+**Start**: June 17, 2022
 
 **Duration**: 14 days
 
@@ -69,7 +77,7 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 - Find Fabric Rolls throughout Botworld [Count: 500, Guild Coins: 500]
 - Find and Scavenge [Scrap Piles](/loot#scrap-piles) throughout Botworld [Count: 10000, Guild Coins: 1000]
-- Win battles using only [Evader Bots](/bots#evaders) [Count: 1000, Guild Coins: 1000] **You need to have an ALL evader bot loadout**
+- Win battles using only [Evader Bots](/bots#evaders) [Count: 1000, Guild Coins: 1000]
 - Spend Coins in the shop or with Merchants [Count: 100000, Guild Coins: 1000]
 - Rescue Travelling Merchants in [Vivid Valley](/danger-zones#vivid-valley) [Count: 500, Guild Coins: 1500]
 
