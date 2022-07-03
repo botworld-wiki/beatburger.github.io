@@ -46,7 +46,12 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 const octokit = new Octokit({ auth: ghCMSCredentials.token });
 
 // todo: restrict hns to h3s
-var mdConverter = new showdown.Converter();
+var mdConverter = new showdown.Converter({
+	backslashEscapesHTMLTags: true,
+	simpleLineBreaks: true,
+	tables: true,
+	underline: true
+});
 
 $(document).ready(()=>{
   checkCredentials()
