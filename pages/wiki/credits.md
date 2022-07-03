@@ -57,12 +57,14 @@ breadcrumbs:
 
 <div markdown="1" class="ghcms ghcms-maintainers">
 
-- **@debb#0810** 
+- **@QC**
+- **@debb#0810**
 - **Kartoffel (mykenception#6532)**
 - **@HexSanity#7490**
 - **@Groovy#1791**
 - **@Pix#6773**
 - **@Kurt Cabage#2089** (Halo Pizza Official) ![Halo Pizza](</assets/img/icons/halo-pizza.png> "Halo Pizza best delivery service for Delicious Pizzas all over Botworld!")
+
 
 ## Fruits and Vegetables
 
