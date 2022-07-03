@@ -52,10 +52,10 @@ Note: this only applies to purposedly harmful behavior. Good-faith mistakes can 
 
 ## Rewards
 
-**Community appreciation**
+### Community appreciation
 - Top 10 contributors: 50 gems
 
-**Wiki Staff picks**
+### Wiki Staff picks
 - Most impressive content: 50 gems (for long pieces, guides, etc)
 - Most helpful hand: 50 gems (for helping others who may struggle with technical stuff)
 - Most prolific editor: 50 gems (for making the thousand little edits and fixes everywhere)
