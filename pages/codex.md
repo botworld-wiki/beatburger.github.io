@@ -109,13 +109,12 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 - **Red Square:** Explore
 - **Blue Circle:** Fix Jammed Wind Turbines
 - **Green Square:** Salvage Shipping Containers
-- **Black Line:** Roaming Super Flamer
+- **Black Line:** Roaming Super Flamer, **Roams Clockwise**
 
 
 ![Great Desert Codex](<https://cdn.discordapp.com/attachments/923510071026155550/928070772717666384/great-desert-codex-new.png>)
 
 *Credit: O.J., debb, BloodxReaper, Hex*
-
 </div>
 
 ## Fall Grove
