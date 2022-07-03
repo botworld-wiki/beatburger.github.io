@@ -755,13 +755,18 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class="ghcms ghcms-lvl15infos">
 
-![half-right Boat upgraded to lvl 15](/assets/img/boat/boat-15.png)
+![half-right Boat upgraded to lvl 15](</assets/img/boat/boat-15.png>)
 
 ### Unlocks
-- **Exterminator Squads:** All Danger Zones become max level with a [new tier of boses](/danger-zones#exterminator-squads)
-- **Canister Production:** [Danger Zone](/danger-zones) Canisters recharge 3x faster
+
+- **Exterminator Squads:** All Danger Zones become max level with a [new tier of boses](</danger-zones#exterminator-squads>)
+- **Canister Production:** [Danger Zone](</danger-zones>) Canisters recharge 3x faster
+
 
 ### Requirements
+
+- Restore power to [Coggy](</contribute#tbw>)
+- [Upgrade](</materials>) 500 [bots](</bots>)
 
 </div>
 
