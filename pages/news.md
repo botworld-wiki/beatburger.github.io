@@ -22,6 +22,23 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-main">
 
+## d2022-07-02
+
+### QnA with Featherweights
+
+Opening a dialog with the Botworld devs, [read the first QnA right here](</qna>)!
+
+## d2022-06-25
+
+### Community Bot Event
+
+![Community Bot Event poster](<https://cdn.discordapp.com/attachments/877525482889936947/990172347736686592/BA_Community_Bot_Event-min.jpg>)
+
+[FeatherWeight](<https://twitter.com/BotworldGame/>): "Participate in our **new event, the Community Bot Event**! For the first time ever in Botworld Adventure, **the community will partake in creating a new bot**. To participate, you can send your bot's concept art & ability suggestions on your own or you can team up with a fellow player where one of you can focus on creating the concept art and the other can work on ability suggestions.
+
+Each winner or winners will receive **1,000 Gems**. You will also **be the first to receive the bot** and have **a choice in selecting a design** from the options we provide you that are similar to your concept."
+
+[Link to full rules and submission form](<https://docs.google.com/forms/d/e/1FAIpQLSc2TfUZzveMSoO0rkIYAX8vLgwYJFKL26Nlh6lybSTlElvYFw/viewform?usp=send_form>)
 
 </div>
 
