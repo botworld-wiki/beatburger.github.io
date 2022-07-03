@@ -45,7 +45,7 @@ We're in this together, and whatever difficulties we encounter, we'll find ways 
 The same is true to the organization of the wikiweek event itself: if our small team is too solicited, we'll have to rely on other participants to help and guide newcomers.
 
 ### Trust, but verify
-You will be granted access to change and edit the wiki directly. We expect everyone to act responsibly and be the most considerate of every parties involved: the wiki itself, others contributions, featherweight...
+You will be granted access to change and edit the wiki directly. We expect everyone to act responsibly and be the most considerate of every party involved: the wiki itself, others contributions, featherweight...
 We (wiki staff) won't tolerate any abuse of the access we're sharing, and reserve the right to update the rules accordingly without notice, as well as removing individuals from the event. Up to cancelling the WikiWeek altogether.
 
 Note: this only applies to purposedly harmful behavior. Good-faith mistakes can totally happen, and you musn't be afraid to make some, that's kinda part of the learning process. You will have guidelines to follow to reduce the risk to a minimum, but if you did an oopsie, just let us know as soon as possible and so we can restore it shortly ;)
@@ -73,3 +73,58 @@ Note: this only applies to purposedly harmful behavior. Good-faith mistakes can 
 - Just because there are rewards doesn't mean it's a competition! The goal is to get everyone familiarized with the wiki editing process, so we can all enjoy having the best wiki possible. Counter-productive behaviors won't be kindly looked upon.
 
 ## Documentation
+
+link
+
+### How WikiWeek works
+- Read the doc below
+- Find yourself a good first contribution to do. Don't pressure yourself into being too ambitious for your first steps!
+- DM it to Pix and get the credentials you need to make it happen
+- Re-read the doc below
+- Seriously, do it
+- Let's go, try and edit it yourself!
+- Join #wiki-contribution to help each other out, discuss the experience, provide feedback on others contributions...
+- Create your submission post in #wikiweek and describe/link your contribution from there. Only 1 post per contributor, edit it later if you make other contributions.
+- Rejoice & Repeat
+- When the event ends, come back to #wikiweek to vote on the contributions you appreciate most!
+
+### How to prepare a valuable contribution
+
+- find an area to improve
+- scroll over #questions or #tips-and-tricks for good stuff worth integrating (ask permission+give credits!)
+- how to use discord search to dig up game data
+- write it out
+- check the formatting syntax to add bold, italics, make titles, lists, links, or images. 
+
+### How to use Editor Mode to edit content
+
+- get your credentials
+- login 
+- take a first tour, here's what it should look like, but don't touch anything just yet
+- safety talks: keep your contributions saved locally so if anything goes wrong you don't risk losing it!
+- also refresh steps to link
+- have at it
+- chat with others in the thread so you don't realize mid-way that someone else just did what you had in mind and started already...
+
+### How to use the WikiSheet to update Bots, Botpack modules, Materials, etc...
+
+- Kesako? link
+- here's what they look like, sorry that's how it is for now... Don't get scared, what you don't understand is what's optional!
+- update your sheet with your fix or new column
+- remove the "synced" so wiki staff knows it's been updated and the wiki still hasn't
+- add yourself to the credits cell, update the date
+- download the doc locally just in case
+- let a maintainer know you updated the sheet and it's ready for review/update
+- as soon as we can, we'll make it live!
+
+### How to craft good-looking embeds for the !w Coggy command
+
+bots/modules/mats:
+- 350 chars total, max
+- see specs + illustration "!w virus"
+- write it out accordingly and submit to a maintainer for creation
+custom commands (like "!w ancient ruins")
+- must answer a real question people ask in the server.
+- submissions too "niche" will be rejected, sorry, but complexity creep is a thing too
+- 350 chars total, max
+- write it out accordingly and submit to a maintainer for creation
