@@ -169,6 +169,10 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class=" ghcms ghcms-lvl3extra">
 
+[Blue tarp](</blue-tarp>) location:
+
+![300px](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
+
 </div>
 
 ## Level 4
