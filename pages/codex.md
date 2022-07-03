@@ -31,9 +31,9 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ### Missions
 
-- [Catch a Rare Jackalope](<https://cdn.discordapp.com/attachments/923510071026155550/925702854537265192/Screenshot_20211229-170312.jpg>) (Bunny --->) ![inline Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
-- Collect Rare Tulips (20)
-- Collect Rare Tulips (100)
+- [Catch a Rare Jackalope](<https://cdn.discordapp.com/attachments/923510071026155550/925702854537265192/Screenshot_20211229-170312.jpg>) (Bunny —>) ![inline Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+- Collect [Rare Tulips](<https://media.discordapp.net/attachments/826341154450309140/983408929314836511/Screenshot_20220606-044708_F1_VM.jpg>) (20) ([map 1](<https://media.discordapp.net/attachments/923510071026155550/927864004561477632/IMG_2585.png>), [map 2](<https://media.discordapp.net/attachments/923510071026155550/927864004821549066/IMG_2586.png>))
+- Collect [Rare Tulips](<https://media.discordapp.net/attachments/826341154450309140/983408929314836511/Screenshot_20220606-044708_F1_VM.jpg>) (100) ([map 1](<https://media.discordapp.net/attachments/923510071026155550/927864004561477632/IMG_2585.png>), [map 2](<https://media.discordapp.net/attachments/923510071026155550/927864004821549066/IMG_2586.png>))
 - [Explore the Bandit Hideout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197954359347/Screenshot_20211228-123603_Botworld.png>)
 - [Explore Cobblestone Clearing](<https://cdn.discordapp.com/attachments/923510071026155550/925273197086138428/Screenshot_20211228-122031_Botworld.png>)
 - [Explore the Eagle Perch Lookout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197627195402/Screenshot_20211228-123211_Botworld.png>)
@@ -58,7 +58,8 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ### Guides
 
-- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no real place to farm for this, it's just random and you'll eventually find one doing the other Codex missions. Anyways this is what it looks like:
+- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no real place to farm for this, it’s just random and you’ll eventually find one doing the other Codex missions. Anyways this is what it looks like:
+
 
 ![300px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
 
