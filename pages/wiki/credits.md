@@ -76,7 +76,7 @@ breadcrumbs:
 
 <div markdown="1" class="ghcms ghcms-art">
 
-- **Cog, the wiki mascot**: Hex? Diamond?
+- **Cog, the wiki mascot**: [Diamond](<https://youtu.be/dQw4w9WgXcQ>)
 - **Wiki banner**: GlareFacer (inspired from art by [Lollitree](<https://twitter.com/lollitree_art>))
 - **Welcome banner**: Soft
 - **Abilities banner**: [Diamond](<https://youtu.be/dQw4w9WgXcQ>)
