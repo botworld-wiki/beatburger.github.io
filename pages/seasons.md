@@ -65,13 +65,14 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 ## Current season: The Season of the Snail
 
-[To Be Written](/contribute#tbw)
+[To Be Written](</contribute#tbw>)
 
 ### Rewards
 
-This Season was 42 Days long starting on Dezember, 30th 2021
+This Season was 42 Days long starting on December, 30th 2021
 
 **Curated List**
+
 </div>
 
 **Full List**
