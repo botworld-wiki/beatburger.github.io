@@ -110,7 +110,6 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 - **Abilities:**[Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
 - **Unlocks**: 1st [booster](</botpack#boosters>) slot?
 
-
 ### Tips:
 
 - You can't mess this up. just place your strongest bots and be done with it.
