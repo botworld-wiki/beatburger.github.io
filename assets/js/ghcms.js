@@ -46,8 +46,8 @@ var edits, editsSha, editsAsCommited;
 import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 const octokit = new Octokit({ auth: ghCMSCredentials.token });
 
-// todo: restrict hns to h3svar 
-mdConverter = new showdown.Converter({
+// todo: restrict hns to h3s
+var mdConverter = new showdown.Converter({
 	//backslashEscapesHTMLTags: true, //js-xss now?
 	simpleLineBreaks: true,
 	tables: true,
