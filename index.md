@@ -129,11 +129,9 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div markdown="1" class="grid-box tall ghcms ghcms-homenews">
 
-- [Sheller](/sheller): complete with stats and everything!
-- **Ptage talks about the Wiki!** check out the vid on our [News](/news) page or [on his YouTube channel](https://www.youtube.com/watch?v=jqeymvKmIs8)
-- [Youtubers & Streamers](/content-creators): we're excited to have them in the wiki now!
-- [New Version 1.2.0](/news): [Codex Outfits & Missions], a new ability [Gravity Surge](/gravity-surge), and [Balance Changes](/news)
-
+- [QnA with the devs](</qna>): Featherweight answer some questions of ours!
+- [Community Bot Event](</news#d2022-06-25>): FW invites the community to create a bot! The winner(s) will see their bot concept make it into the game, and be involved in the development process! [Details, dates, rewards, etc in the full post](</news#d2022-06-25>) 
+- New bot: [Link](</link>) joins the game along with arena master [Laydee](</arena#laydee>)!
 
 </div>
 
