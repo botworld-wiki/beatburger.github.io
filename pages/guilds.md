@@ -71,21 +71,22 @@ To create a guild:
 
 **Description**:
 
-A scavenger without trade is just a junk hoarder, or so the Merchant's Union believes! Engage in all manner of commerce and capitalism with the nomadic salesfolk meaking their way through Botworld, but keep an eye on your coin purse when nerby bandits hear it jingling.
+A scavenger without trade is just a junk hoarder, or so the Merchant's Union believes! Engage in all manner of commerce and capitalism with the nomadic salesfolk making their way through Botworld, but keep an eye on your coin purse when nearby bandits hear it jingling.
 
 **Guild Tasks**:
 
-- Find Fabric Rolls throughout Botworld [Count: 500, Guild Coins: 500]
-- Find and Scavenge [Scrap Piles](/loot#scrap-piles) throughout Botworld [Count: 10000, Guild Coins: 1000]
-- Win battles using only [Evader Bots](/bots#evaders) [Count: 1000, Guild Coins: 1000]
-- Spend Coins in the shop or with Merchants [Count: 100000, Guild Coins: 1000]
-- Rescue Travelling Merchants in [Vivid Valley](/danger-zones#vivid-valley) [Count: 500, Guild Coins: 1500]
+- **Find 500 Fabric Rolls** throughout Botworld *\- 500 Guild Coins*
+- **Find and Scavenge 1000 [Scrap Piles](/loot#scrap-piles)** throughout Botworld *\- 1000 Guild Coins*
+- **Win 1000 battles using only [Evader Bots](/bots#evaders)** *\- 1000 Guild Coins*
+- **Spend 100000 Coins** in the shop or with Merchants *\- 1000 Guild Coins*
+- **Rescue 500 Travelling Merchants** in [Vivid Valley](/danger-zones#vivid-valley)*\- 1500 Guild Coins*
+
 
 **Rewards**:
 
-- 1000 guild coins: Merchant Hat
-- 2500 guild coins: Merchant Garb
-- 5000 guild coins: 30 gems
+- 1000 guild coins: **Merchant Hat**
+- 2500 guild coins: **Merchant Garb**
+- 5000 guild coins: **30 gems**
 
 </div>
 
@@ -101,22 +102,22 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 **Description**:
 
-The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whether they're hanging out by the beach, or getting their sporting fix after discovering ancient games like tennis, this is the time of year for exploring Botworld's sunniest sports. Just remember to cool off after soaking up some rays.
+The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whether they’re hanging out by the beach, or getting their sporting fix after discovering ancient games like tennis, this is the time of year for exploring Botworld’s sunniest sports. Just remember to cool off after soaking up some rays.
 
 **Guild Tasks**:
 
-- Defeat Bandits [Near Water](/loot#by-the-water). [Count: 2000]
-- Collect Lost Tennis Balls. [Count: 1000]
-- Use [Gust](/gust) or [Gale](/gale) in Battle. [Count: 5000]
+- **Defeat 2000 Bandits** [Near Water](/loot#by-the-water). 
+- **Collect 1000 Lost Tennis Balls**
+- **Use 5000 [Gust](/gust) or [Gale](/gale)** in Battle. 
 
 
 *Each Task gives 1000 guild coins*
 
 **Rewards**:
 
-- 1000 guild coins: Sports Visor
-- 2000 guild coins: Rare Random [Ability Module](/botpack#abilities)
-- 3000 guild coins: [Mega Chest](/loot#reward-chests)
+- 1000 guild coins: **Sports Visor**
+- 2000 guild coins: **Rare Random [Ability Module](/botpack#abilities)**
+- 3000 guild coins: **[Mega Chest](/loot#reward-chests)**
 
 </div>
 
@@ -126,29 +127,28 @@ The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whe
 
 ### Hackathon
 
-**Start**: May 20, 2022 
+**Start**: May 20, 2022
 
-**Duration**: 14 days 
+**Duration**: 14 days
 
-**Description**: 
+**Description**:
 
-Calling all keyboard jackeys! The time to crack open the circuits and CPUs of every bot and ancient ruin has arrived. Prove to Hack she's not the only one who deserves the name by hacking enemy bots to make them do your bidding, or disabling them entirely with your botpack's gadgets.
+Calling all keyboard jackeys! The time to crack open the circuits and CPUs of every bot and ancient ruin has arrived. Prove to Hack she's not the only one who deserves the name by hacking enemy bots to make them do your bidding, or disabling them entirely with your botpack’s gadgets.
 
 **Guild Tasks**:
 
-- Collect Computer Chips for Hack in [Scrapyard](/danger-zones#scrapeyard) [Count: 3000]
-- Hack Enemy Bots [Count: 5000]
-- Damage Enemies with the [Bombardment Gadget](/botpack#gadgets) [Count: 2000]
+- **Collect 3000 Computer Chips** for Hack in [Scrapyard](/danger-zones#scrapeyard)
+- **Hack 5000 Enemy Bots**
+- **Damage 2000 Enemies** with the [Bombardment Gadget](/botpack#gadgets)
 
 
 *Each Task gives 1000 guild coins*
 
 **Rewards**:
 
-- 1000 guild coins: [Hack](/hack) Ability
-- 2000 guild coins: Virus [Essence](/essence)
+- 1000 guild coins: [Hack Ability](/hack)
+- 2000 guild coins: [Virus Essence](/essence)
 - 3000 guild coins: [Mega Chest](/loot#reward-chests)
-
 </div>
 
 
@@ -157,26 +157,26 @@ Calling all keyboard jackeys! The time to crack open the circuits and CPUs of ev
 
 ### Faerie Hunt
 
-**Start**: May 2, 2022 
+**Start**: May 2, 2022
 
-**Duration**: 16 days 
+**Duration**: 16 days
 
-**Description**: 
+**Description**:
 
- Tales of mythical bots and legendary boosters are travelling as hushed whispers across Botworld! Every botmaster wants to be the first to find the fabled Faerie Bot and receive its blessing, but where could it be hiding? Only Amad the Archaeologist has come close, and his clues are left in notebooks scattered across Botworld...
+Tales of mythical bots and legendary boosters are travelling as hushed whispers across Botworld! Every botmaster wants to be the first to find the fabled Faerie Bot and receive its blessing, but where could it be hiding? Only Amad the Archaeologist has come close, and his clues are left in notebooks scattered across Botworld...
 
 **Guild Tasks**:
 
-- Defeat Rival Faerie Hunter Bandits [Count: 1000]
-- Find Amad's Notebooks near [Ancient Ruins](/loot#ancient-ruins) [Count: 200]
-- Catch the mythical Faerie Bot somewhere in Botworld [Count: 10] 
+- **Defeat 1000 Rival Faerie Hunter Bandits**
+- **Find 200 Amad's Notebooks** near [Ancient Ruins](/loot#ancient-ruins)
+- **Catch 10 mythical Faerie Bots** somewhere in Botworld 
 
 
 *Each Task gives 1000 guild coins*
 
 **Rewards**:
 
-- 900 guild coins: Faerie Hunter Hat
-- 1800 guild coins: Faerie Hunter Robe
-- 2500 guild coins: Faerie's Blessing
+- 900 guild coins: **Faerie Hunter Hat**
+- 1800 guild coins: **Faerie Hunter Robe**
+- 2500 guild coins: **[Faerie’s Blessing](/contribute#tbw)**
 </div>
