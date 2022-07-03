@@ -107,10 +107,11 @@ Brad is your introduction into the Arena. He won't let you battle the real maste
 ![300px arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
 
 - **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) Level 2
-- **Abilities:** [Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
+- **Abilities:**[Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
+- **Unlocks**: 1st [booster](</botpack#boosters>) slot?
 
 
-### Tipps:
+### Tips:
 
 - You can't mess this up. just place your strongest bots and be done with it.
 
@@ -307,24 +308,25 @@ She used to spam [Zap Towers](/zap-tower) like back when that ability was 5p and
 
 A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the perfect fighting team (pretty much like Brads but with reserves). Scales don't want your bots to use its ult. whenever your bots escaped from his, he will teleport his bots to yours with an explosive entrance. make sure you choose your bots carefully
 
-![300px arenamaster scales](https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png)
+![300px arenamaster scales](<https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png>)
 
-- **Bots:** = [Virus](/virus), [Froggy](/froggy), [Dune Bug](/dune-bug), [Ram](/ram), [Halo](/halo), [Slicer](/slicer) Level 25
-- **Abilities:** [Supercharged Chaos Translocator](/supercharged-chaos-translocator), [Explosive Proximity Translocator](/explosive-proximity-translocator), [Hypercharge](/hypercharge), [Hyperdrain](/hyperdrain)
+- **Bots:** = [Virus](</virus>), [Froggy](</froggy>), [Dune Bug](</dune-bug>), [Ram](</ram>), [Halo](</halo>), [Slicer](</slicer>) Level 23(?)
+- **Abilities:** [Supercharged Chaos Translocator](</supercharged-chaos-translocator>), [Explosive Proximity Translocator](</explosive-proximity-translocator>), [Hypercharge](</hypercharge>), [Hyperdrain](</hyperdrain>)
 
 
 ### Tips
 
-- [Virus](/virus) + [Hypercharge](/hypercharge) = GG.
-- [Any more tips we're missing?](/contribute#tbw)
+- [Virus](</virus>) \+ [Hypercharge](</hypercharge>) = GG.
+- [Any more tips we’re missing?](</contribute#tbw>)
+
 
 ### Story
 
-I look forward to our duel, I always enjoy a challenge though I am confident you won't shake me.
+I look forward to our duel, I always enjoy a challenge though I am confident you won’t shake me.
 
-After you've defeated Scales:
+After you’ve defeated Scales:
 
-- **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
+- **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.*Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
 
 </div>
 
