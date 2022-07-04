@@ -11,7 +11,7 @@ breadcrumbs:
 
 # Credits
 
-<div markdown="1" class="ghcms ghcms-contributors">
+<div markdown="1" class="g-hcms g-hcms-contributors">
 
 ## Data Collectors
 
@@ -55,7 +55,7 @@ breadcrumbs:
 ## Maintainers
 *Past and present, to find a maintainer to help you refer to [the updated list](/contribute)*
 
-<div markdown="1" class="ghcms ghcms-maintainers">
+<div markdown="1" class="g-hcms g-hcms-maintainers">
 
 - **@QC#2293**
 - **@debb#0810**
@@ -79,7 +79,7 @@ breadcrumbs:
 
 ## Art & visual assets
 
-<div markdown="1" class="ghcms ghcms-art">
+<div markdown="1" class="g-hcms g-hcms-art">
 
 - **Cog, the wiki mascot**: [Diamond](<https://youtu.be/dQw4w9WgXcQ>)
 - **Wiki banner**: GlareFacer (inspired from art by [Lollitree](<https://twitter.com/lollitree_art>))
