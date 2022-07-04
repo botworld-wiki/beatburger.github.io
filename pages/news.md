@@ -21,6 +21,8 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-main">
 
+</div>
+
 ## d2022-07-02
 
 ### QnA with Featherweights
@@ -39,7 +41,7 @@ Each winner or winners will receive **1,000 Gems**. You will also **be the first
 
 [Link to full rules and submission form](<https://docs.google.com/forms/d/e/1FAIpQLSc2TfUZzveMSoO0rkIYAX8vLgwYJFKL26Nlh6lybSTlElvYFw/viewform?usp=send_form>)
 
-</div>
+
 
 ## V1.6.0
 
