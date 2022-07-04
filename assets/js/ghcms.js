@@ -274,7 +274,7 @@ function checkBlacklist(){
     fetch(window.location.origin+'/assets/js/blacklist.json')
 	.then(res => res.json())
 	.then(out => {
-	  if ((out.users.indexOf(user) >= 0) || (out.tokens.indexOf(token) >= 0)){
+	  if ((out.users.indexOf(ghCMSCredentials.user) >= 0) || (out.tokens.indexOf(ghCMSCredentials.token) >= 0)){
 	      localStorage['ghCMSCredentials-' + document.domain] = '';
 		  localStorage['ghCMSEditor-' + document.domain] = "disabled";
 		  location = '/';
