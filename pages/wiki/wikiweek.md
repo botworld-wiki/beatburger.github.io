@@ -10,6 +10,8 @@ sitemap: false
 ---
 # WikiWeek, Community Event
 
+From Monday 2022-07-04 22h CET, to Monday 2022-07-11 22h CET
+
 ## Edit wiki, get gems!
 
 - Find something to fix or improve on [this Community Wiki](https://botworld.wiki)
