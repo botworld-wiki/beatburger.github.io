@@ -10,19 +10,17 @@ function init(){
 function connection(){
   const user = $('#user').val();
   const token = $('#password').val();
-  fetch(window.location.origin+'/assets/js/blacklist.json')
-  .then(res => res.json())
-  .then(out => {
-    if (out.users.indexOf(user) >= 0){
-      deconnection()
-    };
-    if (out.tokens.indexOf(token) >= 0){
-      deconnection()
-    } 
-  });
   if (user && token){
-    saveGhCMSCreedentials(user, token);
-    activateEditorMode();
+    fetch(window.location.origin+'/assets/js/blacklist.json')
+    .then(res => res.json())
+    .then(out => {
+      if ((out.users.indexOf(user) >= 0) || (out.tokens.indexOf(token) >= 0)){
+        deconnection()
+      } else {
+        saveGhCMSCreedentials(user, token);
+        activateEditorMode();    
+      }
+    });
   }
 }
 
