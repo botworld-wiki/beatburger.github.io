@@ -15,10 +15,10 @@ sitemap: false
 3. [Important](https://www.botworld.wiki/wikiweek#important)
 4. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
 5. [Rules](https://www.botworld.wiki/wikiweek#rules)
-6. [Documentation](https://www.botworld.wiki/wikiweek#documentation)
-    a. [How WikiWeek works](#how-wikiweek-works)
-    b. [How to prepare a valuable contribution](#how-to-prepare-a-valuable-contribution)
-    c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)
+6. [Documentation](https://www.botworld.wiki/wikiweek#documentation) \
+    a. [How WikiWeek works](#how-wikiweek-works)  \
+    b. [How to prepare a valuable contribution](#how-to-prepare-a-valuable-contribution)  \
+    c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)  \
     d. [How to use the WikiSheet to update Bots, Botpack modules, Materials, etc…](#how-to-use-the-wikisheet-to-update-bots-botpack-modules-materials-etc)
     
 ---
