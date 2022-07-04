@@ -9,8 +9,17 @@ function init(){
 
 function connection(){
   const user = $('#user').val();
-  console.log(user)
   const token = $('#password').val();
+  fetch('https://botworld.wiki/assets/js/blacklist.json')
+  .then(res => res.json())
+  .then(out => {
+    if (out.users.indexOf(user) >= 0){
+      deconnection()
+    };
+    if (out.tokens.indexOf(token) >= 0){
+      deconnection()
+    } 
+  });
   if (user && token){
     saveGhCMSCreedentials(user, token);
     activateEditorMode();
