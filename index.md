@@ -127,7 +127,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 ## Botworld Adventures News
 
 
-<div markdown="1" class="grid-box tall ghcms ghcms-homenews">
+<div markdown="1" class="grid-box tall g-hcms g-hcms-homenews">
 
 - [QnA with the devs](</qna>): Featherweight answer some questions of ours!
 - [Community Bot Event](</news#d2022-06-25>): FW invites the community to create a bot! The winner(s) will see their bot concept make it into the game, and be involved in the development process! [Details, dates, rewards, etc in the full post](</news#d2022-06-25>) 
@@ -138,7 +138,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div class="grid">
   
-<div markdown="1" class="grid-box ghcms ghcms-newplayer">
+<div markdown="1" class="grid-box g-hcms g-hcms-newplayer">
 
 <span class="menu-link-target hacky-layout-balancing"></span>
   
