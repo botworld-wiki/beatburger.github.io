@@ -19,8 +19,10 @@ breadcrumbs:
 
 Formatting demo:
 
-**bold** for bold
-*italics* for italic
+**bold** for bold,
+
+*italics* for italic,
+
 You can combine stuff too ***like this***
 
 [link to other pages like this](https://www.botworld.wiki)
@@ -39,5 +41,6 @@ put your name here so we know who to contact
 
 
 ## A blank section
-<div markdown="1" class=" ghcms ghcms-section-2>
+<div markdown="1" class=" ghcms ghcms-section-2">
+
 </div>
