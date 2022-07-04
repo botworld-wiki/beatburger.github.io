@@ -23,7 +23,7 @@ From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
 - Contributions are listed, described, and reacted to in [#wikiweek](https://discord.gg/FsJzvtFrgq)
 - Get rewarded with gems!
 
-##
+---
 1. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
 2. [Important](https://www.botworld.wiki/wikiweek#important)
 3. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
