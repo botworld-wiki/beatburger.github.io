@@ -76,6 +76,11 @@ breadcrumbs:
 
 - **Pix (@Pix#6773)**
 
+<div markdown="1" class="ghcms ghcms-wikiweek">
+# WikiWeek Participants
+
+</div>
+
 
 ## Art & visual assets
 
