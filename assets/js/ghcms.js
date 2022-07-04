@@ -271,7 +271,7 @@ function updateAsCommited(){
 }
 
 function checkBlacklist(){
-	fetch('https://botworld.wiki/assets/js/blacklist.json')
+    fetch(window.location.origin+'/assets/js/blacklist.json')
 	.then(res => res.json())
 	.then(out => {
 	  if ((out.users.indexOf(user) >= 0) || (out.tokens.indexOf(token) >= 0)){
