@@ -10,7 +10,7 @@ sitemap: false
 ---
 # WikiWeek, Community Event
 
-From Monday 2022-07-04 22h CET, to Monday 2022-07-11 22h CET
+From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
 
 ## Edit wiki, get gems!
 
