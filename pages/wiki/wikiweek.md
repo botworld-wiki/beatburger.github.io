@@ -14,8 +14,16 @@ sitemap: false
 From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
 
 
-# Index - Here's what you will find in this document
-    
+## Edit wiki, get gems!
+
+- Find something to fix or improve on [this Community Wiki](https://botworld.wiki)
+- Check your game, search the [discord server](https://discord.gg/FsJzvtFrgq), or ask the [community](](https://discord.gg/FsJzvtFrgq)) to find the best answers
+- Get your WikiWeek credentials and work with others to make the changes on the wiki
+- Rejoice
+- Contributions are listed, described, and reacted to in [#wikiweek](https://discord.gg/FsJzvtFrgq)
+- Get rewarded with gems!
+
+
 1. [Edit wiki, get gems!](https://www.botworld.wiki/wikiweek#edit-wiki-get-gems)
 2. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
 3. [Important](https://www.botworld.wiki/wikiweek#important)
@@ -28,15 +36,6 @@ From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
     d. [How to use the WikiSheet to update Bots, Botpack modules, Materials, etc…](#how-to-use-the-wikisheet-to-update-bots-botpack-modules-materials-etc)
     
     
-## Edit wiki, get gems!
-
-- Find something to fix or improve on [this Community Wiki](https://botworld.wiki)
-- Check your game, search the [discord server](https://discord.gg/FsJzvtFrgq), or ask the [community](](https://discord.gg/FsJzvtFrgq)) to find the best answers
-- Get your WikiWeek credentials and work with others to make the changes on the wiki
-- Rejoice
-- Contributions are listed, described, and reacted to in [#wikiweek](https://discord.gg/FsJzvtFrgq)
-- Get rewarded with gems!
-
 ## Thank you Featherweight
 A big thanks to the devs for their support to our project and this event!
 
