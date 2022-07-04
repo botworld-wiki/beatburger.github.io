@@ -7,7 +7,13 @@ description: "Thanks to Featherweight's generosity, our Community Wiki has some 
 robots: "NOINDEX, NOFOLLOW"
 sitemap: false
 
+    
 ---
+# WikiWeek, Community Event
+
+From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
+
+
 # Index - Here's what you will find in this document
     
 1. [Edit wiki, get gems!](https://www.botworld.wiki/wikiweek#edit-wiki-get-gems)
@@ -21,11 +27,7 @@ sitemap: false
     c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)  \
     d. [How to use the WikiSheet to update Bots, Botpack modules, Materials, etc…](#how-to-use-the-wikisheet-to-update-bots-botpack-modules-materials-etc)
     
----
-# WikiWeek, Community Event
-
-From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
-
+    
 ## Edit wiki, get gems!
 
 - Find something to fix or improve on [this Community Wiki](https://botworld.wiki)
