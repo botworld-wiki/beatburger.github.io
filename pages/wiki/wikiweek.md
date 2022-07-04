@@ -8,6 +8,20 @@ robots: "NOINDEX, NOFOLLOW"
 sitemap: false
 
 ---
+# Index - Here's what you will find in this document
+    
+1. [Edit wiki, get gems!](https://www.botworld.wiki/wikiweek#edit-wiki-get-gems)
+2. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
+3. [Important](https://www.botworld.wiki/wikiweek#important)
+4. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
+5. [Rules](https://www.botworld.wiki/wikiweek#rules)
+6. [Documentation](https://www.botworld.wiki/wikiweek#documentation)
+    a. [How WikiWeek works](#how-wikiweek-works)
+    b. [How to prepare a valuable contribution](#how-to-prepare-a-valuable-contribution)
+    c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)
+    d. [How to use the WikiSheet to update Bots, Botpack modules, Materials, etc…](#how-to-use-the-wikisheet-to-update-bots-botpack-modules-materials-etc)
+    
+---
 # WikiWeek, Community Event
 
 From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
