@@ -23,13 +23,12 @@ From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
 - Contributions are listed, described, and reacted to in [#wikiweek](https://discord.gg/FsJzvtFrgq)
 - Get rewarded with gems!
 
-
-1. [Edit wiki, get gems!](https://www.botworld.wiki/wikiweek#edit-wiki-get-gems)
-2. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
-3. [Important](https://www.botworld.wiki/wikiweek#important)
-4. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
-5. [Rules](https://www.botworld.wiki/wikiweek#rules)
-6. [Documentation](https://www.botworld.wiki/wikiweek#documentation) \
+##
+1. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
+2. [Important](https://www.botworld.wiki/wikiweek#important)
+3. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
+4. [Rules](https://www.botworld.wiki/wikiweek#rules)
+5. [Documentation](https://www.botworld.wiki/wikiweek#documentation) \
     a. [How WikiWeek works](#how-wikiweek-works)  \
     b. [How to prepare a valuable contribution](#how-to-prepare-a-valuable-contribution)  \
     c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)  \
