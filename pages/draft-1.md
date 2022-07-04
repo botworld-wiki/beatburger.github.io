@@ -8,6 +8,10 @@ breadcrumbs:
   
 ---
 
+Draft by:
+<div markdown="1" class=" ghcms ghcms-editors">
+put your name here so we know who to contact 
+</div>
 
 <div markdown="1" class=" ghcms ghcms-section-1">
 
@@ -34,13 +38,14 @@ You can combine stuff too ***like this***
 
 </div>
 
-Draft by:
-<div markdown="1" class=" ghcms ghcms-editors">
-put your name here so we know who to contact 
+<div markdown="1" class=" ghcms ghcms-section-2">
+
+## A new section empty for now...
+
 </div>
 
+<div markdown="1" class=" ghcms ghcms-section-3">
 
-## A blank section
-<div markdown="1" class=" ghcms ghcms-section-2">
+## And another one
 
 </div>
