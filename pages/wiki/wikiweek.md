@@ -76,4 +76,85 @@ Note: this only applies to purposedly harmful behavior. Good-faith mistakes can 
 
 ## Documentation
 
-The event hasn't even started yet!
+## Documentation
+
+[General wiki doc for reference](https://github.com/beatburger/beatburger.github.io/blob/main/README.md)
+
+### How WikiWeek works
+- Read the doc below
+- Find yourself a good first contribution to do. Don't pressure yourself into being too ambitious for your first steps!
+- DM it to Pix and get the credentials you need to make it happen
+- Re-read the doc below
+- Seriously, do it
+- Let's go, try and edit it yourself!
+- Join #wiki-contribution to help each other out, discuss the experience, provide feedback on others contributions...
+- Create your submission post in #wikiweek and describe/link your contribution from there. Only 1 post per contributor, edit it later if you make other contributions.
+- Rejoice & Repeat
+- When the event ends, come back to #wikiweek to vote on the contributions you appreciate most!
+
+### How to prepare a valuable contribution
+- find an area to improve
+- scroll over questions or tips-and-tricks for good stuff worth integrating (ask permission+give credits!)
+- use discord search to dig up game data:
+    - use 'in: channel', 'from: user', 'has: file' to better your search results. Example: use 'in: community-guides firefly' for check for messages containing 'firefly' in 'community-guides' but especially 'wiki-assets' where many have shared great stuff that hasn't made it into the wiki yet! 
+- write it out in your favorite text editor, so it's already saved on your device just in case.
+- check the formatting syntax to add bold, italics, make titles, lists, links, or images in your text
+
+### How to use Editor Mode to edit content
+![Editor Mode usage demo](https://camo.githubusercontent.com/1077764570dde697200709de12c5b7790666d4d4f3cf58a9a7b27b506da381fc/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3931373830393739303238343037393131342f3937393430383931393737383639373232362f656469746f722d6d6f64652e706e67)
+
+- get your credentials (DM pix)
+- login from the [admin login page](https://www.botworld.wiki/admin)
+- take a first tour, click a couple "Edit" buttons, try changing some stuff to preview the result, but don't save anything just yet.
+- **safety talk: read the section** below to ensure your hard work can't be lost due to someone else's mistake or a potential internal bug. 
+- have at it
+- add this contribution to your #wikiweek submission!
+
+Note: chat with others in the thread so you don't realize mid-way that someone else just did what you had in mind and started already...
+
+**Safety talk: local backup so no risk of losing anything**
+- Some issues *may* arise when multiple persons are using editor mode at the same time. 
+- (roughly: your own editor loads the current version of the page, someone else updates it separately, you edit and publish your version: theirs is lost). 
+- Only under specific circumstances and we've never suffered from it ever so far, but this week comes with new challenges, and maybe a couple surprises... So help us keeping your hard work absolutely safe.
+- tldr: Save your work (for your sake), and Refresh Before commit (for others sake)
+
+**Step-by-step**
+- Write your new content on a separate text editor
+- Try it on the Editor Mode to proofread/see how it looks
+- Refresh the page to make sure you're looking at the most recent version of the wiki
+- copy/backup your content again
+- Save (commit)
+- (opt) check the history, see if your edit was registered (instant)
+- (opt) check the content got updated (may have to wait 10s-3min and refresh the page)
+- (opt) archive your local backup in we ever need you to find it again 
+*Sorry that's a bit messy but that's what we get when building software fast and suddenly wanting to make a big event out of it...*
+
+[Editor Mode full doc for reference](https://github.com/beatburger/beatburger.github.io/blob/main/_docs/editor-mode.md)
+
+### How to use the WikiSheet to update Bots, Botpack modules, Materials, etc...
+WikiSheets are google sheets that we use to document everything there is to know about everything listed above. 
+
+Here's what they look like, sorry that's how it is for now... Don't get scared, what you don't understand is what's optional, and before anything there goes into the wiki we will review and complete as necessary.
+- [Bots](https://docs.google.com/spreadsheets/d/1m5DJ7U41LqJgtbf2jezs6u3LvuOlTLH4iwik5-VtSd0/edit#gid=0)
+- [Abilities](https://docs.google.com/spreadsheets/d/1n7BTSFQbv6tJnssi4PZz1PXjbFA8bebbw99CFSkf5kk/edit#gid=0)
+- [Boosters](https://docs.google.com/spreadsheets/d/1LnejD6GO7dZ_Wmt-d55QWcOeGEGUIqIu-zp2E8mH97M/edit#gid=0)
+- [Bots mats](https://docs.google.com/spreadsheets/d/1ngGZbxF6W7fa5H6aa2dNFQsX9RrLWDITyLaKs35ecBQ/edit?usp=sharing)
+- [Boat mats](https://docs.google.com/spreadsheets/d/12eKq1OxHjfLERbBPOmjjN3yLjKbRcXmChsho00IrJeU/edit#gid=0)
+
+(demo copies you can't edit yet, to illustrate. Still open for comments but we won't be checking, so if you put interesting stuff there tell us about it on discord)
+
+Just identify the cells you understand what they're doing, and if you see missing/wrong info, you've probably got a contribution worth doing already!
+
+- identify what contribution you want to do (from the wiki itself, the demo copies won't be updated constantly during the week)
+- identify where the data should go in the relevant wikisheet
+- ask for access to the actual wikiweek wikisheet (dm @pix, tell me about your plans too)
+- access the live version
+- do your changes
+- remove the "synced" so wiki staff knows it's been updated and the wiki still hasn't
+- add yourself to the credits cell, update the date
+- takes notes as a backup (you can download the entire sheet even) just in case
+- let a maintainer know you updated the sheet and it's ready for review/update
+- as soon as we can, we'll make it live!
+- add this contribution to your #wikiweek submission!
+
+[Wikisheets & Entities full doc for reference](https://github.com/beatburger/beatburger.github.io/blob/main/_docs/entities.md)
