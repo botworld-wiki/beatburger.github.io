@@ -76,8 +76,6 @@ Note: this only applies to purposedly harmful behavior. Good-faith mistakes can 
 
 ## Documentation
 
-## Documentation
-
 [General wiki doc for reference](https://github.com/beatburger/beatburger.github.io/blob/main/README.md)
 
 ### How WikiWeek works
