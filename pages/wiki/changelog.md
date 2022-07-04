@@ -12,7 +12,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-changes">
 
-<div>
+</div>
 
 # Wiki Changelog
 
