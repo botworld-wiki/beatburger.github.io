@@ -143,4 +143,4 @@ $(document).ready(function(){$.getScript('/assets/js/webp-modernizr.js')});
 
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
 if (typeof afterDispatch !== 'undefined') { afterDispatch() }
-editorModeOn()? $.getModule('/assets/js/ghcms.js') : 0;
+editorModeOn()? $.getModule('/assets/js/ghcms.js?0') : 0;
