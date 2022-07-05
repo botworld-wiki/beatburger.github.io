@@ -6,6 +6,6 @@ redirectTo: "https://www.botworld.wiki/maps#spore-woods"
 
 title: "Spore Woods"
 name: "Spore Woods"
-description: "stuff about spore woods..."
+description: "All you need to know about Spore Woods: from bots and bandits to maps and guides on completing Codex missions!"
 ---
-waiting for snowy
+All you need to know about Spore Woods: from bots and bandits to maps and guides on completing Codex missions!
