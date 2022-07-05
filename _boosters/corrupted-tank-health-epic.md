@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Corrupted Tank Health"
 boosterDescription: "Tank bots health increased by 24%, but all bots health reduced by 6%"
 boosterImageUrl: "/assets/img/boosters/corrupted-tank-health-epic.png"
-boosterStacks: ""
+boosterStacks: "Multiplicative"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: "Fusing three rare boosters"
