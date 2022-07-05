@@ -2,7 +2,7 @@
 
 layout: breadcrumbs
 permalink: /bosses
-title: Bosses: uniques, megas, or roaming ones
+title: "Bosses: uniques, megas, or roaming ones"
 description: "They are special challenging enemies that can be found throughout Botworld"
 breadcrumbs:
   Botworld: "/#botworld"
