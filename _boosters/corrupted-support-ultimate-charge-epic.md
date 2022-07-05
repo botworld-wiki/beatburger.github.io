@@ -1,7 +1,7 @@
 ---
 layout: booster
 contributors: "Templar"
-updatedAt: "2022-07-04"
+updatedAt: "2022-07-05"
 
 
 title: "Corrupted Support Ultimate Charge(Epic)"
