@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Corrupted Sharpshooter Range"
 boosterDescription: "Sharpshooter bots range increased by 60%, but Sharpshooter bots move speed reduced by 20%"
 boosterImageUrl: "/assets/img/boosters/corrupted-sharpshooter-range-epic.png"
-boosterStacks: ""
+boosterStacks: "Multiplicative"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: "Fusing three rare boosters"
