@@ -16,6 +16,10 @@ breadcrumbs:
 
 # Wiki Changelog
 
+## 2022-07-05
+- New abilties: [Chaos Boost](/chaos-boost), [Corrupted Missile](/corrupted-missile) by Hex
+- New corrupted boosters: [Corrupted Tank Health](/corrupted-tank-health-epic), [Corrupted Brawler Dodge](/corrupted-brawler-dodge-epic), [Corrupted Sharpshooter Range](/corrupted-sharpshooter-range-epic), [Corrupted Support Ultimate Charge](/corrupted-support-ultimate-charge-epic), [Corrupted Power Generation](/corrupted-power-generation-epic) by Templar
+
 ## 2022-01-14
 - [Boat Upgrade](/boat) complete overhaul
 
