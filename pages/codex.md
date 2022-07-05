@@ -249,3 +249,15 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 ### Guides
 
 </div>
+
+
+## Exterminator Squads
+
+<div markdown="1" class=" ghcms ghcms-squads">
+### Missions
+
+### Rewards
+
+### Guides
+
+</div>
