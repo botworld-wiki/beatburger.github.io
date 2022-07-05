@@ -199,7 +199,7 @@ function loadToPanel(ghCmsId){
   $('#ghCMS-editor-panel input').val(ghCmsId);
   $('#ghCMS-editor-panel textarea').val(mdConverter.makeMarkdown(
   	$('.'+ghCmsId).html()).replaceAll('<!-- -->\n', '').trim()
-  );
+  ).replaceAll('(<', '(').replaceAll('>)', ')'); // conflicts with js-xxs?
   $('#ghCMS-editor-panel').removeClass('mini').addClass('maxi');
 }
 
