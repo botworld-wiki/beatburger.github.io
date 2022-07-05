@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Corrupted Power Generation"
 boosterDescription: "Increases botpack power generation rate by 35%, but all bot attack damage reduced by 5%"
 boosterImageUrl: "/assets/img/boosters/corrupted-power-generation-epic.png"
-boosterStacks: ""
+boosterStacks: "Additive"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: "Fusing three rare boosters"
