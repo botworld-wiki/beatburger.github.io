@@ -1,7 +1,7 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb, Letplz"
+updatedAt: "2022-07-05"
 
 
 title: "Energy Bolt"
@@ -25,3 +25,4 @@ searchKeywords: "direct damage"
 ---
 
 
+Does a little more damage when the ennemy is further.
