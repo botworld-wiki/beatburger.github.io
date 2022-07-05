@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Corrupted Support Ultimate Charge"
 boosterDescription: "Support bots ultimate cooldowns start 50% charged, but Support bot attack damaged reduced by 10%"
 boosterImageUrl: "/assets/img/boosters/corrupted-support-ultimate-charge-epic.png"
-boosterStacks: ""
+boosterStacks: "Additive"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: "Fusing three rare boosters"
