@@ -6,7 +6,7 @@ updatedAt: "2022-07-05"
 
 title: "Shield Field"
 name: "Shield Field"
-description: ""
+description: "4P - All friendly bots in the area get a shield which prevents all incoming damage for a short duration"
 imageUrl: "/assets/img/abilities/shield-field.png"
 breadcrumbs:
   Botpack: "/botpack"
