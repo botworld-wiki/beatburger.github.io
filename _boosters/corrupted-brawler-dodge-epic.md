@@ -1,12 +1,12 @@
 ---
 layout: booster
 contributors: "Templar"
-updatedAt: "2022-07-04"
+updatedAt: "2022-07-05"
 
 
 title: "Corrupted Brawler Dodge(Epic)"
 name: "Corrupted Brawler Dodge"
-description: ""
+description: "Brawler bots have a 35% chance to dodge melee attacks, but all bot move speed reduced by 10% - Only works on normal attacks"
 imageUrl: "/assets/img/boosters/corrupted-brawler-dodge-epic.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -16,11 +16,11 @@ breadcrumbs:
 boosterName: "Corrupted Brawler Dodge"
 boosterDescription: "Brawler bots have a 35% chance to dodge melee attacks, but all bot move speed reduced by 10%"
 boosterImageUrl: "/assets/img/boosters/corrupted-brawler-dodge-epic.png"
-boosterStacks: ""
+boosterStacks: "Additive"
 boosterRarity: "Epic"
 boosterRaritySortOrder: "4"
 boosterAcquisition: "Fusing three rare boosters"
-boosterOpinion: ""
+boosterOpinion: "Only works on normal melee attacks"
 searchKeywords: ""
 ---
 
