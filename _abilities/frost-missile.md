@@ -26,3 +26,6 @@ searchKeywords: "cc, direct damage"
 
 ## Notes
 Casting time: 2 seconds
+
+### Letplz says:
+I like this ability
