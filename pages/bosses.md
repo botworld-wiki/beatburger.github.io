@@ -3,7 +3,8 @@
 layout: breadcrumbs
 permalink: /bosses
 title: "Bosses: uniques, megas, or roaming ones"
-description: "They are special challenging enemies that can be found throughout Botworld"
+description: "They are special challenging enemies that can be found throughout Botworld. Megas: 
+Giant bots that can appear as bosses on Danger Zones or as Contract objectives - Roaming Super Bots or Unique Bandits will grant a Codex achievement - Super Bots have 50% stun resistance and immune to Hack"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
@@ -11,13 +12,18 @@ breadcrumbs:
 ---
 
 
+
 # Unique Bosses
 
+<div markdown="1" class=" ghcms ghcms-intro">
 They are special challenging enemies that can be found throughout Botworld
+</div>
 
 ## Mega Bots
 
-Giant bots that can appear as bosses on [Danger Zones](<https://www.botworld.wiki/danger-zones>) or as [Contract](<https://www.botworld.wiki/contracts>) objetives
+<div markdown="1" class=" ghcms ghcms-megas">
+
+Giant bots that can appear as bosses on [Danger Zones](<https://www.botworld.wiki/danger-zones>) or as [Contract](<https://www.botworld.wiki/contracts>) objectives
 
 All Mega Bots have 50% stun resistance and [Hack](<https://www.botworld.wiki/hack>) immunity
 
@@ -35,6 +41,9 @@ You should **avoid melee combat** while facing Mega Slicer, his damage output is
 - [Abilities](<https://www.botworld.wiki/abilities>) like [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993888704450015292/unknown.png>)](<https://www.botworld.wiki/gust>), [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993890167033176114/unknown.png>)](<https://www.botworld.wiki/proximity-translocator>), [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993888408462180362/unknown.png>)](<https://www.botworld.wiki/supercharged-chaos-translocator>) and [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993892977128783903/unknown.png>)](<https://www.botworld.wiki/abilities>) are usefull for keeping your squishy bots safe from his leaps
 - [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993887870660137070/unknown.png>)](<https://www.botworld.wiki/bigshot>) \+ [![inline](<https://cdn.discordapp.com/attachments/923510071026155550/993892977128783903/unknown.png>)](<https://www.botworld.wiki/abilities>) will bring him down in no time while he's chasing your [Evaders](<https://www.botworld.wiki/bots#evaders>)
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-megas1">
 
 ### Mega Chainer
 
@@ -75,12 +84,15 @@ Tanky boss that deals moderate AoE melee damage
 **Tips**
 - [to be written...](/contribute#tbw)
 
+</div>
 
 ## Roaming bosses
 
+<div markdown="1" class=" ghcms ghcms-roaming">
+
 Special bosses that appear roaming in specific maps, they can be either **Super Bots** or **Unique Bandits** and beating them will grant a [Codex](<https://www.botworld.wiki/codex>) achievement
 
-Super Bots have 50% stun resistance, [Hack](<https://www.botworld.wiki/hack>) immunity and a fixed loadout
+Super Bots have 50% stun resistance, [Hack](<https://www.botworld.wiki/hack>) immunity (both [Hack](/hack) and [Virus](/virus) and a fixed loadout
 
 Unique Bandits have 6 bots in their loadout
 
@@ -105,6 +117,9 @@ Unique Bandits have 6 bots in their loadout
 **Tips**
 - [to be written...](/contribute#tbw)
 
+</div>
+
+<div markdown="1" class=" ghcms ghcms-roaming1">
 
 ### Fork Tongue Fanatics Leader
 
@@ -139,5 +154,6 @@ Unique Bandits have 6 bots in their loadout
 **Tips**
 - [to be written...](/contribute#tbw)
 
+</div>
 
 *Credits: Echio*
