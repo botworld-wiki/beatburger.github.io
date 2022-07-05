@@ -11,6 +11,23 @@ breadcrumbs:
 
 # Credits
 
+This wiki is a self-organized project built and maintained by members of the Botworld community on discord.
+
+Our goal is to create the most useful resource we can, for every player out there. It's 100% a volunteer project so we're making progress as motivation surges come and go, but we're very proud of what we have here already! Everyone is welcome to come, meet us, and contribute!
+
+## WikiWeek Participants
+
+Add your name to the list below:
+
+<div markdown="1" class="ghcms ghcms-wikiweek">
+- Templar
+- Hex
+- ??
+
+</div>
+
+
+
 <div markdown="1" class="g-hcms g-hcms-contributors">
 
 ## Data Collectors
@@ -75,11 +92,6 @@ breadcrumbs:
 ## Developper
 
 - **Pix (@Pix#6773)**
-
-<div markdown="1" class="ghcms ghcms-wikiweek">
-## WikiWeek Participants
-
-</div>
 
 
 ## Art & visual assets
