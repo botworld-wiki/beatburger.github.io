@@ -24,5 +24,5 @@ abilityOpinion: ""
 searchKeywords: "cc, direct damage"
 ---
 
-
+## Notes
 Casting time: 2 seconds
