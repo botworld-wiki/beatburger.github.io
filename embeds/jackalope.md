@@ -6,6 +6,7 @@ imageUrl: "https://cdn.discordapp.com/attachments/923510071026155550/92570145056
 
 title: "Jackalope"
 name: "Jackalope"
-description: "Every Codex objectives, with Maps & Pictures to help you complete every mission and complete your Outfits collection! Rare Jackalope, Tulips, Pumpkins, Wolf Packs & Fork Tongue Fanatics..."
+description: "Fastest way to search rare jackalope is go to every SINGLE area in scarpper coast\nIf not find it yet. just jetpack pack home to reset the map and redo this until found it"
 ---
-Every Codex objectives, with Maps & Pictures to help you complete every mission and complete your Outfits collection! Rare Jackalope, Tulips, Pumpkins, Wolf Packs & Fork Tongue Fanatics...
+Fastest way to search rare jackalope is go to every SINGLE area in scarpper coast
+If not find it yet. just jetpack pack home to reset the map and redo this until found it
