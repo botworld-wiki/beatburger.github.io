@@ -41,6 +41,10 @@ breadcrumbs:
 
 </div>
 
+<div markdown="1" class=" ghcms ghcms-island">
+## Tutorial Island
+</div>
+
 ## Scrapper Coast
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
