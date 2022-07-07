@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, BloodxReaper, O.J"
+updatedAt: "2022-07-07"
 
 
 title: "Froggy (Rare Evader)"
 name: "Froggy"
-description: "Inside the body of a frog, surprisingly Froggy does not hop usually, just waddles most of the time. With various abilities and high utility the bot has, Froggy serves pretty well in the early game. Unfortunately it falls off kinda hard when late game appears. The middle of the road bot, not bad at everything but also doesn’t excel at anything.\n\n\n"
+description: "Inside the body of a frog, surprisingly Froggy doesn't usually hop, mostly just waddles. The middle of the road bot, not bad at everything but also doesn’t excel at anything.\n- High utility bot (a combination of sub dps and support)\n- Serves well early game, falls back late game\n- Can be quite to very annoying at some point"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot , Random Drop"
-botOpinion: "Inside the body of a frog, surprisingly Froggy does not hop usually, just waddles most of the time. With various abilities and high utility the bot has, Froggy serves pretty well in the early game. Unfortunately it falls off kinda hard when late game appears. The middle of the road bot, not bad at everything but also doesn’t excel at anything."
+botOpinion: "Inside the body of a frog, surprisingly Froggy doesn't usually hop, mostly just waddles. The middle of the road bot, not bad at everything but also doesn’t excel at anything."
 searchKeywords: "froggy, rare, evader ,  aoe ult, slow, ranged"
 
 
