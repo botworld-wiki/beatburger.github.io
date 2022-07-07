@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "BloodxReaper, Soft"
+contributors: "BloodxReaper, Soft, OJ"
 updatedAt: "2021-12-30"
 
 
 title: "Mort (Rare Splasher)"
 name: "Mort"
-description: "The absolute mobile mortar of the game. While being a beast of combo with high damage nuke and a good sub dps plus crowd controller from afar. Mort suffers a lot of cons(slow speed, high minimum range, etc.) that you got to be its babysitter. But if you can do everything Mort lacks, you will be able to enjoy the destruction Mort brings upon this world.\n\n\n"
+description: "The absolute mobile mortar of the game. Mort serves the role of an excellent nuker while still be a good sub dps/crowd controller from afar. However, the bot suffers a lot of cons to let it alone.\n- Slow speed, high minimum range making you Mort's babysitter\n- Hard to use, requires preparation\n- Might give satisfying result when the ult is ready"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "drop"
-botOpinion: "The absolute mobile mortar of the game. While being a beast of combo with high damage nuke and a good sub dps plus crowd controller from afar. Mort suffers a lot of cons(slow speed, high minimum range, etc.) that you got to be its babysitter. But if you can do everything Mort lacks, you will be able to enjoy the destruction Mort brings upon this world."
+botOpinion: "The absolute mobile mortar of the game. Mort serves the role of an excellent nuker while still be a good sub dps/crowd controller from afar. However, the bot suffers a lot of cons to let it alone."
 searchKeywords: "dumb, Mort, Aoe, Nuke, combo, rare, splasher, knockback"
 
 
