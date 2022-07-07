@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Kart"
-updatedAt: "2022-3-28"
+contributors: "Hex, Kart, QC, O.J"
+updatedAt: "2022-7-7"
 
 
 title: "Bullseye (Epic Sniper)"
 name: "Bullseye"
-description: "Sniper Splasher Hybrid\n\n\n"
+description: "If Pupil is a high risk high reward bot, then Bullseye further exceeds the definition. Can do more than just harming enemy bots, Bullseye is capable of shredding anything including tankers.\n- Pros: High speed, high damage, long range\n- Cons: High minimum range, Barrage usually misses\n- The bot can be vulnerable sometimes"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/957875194784014386/bullseye.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Sniper"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "Season of the Corruption"
-botOpinion: "New Bot, A hybrid between sniper and splasher"
+botOpinion: "If Pupil is a high risk high reward bot, then Bullseye further exceeds the definition. Can do more than just harming enemy bots, Bullseye is capable of shredding anything including tankers."
 searchKeywords: "sniper, epic, poison, corrupt"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: ""
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Bullseye Essence"
