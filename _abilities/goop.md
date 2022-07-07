@@ -1,7 +1,7 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb, Letplz"
+updatedAt: "2022-07-06"
 
 
 title: "Goop"
@@ -19,7 +19,7 @@ abilityImageUrl: "/assets/img/abilities/goop.png"
 abilityCost: "2"
 abilityRarity: "Special"
 abilityRaritySortOrder: "2"
-abilityAcquisition: ""
+abilityAcquisition: "Earned at 600 trophies in arena"
 abilityOpinion: ""
 searchKeywords: "aoe, poison, damage"
 ---
