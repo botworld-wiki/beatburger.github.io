@@ -1,97 +1,103 @@
 ---
 layout: bot
-contributors: "Hex, Soft, O.J"
-updatedAt: "2022-07-07"
+contributors: "BloodxReaper, Soft, OJ"
+updatedAt: "2021-12-30"
 
 
-title: "Thump (Rare Tank)"
-name: "Thump"
-description: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there by trading off raw stats for better utility and supporting.\n- Role: Multitasker (stunning, damage boosting, chasing)\n- Speciality: Becomes nearly invincible during Cannonball's leap\n- Weakness: Can suddenly be quite squishy"
-imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
+title: "Mort (Rare Splasher)"
+name: "Mort"
+description: "The absolute mobile mortar of the game. Mort serves the role of an excellent nuker while still be a good sub dps/crowd controller from afar. However, the bot suffers a lot of cons to let it alone.\n- Slow speed, high minimum range making you Mort's babysitter\n- Hard to use, requires preparation\n- Might give satisfying result when the ult is ready"
+imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 breadcrumbs:
   Bots: "/bots"
-  Tank: "/bots#tanks"
+  Splasher: "/bots#splashers"
 
 
-botName: "Thump"
-botDescription: "A tough bot that leaps into the fray to protects its teammates"
-botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
-botType: "Tank"
+botName: "Mort"
+botDescription: "A cannon on legs. Can fire over obstacles, making it a potent bot from almost anywhere in the arena."
+botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
+botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
-botAcquisition: "Starter Bot, Random Drop"
-botOpinion: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there by trading off raw stats for better utility and supporting."
-searchKeywords: ""
+botAcquisition: "drop"
+botOpinion: "The absolute mobile mortar of the game. Mort serves the role of an excellent nuker while still be a good sub dps/crowd controller from afar. However, the bot suffers a lot of cons to let it alone."
+searchKeywords: "dumb, Mort, Aoe, Nuke, combo, rare, splasher, knockback"
 
 
-ability1Name: "Punch"
-ability1Info: "Range: Melee , Attack Speed: 0.85s , Physical Damage: 100%"
-ability1Description: "Punches an enemy dealing melee damage"
-ability2Name: "Canonball"
-ability2Info: "Range: 6 , Cooldown: 6s , Impact Radius: 3.5 , Stun Duration: 1.5s , Physical Damage: 100%"
-ability2Description: "Leaps towards an enemy unleashing a shockwave on landing"
-ability3Name: "Fist of Fury"
-ability3Info: "Hits: 5 , Impact Radius: 2.5 , Physical Damage: 45% , Stun Duration: 0.4s , Range: Melee , Cooldown: 10s"
-ability3Description: "Thump goes into a rage pounding the ground, dealing damage and stunning"
+ability1Name: "Explosive Shell"
+ability1Info: "Range: 4-10 , Attack Speed: 0.78s , Impact Radius: 2 , Energy Damage: 100% , Knockback: Small"
+ability1Description: "Launches an explosive shell towards an enemy, can be fired over low heights obstacles"
+ability2Name: "Vortex Shell"
+ability2Info: "Range: 5-10 , Cooldown: 6s , Vortex Radius: 2 , Immobilized Duration: 0.75s"
+ability2Description: "Creates a vortex on impact, pulling enemies in and temporarily holding them in place"
+ability3Name: "Super Shell"
+ability3Info: "Range: 4-10 , Cooldown: 10s , Impact Radius: 3 , Energy Damage: 533% , Knockback: Small"
+ability3Description: "Deals massive damage in a large radius"
 
 
-ai1aName: "A: Heavyweight"
-ai1aDescription: "Cannonball stun duration increased by 50%"
-ai1bName: "B: Stunnner"
-ai1bDescription: "Punch has 20% chance to stun"
-ai2aName: "A: Slammer"
-ai2aDescription: "Fist of Fury impact area increased by 50%"
-ai2bName: "B: Fortitude "
-ai2bDescription: "Health increased by 20%"
-ai3aName: "C: Power Punch"
-ai3aDescription: "Punch damage increased by 20%"
+ai1aName: "A: Power Link"
+ai1aDescription: "Gives 2 botpack power when the bot enters a battle"
+ai1bName: "B: Speed Boost"
+ai1bDescription: "Move Speed increased by 30%"
+ai2aName: "A: Extra Heavy Payload"
+ai2aDescription: "Super shell damage increased by 40% , Super shell cooldown increased by 20%"
+ai2bName: "B: Enhanced Payload"
+ai2bDescription: "Explosive shell damage increased by 20%"
+ai3aName: "C: Splash Damage"
+ai3aDescription: "Explosive shell effect size increased by 20%"
 ai3bName: ""
 ai3bDescription: ""
-ai4aName: "A: Expose Weakness"
-ai4aDescription: "Increases all damage dealt to bots hit by Fist of Fury by 25%"
-ai4bName: "B: Armor Plated"
-ai4bDescription: "Reduces physical damage taken by 25%"
-ai5aName: "A: Fast Fists"
-ai5aDescription: "Reduces cooldown of Fist of Fury by 25%"
-ai5bName: "B: Shielding"
-ai5bDescription: "Reduces damage taken during Fist of Fury by 70%"
+ai4aName: "A: Larger Vortex"
+ai4aDescription: "Vortex shell effect size increased by 30%"
+ai4bName: "B: Tight Grip"
+ai4bDescription: "Vortex shell immobilized duration increased by 50%"
+ai5aName: "A: Speedy Super"
+ai5aDescription: "Super shell starts 50% charged"
+ai5bName: "B: Sustained Super "
+ai5bDescription: "Super shell cooldown reduced by 20%"
 
 
-lvl1Hp: "1960"
-lvl1Dmg: "40"
-lvl1Dps: "47"
-lvl1Speed: "14"
-lvl10Hp: "4126"
-lvl10Dmg: "94"
-lvl10Dps: "111"
-lvl20Hp: "10703"
-lvl20Dmg: "245"
-lvl20Dps: "288"
-lvl25Hp: "17237"
-lvl25Dmg: "394"
-lvl25Dps: "464"
+lvl1Hp: "1568"
+lvl1Dmg: "75"
+lvl1Dps: "96"
+lvl1Speed: "6"
+lvl10Hp: "3301"
+lvl10Dmg: "117"
+lvl10Dps: "226"
+lvl20Hp: "8562"
+lvl20Dmg: "459"
+lvl20Dps: "586"
+lvl25Hp: "13790"
+lvl25Dmg: "739"
+lvl25Dps: "943"
 lvl30Hp: ""
 lvl30Dmg: ""
 lvl30Dps: ""
 
 
-epicMat: "Thump Essence"
-rareMat: "Tank Plating"
-specialMat: "Glass Tube"
-commonMat1: "Mini Sensor"
-commonMat2: "Clear Oil"
-commonMat3: "Frost Fuel"
+epicMat: "Mort Essence"
+rareMat: "Splasher Explosives"
+specialMat: "Jet Fuel"
+commonMat1: "Sputtering Generator"
+commonMat2: "Cold Battery"
+commonMat3: "Clear Oil"
 ---
 
+### 'Nuke' by BloodxReaper
+- **AACAA:** Heavily focused on its ult. 
+Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
 
-### Suggested AI Build
-- **AACAB:**
+### 'Consistent Dmg' by BloodxReaper
+- **ABCAB:** Focused on basic attack. Mort has the highest atk spd amongst all the splashers at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have ult cdr abilities or are using them on recruits.
 
 ## Comments
 
 ### Evaluation by Soft
-The bot that stole your lunch money, Thump is the best harasser in the game. He sticks to your squishy bots like crazy, and throws a long-lasting stun tantrum when you try to push him off. Handsdown the best CC bot there is, with respectable damage for a tank as well. Tier B+.
+[Brutes](/brute) smaller, long-ranged cousin. Doesn't deal as much damage, but has ranged damage with large splashing. Has a tendency to run away a lot and not know when to stop which infuriates people that use him a lot since he's very slow. Definitely needs a helping hand from a good tank, but performs great when he does. Tier A.
 
 ### Tips
-- He protects he attacks
+- Supercharged First Strike: When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge). See [Combos](/comps#combos)
+- Group 'em Up: Bots like [Chainer](/chainer) and [Lobbie](/lobbie) can group the enemies making them a great pair! See [Grouper Comps](/comps#grouper-comp)
+- Mort has the highest atk spd of every splasher(?) at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have cdr abilities
+- Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldowns-rare)  or are using them on [Recruits](/recruits).
 
