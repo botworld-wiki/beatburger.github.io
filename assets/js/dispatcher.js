@@ -56,7 +56,7 @@ async function fetchEdits(){
       $target.html(filterXSS(newContent));
     }
   }
-
+  editorModeOn()? 0: $(document).ready(videoEmbeds);
 }
 
 $(document).ready(fetchEdits);
@@ -94,6 +94,7 @@ async function fetchInlines(){
             contentLinks[i].innerHTML = inlinesLookup[contentLinks[i].href]
         }
     }
+
 }
 editorModeOn()? 0: $(document).ready(fetchInlines);
 //$(document).ready(fetchInlines);
@@ -112,7 +113,6 @@ function videoEmbeds(){
         }
     }
 }
-editorModeOn()? 0: $(document).ready(videoEmbeds);
 
 // GA
 /* hardened privacy settings
