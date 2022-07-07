@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, O.J., Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-07"
 
 
 title: "Dune Bug (Special Evader)"
 name: "Dune Bug"
-description: "Dune Bug is the fastest yet squishiest bot that ever existed in game. However, both of its rolling abilities provide high surviving capability. Also good damage output.\n- Speciality: very aggressive, requires specific answers\n- Note: can do AoE damage with Piercing Shots\n- Combos: Hypercharge, Grouping"
+description: "A guaranteed bot you may get while progressing the storyline. Dune Bug is known for its top speed and a very little amount of health it has. While it can increase the survivability by itself with the two rolling abilities, a stunned Dune Bug is obviously extremely vulnerable. Very agile yet very fragile.\n- Speciality: very aggressive, requires specific answers\n- Note: can do AoE damage with Piercing Shots\n- Combos: Hypercharge, Grouping"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "<a href='/dune-bug#story-quest' title='Story quest to get Dune Bug'>Story Quest</a>"
-botOpinion: "Dune Bug is the fastest yet squishiest bot that ever existed in game. However, both of its rolling abilities provide high surviving capability. Also good damage output."
+botOpinion: "A guaranteed bot you may get while progressing the storyline. Dune Bug is known for its top speed and a very little amount of health it has. While it can increase the survivability by itself with the two rolling abilities, a stunned Dune Bug is obviously extremely vulnerable. Very agile yet very fragile."
 searchKeywords: ""
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "612"
 lvl25Hp: "7387"
 lvl25Dmg: "394"
 lvl25Dps: "985"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Dune Bug Essence"
