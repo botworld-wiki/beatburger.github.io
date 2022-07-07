@@ -129,6 +129,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div markdown="1" class="grid-box tall g-hcms g-hcms-homenews">
 
+- [WikiWeek](/wikiweek): Gems rewards for wiki contributiones this week! [full rules and infos](/wikiweek)
 - [QnA with the devs](</qna>): Featherweight answer some questions of ours!
 - [Community Bot Event](</news#d2022-06-25>): FW invites the community to create a bot! The winner(s) will see their bot concept make it into the game, and be involved in the development process! [Details, dates, rewards, etc in the full post](</news#d2022-06-25>) 
 - New bot: [Link](</link>) joins the game along with arena master [Laydee](</arena#laydee>)!
