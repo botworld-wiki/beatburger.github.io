@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "MrGold and Diamond, the 2 shiniest out there that gives us light in our darkest moment"
+contributors: "MrGold and Diamond, the 2 shiniest out there that gives us light in our darkest moment, O.J"
 updatedAt: "2021-12-30"
 
 
 title: "Halo (Rare Support)"
 name: "Halo"
-description: "Team Player\n\n\n"
+description: "Not to be confused with Halo Franchise. An average ranged supporter outshined by Beat because there is not many situations where Halo does great, at least it has done its job well.\n- Feature: Is a good dps dealer/nuker booster\n- Shield Bubble can provide extra survivability on ally\n- Drawback: Somewhat low on health, may die quickly"
 imageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Support"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "drop"
-botOpinion: "Team Player"
+botOpinion: "Not to be confused with Halo Franchise. An average ranged supporter outshined by Beat because there is not many situations where Halo does great, at least it has done its job well."
 searchKeywords: "Teamwork, boost, shield, support, rare, glass, weak"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "326"
 lvl25Hp: "10835"
 lvl25Dmg: "394"
 lvl25Dps: "525"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Halo Essence"
@@ -90,4 +93,3 @@ commonMat3: "Sparky Wires"
 
 ### Tips
 - Do not let Halo get hacked
-
