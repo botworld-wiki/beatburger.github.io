@@ -1,12 +1,12 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb, Letplz"
+updatedAt: "2022-07-07"
 
 
 title: "Zap Tower"
 name: "Zap Tower"
-description: "5P - Shoots lightning at an enemy in range. Lightning bounces to nearby enemies, dealing damage and stunning for 1 second"
+description: "6P - Shoots lightning at an enemy in range. Lightning bounces to nearby enemies, dealing damage and stunning for 1 second"
 imageUrl: "/assets/img/abilities/zap-tower.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -16,7 +16,7 @@ breadcrumbs:
 abilityName: "Zap Tower"
 abilityDescription: "Shoots lightning at an enemy in range. Lightning bounces to nearby enemies, dealing damage and stunning for 1 second"
 abilityImageUrl: "/assets/img/abilities/zap-tower.png"
-abilityCost: "5"
+abilityCost: "6"
 abilityRarity: "Epic"
 abilityRaritySortOrder: "4"
 abilityAcquisition: "Sold on Premium shop for 170 Gems"
