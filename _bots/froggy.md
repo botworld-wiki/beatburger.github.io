@@ -6,7 +6,7 @@ updatedAt: "2021-12-30"
 
 title: "Froggy (Rare Evader)"
 name: "Froggy"
-description: "Waddles, Does not Hop\n\n\n"
+description: "Inside the body of a frog, surprisingly Froggy does not hop usually, just waddles most of the time. With various abilities and high utility the bot has, Froggy serves pretty well in the early game. Unfortunately it falls off kinda hard when late game appears. The middle of the road bot, not bad at everything but also doesn’t excel at anything.\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot , Random Drop"
-botOpinion: "Waddles, Does not Hop"
+botOpinion: "Inside the body of a frog, surprisingly Froggy does not hop usually, just waddles most of the time. With various abilities and high utility the bot has, Froggy serves pretty well in the early game. Unfortunately it falls off kinda hard when late game appears. The middle of the road bot, not bad at everything but also doesn’t excel at anything."
 searchKeywords: "froggy, rare, evader ,  aoe ult, slow, ranged"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "462"
 lvl25Hp: "12312"
 lvl25Dmg: "640"
 lvl25Dps: "744"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Froggie Essence"
