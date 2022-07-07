@@ -26,7 +26,7 @@ searchKeywords: ""
 
 ### Tips
 
-Very useful with heavy melee-range comps. Especially whith bot suffering from low mobility:
+Very useful in heavy melee-range comps. Especially to bots suffering from low mobility:
 
 - [Brute](/brute)
 - [Scatter](/scatter)
