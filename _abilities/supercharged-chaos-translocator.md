@@ -1,7 +1,7 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb, Letplz"
+updatedAt: "2022-07-07"
 
 
 title: "Supercharged Chaos Translocator"
@@ -20,8 +20,12 @@ abilityCost: "3"
 abilityRarity: "Epic"
 abilityRaritySortOrder: "4"
 abilityAcquisition: ""
-abilityOpinion: ""
+abilityOpinion: "Often used on Bigshot/Mort after their ult trigger. Often called SCT"
 searchKeywords: "teleport, boost damage, placement, mobility"
 ---
 
+## Notes
+Casting time: 0s
 
+SCT on Mort
+[video](https://cdn.discordapp.com/attachments/879389444812206110/931894458797146152/XRecorder_Edited_15012022_135455.mp4)
