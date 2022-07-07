@@ -6,7 +6,7 @@ updatedAt: "2022-07-07"
 
 title: "Dune Bug (Special Evader)"
 name: "Dune Bug"
-description: "A guaranteed bot you may get while progressing the storyline. Dune Bug is known for its top speed and a very little amount of health it has. While it can increase the survivability by itself with the two rolling abilities, a stunned Dune Bug is obviously extremely vulnerable. Very agile yet very fragile.\n- Speciality: very aggressive, requires specific answers\n- Note: can do AoE damage with Piercing Shots\n- Combos: Hypercharge, Grouping"
+description: "A guaranteed bot you may get while progressing the storyline. Dune Bug may become your solid friend throughout the entire game being a sub dps/aoe unit with great survivability.\n- Feature: Takes almost no damage while rolling\n- Strength: Can potentially solo against several bots at once\n- Critical Drawback: Becomes extremely vulnerable when stunned"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Evader"
 botRarity: "Special"
 botRaritySortOrder: "2"
 botAcquisition: "<a href='/dune-bug#story-quest' title='Story quest to get Dune Bug'>Story Quest</a>"
-botOpinion: "A guaranteed bot you may get while progressing the storyline. Dune Bug is known for its top speed and a very little amount of health it has. While it can increase the survivability by itself with the two rolling abilities, a stunned Dune Bug is obviously extremely vulnerable. Very agile yet very fragile."
+botOpinion: "A guaranteed bot you may get while progressing the storyline. Dune Bug may become your solid friend throughout the entire game being a sub dps/aoe unit with great survivability."
 searchKeywords: ""
 
 
