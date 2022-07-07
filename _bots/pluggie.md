@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: ", Soft"
-updatedAt: "2021-12-30"
+contributors: "Soft , Letplz"
+updatedAt: "2022-07-07"
 
 
 title: "Pluggie (Rare Splasher)"
@@ -61,15 +61,18 @@ lvl1Hp: "1200"
 lvl1Dmg: "80"
 lvl1Dps: "200"
 lvl1Speed: "10"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
+lvl10Hp: "2594"
+lvl10Dmg: "170"
+lvl10Dps: "155"
 lvl20Hp: "6728"
 lvl20Dmg: "440"
 lvl20Dps: "1101"
 lvl25Hp: "10835"
 lvl25Dmg: "709"
 lvl25Dps: "1773"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Pluggie Essence"
