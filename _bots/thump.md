@@ -6,7 +6,7 @@ updatedAt: "2022-07-07"
 
 title: "Thump (Rare Tank)"
 name: "Thump"
-description: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there with very interesting stats and abilities. This bot trades off great amount of health and damage for great utility and supporting.\n- Role: Multitasker (stunning, damage boosting, chasing)\n- Speciality: Becomes invincible during Cannonball's leap\n- Weakness: Can suddenly be quite squishy"
+description: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there by trading off raw stats for better utility and supporting.\n- Role: Multitasker (stunning, damage boosting, chasing)\n- Speciality: Becomes invincible during Cannonball's leap\n- Weakness: Can suddenly be quite squishy"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Tank"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot, Random Drop"
-botOpinion: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there with very interesting stats and abilities. This bot trades off great amount of health and damage for great utility and supporting."
+botOpinion: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there by trading off raw stats for better utility and supporting."
 searchKeywords: ""
 
 
