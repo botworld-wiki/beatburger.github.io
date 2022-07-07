@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: ""
-updatedAt: "2022-06-20"
+contributors: "O.J"
+updatedAt: "2022-7-7"
 
 
 title: "Shuffle (Epic Support)"
 name: "Shuffle "
-description: "Jack of All chaos\n\n\n"
+description: "Intended to be an rng bot with the ability of using different botpack abilities, Shuffle turns out to be far better than people have expected as it is able to easily wipe out most foes.\n- Having decent stats making Shuffle great in most situations\n- Strength: Can become devastating\n- Need to be defeated asap"
 imageUrl: "https://media.discordapp.net/attachments/985501437733797969/987059675356889158/shuffle.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Support"
 botRarity: "Epic"
 botRaritySortOrder: "4"
 botAcquisition: "Season of Chaos"
-botOpinion: "Jack of All chaos"
+botOpinion: "Intended to be an rng bot with the ability of using different botpack abilities, Shuffle turns out to be far better than people have expected as it is able to easily wipe out most foes."
 searchKeywords: "support, epic, chaos"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "649"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Shuffle Essence"
