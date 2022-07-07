@@ -6,7 +6,7 @@ updatedAt: "2021-12-30"
 
 title: "Mort (Rare Splasher)"
 name: "Mort"
-description: "Dum mort, Coward Mort, Nuke Combo\n\n\n"
+description: "The absolute mobile mortar of the game. While being a beast of combo with high damage nuke and a good sub dps plus crowd controller from afar. Mort suffers a lot of cons(slow speed, high minimum range, etc.) that you got to be its babysitter. But if you can do everything Mort lacks, you will be able to enjoy the destruction Mort brings upon this world.\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396970805395507/mort.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "drop"
-botOpinion: "Dum mort, Coward Mort, Nuke Combo"
+botOpinion: "The absolute mobile mortar of the game. While being a beast of combo with high damage nuke and a good sub dps plus crowd controller from afar. Mort suffers a lot of cons(slow speed, high minimum range, etc.) that you got to be its babysitter. But if you can do everything Mort lacks, you will be able to enjoy the destruction Mort brings upon this world."
 searchKeywords: "dumb, Mort, Aoe, Nuke, combo, rare, splasher, knockback"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "586"
 lvl25Hp: "13790"
 lvl25Dmg: "739"
 lvl25Dps: "943"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Mort Essence"
