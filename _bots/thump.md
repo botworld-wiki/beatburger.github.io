@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, O.J"
+updatedAt: "2022-07-07"
 
 
 title: "Thump (Rare Tank)"
 name: "Thump"
-description: "Brawler Tank\n\n\n"
+description: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there with very interesting stats and abilities. This bot trades off great amount of health and damage for great utility and supporting.\n- Role: Multitasker (stunning, damage boosting, chasing)\n- Speciality: Becomes invincible during Cannonball's leap\n- Weakness: Can suddenly be quite squishy"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397032910487604/thump.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Tank"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Bot, Random Drop"
-botOpinion: "Brawler Tank"
+botOpinion: "Some think it's an elephant, some say it's a gorilla. Whatever it is, Thump is one of the most unique tanks out there with very interesting stats and abilities. This bot trades off great amount of health and damage for great utility and supporting."
 searchKeywords: ""
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "288"
 lvl25Hp: "17237"
 lvl25Dmg: "394"
 lvl25Dps: "464"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Thump Essence"
