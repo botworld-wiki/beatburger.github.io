@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2021-12-30"
+contributors: "Kurt, BloodxReaper, Soft, O.J"
+updatedAt: "2022-07-07"
 
 
 title: "Pupil (Rare Sniper)"
 name: "Pupil"
-description: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents\n\n\n"
+description: "Laser bot of the game, has very high raw damage stat but little health and requires its enemy to stand still. Pupil represents Botworld's glass cannon, a high risk high reward bot.\n- Strength: Melts opponent down quickly with both attacks\n- Weakness: Too squishy, can die very fast\n- Needs babysitting and protection from chasers/ranged bots"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547091991080970/pupil.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Sniper"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Starter Season"
-botOpinion: "Pupil takes time to ramp up, so is at it's best when not bothered by melee opponents"
+botOpinion: "Laser bot of the game, has very high raw damage stat but little health and requires its enemy to stand still. Pupil represents Botworld's glass cannon, a high risk high reward bot."
 searchKeywords: "melt, burst, single, damage, laser, eye, pupil, rare, sniper"
 
 
@@ -70,6 +70,9 @@ lvl20Dps: "917"
 lvl25Hp: "7880"
 lvl25Dmg: "443"
 lvl25Dps: "1477"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Pupil Essence"
