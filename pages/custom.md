@@ -4,7 +4,7 @@ layout: breadcrumbs
 permalink: /custom
 title: "Custom challenges rules and reports"
 description: "For the most experienced Botmasters looking for new challenges and fresh experiences: come and try your skills with off-meta bots, spice up your game! Pauper comps, Rainbow comps, Group DZ runs..."
-imageUrl: "https://media.discordapp.net/attachments/993917728773636116/994310115723321395/IMG_20220707_013313.jpg"
+imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/994870952930324571/Screenshot_20220708-094129_Kiwi_Browser.jpg"
 breadcrumbs:
   Botworld: "/#botworld"
   Community: "/#community-adventure"
