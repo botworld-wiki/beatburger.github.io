@@ -1,7 +1,7 @@
 ---
 layout: ability
-contributors: "debb"
-updatedAt: "2021-12-14"
+contributors: "debb, Letplz"
+updatedAt: "2022-07-08"
 
 
 title: "Shield"
@@ -24,4 +24,5 @@ abilityOpinion: ""
 searchKeywords: ""
 ---
 
-
+## Notes
+Casting time: 0,33s
