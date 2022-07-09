@@ -1,0 +1,98 @@
+---
+layout: testing-default
+---
+
+<h1 id="{{page.path}}">{{page.boosterName}}</h1>
+
+<p><img loading="lazy"  src="{{page.boosterImageUrl}}" alt="Image of the {{page.boosterName}} abilty" /></p>
+
+<ul>
+  <li><strong>Effect</strong>: <code class="language-plaintext highlighter-rouge"> {{page.boosterDescription}} </code></li>
+  <li><strong>Stacks?</strong>: {{page.boosterStacks}} </li>
+</ul>
+
+Booster Stacks Calculator
+<br>
+<input type="number" name="booster_effect" id="booster_effect" placeholder="Effect of booster" value="20"/>
+% 
+<span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or
+<span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span>
+<br>
+How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>
+Total Effect: <span id="effect_output"></span>
+<br>
+Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />
+Final value: <span id="value_output"></span>
+<br>
+
+{{content}}
+
+	<div id="contribs" style="flex: 1 0 100%; margin:20px auto">
+		<span>Last updated at: {{page.updatedAt}}</span>
+		<p>Contributors: {{page.contributors}}</p>
+	</div>
+
+
+<script type="text/javascript">
+	
+	var stacking = 'multiplicative'; 	// to be replaced by page.boosterStacks
+
+	var booster_effect = 0;
+	var booster_type = '';
+	var count = 0;
+	var original_value = 0;
+
+	var total_effect = 0;
+    var output_value = 0
+
+	document.querySelector('#inc').onchange = function(event){
+		booster_type = 'increase';
+		calculate_booster_effect();
+	}
+	document.querySelector('#dec').onchange = function(event){
+		booster_type = 'decrease';
+		calculate_booster_effect();
+	}
+	document.querySelector('#booster_effect').onchange = calculate_booster_effect
+	document.querySelector('#count').onchange = calculate_booster_effect
+	document.querySelector('#value').onchange = calculate_booster_effect
+    
+    // first calc based on default values
+	booster_type = 'increase';
+	calculate_booster_effect();
+
+  
+	function calculate_booster_effect(){
+		initialize_values();
+		if (stacking.toLowerCase() == 'multiplicative'){
+			if (booster_type == 'increase'){
+				total_effect = (1 + booster_effect/100) ** count - 1
+			}else if(booster_type == 'decrease'){
+				total_effect = 1 - (1 - booster_effect/100) ** count
+			}
+			total_effect = Math.round(total_effect * 100)
+		}else if (stacking.toLowerCase() == 'additive'){
+			total_effect = booster_effect * count;
+		}
+
+		if (booster_type == 'increase'){
+			output_value = Math.round(original_value * (1 + total_effect/100));
+		}else if(booster_type == 'decrease'){
+			output_value = Math.round(original_value * (1 - total_effect/100));
+		}
+		if (output_value < 0) 
+			output_value = 0;
+
+		document.querySelector('#effect_output').innerText = String(total_effect) + '%';
+		if (output_value || output_value == 0)
+			document.querySelector('#value_output').innerText = String(output_value);
+	}
+
+	function initialize_values(){
+		total_effect = 0;
+		count = parseInt(document.querySelector('#count').value);
+		original_value = parseInt(document.querySelector('#value').value);
+		booster_effect = parseInt(document.querySelector('#booster_effect').value);
+	}
+
+</script>
