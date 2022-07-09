@@ -71,15 +71,15 @@ Final value: <span id="value_output"></span>
 			}else if(booster_type == 'decrease'){
 				total_effect = 1 - (1 - booster_effect/100) ** count
 			}
-			total_effect = Math.round(total_effect * 100)
+			total_effect = Math.round(total_effect * 10000)/100
 		}else if (stacking.toLowerCase() == 'additive'){
 			total_effect = booster_effect * count;
 		}
 
 		if (booster_type == 'increase'){
-			output_value = Math.round(original_value * (1 + total_effect/100));
+			output_value = Math.round((original_value * (1 + total_effect/100))*100)/100;
 		}else if(booster_type == 'decrease'){
-			output_value = Math.round(original_value * (1 - total_effect/100));
+			output_value = Math.round((original_value * (1 - total_effect/100))*100)/100;
 		}
 		if (output_value < 0) 
 			output_value = 0;
