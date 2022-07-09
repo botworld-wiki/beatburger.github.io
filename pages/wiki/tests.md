@@ -2,6 +2,7 @@
 layout: testing-booster
 contributors: "Pix, debb, Kartoffel, GlareFacer"
 updatedAt: "2021-12-21"
+permalink: "/tests"
 
 
 title: "Bot Health (Epic)"
