@@ -35,7 +35,8 @@ Final value: <span id="value_output"></span>
 
 <script type="text/javascript">
 	
-	var stacking = 'multiplicative'; 	// to be replaced by page.boosterStacks
+	var stacking = page.boosterStacks;
+	console.log(stacking);
 
 	var booster_effect = 0;
 	var booster_type = '';
@@ -43,7 +44,7 @@ Final value: <span id="value_output"></span>
 	var original_value = 0;
 
 	var total_effect = 0;
-    var output_value = 0
+    	var output_value = 0
 
 	document.querySelector('#inc').onchange = function(event){
 		booster_type = 'increase';
