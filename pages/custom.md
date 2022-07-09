@@ -42,6 +42,31 @@ You must play with more than 2 people including yourself and your goal is to **c
 
 </div>
 
+<div markdown="1" class=" ghcms ghcms-superhunt">
+
+## Super Hunt
+
+Hunt and face off 3 Roaming Super Bots. You can't lose a single bot!
+
+**Preparation** 
+- SS and share your comp with your fellow runners. 
+- Any 6 bots, abilitities & modules
+- no mine nor bombardment gadget
+- ps: can't use recruits to weaken the bosses either!
+**Round 1: Super Flamer**
+- Jetpack to the Desert: ![roaming flamer](https://cdn.discordapp.com/attachments/906513120829243453/995293730833707089/IMG_20220709_164131.jpg)
+- Hunt Flamer, pause (gadgets) and SS.
+- Start the fight, record or take SS as it progresses so you can tell your story after.
+- SS your result screen, showing you only used 3 bots
+**Round 1: Super KO**
+- Jetpack to the Sea: ![roaming KO](https://cdn.discordapp.com/attachments/906513120829243453/995293731232170005/IMG_20220709_164112.jpg)
+- same
+**Round 1: Super Virus**
+- Jetpack to the Woods: ![roaming virus](https://media.discordapp.net/attachments/923510071026155550/994120304622313482/SporeWood-BossPat.jpg)
+- same
+
+</div>
+
 <div markdown="1" class=" ghcms ghcms-pauper">
 ## Pauper DZ Challenge
 
