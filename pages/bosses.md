@@ -156,11 +156,12 @@ Unique Bandits have 6 bots in their loadout
 
 </div>
 
-# Gadgets tips against Bosses
+## Gadgets tips against Bosses
 
 <div markdown="1" class=" ghcms ghcms-gadget-tips">
 
 ### Write here
 
 </div>
+
 *Credits: Echio*
