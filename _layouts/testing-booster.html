@@ -12,18 +12,20 @@ layout: testing-default
 </ul>
 <br>
 
-<h3>Booster Stacks Calculator</h3>
-<br>
-<span id="booster_effect"/></span>%
-<span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or
-<span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span>
-<br>
-How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>
-Total Effect: <span id="effect_output"></span>
-<br>
-Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />
-Final value: <span id="value_output"></span>
-<br>
+<div id="calculator">
+	<h3>Booster Stacks Calculator</h3>
+	<br>
+	<span id="booster_effect"/></span>%
+	<span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or
+	<span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span>
+	<br>
+	How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>
+	Total Effect: <span id="effect_output"></span>
+	<br>
+	Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />
+	Final value: <span id="value_output"></span>
+	<br>
+</div>
 
 {{content}}
 
@@ -43,7 +45,11 @@ Final value: <span id="value_output"></span>
 	var original_value = 0;
 
 	var total_effect = 0;
-    	var output_value = 0
+    	var output_value = 0;
+	
+	if ("{{page.boosterDescription}}".indexOf('%') < 0){
+    		document.querySelector('#calculator').style.display = 'none';
+    	}
 
 	document.querySelector('#inc').onchange = function(event){
 		booster_type = 'increase';
