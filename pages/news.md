@@ -23,6 +23,17 @@ breadcrumbs:
 
 </div>
 
+## d2022-07-10
+
+### New Playable Character - Rat!
+The rat will become a playable character in Botworld Adventure in the near future. 
+Here's a sneak peek into the character:
+![Rat picture 1](<https://media.discordapp.net/attachments/985501437733797969/995607754200854569/Playable_Rat_-_IMG_3.png>)
+![Rat picture 2](<https://media.discordapp.net/attachments/985501437733797969/995607754439925790/Playable_Rat_-_IMG_2.png>)
+![Rat picture 3](<https://media.discordapp.net/attachments/985501437733797969/995607754913882164/Playable_Rat_-_IMG_4.png>)
+
+[Official Announcement](/https://twitter.com/BotworldGame/status/1546101931491446785)
+
 ## d2022-07-02
 
 ### QnA with Featherweights
