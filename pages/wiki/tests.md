@@ -15,7 +15,7 @@ breadcrumbs:
 
 
 boosterName: "Bot Health"
-boosterDescription: "All bots health increased by 10%"
+boosterDescription: "All bots health increased by 10"
 boosterImageUrl: "/assets/img/boosters/bot-health-epic.png"
 boosterStacks: "Multiplicative"
 boosterRarity: "Epic"
