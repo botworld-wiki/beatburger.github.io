@@ -19,8 +19,6 @@ breadcrumbs:
 
 [To Be Written](/contribute#tbw)
 
-[](#tbc)
-
 [some stuff](#tbc)
 
 </div>
@@ -78,13 +76,17 @@ Replacement, 24h, lvl1, safe, common
 </div>
 
 <style>
-  a[href="#tbc"]::after{
+ a[href="#tbc"]::after{
     content: " (to be confirmed...)";
     color: #0edbed !important;
+    font: 12px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-style: none;
   } 
   a[href="#tbc"]{
-    color: #f0e7d5 !important;
+    color: #cdc5b2 !important;
     font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
-  } 
+    border-style: none none dotted none; 
+    border-width: 3px;
+  }
 </style>
