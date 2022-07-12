@@ -78,15 +78,15 @@ Replacement, 24h, lvl1, safe, common
 <style>
  a[href="#tbc"]::after{
     content: " (to be confirmed...)";
-    color: #0edbed !important;
-    font: 12px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    border-style: none;
+    color: #4edeed !important;
+    font: 15px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-style: none !important;
   } 
   a[href="#tbc"]{
-    color: #cdc5b2 !important;
+    color: #f0e7d5 !important;
     font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
     border-style: none none dotted none; 
-    border-width: 3px;
+    border-width: 2px;
   }
 </style>
