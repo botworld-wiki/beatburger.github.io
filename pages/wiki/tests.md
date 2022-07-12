@@ -17,9 +17,17 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-[To Be Written](/contribute#tbw)
+## Update: #tbc
 
-[some stuff](#tbc)
+if you have added something to the page but the information is not confirmed yet, 
+put that piece of info within square brackets [ and ] (just like a link) and add (#tbc) to it.
+
+- For example:
+[this is the text that requires confirmation](#tbc)
+- Deleting one ')' to show the actual text:
+[this is the text that requires confirmation](#tbc
+
+PS: we need better color suggestions for [](#tbc) part :)
 
 </div>
 
