@@ -83,6 +83,8 @@ Replacement, 24h, lvl1, safe, common
     color: #0edbed !important;
   } 
   a[href="#tbc"]{
-    color: #0edbed !important;
+    color: #f0e7d5 !important;
+    font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
   } 
 </style>
