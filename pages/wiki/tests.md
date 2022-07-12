@@ -1,7 +1,7 @@
 ---
 
 layout: testing-default
-permalink: /test
+permalink: /tests
 title: Recruits Jobs
 description: "All the Jobs your Botworld Recruits can do for you - Everything there is to know about it on the Botworld Community Wiki!"
 breadcrumbs:
@@ -18,10 +18,10 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-intro">
 
 [To Be Written](/contribute#tbw)
+
 [](#tbc)
-[](/#tbc)
-(#tbc)
-[this is](#tbc)
+
+[some stuff](#tbc)
 
 </div>
 
