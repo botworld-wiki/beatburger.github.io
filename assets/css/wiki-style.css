@@ -836,7 +836,7 @@ span.wtf-discord {
 	   /* tbw: to be written */
 	   a[href^="https://www.botworld.wiki/contribute#tbw"], a[href^="/contribute#tbw"] { color: #ff9bb7 !important}
 	
-	/* tbc: to be confirmed, color shades may need improvement */
+	/* tbc: to be confirmed, color shades will need improvement */
 	a[href="#tbc"]{
     		color: #f0e7d5 !important;
     		font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
