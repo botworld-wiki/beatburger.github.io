@@ -79,7 +79,10 @@ Replacement, 24h, lvl1, safe, common
 
 <style>
   a[href="#tbc"]::after{
-    content: "to be confirmed";
-    color: #22aaaa !important;
+    content: " (to be confirmed...)";
+    color: #0edbed !important;
+  } 
+  a[href="#tbc"]{
+    color: #0edbed !important;
   } 
 </style>
