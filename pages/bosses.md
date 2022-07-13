@@ -23,6 +23,7 @@ They are special challenging enemies that can be found throughout Botworld
 </div>
 
 <span id="megas"></span>
+
 ## Mega Bots
 
 <div markdown="1" class=" ghcms ghcms-megas">
@@ -91,6 +92,7 @@ Tanky boss that deals moderate AoE melee damage
 </div>
 
 <span id="roaming"></span>
+
 ## Roaming bosses
 
 <div markdown="1" class=" ghcms ghcms-roaming">
@@ -162,6 +164,7 @@ Unique Bandits have 6 bots in their loadout
 </div>
 
 <span id="tips"></span>
+
 ## General Tips and Tricks
 
 <div markdown="1" class=" ghcms ghcms-gadget-tips">
