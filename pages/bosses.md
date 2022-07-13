@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /bosses
 title: "Bosses: Who they are and how to beat them"
-description: "Special and challenging enemies that can be found throughout Botworld!\nMega and Super Bots: \n- Immune to Hack and resistant to Stun \n- Found in Danger Zones and Roaming Around the map \nUnique Bandits: \n- 6 bots loadout \nTips and Tricks: \n- How to beat each boss \n- Using Gadgets and the Environment \n- Cheese your way out"
+description: "Special and challenging enemies that can be found throughout Botworld!\nMega and Super Bots: \n- Immune to Hack and resistant to Stun \n- Found in Danger Zones and Roaming Around the map \nUnique Bandits: \n- 6 bots loadout \nTips and Tricks: \n- How to beat each boss \n- Using Gadgets and the Environment \n- Cheese your way out!"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
