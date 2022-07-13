@@ -13,7 +13,7 @@ breadcrumbs:
 <ul class="page-toc toc-block-list links">
   <li class="toc-block-entry" ><a href="#megas" title="List of all Mega Bots">Mega Bots</a></li>
   <li class="toc-block-entry" ><a href="#roaming" title="List of Unique Bandits and Super Bots">Roaming Bosses</a></li>
-  <li class="toc-block-entry" ><a href="#tips" title="Gadgets, environment and more!">Cheese</a></li>
+  <li class="toc-block-entry" ><a href="#tips" title="Gadgets, environment and more!">General Tricks</a></li>
 </ul>
 
 # Unique Bosses
