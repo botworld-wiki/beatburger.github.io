@@ -843,6 +843,7 @@ span.wtf-discord {
     		font-weight: normal;
     		border-style: none none dotted none; 
     		border-width: 2px;
+		border-color: #2cc0ed;
  	}
  	a[href="#tbc"]::after{
     		content: " (to be confirmed...)";
