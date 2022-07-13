@@ -843,11 +843,11 @@ span.wtf-discord {
     		font-weight: normal;
     		border-style: none none dotted none; 
     		border-width: 2px;
-		border-color: #2cc0ed;
+		border-color: #67b2c7;
  	}
  	a[href="#tbc"]::after{
     		content: " (to be confirmed...)";
-    		color: #2cc0ed !important;
+    		color: #67b2c7 !important;
     		font: 16px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
   	}
 
