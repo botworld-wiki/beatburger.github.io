@@ -2,16 +2,19 @@
 
 layout: breadcrumbs
 permalink: /bosses
-title: "Bosses: uniques, megas, or roaming ones"
-description: "They are special challenging enemies that can be found throughout Botworld. Megas: 
-Giant bots that can appear as bosses on Danger Zones or as Contract objectives - Roaming Super Bots or Unique Bandits will grant a Codex achievement - Super Bots have 50% stun resistance and immune to Hack"
+title: "Bosses: Who they are and how to beat them"
+description: ""Special and challenging enemies that can be found throughout Botworld!\nMega and Super Bots: /n- Immune to Hack and resistant to Stun /n- Found in Danger Zones and Roaming Around the map /nUnique Bandits: /n- 6 bots loadout /nTips and Tricks: /n- How to beat each boss /n- Using Gadgets and the Environment /n- Cheese your way out""
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
   
 ---
 
-
+<ul class="page-toc toc-block-list links">
+  <li class="toc-block-entry" ><a href="#megas" title="List of all Mega Bots">Mega Bots</a></li>
+  <li class="toc-block-entry" ><a href="#roaming" title="List of Unique Bandits and Super Bots">Roaming Bosses</a></li>
+  <li class="toc-block-entry" ><a href="#tips" title="Gadgets, environment and more!">Cheese</a></li>
+</ul>
 
 # Unique Bosses
 
@@ -19,6 +22,7 @@ breadcrumbs:
 They are special challenging enemies that can be found throughout Botworld
 </div>
 
+<span id="megas"></span>
 ## Mega Bots
 
 <div markdown="1" class=" ghcms ghcms-megas">
@@ -86,6 +90,7 @@ Tanky boss that deals moderate AoE melee damage
 
 </div>
 
+<span id="roaming"></span>
 ## Roaming bosses
 
 <div markdown="1" class=" ghcms ghcms-roaming">
@@ -156,7 +161,8 @@ Unique Bandits have 6 bots in their loadout
 
 </div>
 
-## Gadgets tips against Bosses
+<span id="tips"></span>
+## General Tips and Tricks
 
 <div markdown="1" class=" ghcms ghcms-gadget-tips">
 
