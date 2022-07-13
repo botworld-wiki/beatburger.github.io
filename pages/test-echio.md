@@ -19,7 +19,7 @@ breadcrumbs:
 
 <span id="sec1"></span>
 ## EM section 1
-<div markdown="1" class=" ghcms ghcms-intro">
+<div markdown="1" class=" ghcms ghcms-sec1">
 
 Write here
 
@@ -27,42 +27,15 @@ Write here
 
 <span id="sec2"></span>
 ## EM section 2
-<div markdown="1" class=" ghcms ghcms-intro">
+<div markdown="1" class=" ghcms ghcms-sec2">
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+\n a\n a\n a\n a\n a\n a\n a\n a
 
 </div>
 
 <span id="sec3"></span>
 ## EM section 3
-<div markdown="1" class=" ghcms ghcms-intro">
+<div markdown="1" class=" ghcms ghcms-sec3">
 
 Write here
 
