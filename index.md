@@ -188,7 +188,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [Exploring](/exploring): Infos and Tips about Canisters, Mobs, Critters, Mega, Bosses, Random Encounters, Level Scaling...
     - [Maps](/maps): Full Pictures, Wild Bots, Locations of Interest...  
     - [Danger Zones](/danger-zones): Tips, Random Encounters, Exterminator Squads...
-    - [Bosses](/bosses): Mega-bots, roaming Supers or Unique Bandits....
+    - [Bosses](/bosses): list of Bosses and tips on how to face them.
     - [Codex](/codex): the new Codex missions & outfits.
     - [Boat Upgrades Guide](/boat): list & maps.
     - [Bots Materials](/materials): full list.
@@ -212,6 +212,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 
 - [BWA News & Updates](/news): New Bots, Game Updates, anything that's happening.
 - [YouTubers & Streamers](/content-creators): Check these out! 
+- [Custom Modes](/custom): Unofficial community-created rule sets made to test your skills! Are you up to the **challenge**?
 - [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
 - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
 - [Credits](/credits): A big **Thank You** to everyone!
