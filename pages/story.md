@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /story
 title: "The Story"
-description: Every NPCs, Quests, and Lore - Everything there is to know about it on the Botworld Community Wiki!
+description: Every NPCs, Quests, and Lore - Everything there is to know about it on the Botworld Community Wiki! \n- Pirate Captain's Location \n- Story Line \n- Interesting environment \n- Be aware of the Spoilers!
 breadcrumbs:
   Botworld: "/#botworld"
   
