@@ -53,6 +53,12 @@ To create a guild:
 
 ## Events
 
+<div markdown="1" class=" ghcms ghcms-science-expo">
+
+### Science Expo
+
+</div>
+
 <div markdown="1" class=" ghcms ghcms-volcanic-eruption">
 
 ### Volcanic Eruption
