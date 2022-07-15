@@ -50,7 +50,7 @@ To create a guild:
 </div>
 
 
-
+<span id="events"></span>
 ## Events
 
 <div markdown="1" class=" ghcms ghcms-science-expo">
