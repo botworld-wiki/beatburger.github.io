@@ -338,8 +338,12 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 
 - note: Crater Dome seems superior in every way if you have access to it.
 
-<span id="ai-farming"></span>
+
+
+
+
+<span id="ai"></span>
 ##AI Farming Tips
-<div markdown="1" class=" ghcms ghcms-ai-grinding">
+<div markdown="1" class=" ghcms ghcms-ai-farming">
 ##Efficient AI Grinding
 </div>
