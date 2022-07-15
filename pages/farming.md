@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /farming
 title: "Farming Guide & Routes"
-description: "The most efficient ways to get gold and the mats you need in Botworld Adventure"
+description: "The most efficient ways to get gold and the mats you need in Botworld Adventure \n- General Farming instructions \n- Routes for coins and specific scraps \n- AI Exp grinding tips"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
@@ -337,3 +337,9 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 *43 gold/can, 18 gold/min, 2min30/run*
 
 - note: Crater Dome seems superior in every way if you have access to it.
+
+<span id="ai-farming"></span>
+##AI Farming Tips
+<div markdown="1" class=" ghcms ghcms-ai-grinding">
+##Efficient AI Grinding
+</div>
