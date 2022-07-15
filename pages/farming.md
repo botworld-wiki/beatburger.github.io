@@ -337,11 +337,10 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 *43 gold/can, 18 gold/min, 2min30/run*
 
 - note: Crater Dome seems superior in every way if you have access to it.
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <span id="ai"></span>
 ##AI Farming Tips
 <div markdown="1" class=" ghcms ghcms-ai-farming">
