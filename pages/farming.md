@@ -342,7 +342,7 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 <br>
 <br>
 <span id="ai"></span>
-##AI Farming Tips
+## AI Farming Tips
 <div markdown="1" class=" ghcms ghcms-ai-farming">
-##Efficient AI Grinding
+## Efficient AI Grinding
 </div>
