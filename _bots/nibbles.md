@@ -48,7 +48,7 @@ ai3aDescription: "TBW"
 ai3bName: ""
 ai3bDescription: ""
 ai4aName: "A: TBW"
-ai4aDescription: "TBW
+ai4aDescription: "TBW"
 ai4bName: "B: TBW"
 ai4bDescription: "TBW"
 ai5aName: "A: TBW"
