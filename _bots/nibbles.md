@@ -7,7 +7,7 @@ updatedAt: "2022-07-19"
 title: "Nibbles (Epic Brawler)"
 name: "Nibbles"
 description: "The 1v1 overhauler\n\n\n"
-imageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/998928898228236349/unknown.png"
+imageUrl: "https://media.discordapp.net/attachments/923509490307977227/998928898228236349/unknown.png"
 breadcrumbs:
   Bots: "/bots"
   Brawler: "/bots#brawlers"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "Nibbles"
 botDescription: "A trash compactor on legs. Caution: Do no hug!"
-botImageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/998928898228236349/unknown.png"
+botImageUrl: "https://media.discordapp.net/attachments/923509490307977227/998928898228236349/unknown.png"
 botType: "Brawler"
 botRarity: "Epic"
 botRaritySortOrder: "4"
