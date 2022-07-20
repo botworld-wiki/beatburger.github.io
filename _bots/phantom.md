@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, "
-updatedAt: "2022-3-10"
+contributors: "Hex"
+updatedAt: "2022-7-9"
 
 
 title: "Phantom (Epic Chaser)"
 name: "Phantom"
-description: "A stealthy bot who lurks in the shadows waiting to pounce on unsuspecting targets."
+description: "\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/951409135407210526/Phantom.png"
 breadcrumbs:
   Bots: "/bots"
@@ -19,17 +19,17 @@ botImageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/95140913
 botType: "Chaser"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Season of the Mist"
-botOpinion: "Assassin"
-searchKeywords: "chaser, assassin, epic, crit"
+botAcquisition: "Season of the Mist, can be dropped after the Season finished"
+botOpinion: ""
+searchKeywords: "chaser, epic, phantom, stun, vanish, critical, crit"
 
 
 ability1Name: "Phantom Blade"
 ability1Info: "Range: Melee , Atk Spd: 0.57s , Physical Dmg: 100%"
 ability1Description: "A quick and potent melee attack"
 ability2Name: "Fade"
-ability2Info:  "Cooldown: 6s, Duration: 4.5s"
-ability2Description:  "Phantom gains stealth. When exiting stealth Phantom gains double damage for 1s"
+ability2Info: "Cooldown: 6s, Duration: 4.5s"
+ability2Description: "Phantom gains stealth. When exiting stealth Phantom gains double damage for 1s"
 ability3Name: "Shadow Strike"
 ability3Info: "Range: Melee, Cooldown: 11s, Physical Damage: 120%, Stun Duration: 3s, Knockback: Small"
 ability3Description: "A melee attack with a devastating stun"
@@ -64,12 +64,15 @@ lvl1Speed: "14"
 lvl10Hp: "2122"
 lvl10Dmg: "295"
 lvl10Dps: "517"
-lvl20Hp: "5504"
+lvl20Hp: "7033"
 lvl20Dmg: "764"
-lvl20Dps: "1347"
+lvl20Dps: "1341"
 lvl25Hp: "8865"
 lvl25Dmg: "1231"
 lvl25Dps: "2160"
+lvl30Hp: "18243"
+lvl30Dmg: "2379"
+lvl30Dps: "4175"
 
 
 epicMat: "Phantom Essence"
@@ -82,6 +85,3 @@ commonMat3: "Clear Oil"
 
 ### 'Recommended Build' by /ΛVΛ\ ♛ RΛҎŤΩЯ ♛
 - **BCAAB:** Damage + survivability (also u can use AI 1 A for stun lock,it will work great.
-
-## Comments
-
