@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Slicer (Special Chaser)"
@@ -66,10 +66,13 @@ lvl10Dmg: "177"
 lvl10Dps: "505"
 lvl20Hp: "5810"
 lvl20Dmg: "459"
-lvl20Dps: "1311"
+lvl20Dps: "917"
 lvl25Hp: "9357"
 lvl25Dmg: "739"
 lvl25Dps: "2392"
+lvl30Hp: "15070"
+lvl30Dmg: "1190"
+lvl30Dps: "2379"
 
 
 epicMat: "Slicer Essence"
