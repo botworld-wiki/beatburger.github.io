@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Soft , Letplz, OJ"
-updatedAt: "2022-07-07"
+updatedAt: "2022-07-09"
 
 
 title: "Pluggie (Rare Splasher)"
 name: "Pluggie"
-description: "Best Splasher at close range\n\n\n"
+description: "The almighty splasher of botworld, best suited for anywhere. Great base stats along with great utility making Pluggie one of the most powerful all round bot.\n- Pros: Slightly upstoppable, sub Hyperdrain/dmg reflection\n- Cons: Ranged bots can still harm Pluggie, if not greatly\n- The bot is fairly strong even when underleveled"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873396927117557771/pluggie.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Splasher"
 botRarity: "Rare"
 botRaritySortOrder: "3"
 botAcquisition: "Arena (2000)"
-botOpinion: "Best Splasher at close range"
+botOpinion: "The almighty splasher of botworld, best suited for anywhere. Great base stats along with great utility making Pluggie one of the most powerful all round bot."
 searchKeywords: ""
 
 
@@ -66,13 +66,13 @@ lvl10Dmg: "170"
 lvl10Dps: "155"
 lvl20Hp: "6728"
 lvl20Dmg: "440"
-lvl20Dps: "1101"
+lvl20Dps: "400"
 lvl25Hp: "10835"
 lvl25Dmg: "709"
 lvl25Dps: "1773"
-lvl30Hp: ""
-lvl30Dmg: ""
-lvl30Dps: ""
+lvl30Hp: "17449"
+lvl30Dmg: "1142"
+lvl30Dps: "1038"
 
 
 epicMat: "Pluggie Essence"
