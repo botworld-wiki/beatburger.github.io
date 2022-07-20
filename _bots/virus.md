@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Kurt, Soft, O.J"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Virus (Epic Brawler)"
@@ -64,12 +64,15 @@ lvl1Speed: "14"
 lvl10Hp: "3891"
 lvl10Dmg: "118"
 lvl10Dps: "187"
-lvl20Hp: "12110"
-lvl20Dmg: "382"
-lvl20Dps: "607"
+lvl20Hp: "10091"
+lvl20Dmg: "306"
+lvl20Dps: "485"
 lvl25Hp: "16252"
 lvl25Dmg: "492"
 lvl25Dps: "782"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Virus Essence"
