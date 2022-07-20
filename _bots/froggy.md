@@ -70,9 +70,9 @@ lvl20Dps: "462"
 lvl25Hp: "12312"
 lvl25Dmg: "640"
 lvl25Dps: "744"
-lvl30Hp: ""
-lvl30Dmg: ""
-lvl30Dps: ""
+lvl30Hp: "23795"
+lvl30Dmg: "1289"
+lvl30Dps: "1499"
 
 
 epicMat: "Froggie Essence"
