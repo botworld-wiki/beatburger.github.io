@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+contributors: "Kurt, Soft, BloodxReaper, Letplz"
+updatedAt: "2022-07-09"
 
 
 title: "Frosty (Rare Evader)"
@@ -48,7 +48,7 @@ ai3aDescription: "Health increased by 20%"
 ai3bName: "B: Speed Boost"
 ai3bDescription: "Move speed increased by 20%"
 ai4aName: "A: Permafrost"
-ai4aDescription: "Cold snap stun duration increased by 205"
+ai4aDescription: "Cold snap stun duration increased by 20%"
 ai4bName: "B: Hard to catch"
 ai4bDescription: "Teleport cooldown reduce by 20%"
 ai5aName: "A: Cold and Defenceless"
@@ -70,6 +70,9 @@ lvl20Dps: "306"
 lvl25Hp: "13790"
 lvl25Dmg: "197"
 lvl25Dps: "492"
+lvl30Hp: "26650"
+lvl30Dmg: "397"
+lvl30Dps: "991"
 
 
 epicMat: "Frosty Essence"
