@@ -70,9 +70,9 @@ lvl20Dps: "548"
 lvl25Hp: "15760"
 lvl25Dmg: "591"
 lvl25Dps: "882"
-lvl30Hp: "25381"
-lvl30Dmg: "1142"
-lvl30Dps: "1705"
+lvl30Hp: "25381" <!--Not added in the WikiSheets-->
+lvl30Dmg: "1142" <!--Not added in the WikiSheets-->
+lvl30Dps: "1705" <!--Not added in the WikiSheets-->
 
 epicMat: "Beat Essence"
 rareMat: "Support Chip"
