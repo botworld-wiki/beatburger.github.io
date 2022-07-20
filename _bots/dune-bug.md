@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex, O.J., Soft, BloodxReaper"
-updatedAt: "2022-07-07"
+updatedAt: "2022-07-09"
 
 
 title: "Dune Bug (Special Evader)"
@@ -65,8 +65,8 @@ lvl10Hp: "1768"
 lvl10Dmg: "94"
 lvl10Dps: "236"
 lvl20Hp: "4587"
-lvl20Dmg: "245"
-lvl20Dps: "612"
+lvl20Dmg: "296"
+lvl20Dps: "740"
 lvl25Hp: "7387"
 lvl25Dmg: "394"
 lvl25Dps: "985"
