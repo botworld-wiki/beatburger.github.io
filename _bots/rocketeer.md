@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Gold, Hex, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Rocketeer (Common Splasher)"
@@ -65,11 +65,14 @@ lvl10Hp: "2358"
 lvl10Dmg: "165"
 lvl10Dps: "198"
 lvl20Hp: "6116"
-lvl20Dmg: "482"
+lvl20Dmg: "428"
 lvl20Dps: "514"
 lvl25Hp: "9850"
 lvl25Dmg: "689"
 lvl25Dps: "828"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Rocketeer Essence"
