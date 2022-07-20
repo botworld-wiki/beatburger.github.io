@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Diamond, Gold, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Lobbie (Common Splasher)"
@@ -60,7 +60,7 @@ ai5bDescription: "Gives 2 botpack power when the bot enters a battle"
 lvl1Hp: "1008"
 lvl1Dmg: "75"
 lvl1Dps: "95"
-lvl1Speed: "16"
+lvl1Speed: "12"
 lvl10Hp: "2122"
 lvl10Dmg: "177"
 lvl10Dps: "221"
@@ -70,6 +70,9 @@ lvl20Dps: "573"
 lvl25Hp: "8865"
 lvl25Dmg: "739"
 lvl25Dps: "923"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Lobbie Essence"
