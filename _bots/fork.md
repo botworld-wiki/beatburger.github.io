@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2021-01-15"
+updatedAt: "2022-07-09"
 
 
 title: "Fork (Epic Chaser)"
@@ -64,12 +64,15 @@ lvl1Speed: "15"
 lvl10Hp: "2358"
 lvl10Dmg: "219"
 lvl10Dps: "292"
-lvl20Hp: "6166"
+lvl20Hp: "6116"
 lvl20Dmg: "569"
 lvl20Dps: "758"
 lvl25Hp: "9850"
 lvl25Dmg: "916"
 lvl25Dps: "1221"
+lvl30Hp: "15863"
+lvl30Dmg: "1918"
+lvl30Dps: "2557"
 
 
 epicMat: "Fork Essence"
