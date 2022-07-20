@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "BloodxReaper, Soft, OJ"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Mort (Rare Splasher)"
@@ -65,8 +65,8 @@ lvl10Hp: "3301"
 lvl10Dmg: "117"
 lvl10Dps: "226"
 lvl20Hp: "8562"
-lvl20Dmg: "459"
-lvl20Dps: "586"
+lvl20Dmg: "555"
+lvl20Dps: "709"
 lvl25Hp: "13790"
 lvl25Dmg: "739"
 lvl25Dps: "943"
