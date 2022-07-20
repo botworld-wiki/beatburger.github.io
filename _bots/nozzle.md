@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Nozzle (Epic Tank)"
@@ -65,11 +65,14 @@ lvl10Hp: ""
 lvl10Dmg: ""
 lvl10Dps: ""
 lvl20Hp: "12843"
-lvl20Dmg: "214"
-lvl20Dps: "214"
+lvl20Dmg: "259"
+lvl20Dps: "259"
 lvl25Hp: "20684"
 lvl25Dmg: "345"
 lvl25Dps: "345"
+lvl30Hp: "39975"
+lvl30Dmg: "555"
+lvl30Dps: "555"
 
 
 epicMat: "Nozzle Essence"
