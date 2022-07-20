@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "O.J"
-updatedAt: "2022-7-7"
+updatedAt: "2022-7-9"
 
 
 title: "Shuffle (Epic Support)"
@@ -60,7 +60,7 @@ ai5bDescription: "Attack range reduced by 30%, Health increased by 20%"
 lvl1Hp: "1400"
 lvl1Dmg: "50"
 lvl1Dps: "76"
-lvl1Speed: "10"
+lvl1Speed: "12"
 lvl10Hp: "2947"
 lvl10Dmg: "165"
 lvl10Dps: "250"
