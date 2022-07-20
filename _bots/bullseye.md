@@ -1,7 +1,7 @@
 ---
 layout: bot
 contributors: "Hex, Kart, QC, O.J"
-updatedAt: "2022-7-7"
+updatedAt: "2022-7-9"
 
 
 title: "Bullseye (Epic Sniper)"
@@ -64,15 +64,15 @@ lvl1Speed: "12"
 lvl10Hp: ""
 lvl10Dmg: ""
 lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl20Hp: "7645"
+lvl20Dmg: "917"
+lvl20Dps: "921"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
-lvl30Hp: ""
-lvl30Dmg: ""
-lvl30Dps: ""
+lvl30Hp: "18639"
+lvl30Dmg: "2379"
+lvl30Dps: "2379"
 
 
 epicMat: "Bullseye Essence"
