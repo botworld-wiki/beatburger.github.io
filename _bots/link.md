@@ -70,6 +70,9 @@ lvl20Dps: "288"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Link Essence"
