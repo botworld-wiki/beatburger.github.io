@@ -1,12 +1,12 @@
 ---
 layout: bot
 contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+updatedAt: "2022-07-09"
 
 
 title: "Slash (Common Chaser)"
 name: "Slash"
-description: "Glass Melee\n\n\n"
+description: "It's a bird! It's a plane! No, it's one of your very first bots upon entering Botworld Adventure. With Slash in hand, you will be taught the basic tactics and strategies of using a chaser (against snipers/evaders). Slash provides a very high damage output, if not the highest, with the drawback of being nearly extremely squishy. Can kill very fast and can also die very fast.\n\n\n"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397428114575410/slasher.png"
 breadcrumbs:
   Bots: "/bots"
@@ -20,7 +20,7 @@ botType: "Chaser"
 botRarity: "Common"
 botRaritySortOrder: "1"
 botAcquisition: "drop"
-botOpinion: "Glass Melee"
+botOpinion: "It's a bird! It's a plane! No, it's one of your very first bots upon entering Botworld Adventure. With Slash in hand, you will be taught the basic tactics and strategies of using a chaser (against snipers/evaders). Slash provides a very high damage output, if not the highest, with the drawback of being nearly extremely squishy. Can kill very fast and can also die very fast."
 searchKeywords: "common, slash, chaser, shredder, glass, critical, burst"
 
 
@@ -66,10 +66,13 @@ lvl10Dmg: "200"
 lvl10Dps: "573"
 lvl20Hp: "4893"
 lvl20Dmg: "520"
-lvl20Dps: "1485"
+lvl20Dps: "1040"
 lvl25Hp: "7880"
 lvl25Dmg: "837"
 lvl25Dps: "2392"
+lvl30Hp: ""
+lvl30Dmg: ""
+lvl30Dps: ""
 
 
 epicMat: "Slash Essence"
