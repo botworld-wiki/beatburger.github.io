@@ -23,6 +23,13 @@ breadcrumbs:
 
 </div>
 
+## d2022-07-19
+### New Bot Revealed - Nibbles
+
+![Nibbles](<https://media.discordapp.net/attachments/824813164142788619/998922333576241212/Character_Reveal_Nibbles.jpg>)
+
+[Official Announcement](<https://twitter.com/BotworldGame/status/1549363422550163457>)
+
 ## d2022-07-10
 
 ### New Playable Character - Rat!
@@ -32,7 +39,7 @@ Here's a sneak peek into the character:
 ![Rat picture 2](<https://media.discordapp.net/attachments/985501437733797969/995607754439925790/Playable_Rat_-_IMG_2.png>)
 ![Rat picture 3](<https://media.discordapp.net/attachments/985501437733797969/995607754913882164/Playable_Rat_-_IMG_4.png>)
 
-[Official Announcement](/https://twitter.com/BotworldGame/status/1546101931491446785)
+[Official Announcement](<https://twitter.com/BotworldGame/status/1546101931491446785>)
 
 ## d2022-07-02
 
