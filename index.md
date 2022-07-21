@@ -129,6 +129,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div markdown="1" class="grid-box tall g-hcms g-hcms-homenews">
 
+- [A new bot - Nibbles is revealed](/news#d2022-07-19)
 - [Rat - a new playable character is will be introduced in a future update!](/news#d2022-07-10)
 - [WikiWeek](/wikiweek): Gems rewards for wiki contributiones this week! [full rules and infos](/wikiweek)
 - [QnA with the devs](</qna>): Featherweight answer some questions of ours!
@@ -148,7 +149,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 Let's make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven’t yet, or get the same rewards by other means.
 
-Check out [Starter Bots](</starter-bots>) if you want, for example, but rest assured **you’ll get all 3 of them** eventually !
+Check out [Starter Bots](/starter-bots) if you want, for example, but rest assured **you’ll get all 3 of them** eventually !
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
