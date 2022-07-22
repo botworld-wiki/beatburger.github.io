@@ -14,7 +14,7 @@ breadcrumbs:
   Boosters: "/boosters"
 
 
-boosterName: "Bot Crit"
+boosterName: "Bot Crit</h1> <p>Random stuff</p> <h1>"
 boosterDescription: "All bot attacks have 10% critical chance (critical hits deal double damage)"
 boosterImageUrl: "/assets/img/boosters/bot-crit-epic.png"
 boosterStacks: "Additive"
