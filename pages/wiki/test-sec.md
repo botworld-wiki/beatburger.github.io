@@ -64,9 +64,7 @@ searchKeywords: ""
   <br>
 </div>
 
-{{content}}
-
-  <div id="contribs" style="flex: 1 0 100%; margin:20px auto">
+<div id="contribs" style="flex: 1 0 100%; margin:20px auto">
     <span>Last updated at: {{page.updatedAt}}</span>
     <p>Contributors: {{page.contributors}}</p>
   </div>
