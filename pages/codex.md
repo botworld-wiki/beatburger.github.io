@@ -281,6 +281,13 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 </div>
 
+<div markdown="1" class=" ghcms ghcms-ashenshore">
+
+## Ashen Shore 
+
+### Coming soon (announced for v1.7)
+
+</div>
 
 ## Exterminator Squads
 
