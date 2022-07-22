@@ -77,7 +77,7 @@ lvl30Dps: "555"
 
 epicMat: "Nozzle Essence"
 rareMat: "Tank Plating"
-specialMat: "Dull Steel"
+specialMat: "Heavy Steel"
 commonMat1: "Hardened Fiberglass"
 commonMat2: "Clear Oil"
 commonMat3: "Sputtering Generator"
