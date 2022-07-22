@@ -14,8 +14,8 @@ breadcrumbs:
   Boosters: "/boosters"
 
 
-boosterName: "Bot Crit"
-boosterDescription: alert('test')
+boosterName: "alert('hello')"
+boosterDescription: "alert()"
 boosterImageUrl: "/assets/img/boosters/bot-crit-epic.png"
 boosterStacks: "Additive"
 boosterRarity: "Epic"
