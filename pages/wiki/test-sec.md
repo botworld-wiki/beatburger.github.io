@@ -49,21 +49,7 @@ searchKeywords: ""
 </ul>
 <br>
 
-<div id="calculator">
-<h3>Booster Stacks Calculator</h3>
-<br>
-<span id="booster_effect"/></span>%
-<span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or
-<span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span>
-<div>
-How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>
-Total Effect: <span id="effect_output"></span>
-</div>
-<div>
-Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />
-Final value: <span id="value_output"></span>
-</div>
-</div>
+<div id="calculator"><h3>Booster Stacks Calculator</h3><br><span id="booster_effect"/></span>%<span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or<span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span><div>How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>Total Effect: <span id="effect_output"></span></div><div>Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />Final value: <span id="value_output"></span></div></div>
 
 <div id="contribs" style="flex: 1 0 100%; margin:20px auto">
     <span>Last updated at: {{page.updatedAt}}</span>
