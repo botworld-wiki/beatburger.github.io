@@ -55,13 +55,14 @@ searchKeywords: ""
 <span id="booster_effect"/></span>%
 <span class="select">increase <input type="radio" name="effect" id="inc" value="inc" checked></span>, or
 <span class="select">decrease <input type="radio" name="effect" id="dec" value="dec"></span>
-<br>
+<div>
 How many boosters ? <input type="number" name="count" id="count" placeholder="Number of Boosters" value="2"/>
 Total Effect: <span id="effect_output"></span>
-<br>
+</div>
+<div>
 Starting value: <input type="text" name="value" id="value" placeholder="Original Value" />
 Final value: <span id="value_output"></span>
-<br>
+</div>
 </div>
 
 <div id="contribs" style="flex: 1 0 100%; margin:20px auto">
