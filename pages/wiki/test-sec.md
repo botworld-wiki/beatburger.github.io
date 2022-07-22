@@ -1,12 +1,13 @@
 ---
+permalink: "/test-sec"
 layout: booster
 contributors: "Pix, debb, Kartoffel, GlareFacer"
 updatedAt: "2021-12-21"
 
 
-title: "Bot Crit (Epic)"
+title: "Security Test Sandbox"
 name: "Bot Crit"
-description: ""
+description: "Put yourself in the shoes of a malicious wikisheet contributor - Your goal is to execute javascript in the session of whoever opens this page"
 imageUrl: "/assets/img/boosters/bot-crit-epic.png"
 breadcrumbs:
   Botpack: "/botpack"
