@@ -206,7 +206,10 @@ nav{display:none}
         border-radius: 5px;
         border: 5px solid #c706ff;
       }
-
+      .rarity_Legendary {
+	border-radius: 5px;
+	border: 5px solid #e8b369;
+      }
       .toc-block-entry.rarity_Common {
         border: 2px solid #d3e1f3;
       }
@@ -218,6 +221,9 @@ nav{display:none}
       }
       .toc-block-entry.rarity_Epic {
         border: 2px solid #c706ff;
+      }
+      .toc-block-entry.rarity_Legendary {
+	border: 2px solid #e8b369;
       }
       tr.rarity_Common {
         border: 5px solid #d3e1f390;
@@ -231,7 +237,9 @@ nav{display:none}
       tr.rarity_Epic {
         border: 5px solid #c706ff90;
       }
-     
+      tr.rarity_Legendary {
+	border: 5px solid #e8b36990;
+      }
      /* homepage bwa toc */
       #site_toc, .wiki-toc {
         display: flex;
