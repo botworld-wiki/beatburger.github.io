@@ -38,7 +38,7 @@ breadcrumbs:
     }
 </style>
 
-
+<h1>Custom Bot Builder</h1>
 <div>
     <p>Click any text about your bot to edit it live</p>
     <p>Share the link to this page after your edit to share your custom bot</p>
@@ -55,7 +55,7 @@ breadcrumbs:
         <div class="botcard">
           <div class="actual-card">
             <div class="pic">
-                <p><img loading="lazy" src="/assets/img/icons/cog.png"/ class="custom-edit custom-edit-image"></p>
+                <p><img loading="lazy" src="/assets/img/icons/cog.png" class="custom-edit custom-edit-image" /></p>
             </div>
             <div class="cardinfos">
                 <table>
@@ -105,6 +105,158 @@ breadcrumbs:
             </ul>
         </div>
     </div>
+
+    <div class="bot_bloc_2">
+
+        <h2 id="ai-tree">AI tree</h2>
+
+        <ul>
+          <li>
+            <p>AI Level 1 (500xp)</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th class="custom-edit custom-edit-ai1aName">ai1aName...</th>
+                  <th class="custom-edit custom-edit-ai1bName">ai1bName...</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="custom-edit custom-edit-ai1aDesc">ai1aDescription...</td>
+                  <td class="custom-edit custom-edit-ai1bDesc">ai1bDescription...</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li>
+            <p>AI Level 2 (2000xp)</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th class="custom-edit custom-edit-ai2aName">ai2aName...</th>
+                  <th class="custom-edit custom-edit-ai2bName">ai2bName...</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="custom-edit custom-edit-ai2aDesc">ai2aDescription...</td>
+                  <td class="custom-edit custom-edit-ai2bDesc">ai2bDescription...</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li>
+            <p>AI Level 3 (5000xp)</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th class="custom-edit custom-edit-ai3aName">ai3aName...</th>
+                  <th class="custom-edit custom-edit-ai3bName">ai3bName...</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="custom-edit custom-edit-ai3aDesc">ai3aDescription...</td>
+                  <td class="custom-edit custom-edit-ai3bDesc">ai3bDescription...</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li>
+            <p>AI Level 4 (14000xp)</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th class="custom-edit custom-edit-ai4aName">ai4aName...</th>
+                  <th class="custom-edit custom-edit-ai4bName">ai4bName...</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="custom-edit custom-edit-ai4aDesc">ai4aDescription...</td>
+                  <td class="custom-edit custom-edit-ai4bDesc">ai4bDescription...</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li>
+            <p>AI Level 5 (30000xp)</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th class="custom-edit custom-edit-ai5aName">ai5aName...</th>
+                  <th class="custom-edit custom-edit-ai5bName">ai5bName...</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="custom-edit custom-edit-ai5aDesc">ai5aDescription...</td>
+                  <td class="custom-edit custom-edit-ai5bDesc">ai5bDescription...</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+    </div>
+    <div class="bot_bloc_3">
+        <div class="stats">
+            
+            <h2 id="stats">Stats</h2>
+
+            <table>
+              <thead>
+                <tr>
+                  <th>Stats</th>
+                  <th>Health</th>
+                  <th>Attack</th>
+                  <th>DPS</th>
+                  <th>Speed</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Lvl 1</td>
+                  <td class="custom-edit custom-edit-lvl1Hp">lvl1Hp...</td>
+                  <td class="custom-edit custom-edit-lvl1Dmg">lvl1Dmg...</td>
+                  <td class="custom-edit custom-edit-lvl1Dps">lvl1Dps...</td>
+                  <td class="custom-edit custom-edit-lvl1Speed">lvl1Speed...</td>
+                </tr>
+                <tr>
+                  <td>Lvl 10</td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                </tr>
+                <tr>
+                  <td>Lvl 20</td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                </tr>
+                <tr>
+                  <td>Lvl 25</td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                  <td> - </td>
+                </tr>
+                <tr>
+                  <td>Lvl 30</td>
+                  <td class="custom-edit custom-edit-lvl30Hp">lvl30Hp...</td>
+                  <td class="custom-edit custom-edit-lvl30Dmg">lvl30Dmg...</td>
+                  <td class="custom-edit custom-edit-lvl30Dps">lvl30Dps...</td>
+                  <td class="custom-edit custom-edit-lvl30Speed">lvl30Speed...</td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
 </div>
 
 
@@ -194,72 +346,4 @@ breadcrumbs:
     }
 </script>
 
-
-
-<script type="text/javascript">
-
-
-const $currentLevel = document.querySelector('#scrap-calc input.calc-current');
-const $targetLevel = document.querySelector('#scrap-calc input.calc-target');
-const $outputC1 = document.querySelector('.scrap-table span.scrapcostC1');
-const $outputC2 = document.querySelector('.scrap-table span.scrapcostC2');
-const $outputC3 = document.querySelector('.scrap-table span.scrapcostC3');
-const $outputS = document.querySelector('.scrap-table span.scrapcostS');  
-const $outputR = document.querySelector('.scrap-table span.scrapcostR');  
-const $outputE = document.querySelector('.scrap-table span.scrapcostE');
-const $outputGold = document.querySelector('span.scrapcostGold');
-  
-const arraycommon1 = [ 0, 2, 3, 4, 6, 8, 10, 10, 15, 15, 20, 20, 25, 30, 30, 35, 40, 45, 50, 60, 130, 160, 200, 240, 290, 340, 410, 480, 570, 670 ];
-const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 80, 100, 120, 150, 170, 210, 240, 290, 340 ];
-
-const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 25, 30, 40, 45, 55, 65, 80, 90, 110, 130];
-const arrayrare = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 4, 4, 5, 6, 8, 8 ];
-const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ];
-const arraygold = [ 0, 5, 8, 12, 16, 20, 25, 30, 40, 50, 60, 70, 85, 105, 125, 155, 190, 235, 290, 355, 440, 605, 820, 1105, 1490, 1995, 2665, 3550, 4715, 6245 ];
-
-
-function calc(){
-    var scrapCounterC1 = 0;
-    var scrapCounterC23 = 0;
-    var scrapCounterS = 0;
-    var scrapCounterR = 0;
-    var scrapCounterE = 0;
-    var scrapCounterGold = 0;
-    for (let i = parseInt($currentLevel.value); i < parseInt($targetLevel.value); i++) {
-        scrapCounterC1 += arraycommon1[i];
-        scrapCounterC23 += arraycommon2[i];
-        scrapCounterS += arrayspecial[i];
-        scrapCounterR += arrayrare[i];
-        scrapCounterE += arrayepic[i];
-        scrapCounterGold += arraygold[i];
-    }     
-    $outputC1.innerText = scrapCounterC1;
-    $outputC2.innerText = scrapCounterC23;
-    $outputC3.innerText = scrapCounterC23;
-    $outputS.innerText = scrapCounterS;
-    $outputR.innerText = scrapCounterR;
-    $outputE.innerText = scrapCounterE;
-    $outputGold.innerText = scrapCounterGold;
-}
-
-$currentLevel.addEventListener('input', calc);
-$targetLevel.addEventListener('input', calc);
-calc();
-
-</script>
-  
-<style type="text/css">
-
-#scrap-calc input{
-  width: 35px;
-}
-
- .calc-result-container{
-    position: relative;
- }
- .calc-result-container span{
-    position: absolute;
-    left: 2px;
- }
-</style>
   
