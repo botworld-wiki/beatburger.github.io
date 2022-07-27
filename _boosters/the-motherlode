@@ -4,9 +4,9 @@ contributors: "Echio"
 updatedAt: "2022-07-27"
 
 
-title: "The Motherlode (Legendary) "
+title: "The Motherlode (Legendary)"
 name: "The Motherlode"
-description: "All botpack ability damaged increased by 24%. All botpack stun ability durations increased by 24%. - "
+description: "All botpack ability damage increased by 24%. All botpack stun ability durations increased by 24%. - "
 imageUrl: "/assets/img/boosters/the-motherlode-legendary.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 boosterName: "The Motherlode"
-boosterDescription: "All botpack ability damaged increased by 24%. All botpack stun ability durations increased by 24%."
+boosterDescription: "All botpack ability damage increased by 24%. All botpack stun ability durations increased by 24%."
 boosterImageUrl: "/assets/img/boosters/the-motherlode-legendary.png"
 boosterStacks: ""
 boosterRarity: "Legendary"
