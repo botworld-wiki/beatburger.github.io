@@ -77,6 +77,10 @@ lvl30Dps: ""
 
 epicMat: "Nibbles Essence"
 rareMat: "Brawler Battery"
+specialMat: "Dull Steel"
+commonMat1: "Thick Tube"
+commonMat2: "Sparky Wires"
+commonMat3: "Cold Battery"
 ---
 
 
