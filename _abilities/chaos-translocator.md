@@ -1,6 +1,6 @@
 ---
 layout: ability
-contributors: "debb"
+contributors: "debb, Letplz"
 updatedAt: "2021-12-14"
 
 
@@ -21,7 +21,8 @@ abilityRarity: "Special"
 abilityRaritySortOrder: "2"
 abilityAcquisition: ""
 abilityOpinion: ""
-searchKeywords: ""
+searchKeywords: "teleport"
 ---
 
-
+## Notes
+Casting time: 0 seclnd
