@@ -70,9 +70,15 @@ Every recruit fight is simulated, so synergies (bots+abilities+boosters) matter.
 
 You won't win that one alone!
 
-### Common strats ?
+### Common strats
+
+Distribute your high lvl bots for each recruit to make them equal to enemies
 
 ### Tie Breaker
+
+6 bots from you and your recruits fight 6 bots from opponents to define who will win. In tie breaker there will be bots with larger number of remaining health.<br>
+
+[Information worth confirming](</contribute#tbw>)
 
 </div>
 
@@ -80,21 +86,23 @@ You won't win that one alone!
 
 ## Jobs
 
-Important revenue stream, some pretty neat rares & epics, and sometimes the easier way to get some annoying [Boat mats](/materials#boat) 
+Important revenue stream, some pretty neat rares & epics, and sometimes the easier way to get some annoying [Boat mats](</materials#boat>)<br>
+
+ Recruits is the best way to get coins. There's a lots of job where you can earn 100, 600 or even 2000 if you enough lucky.
 
 Jobs options reset every 6h
 
-Full [Jobs list](/jobs)
+Full [Jobs list](</jobs>)
 
 ### Tip
 
-if you're waiting for Uberbot, try and pick short jobs so you know you'll have a chance to pick Uberbot at every reset
+if you're waiting for Uberbot, try and pick short jobs so you know you’ll have a chance to pick Uberbot at every reset
 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-reinforcments">
 
-## Reinforcments 
+## Reinforcments
 
 ### Decoy
 
@@ -102,7 +110,11 @@ if you're waiting for Uberbot, try and pick short jobs so you know you'll have a
 
 ### Farming
 
-That's not your job, let them do it for you! [Farming](/farming)
+That's not your job, let them do it for you! <br>
+
+ But make sure you tanking damage from energy guns, or your recruit protection will be way weaker.<br>
+
+[Farming](</farming>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-comp">
@@ -110,64 +122,57 @@ That's not your job, let them do it for you! [Farming](/farming)
 
 ## Composition
 
-### "Hard to mess up" objective
+### “Hard to mess up” objective
 
-Recruits are dumb. It's less about giving them a powerful comp, than it is about giving them tools they won't hurt themselves with. 
+Recruits are dumb. It's less about giving them a powerful comp, than it is about giving them tools they won't hurt themselves with.
 
-Don't think *can this bot/ability do good with this recruit?* but rather *can my recruit use this bot/ability so poorly it doesn't even help it win a fight ?* 
-
-
+Don’t think *can this bot/ability do good with this recruit?* but rather *can my recruit use this bot/ability so poorly it doesn’t even help it win a fight ?*
 
 ### Avoid: easily-disabled bots
 
-You'll see a recruit place a [Mort](/mort) in melee range of a bot, or fail to protect Mort if it's too close. Placing [Scatter](/scatter) or [Brute](/brute) too far away from the fight achieve the same result of doing absolutely nothing.
+You’ll see a recruit place a [Mort](</mort>) in melee range of a bot, or fail to protect Mort if it’s too close. Placing [Scatter](</scatter>) or [Brute](</brute>) too far away from the fight achieve the same result of doing absolutely nothing.
 
 Any bot that needs a combo or some kind of help from the player (placement, supporting bots or abilities, etc) will do poorly in the hand of a recruit
 
-**Suggested list of Bots to Avoid on your recruits:** [Mort](/mort), [Brute](/brute), [Scatter](/scatter), [Flamer](/flamer), [Beat](/beat), [Bigshot](/bigshot) (without [Stun Immunity](/comps#combos)), etc...
-
+**Suggested list of Bots to Avoid on your recruits:** [Mort](</mort>), [Brute](</brute>), [Scatter](</scatter>), [Flamer](</flamer>), [Beat](</beat>), [Bigshot](</bigshot>) (without [Stun Immunity](</comps#combos>)), etc...
 
 ### Prioritize: self-reliant bots
 
-On the other hand, bots like [Rocketeer](/Rocketeer) and [Dune Bug](/dune-bug) are very self-reliant bots, as most [Evaders](/bots#evaders) and [Splashers](/bots#splashers) (veto Mort) tend to be. Their **reliable damage, mobility, and effectiveness in hands-off situations** lend them to be more beneficial for recruits to pilot.
+On the other hand, bots like [Rocketeer](</Rocketeer>) and [Dune Bug](</dune-bug>) are very self-reliant bots, as most [Evaders](</bots#evaders>) and [Splashers](</bots#splashers>) (veto Mort) tend to be. Their **reliable damage, mobility, and effectiveness in hands-off situations** lend them to be more beneficial for recruits to pilot.
 
-
-**Suggested list of Bots to Prioritize on your recruits:** [Rocketeer](/Rocketeer), [Dune Bug](/dune-bug), [Ram](/ram), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Pluggie](/pluggie), [Longshot](/longshot), etc...
-
+**Suggested list of Bots to Prioritize on your recruits:**[Rocketeer](</Rocketeer>), [Dune Bug](</dune-bug>), [Ram](</ram>), [Thump](</thump>), [Fork](</fork>), [Virus](</virus>), [Pluggie](</pluggie>), [Longshot](</longshot>), etc…
 
 ### Abilities
 
 The same reasoning applies, give them abilities that require anything like planning ahead and watch them fail miserably.
 
-Ever seen a recruit using [SCT](/sct) endlessly on [Brute](/brute) ? I have, that's fun, but achieve exactly nothing good:
+Ever seen a recruit using [SCT](</sct>) endlessly on [Brute](</brute>) ? I have, that’s fun, but achieve exactly nothing good:
 
 - Brute never gets in range of anything to hit
 - Spend every ounce of power available
 
-All of a sudden the fight is **3 bots + botpack** (the opponent) *vs* **2 bots + no botpack** (your recruit). Not great.
 
-Thinking of giving your recruit Hasty Ground ? Well here's hoping it uses it on [KO](/ko) and not [Bigshot](/bigshot). etc.
+All of a sudden the fight is **3 bots + botpack** (the opponent) *vs***2 bots + no botpack** (your recruit). Not great.
 
+Thinking of giving your recruit Hasty Ground ? Well here’s hoping it uses it on [KO](</ko>) and not [Bigshot](</bigshot>). etc.
 
-**Avoid abilities that *can easily* be wasted:** [Chaos Translocator](/chaos-translocator), [Supercharged Chaos Translocator](/supercharged-chaos-translocator),... [more to add](/contribute#tbw)
+**Avoid abilities that *can easily* be wasted:**[Chaos Translocator](</chaos-translocator>), [Supercharged Chaos Translocator](</supercharged-chaos-translocator>),… [more to add](</contribute#tbw>)
 
-**Prioritize abilities that *will always* have a beneficial outcome:** [Hypercharge](/hypercharge), Direct damage or Poison, [Shield](/shield),... [more to add](/contribute#tbw)
-
+**Prioritize abilities that *will always* have a beneficial outcome:**[Hypercharge](</hypercharge>), Direct damage or Poison, [Shield](</shield>), [Chaos booster](</chaos-booster>)[more to add](</contribute#tbw>)
 
 ### Try it out!
 
-The best way to figure out what works and what doesn't for a recruit comps, is *simply* to just go and **spectate it in action**. Either:
+The best way to figure out what works and what doesn’t for a recruit comps, is *simply* to just go and **spectate it in action**. Either:
 
 - **Squad Cup:** whenever available. Take notes, maybe even record ?
-- **Autobattle:** load up the 4 bots you have in mind for your recruit comp, add 2 lvl 1 bots you have left in your boat, and have a few fights in the wild. It's not the exact same thing but close enough that you will surely learn a lot, I know I have!
-
+- **Autobattle:** load up the 4 bots you have in mind for your recruit comp, add 2 lvl 1 bots you have left in your boat, and have a few fights in the wild. It’s not the exact same thing but close enough that you will surely learn a lot, I know I have!
 
 
 ## AI Priorities
 
-The recruits/autobattle AI clearly has favorite bots/abilities and its own priority rules. 
+The recruits/autobattle AI clearly has favorite bots/abilities and its own priority rules. AI LOVES to use [Hyperdrain](</hyperdrain>), even if ult is on 1% charged.
 
-[Anyone got data on that?](/contribute#tbw)
+[Anyone got data on that?](</contribute#tbw>)
 
 </div>
 
