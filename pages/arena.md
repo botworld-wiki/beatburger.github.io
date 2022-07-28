@@ -42,33 +42,35 @@ You can find Info about Arena Masters here
 
 ### Notable Rewards
 
-- 500: [Longshot](/longshot)
-- 1000: [Chainer](/chainer)
-- 2000: [Pluggie](/pluggie)
-- 3000: [Beat](/beat)
-- 4000: [Nozzle](/nozzle)
-- 5000: [Hornet](/hornet)
+- 200: [Longshot](</longshot>)
+- 1000: [Chainer](</chainer>)
+- 2000: [Pluggie](</pluggie>)
+- 3000: [Beat](</beat>)
+- 4000: [Nozzle](</nozzle>)
+- 5000: [Hornet](</hornet>)
 - 6000: Crown
+
 
 ### System
 
-- **Opponents:** they're player-created [Comps](/comps), controlled by the game AI.
-- **Matchmaking:** You get matched against opponents at around the same rank as yours. If you've been performing better than most people at your level, you'll end up facing harder and harder opponents! 
-- **Arena level:** the level displayed in arena isn't the actual [Botpack Level](/botpack#botpack-level), but simply the average of the 6 bots used. It has no impact on anything.
-- **Gains/Losses:** The higher your absolute ranking, the less you will earn per win, and the more you will lose per loss. 
+- **Opponents:** they're player-created [Comps](</comps>), controlled by the game AI.
+- **Matchmaking:** You get matched against opponents at around the same rank as yours. If you’ve been performing better than most people at your level, you’ll end up facing harder and harder opponents!
+- **Arena level:** the level displayed in arena isn’t the actual [Botpack Level](</botpack#botpack-level>), but simply the average of the 6 bots used. It has no impact on anything.
+- **Gains/Losses:** The higher your absolute ranking, the less you will earn per win, and the more you will lose per loss.
 
-| Ranking Range | 0-1k | 1k-2k | 2k-3k | 3k-4k | 4k-5k | 5k+ |
-|---------------|------|-------|-------|-------|-------|-----|
-| Opponents lvl | 4-11 | 8-13  | 10-16 | 14-21 | 20-25 | 25  |
-| Points\*     | +?/-? | +?/-?  | +?/-? | +50/-50 | +3x/-6x | +10/-70  |
 
-- Just know that you will always face outliers, simply because they've performed better or worse than others for their current level
-- \* [very rough estimates from memory](/contribute#tbw)
+| Ranking Range | 0-1k          | 1k-2k         | 2k-3k         | 3k-4k         | 4k-5k         | 5k+           |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Opponents lvl | 4-11          | 8-13          | 10-16         | 14-21         | 20-25         | 25            |
+| Points\*      | \+?/-?        | \+?/-?        | \+?/-?        | \+50/-50      | \+3x/-6x      | \+10/-70      |
+
+- Just know that you will always face outliers, simply because they’ve performed better or worse than others for their current level
+- \* [very rough estimates from memory](</contribute#tbw>)
 
 
 ### Tips
 
-[Comps & Combos](/comps), [Fighting Tips & Combat Guide](/fighting)
+[Comps & Combos](</comps>), [Fighting Tips & Combat Guide](</fighting>)
 
 </div>
 
@@ -76,8 +78,14 @@ You can find Info about Arena Masters here
 
 ## Squad Cup
 
-- [Recruits Comps](/recruits#composition)
-- [Comps & Combos](/comps)
+### System
+
+- **Opponents:** they're also player-created [Comps](</comps>), controlled by the game AI. Plus each of your recruits will face the opponent's recruits
+- **Matchmaking:** You get matched against opponents at around the same Solo League rank as yours.
+- **Arena level:** the level displayed in arena isn't the actual Botpack Level, but simply the average of the 6 bots used. It has no impact on anything.
+- **Wins:** You and your recruits are four/*three* so there is four/*three* rounds. You have to win more rounds than the opponent to 
+- [Recruits Comps](</recruits#composition>)
+- [Comps & Combos](</comps>)
  
  
 </div>
