@@ -19,7 +19,7 @@ The Codex is a new feature added with [Version 1.2](</news#v120>). It adds a cou
 
 Each [Map](</maps>) has its own quest list and you can get cosmetic rewards for finishing a certain amount ontop of 100 Coins for each objective you complete.
 
-Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>) \| [Spore Woods](<#spore-woods>) \| [Exterminator Squads](<#exterminator-squads>)
+Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>) \| [Spore Woods](<#spore-woods>) \| [Ashen Shore](<#ashen-shore>) \| [Exterminator Squads](<#exterminator-squads>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
@@ -283,9 +283,45 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
 
-## Ashen Shore 
+## Ashen Shore
 
-### Coming soon (announced for v1.7)
+### Missions
+
+- [Collect Rare Fossils (20)](<https://media.discordapp.net/attachments/993917728773636116/1001743041884864604/Ashen_Shores_Rare_Fossil.jpg>)
+- Collect Rare Fossils (100)
+- Defeat the Roaming Super Berserker
+- [Explore Lonely Lookout](<https://media.discordapp.net/attachments/993917728773636116/1001743041629003806/Codex_-_Lonely_Lookout.jpg>)
+- [Explore Penta Piles](<https://media.discordapp.net/attachments/993917728773636116/1001743041058574386/Screenshot_20220727_132334.jpg>)
+- [Explore Twin Peaks](<https://media.discordapp.net/attachments/993917728773636116/1001743041360560178/Screenshot_20220727_132846.jpg>)
+- [Explore Omen's Outcrop](<https://media.discordapp.net/attachments/824807657550381088/1002183578572034048/Screenshot_20220728_185924.jpg>)
+- [Explore Fate's End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
+- Explore Basalt Shelter
+- Defeat Viking Buffalos (100)
+- Defeat Viking Buffalos (500)
+- Defeat Beat Packs (x)
+- Defeat Beat Packs (y)
+
+
+### Rewards
+
+- 8 Missions Completed: Viking Raider Tunic
+
+- 12 Missions Completed:<br>
+
+    (coming soon)
+
+
+
+### Guides
+
+- **Red Circle**: Explore
+- **Red Line**: Roaming Super Berserker's route<br>
+
+
+
+![Ashen Shore Guide Map](<https://media.discordapp.net/attachments/923509490307977227/1002022616103669810/Untitled125.jpg>)<br>
+
+*Credits: Snow ❆*
 
 </div>
 
