@@ -22,7 +22,10 @@ Add your name to the list below:
 <div markdown="1" class="ghcms ghcms-wikiweek">
 - Templar
 - Hex
-- ??
+- Snow ❆/Snowy
+- Rayran
+- Echio
+- Letplz
 
 </div>
 
