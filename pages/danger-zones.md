@@ -229,6 +229,14 @@ Exterminator Squad is a higher game challenge. Exterminators are found on danger
 
 ... nothing besides satisfaction.
 
+### Level Scaling
+- All Danger Zones have the same level range
+- Lower level cap = Your Botpack level -2
+- No higher level cap overall (you'll find lv33 enemies no matter your level)
+- Each area inside the Danger Zone has it's own level range, which increases the further it is from the entrance (blocked paths interfere)
+- Bosses level = Higher level cap of the area it's located + 3 (Max level: 36)
+- Pest Controls are always level 33, therefore, the Exterminator Boss is always level 36
+
 ### Difficulty Levels
 
 Exterminator Squads levels will rise up and it will get harder every time. It's really hard and also fun at the same time.
@@ -261,6 +269,6 @@ Exterminator Squads levels will rise up and it will get harder every time. It's 
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-**Credit: Pix, Xen, cloud9, chael, Kurt, MrGold, debb, BloodxReaper**
+**Credit: Pix, Xen, cloud9, chael, Kurt, MrGold, debb, BloodxReaper, Echio**
 
 </div>
