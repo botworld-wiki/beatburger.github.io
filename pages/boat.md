@@ -593,18 +593,19 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class="ghcms ghcms-lvl12infos">
 
-![half-right Boat upgraded to lvl 12](/assets/img/boat/boat-12.png)
+![half-right Boat upgraded to lvl 12](</assets/img/boat/boat-12.png>)
 
 ### Unlocks
-- **Danger Zone 4:** Unlocks a new [Danger Zone](/danger-zones) to explore: [Scrapyard](/danger-zones#scrapyard)
-- **Gadget Lab lvl 6:** New [Gadgets](/botpack#gadgets) available to be researched
+
+- **Danger Zone 4:** Unlocks a new [Danger Zone](</danger-zones>) to explore: [Scrapyard](</danger-zones#scrapyard>)
+- **Gadget Lab lvl 6:** New [Gadgets](</botpack#gadgets>) available to be researched
+
 
 ### Requirements
-- Defeat the Pirate Captain
-- Complete 12 [contracts](/contracts)
-- [Upgrade](/materials) 240 [bots](/bots)
 
-
+- Defeat the [Pirate Captain](</story#quests>)
+- Complete 12 [contracts](</contracts>)
+- [Upgrade](</materials>) 240 [bots](</bots>)
 
 </div>
 
