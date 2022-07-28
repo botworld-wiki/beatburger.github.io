@@ -102,17 +102,18 @@ You can find Info about Arena Masters here
 
 ## Brad
 
-Brad is your introduction into the Arena. He won't let you battle the real masters unless you defeat him first.
+Brad is your introduction into the Arena and the owner of the Arena. He won't let you battle the real masters unless you defeat him first.
 
 ![300px arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
 
 - **Bots:** [Slicer](</slicer>) and [Chomp](</chomp>) Level 2
 - **Abilities:**[Freeze](</freeze>), [Speed Boost](</speed-boost>), [Missile](</missile>), [Chaos Translocator](</chaos-translocator>)
-- **Unlocks**: 1st [booster](</botpack#boosters>) slot?
+- **Unlocks**: 2 [booster](</botpack#boosters>) slots
+
 
 ### Tips:
 
-- You can't mess this up. just place your strongest bots and be done with it.
+- You can't mess this up. just place your strongest bots and be done with it, but make sure you control his [Chomp](</chomp>)
 
 </div>
 
@@ -140,15 +141,18 @@ After you've defeated Brad:
 
 Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
-![300px arenamaster astrid](https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png)
+![300px arenamaster astrid](<https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png>)
 
-- **Bots:** 2x [Scatter](/scatter), 2x [Berserker](/berserker), 2x [Frosty](/frosty) Level 6
-- **Abilities:** [Hasty Ground](/hasty-ground), [Chilling Ground](/chilling-ground), [Charge Field](/charge-field), [Frost Missile](/frost-missile)
+- **Bots:** 2x [Scatter](</scatter>), 2x [Berserker](</berserker>), 2x [Frosty](</frosty>) Level 6
+- **Abilities:** [Hasty Ground](</hasty-ground>), [Chilling Ground](</chilling-ground>), [Charge Field](</charge-field>), [Frost Missile](</frost-missile>)
+- **Unlocks:** 3rd [booster](</booster>) slot
 
-### Tips
+### Tips:
 
 - Lv10 bots, Missiles
-- [Any more tips we're missing?](/contribute#tbw)
+- Try to make his bots attack your tanks like [Barrie](</barrie>), or [Thump](</thump>)
+- Make sure her [Scatters](</scatter>) attacking from far and dont dealing much damage. Use [Gust](</gust>) to control them
+- [Any more tips we're missing?](</contribute#tbw>)
 
 </div>
 
@@ -168,20 +172,23 @@ After you've defeated Astrid:
 
 Kelvin is a cool Arena Botmaster who uses Frost bots and Frost abilities. He also uses a sniper to support his remaining bots. A very cool Arena Botmaster that likes to cool things.
 
-![300px arenamaster kelvin](https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png)
+![300px arenamaster kelvin](<https://cdn.discordapp.com/attachments/923510071026155550/927907161382727700/arenamaster-kelvin.png>)
 
-- **Bots:** 3x [Frosty](/frosty), 2x [Icecool](/icicool), 1x [Longshot](/longshot) Level 10
-- **Abilities:** [Snowball](/snowball), [Chilling Ground](/chilling-ground), [Frost Missile](/frost-missile), [Freeze](/freeze)
+- **Bots:** 3x [Frosty](</frosty>), 2x [Icicool](</icicool>), 1x [Longshot](</longshot>) Level 10
+- **Abilities:** [Snowball](</snowball>), [Chilling Ground](</chilling-ground>), [Frost Missile](</frost-missile>), [Freeze](</freeze>)
+- **Unlocks** 1st [gadget](</gadget>) slot
+
 
 ### Tips
 
-- [Slicer](/slicer)/[Yanky](/yanky) with Immunity to slow and immobilizing effects
-- Effective [Sniper Bots](/bots#snipers)
-- [Chaser Stun Res](/chaser-stun-resistance-special) or rare [Stun resistance](/stun-resistance-rare) boosters
-- [Any more tips we're missing?](/contribute#tbw)
+- [Slicer](</slicer>)/[Yanky](</yanky>) with Immunity to slow and immobilizing effects
+- Effective [Sniper Bots](</bots#snipers>)
+- [Chaser Stun Res](</chaser-stun-resistance-special>) or rare [Stun resistance](</stun-resistance-rare>) boosters
+- [Any more tips we're missing?](</contribute#tbw>)
+
 
 ### Story
- 
+
 After you've defeated Kelvin:
 
 - **Kelvin:** Wow i got melted, I'm just going to go and chill somehwere for a while. Take your blue series botpack and leave me be.
@@ -193,44 +200,53 @@ After you've defeated Kelvin:
 
 <div markdown="1" class=" ghcms ghcms-reginald">
 
-Regi is a dueling master who likes to battle someone with **one bot at a time**. While the rules are simple to fight with, he carries a long-lasting Freeze ability with a stun resistance booster for his bots. A very mean arena master with an attitude.
+Reginald is a dueling master who likes to battle someone with **one bot at a time**. While the rules are simple to fight with, he carries a long-lasting Freeze ability with a stun resistance booster for his bots. A very mean arena master with an attitude.
 
-![300px arenamaster reginald](https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png)
+![300px arenamaster reginald](<https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png>)
 
-- **Bots:** = [Slicer](/slicer), [Froggy](/froggy), [Tether](/tether), [Scatter](/scatter), [Longshot](/longshot), [Brute](/brute) Level 14
-- **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](/snowball), [Super Charge](/super-charge)
+- **Bots:** = [Slicer](</slicer>), [Froggy](</froggy>), [Tether](</tether>), [Scatter](</scatter>), [Longshot](</longshot>), [Brute](</brute>) Level 14
+- **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](</snowball>), [Super Charge](</super-charge>)
+- **Unlocks:** 2nd [gadget](</Gadgets>) slot
+
 
 ### Tips
 
 Your top priority is to **avoid the Freeze Balls**. Two ways around it:
 
 - have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
-- have [Chaos Translocator](/chaos-translocator) (CT) at hand and save power to use it in a pinch
+- have [Chaos Translocator](</chaos-translocator>) at hand and save power to use it in a pinch
 
 
-Ps: I believe [Proximity Translocator](/proximity-translocator) can be used instead of CT and work considerably better. I didn't have it myself
+[Proximity Translocator](</proximity-translocator>) can be used instead of [Chaos Translocator](</chaos-translocator>) and work considerably better, because you can choose where to teleport your bot.
 
-Then, tip your comp heavily towards **ranged bots so you can kill from afar**. Some [Chasers](/bots#chasers) are cool, but def no tanks.
+Then, tip your comp heavily towards **ranged bots so you can kill from afar**. Some [Chasers](</bots#chasers>) are cool, but definetly no tanks.
 
-**Must-have abilities**: CT, [Imobilize](/immobilize). 
+**Must-have abilities**: [Chaos Translocator](</chaos-translocator>), [Imobilize](</immobilize>), [Proximity translocator](</proximity-translocator>)
 
-**Good to have**: [Gust](/gust), [Freeze](/freeze), [Super-Charge](/super-charge)
+**Good to have**: [Gust](</gust>), [Freeze](</freeze>), [Super-Charge](</super-charge>)
 
-- Boosters to help generate power, like [Power Start](/power-start-common)
+- Boosters to help generate power, like [Power Start](</power-start-common>)
 
 
 The more snipers you have, the better. **Longshot is king and easy to get**, Chomp is so-so but okay. Put them down on the field, keep the enemies away with Imobilize/Gust/Freeze, save 2p for CT to dodge Freeze Ball, and occasionally Overcharge if you can afford it.
 
 Some hidden gems amongst bots:
 
-- **[Rocketeer](/rocketeer) AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo [Brute](/brute), and then some.
-- **[Slicer](/slicer) AI4**: immune to slow and freeze. Great [Frosty](/frosty) counter.
-- [Any more tips we're missing?](/contribute#tbw)
+- **[Rocketeer](</rocketeer>) AI3**: with the knockback effect, it can keep mobs away virtually forever. 100% can easily solo [Brute](</brute>), and then some.
+- **[Slicer](</slicer>) AI4**: immune to slow and freeze. Great [Frosty](</frosty>) counter.<br>
+
+
+
+[Frosty](</frosty>) counters Reginald's [Slicer](</slicer>) and [Brute](</brute>), but make sure it to not take too much damage for them or Reginald will place [Froggy](</froggy>) or [Longshot](</longshot>)
+
+- [Any more tips we're missing?](</contribute#tbw>)
+
 
 ### Story
 
 - **Reginald:** You offend me with your lack of skill, there will be barely any honour to be gained with my victory.
- 
+
+
 After you've defeated Reginald:
 
 - **Reginald:** I'm finished, done! How can I ever show my face in this town again? Here's your red series botpack, may you glow with its magnificence.
@@ -241,24 +257,28 @@ After you've defeated Reginald:
 
 <div markdown="1" class=" ghcms ghcms-jack">
 
-An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bots, he will deploy **4 bots at a time**. 
+An Arena Master whose bots are **all Melees**. While Jack loves to have Melee bots, he will deploy **4 bots at a time**.
 
-![300px arenamaster jack](https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png)
+![300px arenamaster jack](<https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png>)
 
-- **Bots:** = [Beat](/beat), [Yanky](/yanky), [Chainer](/chainer), [Thump](/thump), 2x [K.O.](/ko) Level 17
-- **Abilities:** [Hasty Ground](/hasty-ground), [Charge Field](/charge-field), [Immobilize Field](/immobilize-field), [Vortex](/vortex)
+- **Bots:** = [Beat](</beat>), [Yanky](</yanky>), [Chainer](</chainer>), [Thump](</thump>), 2x [K.O.](</ko>) Level 17
+- **Abilities:** [Hasty Ground](</hasty-ground>), [Charge Field](</charge-field>), [Immobilize Field](</immobilize-field>), [Vortex](</vortex>)
+- **Unlocks:** 4th [boostee](</booster>) slot
 
 
 ### Tips
 
-- He seems useless against [Unstable plasma](/unstable-plasma), [Bombee](/bombee), [Evaders](/bots#evaders), and [Splashers](/bots#splashers)
-- [Any more tips we're missing?](/contribute#tbw)
+- He seems useless against [Unstable plasma](</unstable-plasma>), [Bombee](</bombee>), [Evaders](</bots#evaders>), and [Splashers](</bots#splashers>)
+- Use [Chainer](</chainer>) combos
+- [Any more tips we're missing?](</contribute#tbw>)
+
 
 ### Story
- 
-- **Jack:** C'mon, let's get into it. I'm gonna thump your bots back into scrap. Don't even think of running away.
- 
-After you've defeated Jack:
+
+- **Jack:** C'mon, let's get into it. I’m gonna thump your bots back into scrap. Don’t even think of running away.
+
+
+After you’ve defeated Jack:
 
 - **Jack:** Hmmph, you were just out of my reach. Go on, grab a purple series botpack, knock yourself out!
 
@@ -274,29 +294,36 @@ After you've defeated Jack:
 
 A more chaotic Arena Master and that is Nicola. Nicola never runs out of Botpack power. Prepare to fight, prepare to dodge cause this Arena Master will make your battle, filled with chaos.
 
-![300px arenamaster nicola](https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png)
+![300px arenamaster nicola](<https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png>)
 
-- **Bots:** = 2x [Pluggie](/pluggie), [Pupil](/pupil), [Bigshot](/bigshot), 2x [Nozzle](/nozzle) Level 20
-- **Abilities:** [Zap Tower](/zap-tower), [Charge Bolt](/charge-bolt), [Firewall](/firewall), [Unstable Plasma](/unstable-plasma)
+- **Bots:** = 2x [Pluggie](</pluggie>), [Pupil](</pupil>), [Bigshot](</bigshot>), 2x [Nozzle](</nozzle>) Level 20
+- **Abilities:** [Zap Tower](</zap-tower>), [Charge Bolt](</charge-bolt>), [Firewall](</firewall>), [Unstable Plasma](</unstable-plasma>)
+- **Unlocks:** 3rd [gadget](</gadgets>) slot
 
 
 ### Tips
 
 - It's HER or prepare to get nuked ;)
-- Try [Chainer](/chainer) or [Vortex](/vortex) and group her damage dealers, then use Splashers
-- [Any more tips we're missing?](/contribute#tbw)
+- Try [Chainer](</chainer>) or [Vortex](</vortex>) and group her damage dealers, then use Splashers
+- Try to hack her main powers as [Bigshot](</bigshot>), [Pluggies](</pluggie>) and [Pupil](</pupil>).
+- Her [Nozzles](</nozzle>) is a big problem, because they have a lots of hp. When your bots are focusing on it, they become vulnerable to [Unstable Plasma](</unstable-plasma>) and [Firewall](</firewall>).
+- If she dropped 2 [Nozzles](</nozzle>) at the beggining, you'll lose
+- [Any more tips we're missing?](</contribute#tbw>)
+
 
 ### Story
 
-- **Nicola:** Chaaaaaaaaaaaaaaaaaaarge me up, haha. Just you wait I'm brimming with power, or don't wait, lets battle right now, I'm wired!
+- **Nicola:** Chaaaaaaaaaaaaaaaaaaarge me up, haha. Just you wait I'm brimming with power, or don't wait, lets battle right now, I’m wired!
 
-After you've defeated Nicola:
 
-- **Nicola:** I've never felt so flat, I'm completely drained, gonna take some time out to recharge. I guess this orange series botpack is yours.
+After you’ve defeated Nicola:
+
+- **Nicola:** I’ve never felt so flat, I’m completely drained, gonna take some time out to recharge. I guess this orange series botpack is yours.
+
 
 ### Trivia
 
-She used to spam [Zap Towers](/zap-tower) like back when that ability was 5p and had a higher rate of fire! Good times...
+She used to spam [Zap Towers](</zap-tower>) like back when that ability was 5p and had a higher rate of fire! Good times...
 
 </div>
 
@@ -307,25 +334,27 @@ She used to spam [Zap Towers](/zap-tower) like back when that ability was 5p and
 
 A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the perfect fighting team (pretty much like Brads but with reserves). Scales don't want your bots to use its ult. whenever your bots escaped from his, he will teleport his bots to yours with an explosive entrance. make sure you choose your bots carefully
 
-![300px arenamaster scales](<https://cdn.discordapp.com/attachments/923510071026155550/927919339364028417/arenamaster-scales.png>)
+![300px arenamaster scales](<https://media.discordapp.net/attachments/923509490307977227/994097616252063796/IMG_20220705_204840.jpg>)
 
-- **Bots:** = [Virus](</virus>), [Froggy](</froggy>), [Dune Bug](</dune-bug>), [Ram](</ram>), [Halo](</halo>), [Slicer](</slicer>) Level 23(?)
+- **Bots:** = [Virus](</virus>), [Froggy](</froggy>), [Dune Bug](</dune-bug>), [Ram](</ram>), [Halo](</halo>), [Slicer](</slicer>) Level 23
 - **Abilities:** [Supercharged Chaos Translocator](</supercharged-chaos-translocator>), [Explosive Proximity Translocator](</explosive-proximity-translocator>), [Hypercharge](</hypercharge>), [Hyperdrain](</hyperdrain>)
 
 
 ### Tips
 
-- [Virus](</virus>) \+ [Hypercharge](</hypercharge>) = GG.
-- [Any more tips we’re missing?](</contribute#tbw>)
+- [Virus](</virus>) \+ [Hypercharge](</hypercharge>) = GG only works if he hasnt enough power for [Hyperdrain](</hyperdrain>). Always control his BP power.
+- Wedge is knocked out with a wedge, use [Hyperdrain](</hyperdrain>) on his [Virus](</virus>)
+- [Any more tips we're missing?](</contribute#tbw>)
 
 
 ### Story
 
-I look forward to our duel, I always enjoy a challenge though I am confident you won’t shake me.
+- **Scales** I look forward to our duel, I always enjoy a challenge though I am confident you won't shake me.
 
-After you’ve defeated Scales:
 
-- **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.*Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
+After you've defeated Scales:
+
+- **Scales:** I am unsettled... perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.\*Scales:\*\* I am unsettled… perhaps a new age is dawning. You deserve this prismatic botpack, the most perfectly balanced series that exists.
 
 </div>
 
@@ -336,23 +365,27 @@ After you’ve defeated Scales:
 
 This pop star turned judge waits for you to place bots before delivering her “stunning” verdict. She uses **4 bots at a time** and **starts placing only after the player has put their bots** onto the battlefield.
 
-![300px arenamaster laydee](https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png)
+![300px arenamaster laydee](<https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png>)
 
-- **Bots:** 2x [Mort](/mort), 2x [Chainer](/chainer), [Beat](/beat), [Scatter](/scatter) Level 30
-- **Abilities:** [Hypercharge](/hypercharge), [Icewall](/icewall), [Immobilize Field](/immobilize-field), [Immobilize](/immobilize)
+- **Bots:** 2x [Mort](</mort>), 2x [Chainer](</chainer>), [Beat](</beat>), [Scatter](</scatter>) Level 30
+- **Abilities:** [Hypercharge](</hypercharge>), [Icewall](</icewall>), [Immobilize Field](</immobilize-field>), [Immobilize](</immobilize>)
 
 
 ### Tips
 
-- [Any more tips we're missing?](/contribute#tbw)
+- She is Jack 2.0, use [Chainer](</chainer>) combos.
+- Use 2 epic stun res to make her stunning aspect useless (quite unfair, but it works)
+- [Any more tips we're missing?](</contribute#tbw>)
+
 
 ### Story
 
-- **Laydee:** I hope you don't stage fright, 'cause my bots are about to hurl some critique your way!
+- **Laydee:** I hope you don’t stage fright, ‘cause my bots are about to hurl some critique your way!
+
 
 After you defeated Laydee:
 
-- **Laydee:** Normally I don't take kindly to being upstaged, but that was a 10/10 performance back there. You deserve this.
+- **Laydee:** Normally I don’t take kindly to being upstaged, but that was a 10/10 performance back there. You deserve this.
 
 </div>
 
@@ -360,7 +393,9 @@ After you defeated Laydee:
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph_asis, debb*
+*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph\_asis, debb*<br>
+
+*Rayran was here*👀
 
 </div>
 
