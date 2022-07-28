@@ -17,17 +17,19 @@ You progress through a Season, and get the corresponding rewards, by earning Tok
 
 ## Starter Season vs Global Season
 
-You have to go through the Starter Season before you can get into the current Global Season with the rest of the older players.
+**Starter Season** is only available when you first begin the game. You must complete the Starter Season before the current Global Season will become available.
+
+[**Global Seasons** run on a 40-day timeline](<#tbc>) and include a newly released bot, costume, and botpack modules.
+
+Before leaving the Starter Season and moving into the Global Season, consider how much time is remaining on your current season vs the amount left in the Global Season. The time available in the Global Season may be insufficient for completion.
 
 ### How else can I get the bots ?
 
-Any bot that's available as a reward in your current season, you can't find it as a random drop or in any chest. 
-**When the season expires** however, they all **become available from [Random Drops](/loot#botframes)** (including premium rewards).
+Any bot that's available as a reward in your current season, you can't find it as a random drop or in any chest. **When the season expires** however, they all **become available from [Random Drops](</loot#botframes>)** (including premium rewards).
 
 ### Related pages
 
-**Contracts**: we got a page for them, with a [list of every Contract](/contracts)
-**Earning Tokens in the Wilderness**: check out [Exploring](/exploring)
+**Contracts**: we got a page for them, with a [list of every Contract](</contracts>)**Earning Tokens in the Wilderness**: check out [Exploring](</exploring>)
 
 </div>
 
@@ -35,7 +37,9 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 <div markdown="1" class=" ghcms ghcms-starterseason">
 
-[To Be Written](/contribute#tbw)
+This season lasts for [how many](</contribute#tbw>) days long<br>
+
+[To Be Written](</contribute#tbw>)
 
 </div>
 
@@ -93,7 +97,7 @@ This Season was 42 Days long starting on December, 30th 2021
 
 ### Season 1: Season of the Wind
 
-[To Be Written](/contribute#tbw)
+[To Be Written](</contribute#tbw>)
 
 </div>
 
