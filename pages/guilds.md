@@ -30,23 +30,26 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 ## Joining a Guild
 
 <div markdown="1" class=" ghcms ghcms-joining">
-Join an existing guild by browsing through the list of guilds or searching for a Guild by name.
+- Join an existing guild by browsing through the list of guilds or searching for a Guild by name.
+- You can choose minimum number of players in the guild you're look for, like 1, 5, 10 or 15 members.
+- You can also choose location if you want guild to have people from specific country<br>
 
-![](https://cdn.discordapp.com/attachments/985501437733797969/985501650284314634/Screenshot_20220612-163825_Botworld.png)
+
+
+![](<https://cdn.discordapp.com/attachments/985501437733797969/985501650284314634/Screenshot_20220612-163825_Botworld.png>)
 </div>
 
 ## Creating a Guild
 
 <div markdown="1" class=" ghcms ghcms-create">
-To create a guild:
+**To create a Guild**:
 
 - Open the **Guild Create/Search** window
 - Click **Create Guild**
 - Type the **Name** and **Description**, choose the **Location** and **Invite Type**
-- Click **Create** and you have your own guild!
+- Click **Create** and you have your own guild!<br>
 
-
-![](https://media.discordapp.net/attachments/985501437733797969/985501649852334110/Screenshot_20220612-162706_Botworld.png)
+![](<https://media.discordapp.net/attachments/985501437733797969/985501649852334110/Screenshot_20220612-162706_Botworld.png>)
 </div>
 
 
@@ -57,11 +60,75 @@ To create a guild:
 
 ### Science Expo
 
+![300pix? Science Expo](<https://cdn.discordapp.com/attachments/923510071026155550/997369106745536593/unknown.png>)<br>
+
+**Start**: July 14th, 2022<br>
+
+**Duration**: 14 days
+
+**Description**:<br>
+
+ Gather your beakers and stock up on test tubes, as the Science Expo descends on Botworld! With the Mad Scientist as your host, explore all manner of chemical reactions and physics conundrums - just be careful you aren't in her experiments.<br>
+
+<br>
+
+**Guild tasks**:
+
+- Catch Escaped Robo-Rabbits throughout Botworld (5000) - *1000 Guild Coins*<br>
+
+![200px Robo Rabbit](<https://cdn.discordapp.com/attachments/923510071026155550/997305103545548870/unknown.png>)
+- Find the Mad Scientist's Test Tubes in [Saltwater Swamp](</maps#saltwater-swamp>) (500) - *1000 Guild Coins*<br>
+
+![200px Test Tubes](<https://cdn.discordapp.com/attachments/923510071026155550/997305047727755356/unknown.png>)
+- Damage Enemy Bots with [Unstable Plasma](</unstable-plasma>) (500) - *1000 Guild Coins*
+- Finish Enemy Bots with [Explosive Proximity Translocator](</explosive-proximity-translocator>) (500) - *1000 Guild Coins*
+- Fuse Abilities and Boosters with [Aunty Patch](</story#aunty-patch>) (500) - *1000 Guild Coins*<br>
+
+<br>
+
+**Rewards**:
+- 1000 Guild Coins: [Special Big Chest](</loot>)
+- 2500 Guild Coins: Rare Random [Ability Module](</abilities>)
+- 5000 Guild Coins: [Corrupted Tank Health](</contribute#tbw>) Booster
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-volcanic-eruption">
 
 ### Volcanic Eruption
+
+**Start:** July 1, 2022<br>
+
+**Duration:** 14 days
+
+**Description:**<br>
+
+ Molten Rock has erupted! This massive explosion has billowed volcanic rock all throughout Botworld, leaving smoking craters from Ashen shore to the Parched sea. Will you brave tectonic shift and fight fire with fire?<br>
+
+<br>
+
+**Guild tasks:**
+
+- **Defeat wild [Bombee](</bombee>) packs** (1000) - *500 guild coins*
+- **Find Volcanic Glass in Craters** *troughout botworld* (1000) - *1000 Guild Coins*<br>
+
+![100px Volcanic Glass](<https://cdn.discordapp.com/attachments/923510071026155550/996129624406900766/unknown.png>)
+- **Damage enemy bots with [Flamer](</flamer>)'s Flamefield.** (3000) - *1000 Guild Coins*<br>
+
+![300px Flamer's Flamefield](<https://cdn.discordapp.com/attachments/923510071026155550/996130538396065862/unknown.png>)
+- **Cause enemies to damage themselves in Molten rock** (2000) - *2000 Guild Coins*<br>
+
+[video Throwing Bandit into a Flamethrower](<https://cdn.discordapp.com/attachments/923510071026155550/995433365631160360/Flamethrower_low_quality.mp4>)
+- **Catch rare Fireflies in Great Desert and Parched Sea** (1000) - *500 Guild Coins*<br>
+
+![100px Rare Firefly](<https://cdn.discordapp.com/attachments/923510071026155550/996114265134080040/Screenshot_20220711-224634_Botworld.png>)<br>
+
+<br>
+
+**Rewards:**
+- 1000 guild coins: \*\*Special random [Ability Module](</ability-module>)
+- 2500 guild coins: **[Flamer](</flamer>)[Essence](</essence>)**
+- 5000 guild coins: **Epic chest**
 
 </div>
 
