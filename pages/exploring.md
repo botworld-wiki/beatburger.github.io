@@ -94,7 +94,7 @@ They’re big and sometime nasty. They have a skull logo
 
 ### Bosses
 
-Same. You get [Season Reward Tokens](</seasons>) for beating them!
+Same as megabots. You get [Season Reward Tokens](</seasons>) for beating them!
 
 </div>
 
@@ -174,7 +174,17 @@ Quizzes, prisoners, etc
 
 ### Map reset
 
-reset any map by leaving/rentering them. Everything will respawn
+Reset any map by leaving/rentering them. Everything will respawn
+
+To save rare critters like rainbow snake or ruby scarab, don't battle, or let your recruits do that. Critters spawn/despawn while battling.
+
+### Avoid ennemies
+
+Wild bots and bandits have a shorter range of detection on their back.
+
+While they are chasing you, run (unless you want to battle), and **don't turn too much**.
+
+Be unpredictable when escaping bandits controlling grapple cannon
 
 </div>
 
