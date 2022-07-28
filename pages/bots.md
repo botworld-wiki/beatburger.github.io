@@ -137,8 +137,7 @@ Splashers damage multiple bots that are close together --- best placed at the ba
 
 <div markdown="1" class=" ghcms ghcms-snipers">
 
-Snipers do a lot of damage from a distance --- protect this bot as much as possible
-
+Snipers do a lot of damage from a distance — protect these bots as much as possible
 </div>
 
 
@@ -386,33 +385,70 @@ Supports make your other bots more effective --- best placed beside tanks
 
 <div markdown="1" class=" ghcms ghcms-ai">
 
-## AI 
+## AI
 
-Getting your bot to AI5 will make it so much better, AI trees are very powerful. For some bots and some combos ([Chainer!](/chainer)) AI5 is an absolute game-changer
+Getting your bot to AI5 will make it so much better, AI trees are very powerful. For some bots and some combos ([Chainer](</chainer>)!) AI5 is an absolute game-changer
 
 ### Reset
 
-- It costs 100 gold per bot AI level. 
+- It costs 100 gold per bot AI level.
 - You can only reset them all at once.
 
-### XP costs
 
-| AI level | 1 | 2 | 3 | 4 | 5 |
-| - | - | - | - | - | - |  
-| xp req | 500 | 2000 | 5000 | 14000 | 30000 |
+### XP Costs
+
+| AI level | 1        | 2        | 3        | 4        | 5        |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| xp req   | 500      | 2000     | 5000     | 14000    | 30000    |
 
 ### Training
 
-- **Have [the right business perk](/business):** +15% will help a lot!
-- **Only use bots in training:** bots already at AI5 still get their share of the xp, and it is wasted.
-- **Focus on wild bots:** you gain XP for beating bots, it's more efficient if you don't have to endure adverse abilities while doing so
-- **Fight above your level:** The higher the level, the more the XP gain. Aim for at least 2 levels above yours.
-- **Use your [Gadgets](/botpack#gadgets):** especially mines! but anything to shorten the fights will help, you want to churn them out fast.
-- **Do [Multi-Fights](/exploring#multiple-enemies):** to cut down on loading times.
-- **Regular exploring tricks:** check out [Exploring & Danger Zones Tips](/exploring#tips-and-tricks).
+First of all, it's important to note that **Recruits don't get AI Exp**, so you must be using the Bots you wish to develop yourself<br>
 
-*Your recruits can't train your bots for you!*
+- **Have the right [business perk](</business>):** \+15% (Lv3 AI Research) will help a lot!
+- **Regular exploring tricks:** check out [Exploring & Danger Zones Tips](</exploring#tips-and-tricks>)<br>
 
-*Credit: cloud9*
+<br>
+
+**Fight Higher level enemies**
+- AI Exp isn't directly proportional to the enemy's level itself, but you'll gain more AI Exp for facing enemies that are **higher level than you** (and less from underleved enemies). So try to go for enemies that are **at least 2 levels above your own**
+- Choose the highest level area that you still get [Contracts](</contracts>) for as your AI training ground<br>
+
+<br>
+
+**Focus on Wild Bot Packs**
+- You'll get AI Exp *per bot defeated*, therefore **Wild Bot fights tend to be more efficient** than Bandit fights, since there are usually *more bots per fight* in the former. They're also usually faster to clear
+- You can reroll your [Contracts](</contracts>) until you get the "Salvage the Caravan" mission in a high level area, that will make extra Wild Bot Packs spawn close to the Caravan in that specific location (but **do not** salvage the Caravan after clearing the Wild Bots near it). Prioritize areas that are already naturally packed with Wild Bots for max efficiency, more packs equals more Exp<br>
+
+![300px Pluggie Packs near a Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png>)
+- *Multiple [Pluggie](</pluggie>) packs near a Caravan in Disused Quarry, [Parched Sea](</maps#parched-sea>), while I was at Botpack Lv22*<br>
+
+<br>
+
+**Use your [Gadgets](</gadgets>)**
+- Damaged enemies still give the same AI Exp they'd give if they were at full health, so using [Bombardment](</gadgets#bombardment>) and [Mines](</gadgets#mine>) can **considerably speed up your grinding**
+- Using [Bombardment](</gadgets#bombardment>) 3 times will leave normal enemies at death's door (it's specially effective if used near the Caravan of the "Salvage the Caravan" [Contract](</contract>))<br>
+
+<br>
+
+**Aim for clean and fast clears**
+- You're looking for efficiency, so go for fast clearing combos like [Grouper Comp](</comps>) ones
+- Using [Chainer](</chainer>) \+ AoE against an enemy on death's door will result in an almost instant win
+- Doing [Multi-fights](</exploring#multiple-enemies>) will save some time by lowering the amount of loading screens you'll see<br>
+
+[video Farming AI Exp using Bombardment 320p (1,18MB)](<https://cdn.discordapp.com/attachments/923510071026155550/997654844804452432/AI_Farming_EPT_320p.mp4>)
+- *Getting enemies to death's door with 3x [Bombardment](</gadgets#bombardment>) near a Caravan and fast clearing them with [Chainer](</chainer>) \+ [EPT](</explosive-proximity-translocator>) to level [Hornet](</hornet>) up in Entranceway, [Spore Woods](</maps#spore-woods>), at Botpack lv 24 (Boosters used: 2x [Ult Charge](</ult-charge-special>), 1x [Epic Power Generation](</power-generation-Epic>), 1x [Epic Power Start](</power-start-epic>))*<br>
+
+[Farming AI Exp using 3x Bombardment + Chainer 640p (4,56MB)](<https://cdn.discordapp.com/attachments/923510071026155550/997654845295173693/AI_Farming_EPT_640p.mp4>)<br>
+
+<br>
+
+**Avoid wasting AI Exp**
+- Bots that are already at AI Lv5 still share Exp, meaning that the Ai Exp they get after a fight simply goes to waste
+- Avoid using more than 3 bots per fight, since all bots placed will share AI Exp, resulting in less individual Exp for the bot you're trying to develop<br>
+
+<br>
+
+*Credit: cloud9, Echio*
 
 </div>
