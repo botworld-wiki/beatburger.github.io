@@ -43,16 +43,28 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-island">
 ## Tutorial Island
+
+- **Requirements:** download the game
+- **Mobs lvl:** 1 lvl, but all bots deal 50% less damage
+- **[Wild bots](</wild-bots>):** [Chomp](</chomp>), [Lobbie](</lobbie>), [Barrie](</barrie>), [Longshot](</longshot>)
+- **Bandits:** Greg
+- **Critters:** no
+- **Ancient ruins:** no
+- **Points of interest:** blue chest with [Longshot](</longshot>) guardian, Greg
 </div>
 
 ## Scrapper Coast
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
 
+### Codex map & tips
+
+[Scrapper coast Codex](</codex#scrapper-coast>)
+
 - **Requirements:** Tutorial Island
-- **Mobs lvl:**
+- **Mobs lvl:** 1-6
 - **[Wild bots](</exploring#mob-encounters>):** [Chomp](</chomp>), [Slicer](</slicer>), [Flamer](</flamer>), [Rocketeer](</rocketeer>), [Icicool](</icicool>), [Brute](</brute>), [Longshot](</longshot>), [Tether](</tether>)
-- **[Bandits](</exploring#mob-encounters>):** Dogs, Rats (with Cannons),.. ?
+- **[Bandits](</exploring#mob-encounters>):** Dogs, Rats, Buffalos, Lizards.
 - **[Critters](</exploring#critters>):** White Rabbits (fleeing)
 - **[Ancient Ruins](</loot#ancient-ruins>):** None.
 - **Points of interest:**[Blue Tarp](</boat#blue-tarp>), [Bandit Camp](</contribute#tbw>), [Melanie](</contribute#tbw>),..
@@ -66,15 +78,20 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-greatdesert">
 
-- **Requirements:** Boat Level 4
-- **Mobs lvl:** 
-- **[Wild bots](/exploring#mob-encounters):** [Chomp](/chomp), [Rocketeer](/rocketeer), [Dunebug](/dunebug), [Bombee](/bombee), [Pupil](/pupil), [Scatter](/scatter)
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** Black Scorpions (aggressive)
-- **[Ancient Ruins](/loot#ancient-ruins):** Strange monument, Green Roundhouse
-- **Points of interest:** [Satellite Control Panel?](/contribute#tbw), [Larry's Renting Cabin](/larry)..
+### Codex map & tips
 
-[![Image](/assets/img/maps/great-desert-min.png)](/assets/img/maps/great-desert-min.png)
+[Great desert Codex](</codex#great-desert>)
+
+- **Requirements:** Boat Level 4
+- **Mobs lvl:** 7-12
+- **[Wild bots](</exploring#mob-encounters>):** [Chomp](</chomp>), [Rocketeer](</rocketeer>), [Dunebug](</dunebug>), [Bombee](</bombee>), [Pupil](</pupil>), [Scatter](</scatter>), [Gusto](</gusto>)
+- **[Bandits](</exploring#mob-encounters>):** Cats, Buffalos, Lizards
+- **[Critters](</exploring#critters>):** Black Scorpions (aggressive)
+- **[Ancient Ruins](</loot#ancient-ruins>):** Strange monument, Green Roundhouse, fissure ruins, giant turbins
+- **Points of interest:**[Satellite Control Panel?](</contribute#tbw>), [Larry's Renting Cabin](</larry>)..
+
+
+[![Image](</assets/img/maps/great-desert-min.png>)](</assets/img/maps/great-desert-min.png>)
 
 </div>
 
@@ -82,15 +99,20 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 
+### Codex map & tips
+
+[Fall grove Codex\]\(/codex#fall-grove)
+
 - **Requirements:** Boat Level 7
 - **Mobs lvl:** 12-15
-- **[Wild bots](/exploring#mob-encounters):** [Mort](/mort), [Bullwark](/bullwark), [Ram](/ram), [Slash](/slash), [Bombee](/bombee), [Lobbie](/lobbie), [Thump](/thump) 
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** White Rabbits (fleeing)
-- **[Ancient Ruins](/loot#ancient-ruins):** Crater Dome
-- **Points of interest:** [Mia's Home](/mia), [Tyres](/contribute#tbw),..
+- **[Wild bots](</exploring#mob-encounters>):** [Mort](</mort>), [Bullwark](</bullwark>), [Ram](</ram>), [Slash](</slash>), [Bombee](</bombee>), [Lobbie](</lobbie>), [Thump](</thump>)
+- **[Bandits](</exploring#mob-encounters>):** Wolf pack scrappers, buffalos, rats, lizards
+- **[Critters](</exploring#critters>):** White Rabbits (fleeing)
+- **[Ancient Ruins](</loot#ancient-ruins>):** Crater Dome
+- **Points of interest:**[Mia's Home](</mia>), [Tyres](</tyre>), [Wolf Pack Scrapper Alpha](</codex#fall-grove>)
 
-[![Image](/assets/img/maps/fall-grove-min.png)](/assets/img/maps/fall-grove-min.png)
+
+[![Image](</assets/img/maps/fall-grove-min.png>)](</assets/img/maps/fall-grove-min.png>)
 
 </div>
 
@@ -99,15 +121,20 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 
 
-- **Requirements:** Boat Level 9
-- **Mobs lvl:** 16-18
-- **[Wild bots](/exploring#mob-encounters):** [Scatter](/scatter), [Dunebug](/dunebug), [Yanky](/yanky), [Froggy](/froggy), [Brute](/brute)
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** Green Frogs (meek), Red Snakes (aggressive)
-- **[Ancient Ruins](/loot#ancient-ruins):** Abandoned Factory
-- **Points of interest:** [Ghost Bots](/contribute#tbw),..
+### Codex map & tips
 
-[![Image](/assets/img/maps/saltwater-swamp-min.png)](/assets/img/maps/saltwater-swamp-min.png)
+[Saltwater swamp Codex](</codex#saltwater-swamp>)
+
+- **Requirements:** Boat Level 9
+- **Mobs lvl:** 16-20
+- **[Wild bots](</exploring#mob-encounters>):** [Barrie](</barrie>), [Scatter](</scatter>), [Dune Bug](</dune-bug>), [Yanky](</yanky>), [Froggy](</froggy>), [Halo](</halo>), [Brute](</brute>), [Bigshot](</bigshot>)
+- **[Bandits](</exploring#mob-encounters>):** Fork Tongue Fanatics, Buffalos, Lizards, Rats
+- **[Critters](</exploring#critters>):** Green Frogs (meek), Red Snakes (aggressive)
+- **[Ancient Ruins](</loot#ancient-ruins>):** Abandoned Factory, Mossy Beach
+- **Points of interest:**[Ghost Bots](</contribute#tbw>),..
+
+
+[![Image](</assets/img/maps/saltwater-swamp-min.png>)](</assets/img/maps/saltwater-swamp-min.png>)
 
 </div>
 
@@ -116,15 +143,20 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-parchedsea">
 
 
-- **Requirements:** Boat Level 12
-- **Mobs lvl:** 19-21
-- **[Wild bots](/exploring#mob-encounters):** [Berseker](/berseker), [Thump](/thump), [KO](/KO), [Pluggie](/pluggie), [Icicool](/Icicool), [Rocketeer](/rocketeer), [Scatter](/scatter)
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** Blue bettles (meek), Snakes (aggressive)
-- **[Ancient Ruins](/loot#ancient-ruins):** ? 
-- **Points of interest:** [Rani](/contribute#tbw), [Melanie](/contribute#tbw),..
+### Codex maps & tips
 
-[![Image](/assets/img/maps/parched-sea-min.png)](/assets/img/maps/parched-sea-min.png)
+[Parched sea codex](</codex#parched-sea>)
+
+- **Requirements:** Boat Level 12
+- **Mobs lvl:** 18-24
+- **[Wild bots](</exploring#mob-encounters>):** [Berseker](</berseker>), [Thump](</thump>), [KO](</KO>), [Pluggie](</pluggie>), [Icicool](</Icicool>), [Rocketeer](</rocketeer>), [Brute](</brute>), [Scatter](</scatter>), [Gusto](</gusto>), [Link](</link>)
+- **[Pirates](</exploring#mob-encounters>):** Cats, Lizards, Rats, Buffalos, Dogs
+- **[Critters](</exploring#critters>):** Blue bettles (meek), Snakes (aggressive)
+- **[Ancient Ruins](</loot#ancient-ruins>):** Lucky springs, Ancient Crater
+- **Points of interest:**[Rani](</contribute#tbw>), [Melanie](</contribute#tbw>),..
+
+
+[![Image](</assets/img/maps/parched-sea-min.png>)](</assets/img/maps/parched-sea-min.png>)
 
 </div>
 
@@ -133,15 +165,20 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-sporewoods">
 
 
-- **Requirements:** Boat Level 13
-- **Mobs lvl:** 21-23
-- **[Wild bots](/exploring#mob-encounters):** [Bigshot](/bigshot), [Rocketeer](/rocketeer), [Thump](/thump), [Fork](/fork), [Virus](/virus), [Nozzle](/nozzle), [Halo](/halo), [Sheller](/sheller)
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** Black Rats (fleeing), Frogs (meek)
-- **[Ancient Ruins](/loot#ancient-ruins):**?
-- **Points of interest:** [MegaShrooms](/contribute#bw),..
+### Codex maps & tips
 
-[![Image](/assets/img/maps/spore-wood-min.png)](/assets/img/maps/spore-wood-min.png)
+[Spore Wood codex](</codex#spore-woods>)
+
+- **Requirements:** Boat Level 13
+- **Mobs lvl:** 22-27
+- **[Wild bots](</exploring#mob-encounters>):** [Bigshot](</bigshot>), [Rocketeer](</rocketeer>), [Thump](</thump>), [Fork](</fork>), [Virus](</virus>), [Nozzle](</nozzle>), [Halo](</halo>), [Sheller](</sheller>), [Shuffle](</shuffle>)
+- **[Bandits](</exploring#mob-encounters>):** Plant gang members, Buffalos, Lizards, Cats, Rats
+- **[Critters](</exploring#critters>):** Black Rats (fleeing), Frogs (meek)
+- **[Ancient Ruins](</loot#ancient-ruins>):** no
+- **Points of interest:**[MegaShrooms](</contribute#bw>),..
+
+
+[![Image](</assets/img/maps/spore-wood-min.png>)](</assets/img/maps/spore-wood-min.png>)
 
 </div>
 
@@ -150,15 +187,20 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-ashenshore">
 
 
-- **Requirements:** Boat lvl 14
-- **Mobs lvl:** 24-27 
-- **[Wild bots](/exploring#mob-encounters):** [Bullwark](/bullwark), [Slash](/slash), [Halo](/Halo), [Beat](/beat), [Chomp](/chomp), [Frosty](/frosty),..? 
-- **[Bandits](/exploring#mob-encounters):**
-- **[Critters](/exploring#critters):** White Rabbits (fleeing)
-- **[Ancient Ruins](/loot#ancient-ruins):** ?? 
-- **Points of interest:** [Giant Squeleton](/contribute#tbw), [Moutain Peaks](/contribute#tbw),..
+### Codex map & tips
 
-[![Image](/assets/img/maps/ashen-shore-min.png)](/assets/img/maps/ashen-shore-min.png)
+[Ashen Shore codex](</codex#ashen-shore>)
+
+- **Requirements:** Boat lvl 14
+- **Mobs lvl:** 27-33
+- **[Wild bots](</exploring#mob-encounters>):** [Bullwark](</bullwark>), [Slash](</slash>), [Halo](</Halo>), [Beat](</beat>), [Chomp](</chomp>), [Frosty](</frosty>), [Phantom](</phantom>), [Bullseye](</bullseye>)
+- **[Bandits and pirates](</exploring#mob-encounters>):** Cats, Dogs, Lizards, Buffalos, Rats
+- **[Critters](</exploring#critters>):** White Rabbits (fleeing)
+- **[Ancient Ruins](</loot#ancient-ruins>):** fate's end
+- **Points of interest:**[Giant Squeleton](</contribute#tbw>), [Moutain Peaks](</contribute#tbw>),..
+
+
+[![Image](</assets/img/maps/ashen-shore-min.png>)](</assets/img/maps/ashen-shore-min.png>)
 
 </div>
 
