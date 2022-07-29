@@ -12,8 +12,8 @@ breadcrumbs:
 
 <style>  
   @media (max-width: 810px) {
-      .ghcms-list img {float: none !important; margin-right: 30px; width: auto !important;)
-  /* float:left;margin-right: 30px;width: 50%; */
+      .ghcms-list img {float: none !important; width: 95% !important;}
+  
       .ghcms-list ul {column-count: 1;}
   
       h4 {display: block; text-align: left; width: 100%;}
