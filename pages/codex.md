@@ -282,7 +282,6 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 </div>
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
-
 ## Ashen Shore
 
 ### Missions
@@ -294,7 +293,7 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - [Explore Penta Piles](<https://media.discordapp.net/attachments/993917728773636116/1001743041058574386/Screenshot_20220727_132334.jpg>)
 - [Explore Twin Peaks](<https://media.discordapp.net/attachments/993917728773636116/1001743041360560178/Screenshot_20220727_132846.jpg>)
 - [Explore Omen's Outcrop](<https://media.discordapp.net/attachments/824807657550381088/1002183578572034048/Screenshot_20220728_185924.jpg>)
-- [Explore Fate's End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
+- [Explore Fate’s End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
 - Explore Basalt Shelter
 - Defeat Viking Buffalos (100)
 - Defeat Viking Buffalos (500)
@@ -315,14 +314,15 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 ### Guides
 
 - **Red Circle**: Explore
-- **Red Line**: Roaming Super Berserker's route<br>
+- **Red Line**: Roaming Super Berserker’s route
 
 
+![Ashen Shore Guide Map](<https://media.discordapp.net/attachments/923509490307977227/1002022616103669810/Untitled125.jpg>)
 
-![Ashen Shore Guide Map](<https://media.discordapp.net/attachments/923509490307977227/1002022616103669810/Untitled125.jpg>)<br>
+- **Rare Fossils**: spawn anywhere in Ashen Shore and does not disappear when you encounter a fight
+
 
 *Credits: Snow ❆*
-
 </div>
 
 ## Exterminator Squads
