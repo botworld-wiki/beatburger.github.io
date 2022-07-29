@@ -16,14 +16,14 @@ breadcrumbs:
 
 <h1 id="contracts">Contracts</h1>
 
-<div class=" ghcms ghcms-intro">
+  <div class=" ghcms ghcms-intro">
 
-  <p>Completing contracts is the main way to progress through a Season</p>
+Completing contracts is the main way to progress through a Season
 
   <ul>
-    <li><strong>Seasons</strong>: find out how they work in [Seasons](/seasons)
-    <li><strong>Earning Season Tokens while exploring</strong>: <a href="https://www.botworld.wiki/exploring">Exploring</a></li>
-    <li><strong>Critters Hunting Tips</strong>: <a href="https://www.botworld.wiki/critters">Critters</a></li>
+**Seasons**: find out how they work in [Seasons](/seasons)
+**Earning Season Tokens while exploring**: <a href="https://www.botworld.wiki/exploring">Exploring</a></li>
+**Critters Hunting Tips**: <a href="https://www.botworld.wiki/critters">Critters</a></li>
   </ul>
 
   <h2 id="how-to-get-contracts">How to get Contracts</h2>
@@ -37,7 +37,7 @@ breadcrumbs:
 
   <h3>Level Mapping of Botworld</h3>
   <p>WIP</p>
-</div>
+  </div>
 
 <div class=" ghcms ghcms-list">
 
@@ -92,19 +92,19 @@ breadcrumbs:
       <p style="width: 35%; background: none; display: inline-block;"><em>Lots of Pluggies grouped near a Caravan in Disused Quarry, <a href="https://www.botworld.wiki/maps#parched-sea">Parched Sea</a></em></p>
         
       <img src="https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png" alt="Many Wild Bot near a Caravan" style="display: inline-block; width: 55%;">
-</div><button class="ghcms-edit-option" ghcms-data="ghcms-list">Edit</button>
+</div>
 
 <h2 id="side-quests">Side Quests</h2>
-<div markdown="1" class=" ghcms ghcms-side-quests">
+<div class="ghcms ghcms-list2">
 They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
 ###Secrets of Spore Woods
-*Location*: [Spore Woods](/maps#spore-woods)
-*Minimum level required*: Botpack Lv23
+**Location**: [Spore Woods](/maps#spore-woods)
+**Minimum level required**: Botpack Lv23
 By clearing it you'll get access to [Strange Lifeform](/codex#spore-woods) and will get one [Corrupted Epic Booster](/boosters) as a reward
         
 ###Into the Unknown
-*Location*: [Ashen Shore](/maps#ashen-shore)
+**Location**: [Ashen Shore](/maps#ashen-shore)
 M/*inimum level required*: Botpack Lv24
 You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld
 </div>
