@@ -91,7 +91,7 @@ breadcrumbs:
 </div><button class="ghcms-edit-option" ghcms-data="ghcms-list">Edit</button>
 
 <h2 id="side-quests">Side Quests</h2>
-<div class=" ghcms ghcms-side-quests">
+<div markdown="1" class=" ghcms ghcms-side-quests">
 They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
 ###Secrets of Spore Woods
