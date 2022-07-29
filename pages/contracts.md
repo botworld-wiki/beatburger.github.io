@@ -11,14 +11,13 @@ breadcrumbs:
 ---
 
 <style>
-.ghcms-list ul {column-count: 2;}
-h4 {display: inline-block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%; width: 45%;}
-  
-@media screen (max-width: 810px)
+  @media (max-width: 810px)
   {
   h4 {display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%;}
-  .ghcms-list ul {column-count: 1 !important;}
+  .ghcms-list ul {column-count: 1;}
   }
+.ghcms-list ul {column-count: 2;}
+h4 {display: inline-block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%; width: 30%;}
 </style>
 
 <h1 id="contracts">Contracts</h1>
@@ -94,19 +93,9 @@ WIP
 
 Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to *grind specific enemy types* in order to complete your [Codex](</codex>) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)<br>
 
-![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png>)
-
-#### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)<br>
+![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/1002651490437054565/pluggie_group.png>)/#### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)/####Remember to **NOT** salvage the caravan after clearing the enemies in the area<br>
 
 <br>
-
-Remember to **NOT** salvage the caravan after clearing the enemies in the area
-
-<br>
-
-<br>
-
-*Pluggies grouped near a Caravan in Disused Quarry, [Parched Sea](</maps#parched-sea>)*
 </div>
 
 <h2 id="side-quests">Side Quests</h2>
