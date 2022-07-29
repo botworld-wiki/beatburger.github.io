@@ -12,28 +12,13 @@ breadcrumbs:
 
 <style>
 .ghcms-list ul {column-count: 2;}
-h4 {
-    display: inline-block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #f0e7d5;
-    font-weight: normal;
-    margin: 0 0 20px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 0px 10px 20px 5px;
-    -webkit-text-size-adjust: 100%;
-    width: 30%;
-  }
+h4 {display: inline-block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%; width: 30%;}
+h4 {display: inline-block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 16px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%; width: auto;}
 </style>
 
 <h1 id="contracts">Contracts</h1>
 
   <div class=" ghcms ghcms-intro">
-
 Completing contracts is the main way to progress through a Season
 
 **Seasons**: find out how they work in [Seasons](</seasons>)<br>
@@ -47,7 +32,12 @@ Completing contracts is the main way to progress through a Season
 - You get 1 new contract every 6 hours or after watching ads
 - Mayoral Membership allows you to skip ads and get free unlimited Contracts
 - You can reroll a contract you don't like
-- You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades ###Level Mapping of Botworld WIP
+- You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
+
+
+### Level Mapping of Botworld
+
+WIP
   </div>
  
  
@@ -55,7 +45,7 @@ Completing contracts is the main way to progress through a Season
 <div class=" ghcms ghcms-list">
 ### World Wide Contracts
 
-Can be done in any map or zone
+**These tasks can be completed in any map or area**
 
 - Scavenge 8\~15 scrap piles
 - Disarm 8\~15 landmines
@@ -66,43 +56,52 @@ Can be done in any map or zone
 
 ### Zone Specific Contracts
 
-Those contracts are bound to specific zones which are determined accordingly to your Botpack level
+**These tasks must be completed in specific areas**
 
-- Defeat a [Mega Slicer](</mega-slicer>)
-- Defeat a [Mega Chainer](</mega-chainer>)
-- Defeat a Bandit Boss
-- Defeat a dangerous wild bot pack
-- Defeat 3 wild bot packs of a specific type
-- Defeat 3 bandits controlling energy cannons
 - Defeat 3 bandits controlling grapple cannons
+- Defeat 3 bandits controlling energy cannons
+- Defeat 3 wild bot packs of a specific type
 - Defeat 3 bandits of a specific race/group
-- Collect 3 repair canisters
-- Collect 3 toolboxes
-- Collect 3 mushrooms
-- Collect 3 lost supply crates
-- Disarm 3 landmines
+- Capture a rare turquoise scorpion
+- Defeat a dangerous wild bot pack
 - Extinguish 3 bandit fire signals
-- Destroy 3 bandit banners
+- Collect 3 lost supply crates
+- Salvage an abandoned caravan
+- Capture a rare rainbow snake
 - Rescue a captured town guard
 - Rescue a merchant's caravan
-- Salvage an abandoned caravan
-- Capture 4\~7 critters\*
 - Capture a rare ivory scarab
-- Capture a rare rainbow snake
-- Capture a rare turquoise scorpion
-- Clearout a bandit camp<br>
+- Collect 3 repair canisters
+- Destroy 3 bandit banners
+- Capture 4\~7 critters\*
+- Clearout a bandit camp
+- Defeat a Bandit Boss
+- Collect 3 toolboxes
+- Collect 3 mushrooms
+- Disarm 3 landmines
+- Defeat a [Mega Chainer](</mega-chainer>)
+- Defeat a [Mega Slicer](</mega-slicer>)
 
-    <br>
+
+### Spawning more Enemies<br>
 
 
-
-### Spawning Tasks
 
 Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to *grind specific enemy types* in order to complete your [Codex](</codex>) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)<br>
 
-![300px Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png>)
+![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png>)
 
-#### Lots of Pluggies grouped near a Caravan in Disused Quarry, [Parched Sea](</maps#parched-sea>)
+#### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)<br>
+
+<br>
+
+Remember to **NOT** salvage the caravan after clearing the enemies in the area
+
+<br>
+
+<br>
+
+*Pluggies grouped near a Caravan in Disused Quarry, [Parched Sea](</maps#parched-sea>)*
 </div>
 
 <h2 id="side-quests">Side Quests</h2>
