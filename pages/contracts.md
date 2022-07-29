@@ -20,6 +20,8 @@ breadcrumbs:
   }
   
   @media (min-width: 811px) {
+      .ghcms-list img {width: 60% !important;}
+  
       .ghcms-list ul {column-count: 2;}
   
       h4 {display: inline-block; text-align: justify; width: 30%;}
