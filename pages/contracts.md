@@ -10,6 +10,10 @@ breadcrumbs:
   
 ---
 
+<style>
+.ghcms-list ul {column-count: 2;}
+</style>
+
 <h1 id="contracts">Contracts</h1>
 
 <div class=" ghcms ghcms-intro">
@@ -17,7 +21,7 @@ breadcrumbs:
   <p>Completing contracts is the main way to progress through a Season</p>
 
   <ul>
-    <li><strong>Seasons</strong>: find out how they work in <a href="https://www.botworld.wiki/seasons">Seasons</a></li>
+    <li><strong>Seasons</strong>: find out how they work in [Seasons](/seasons)
     <li><strong>Earning Season Tokens while exploring</strong>: <a href="https://www.botworld.wiki/exploring">Exploring</a></li>
     <li><strong>Critters Hunting Tips</strong>: <a href="https://www.botworld.wiki/critters">Critters</a></li>
   </ul>
@@ -34,7 +38,7 @@ breadcrumbs:
   <h3>Level Mapping of Botworld</h3>
   <p>WIP</p>
 </div>
-<style>.ghcms-list ul {column-count: 2;}</style>
+
 <div class=" ghcms ghcms-list">
 
   <h2 id="contracts-list">Contracts list</h2>
@@ -91,7 +95,7 @@ breadcrumbs:
 </div><button class="ghcms-edit-option" ghcms-data="ghcms-list">Edit</button>
 
 <h2 id="side-quests">Side Quests</h2>
-<div markdown="1" class=" ghcms ghcms-side-quests">
+<div class=" ghcms ghcms-sidequests">
 They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
 ###Secrets of Spore Woods
