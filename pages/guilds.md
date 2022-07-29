@@ -57,7 +57,7 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 ## Events
 
 ### Creature Feature
-<div markdown="1" class=" ghcms ghcms-science-expo">
+<div markdown="1" class=" ghcms ghcms-creature-feature">
 
 
 </div>
