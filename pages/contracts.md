@@ -87,20 +87,20 @@ breadcrumbs:
 
       <p style="width: 35%; background: none; display: inline-block;"><em>Lots of Pluggies grouped near a Caravan in Disused Quarry, <a href="https://www.botworld.wiki/maps#parched-sea">Parched Sea</a></em></p>
         
-      <img src="file:///C:/Users/andre/OneDrive/%C3%81rea%20de%20Trabalho/Estudos%20-%20Dev/BWA%20tests/page.contracts/Contracts%20-%20Botworld%20Wiki_files/unknown.png" alt="High Wild Bot Density near a Caravan" style="display: inline-block; width: 55%;">
+      <img src="https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png" alt="Many Wild Bot near a Caravan" style="display: inline-block; width: 55%;">
 </div><button class="ghcms-edit-option" ghcms-data="ghcms-list">Edit</button>
-    <div class=" ghcms ghcms-side-quests">
-        <h2 id="side-quests">Side Quests</h2>
 
-        <p>They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants</p>
+<h2 id="side-quests">Side Quests</h2>
+<div class=" ghcms ghcms-side-quests">
+They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
-        <h3>Secrets of Spore Woods</h3>
-        <p><strong>Location:</strong> <a href="https://www.botworld.wiki/maps#spore-woods" target="_self" rel="internal">Spore Woods</a></p>
-        <p>Minimum level required: Botpack Lv23</p>
-        <p>By clearing it you'll get access to <a href="https://www.botworld.wiki/codex#spore-woods" target="_self" rel="internal">Strange Lifeform</a> and will get one <a href="https://www.botworld.wiki/boosters" target="_self" rel="internal">Corrupted Epic Booster</a> as a reward</p>
+###Secrets of Spore Woods
+*Location*: [Spore Woods](/maps#spore-woods)
+*Minimum level required*: Botpack Lv23
+By clearing it you'll get access to [Strange Lifeform](/codex#spore-woods) and will get one [Corrupted Epic Booster](/boosters) as a reward
         
-        <h3>Into the Unknown</h3>
-        <p><strong>Location: </strong><a href="https://www.botworld.wiki/maps#ashen-shore" target="_self" rel="internal">Ashen Shore</a></p>
-        <p>Minimum level required: Botpack Lv24</p>
-        <p>You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld</p>
-    </div><button class="ghcms-edit-option" ghcms-data="ghcms-list">Edit</button>
+###Into the Unknown
+*Location*: [Ashen Shore](/maps#ashen-shore)
+M/*inimum level required*: Botpack Lv24
+You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld
+</div>
