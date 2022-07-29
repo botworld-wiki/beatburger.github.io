@@ -56,6 +56,12 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 <span id="events"></span>
 ## Events
 
+### Creature Feature
+<div markdown="1" class=" ghcms ghcms-science-expo">
+
+
+</div>
+
 <div markdown="1" class=" ghcms ghcms-science-expo">
 
 ### Science Expo
