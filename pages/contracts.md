@@ -26,6 +26,7 @@ h4 {
     margin-bottom: 0px;
     padding: 0px 10px 20px 5px;
     -webkit-text-size-adjust: 100%;
+    width: 30%;
   }
 </style>
 
@@ -35,42 +36,40 @@ h4 {
 
 Completing contracts is the main way to progress through a Season
 
-**Seasons**: find out how they work in [Seasons](/seasons)
-**Earning Season Tokens while exploring**: [Exploring](/exploring)
-**Critters Hunting Tips**: [Critters](/critters)
- 
+**Seasons**: find out how they work in [Seasons](</seasons>)<br>
 
- ##How to get Contracts
-  
-  - You get 1 new contract every 6 hours or after watching ads
-  - Mayoral Membership allows you to skip ads and get free unlimited Contracts
-  - You can reroll a contract you don’t like
-  - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
+**Earning Season Tokens while exploring**: [Exploring](</exploring>)<br>
 
+**Critters Hunting Tips**: [Critters](</critters>)
 
-  ###Level Mapping of Botworld
-  WIP
+## How to get Contracts
+
+- You get 1 new contract every 6 hours or after watching ads
+- Mayoral Membership allows you to skip ads and get free unlimited Contracts
+- You can reroll a contract you don't like
+- You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades ###Level Mapping of Botworld WIP
   </div>
  
  
 <h2 id="contracts-list">Contracts list</h2>
 <div class=" ghcms ghcms-list">
-
-###World Wide Contracts
+### World Wide Contracts
 
 Can be done in any map or zone
-- Scavenge 8~15 scrap piles</li>
-- Disarm 8~15 landmines</li>
-- Defeat 8~11 packs of wild bots</li>
-- Defeat 8~11 bandits</li>
-- Open 2 chests</li>
 
-<br>
-###Zone Specific Contracts
+- Scavenge 8\~15 scrap piles
+- Disarm 8\~15 landmines
+- Defeat 8\~11 packs of wild bots
+- Defeat 8\~11 bandits
+- Open 2 chests
+
+
+### Zone Specific Contracts
+
 Those contracts are bound to specific zones which are determined accordingly to your Botpack level
-  
-- Defeat a [Mega Slicer](/mega-slicer)
-- Defeat a [Mega Chainer](/mega-chainer)
+
+- Defeat a [Mega Slicer](</mega-slicer>)
+- Defeat a [Mega Chainer](</mega-chainer>)
 - Defeat a Bandit Boss
 - Defeat a dangerous wild bot pack
 - Defeat 3 wild bot packs of a specific type
@@ -87,32 +86,43 @@ Those contracts are bound to specific zones which are determined accordingly to 
 - Rescue a captured town guard
 - Rescue a merchant's caravan
 - Salvage an abandoned caravan
-- Capture 4~7 critters*
+- Capture 4\~7 critters\*
 - Capture a rare ivory scarab
 - Capture a rare rainbow snake
 - Capture a rare turquoise scorpion
-- Clearout a bandit camp
+- Clearout a bandit camp<br>
 
-<br>
-Some [Contracts](/contracts) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to <em>grind specific enemy types</em> in order to complete your [Codex](/codex) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)
-<br>
+    <br>
 
-####Lots of Pluggies grouped near a Caravan in Disused Quarry, [Parched Sea](/maps#parched-sea)
-        
-<img src="https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png" alt="Many Wild Bot near a Caravan">
+
+
+### Spawning Tasks
+
+Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to *grind specific enemy types* in order to complete your [Codex](</codex>) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)<br>
+
+![300px Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/996136135560540301/unknown.png>)
+
+#### Lots of Pluggies grouped near a Caravan in Disused Quarry, [Parched Sea](</maps#parched-sea>)
 </div>
 
 <h2 id="side-quests">Side Quests</h2>
 <div class="ghcms ghcms-list2">
 They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
-###Secrets of Spore Woods
-**Location**: [Spore Woods](/maps#spore-woods)
+### Secrets of Spore Woods
+
+**Location**: [Spore Woods](</maps#spore-woods>) <br>
+
 **Minimum level required**: Botpack Lv23
-By clearing it you'll get access to [Strange Lifeform](/codex#spore-woods) and will get one [Corrupted Epic Booster](/boosters) as a reward
-        
-###Into the Unknown
-**Location**: [Ashen Shore](/maps#ashen-shore)
-M/*inimum level required*: Botpack Lv24
-You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld
+
+- By clearing it you'll get access to [Strange Lifeform](</codex#spore-woods>) and will get one [Corrupted Epic Booster](</boosters>) as a reward
+
+
+### Into the Unknown
+
+**Location**: [Ashen Shore](</maps#ashen-shore>)<br>
+
+**Minimum level required**: Botpack Lv24
+
+- You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld
 </div>
