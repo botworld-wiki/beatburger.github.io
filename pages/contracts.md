@@ -11,6 +11,7 @@ breadcrumbs:
 ---
 
 <style>
+  
   @media (max-width: 810px)
   {
   h4 {display: block; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%;}
