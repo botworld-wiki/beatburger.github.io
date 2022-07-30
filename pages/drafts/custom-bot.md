@@ -362,6 +362,7 @@ breadcrumbs:
             }
         })
         if ('image' in gState) document.querySelector('.custom-edit-image').src = gState['image'];
+        if ('conceptArt' in gState) document.querySelector('.custom-edit-conceptArt').src = gState['conceptArt'];
     }
 </script>
 
