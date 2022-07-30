@@ -40,9 +40,7 @@ breadcrumbs:
 
 <h1>Custom Bot Builder</h1>
 <div>
-    <p>Click any text about your bot to edit it live</p>
-    <p>Share the link to this page after your edit to share your custom bot</p>
-    <p>Updated at: <span class="custom-edit custom-edit-updatedAt"></span></p>
+    <p>Click any text about your bot to edit it live. Then share the link to this page after your edit to share your custom bot (use an <a href="https://tinyurl.com/" target="_blank">url shortener like https://tinyurl.com/</a> or the message will be too big for discord)</p>
 </div>
 
 <div class="bot-infos">
@@ -257,6 +255,19 @@ breadcrumbs:
               </tbody>
             </table>
         </div>
+
+      <div class="bot_bloc_3">
+        <h2 id="concept-art">Concept Art</h2>
+        <img loading="lazy" src="/assets/img/icons/cog.png" class="custom-edit custom-edit-conceptArt" />
+      </div>
+
+      <div class="bot_bloc_4">
+        <h2 id="comments">Comments</h2>
+          <p class="custom-edit custom-edit-notes">Notes...</p>
+        <h3 id="creators">Creators</h3>
+          <p class="custom-edit custom-edit-creators">Notes...</p>
+        <p>Last updated at: <span class="custom-edit custom-edit-updatedAt"></span></p>
+      </div>
 </div>
 
 
@@ -283,6 +294,7 @@ breadcrumbs:
     function initButtonsInputs(){
         document.querySelectorAll('.custom-edit').forEach(($el) => $el.onclick = clickToEdit);
         document.querySelector('.custom-edit-image').onclick = editImageUrl;
+        document.querySelector('.custom-edit-conceptArt').onclick = editConceptUrl;
     }
 
     function editImageUrl(){
@@ -291,6 +303,13 @@ breadcrumbs:
         response = (response === null)? $img.src : response;
         $img.src = response;
         updateState('image', response);
+    }
+    function editConceptUrl(){
+        var $img = document.querySelector('.custom-edit-conceptArt'); 
+        var response = prompt("Edit the concept art image URL", $img.src);
+        response = (response === null)? $img.src : response;
+        $img.src = response;
+        updateState('conceptArt', response);
     }
     function clickToEdit(e){
         var $el = e.target;
