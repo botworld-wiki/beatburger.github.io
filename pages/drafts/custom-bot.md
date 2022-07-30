@@ -38,7 +38,7 @@ breadcrumbs:
     }
 </style>
 
-<h1>Custom Bot Builder</h1>
+<h3>Custom Bot Builder</h3>
 <div>
     <p>Click any text about your bot to edit it live. Then share the link to this page after your edit to share your custom bot (use an <a href="https://tinyurl.com/" target="_blank">url shortener like https://tinyurl.com/</a> or the message will be too big for discord)</p>
 </div>
