@@ -20,6 +20,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
     <li class="toc-block-entry"><a href="#ezraden">Ezraden</a></li>
     <li class="toc-block-entry"><a href="#devils-knights">Devils Knights</a></li>
     <li class="toc-block-entry"><a href="#ptage">Ptage</a></li>
+    <li class="toc-block-entry"><a href="#reis">Reis</a></li>
     <li class="toc-block-entry"><a href="#super-sairen">Super Sairen</a></li>
 </ul>
 
@@ -110,7 +111,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 <div class="content-creator">
 <div markdown="1">
 
-## Reįs
+## Reis
 
 ![Reįs Profile Pic](https://cdn.discordapp.com/attachments/1002963474143518770/1002973803988664320/scaled_image_picker8166992484311934992-photo-processed.jpg)
 
@@ -124,7 +125,7 @@ That's all, I wish you a nice game :)*
 
 </div>
 
-<iframe width="560" height="315" src="https://youtu.be/Jd2U1Nsxkic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd2U1Nsxkic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
