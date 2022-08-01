@@ -107,6 +107,29 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 </div>
 
+<div class="content-creator">
+<div markdown="1">
+
+## Reįs
+
+![Reįs Profile Pic](https://cdn.discordapp.com/attachments/1002963474143518770/1002973803988664320/scaled_image_picker8166992484311934992-photo-processed.jpg)
+
+*Hello everyone, my nickname is Reįs, I'm a fan of this game, that's why I make many videos about Botworld. On my channel you will mostly see news, guild events and others
+That's all, I wish you a nice game :)*
+
+
+- **Link:** [Reįs Botworld playlist](https://youtube.com/playlist?list=PLu_rPsLx5--uk4bf9iaMoW9eGptWZUkCv)
+- **Tags:**  News, Guild Events, and more
+- **Showcased Video:** 
+
+</div>
+
+<iframe width="560" height="315" src="https://youtu.be/Jd2U1Nsxkic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+  
+  
 </div>
 
 <script>
