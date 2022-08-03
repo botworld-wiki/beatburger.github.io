@@ -268,9 +268,21 @@ breadcrumbs:
           <p class="custom-edit custom-edit-creators">Notes...</p>
         <p>Last updated at: <span class="custom-edit custom-edit-updatedAt"></span></p>
       </div>
+      <button id="canvasButton">(EXPERIMENTAL) Export to image</button>
 </div>
 
 
+<!-- https://html2canvas.hertzen.com/ -->
+<script src="/assets/js/html2canvas.min.js"></script>
+<script type="text/javascript">
+const $canvasButton = document.querySelector('#canvasButton');
+$canvasButton.onclick = generateImageBelow;
+function generateImageBelow(){
+    html2canvas(document.querySelector(".bot-infos")).then(canvas => {
+        document.body.appendChild(canvas)
+    });
+} 
+</script>
 <script type="text/javascript">
 
     // global state with all the updated values. Serialized/b64 encoded into the anchor.
