@@ -155,7 +155,6 @@ permalink: "/workshop-export"
                     padding: 0px;
                     margin: 0px;
                     height: 30px;
-                    width: 159px;
                     background-image: linear-gradient(to left, rgba(21, 107, 146, 0.786), rgb(25, 39, 109));
                     border-radius: 10px 20px 20px 30px;
                 }
@@ -401,11 +400,10 @@ permalink: "/workshop-export"
             //Bot Name + Credits
             document.querySelector('#header').innerText = (gState.name || 'NoNameBot') + ', by ' + (gState.creators || 'anon');
             //BotCard
-            document.querySelector('#botcardimage').src = gState.image? proxify(gState.image): '';
-            document.querySelector('#bottype').innerText = gState.class || '';
-            document.querySelector('#botrarity').innerText = gState.rarity || '';
-            document.querySelector('#botacquisition').innerText = gState.acquisition || '';
-            document.querySelector('#botdesc').innerText = gState.desc || '';
+            if ('attackBar' in gState) {document.querySelector('#attack-bar').style.width = gState['attackBar']};
+            if ('dpsBar' in gState) {document.querySelector('#dps-bar').style.width = gState['dpsBar']};
+            if ('healthBar' in gState) {document.querySelector('#health-bar').style.width = gState['healthBar']};
+            if ('speedBar' in gState) {document.querySelector('#speed-bar').style.width = gState['speedBar']};
             //Stat Bars
 	    document.querySelector('#attack-bar').style.width = gState.attackBar || '';
 	    document.querySelector('#dps-bar').style.width = gState.dpsBar || '';
