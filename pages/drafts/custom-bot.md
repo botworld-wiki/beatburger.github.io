@@ -36,6 +36,33 @@ breadcrumbs:
     .bot_bloc_4{
       width: 100%;
     }
+        #clipboard {
+            background-color: transparent;
+            color: transparent;
+            border: none;
+            padding: none;
+            }
+        .background {
+            background-color: beige;
+            padding: 0px;
+            margin: 2px 0px 3px 0px;
+            height: 20px;
+            max-width: 320px;
+            border-radius: 10px;
+        }
+        #dps-bar, #health-bar, #speed-bar, #attack-bar {
+            padding: 0px;
+            margin: 0px;
+            height: 20px;
+            background-image: linear-gradient(to right, blue, rgb(50, 50, 95));
+            border-radius: 10px;
+        }
+        #dps-bar > p , #health-bar > p, #speed-bar > p, #attack-bar > p {
+            color: rgb(174, 240, 200);
+            font-weight: bold;
+            margin: 0px;
+            padding: 1px 0px 0px 10px;
+        }
 </style>
 
 <h3>Custom Bot Builder</h3>
@@ -268,7 +295,7 @@ breadcrumbs:
           <p class="custom-edit custom-edit-creators">Notes...</p>
         <p>Last updated at: <span class="custom-edit custom-edit-updatedAt"></span></p>
       </div>
-      <button id="canvasButton">(EXPERIMENTAL) Export to image</button>
+      <button id="canvasButton">(EXPERIMENTAL) Export to image</button>      <button onclick="copyClipboard()">Copy URL</button><input id="clipboard" type="text" readonly  >
 </div>
 
 
@@ -376,6 +403,69 @@ function generateImageBelow(){
         if ('image' in gState) document.querySelector('.custom-edit-image').src = gState['image'];
         if ('conceptArt' in gState) document.querySelector('.custom-edit-conceptArt').src = gState['conceptArt'];
     }
+  function copyClipboard(text) {
+        document.getElementById("clipboard").value = window.location.href
+        clipboard.focus()
+        clipboard.select()
+        document.execCommand('copy')
+        alert("Copied!")
+        }
+
+        function clickInputs(){
+            document.querySelector('#attack-bar p').onclick = attackProgress;
+            document.querySelector('#health-bar p').onclick = healthProgress;
+            document.querySelector('#dps-bar p').onclick = dpsProgress;
+            document.querySelector('#speed-bar p').onclick = speedProgress
+        }
+        clickInputs();
+
+        function attackProgress(text) {
+            var attackInput = window.prompt('Type your bot attack in a 1 to 100 range')
+            if (attackInput >= 0 && attackInput <= 100) {
+            attackInput = attackInput
+            } else {
+            attackInput = 100
+            window.alert('Error: input must be a number between 0 and 100')
+            }
+            var $attackBar = document.querySelector('#attack-bar')
+            $attackBar.style.width = attackInput + '%'
+        }
+
+        function dpsProgress(text) {
+            var dpsInput = window.prompt('Type your bot dps in a 1 to 100 range');
+            if (dpsInput >= 0 && dpsInput <= 100) {
+            dpsInput = dpsInput
+            } else {
+            dpsInput = 100
+            window.alert('Error: input must be a number between 0 and 100')
+            }
+            var $dpsBar = document.querySelector('#dps-bar');
+            $dpsBar.style.width = dpsInput + '%';
+        }
+
+        function healthProgress(text) {
+            var healthInput = window.prompt('Type your bot health in a 1 to 100 range');
+            if (healthInput >= 0 && healthInput <= 100) {
+            healthInput = healthInput 
+            } else {
+            healthInput = 100
+            window.alert('Error: input must be a number between 0 and 100')
+            }
+            var $healthBar = document.querySelector('#health-bar');
+            $healthBar.style.width = healthInput + '%';
+        }
+
+        function speedProgress(text){
+            var speedInput = window.prompt('Type your bot speed in a 1 to 100 range');
+            if (speedInput >= 0 && speedInput <= 100) {
+            speedInput = speedInput 
+            } else {
+            speedInput = 100
+            window.alert('Error: input must be a number between 0 and 100')
+            }
+            var $speedBar = document.querySelector('#speed-bar');
+            $speedBar.style.width = speedInput + '%';
+        }
 </script>
 
   
