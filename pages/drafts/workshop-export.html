@@ -62,11 +62,6 @@ permalink: "/workshop-export"
             vertical-align: baseline;
             border-right: 1px solid black;
         }
-        #export {
-            margin: 0px;
-            padding: 0px;
-            block-size: fit-content;
-        }
         #export .header {
             order: 0;
             width: 1390px;
@@ -189,136 +184,134 @@ permalink: "/workshop-export"
 <body>
     <a href="" id="return">Go back to Workshop</a>
     <div id="canvastarget"></div>
-    <div id="export">
-        <main>
-            <div class="header">
-                <h1 id="header"></h1>
+    <main id="export">
+        <div class="header">
+            <h1 id="header"></h1>
+        </div>
+        <div class="botcard">
+            <div id="botcardholder">
+                <img id="botcardimage" src="" alt="Custom Bot Image">
             </div>
-            <div class="botcard">
-                <div id="botcardholder">
-                    <img id="botcardimage" src="" alt="Custom Bot Image">
-                </div>
-                <div id="botcardinfo">
-                    <table>
-                        <tr>
-                            <th class="cardInfoHeader">Type</th>
-                            <th class="cardInfoHeader">Rarity</th>
-                            <th class="cardInfoHeader">Acquisition</th>
-                        </tr>
-                        <tr>
-                            <td class="cardInfoCell" id="bottype"></td>
-                            <td class="cardInfoCell" id="botrarity"></td>
-                            <td class="cardInfoCell" id="botacquisition"></td>
-                        </tr>
-                    </table>
-                    <p id="botdesc"></p>
-                </div>
-            </div>
-            <div class="abilities">
-                <ul id="ability-list">
-                    <li id="ability1">
-                        <span id="ability1name"></span><span id="ability1info"></span>
-                        <p id="ability1desc"></p>
-                    </li>
-                    <li id="ability2">
-                        <span id="ability2name"></span><span id="ability2info"></span>
-                        <p id="ability2desc"></p>
-                    </li>
-                    <li id="ability3">
-                        <span id="ability3name"></span><span id="ability3info"></span>
-                        <p id="ability3desc"></p>
-                    </li>
-                </ul>
-            </div>
-            <div class="concept-arts" >
-                <img id="conceptartimage" src="" alt="Custom Bot Concept Art">
-            </div>
-            <div class="overview">
-                <div class="stat-bars">
-                    <div class="barbackground"><div id="attack-bar"><p>Attack</p></div></div>
-                    <div class="barbackground"><div id="health-bar"><p>Health</p></div></div>   
-                    <div class="barbackground"><div id="dps-bar"><p>DPS</p></div></div> 
-                    <div class="barbackground"><div id="speed-bar"><p>Speed</p></div></div>
-                </div>
-                <div class="bot-overview">
-                    <h2>Bot Overview</h2>
-                    <p id="botoverview"></p>
-                </div>
-            </div>
-            <div class="ai-tree">
+            <div id="botcardinfo">
                 <table>
                     <tr>
-                        <th rowspan="2" class="ailevel">AI Level 1 (500xp)</th>
-                        <td class="ainame" id="ainame1a">
-                         </td>
-                         <td class="ainame" id="ainame1b">
-                         </td>
+                        <th class="cardInfoHeader">Type</th>
+                        <th class="cardInfoHeader">Rarity</th>
+                        <th class="cardInfoHeader">Acquisition</th>
                     </tr>
                     <tr>
-                        <td class="aidescription" id="aidescription1a">
-                        </td>
-                        <td class="aidescription" id="aidescription1b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <th rowspan="2" class="ailevel">AI Level 2 (2000xp)</th>
-                        <td class="ainame" id="ainame2a">
-                        </td>
-                        <td class="ainame" id="ainame2b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="aidescription" id="aidescription2a">
-                        </td>
-                        <td class="aidescription" id="aidescription2b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <th rowspan="2" class="ailevel">AI Level 3 (5000xp)</th>
-                        <td class="ainame" id="ainame3a">
-                        </td>
-                        <td class="ainame" id="ainame3b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="aidescription" id="aidescription3a">
-                        </td>
-                        <td class="aidescription" id="aidescription3b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <th rowspan="2" class="ailevel">AI Level 4 (14000xp)</th>
-                        <td class="ainame" id="ainame4a">
-                        </td>
-                        <td class="ainame" id="ainame4b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="aidescription" id="aidescription4a">
-                        </td>
-                        <td class="aidescription" id="aidescription4b">
-                        </td>
-                    </tr>
-                    <tr>
-                        <th rowspan="2" class="ailevel">AI Level 5 (30000xp)</th>
-                        <td class="ainame" id="ainame5a">
-                        </td>
-                        <td class="ainame" id="ainame5b">
-                        </td>
-                        <tr>
-                        <td class="aidescription" id="aidescription5a">
-                        </td>
-                        <td class="aidescription" id="aidescription5b">
-                        </td>
-                        </tr>
+                        <td class="cardInfoCell" id="bottype"></td>
+                        <td class="cardInfoCell" id="botrarity"></td>
+                        <td class="cardInfoCell" id="botacquisition"></td>
                     </tr>
                 </table>
+                <p id="botdesc"></p>
             </div>
-            <div class="comments">
-                <p id="comments"></p>
+        </div>
+        <div class="abilities">
+            <ul id="ability-list">
+                <li id="ability1">
+                    <span id="ability1name"></span><span id="ability1info"></span>
+                    <p id="ability1desc"></p>
+                </li>
+                <li id="ability2">
+                    <span id="ability2name"></span><span id="ability2info"></span>
+                    <p id="ability2desc"></p>
+                </li>
+                <li id="ability3">
+                    <span id="ability3name"></span><span id="ability3info"></span>
+                    <p id="ability3desc"></p>
+                </li>
+            </ul>
+        </div>
+        <div class="concept-arts" >
+            <img id="conceptartimage" src="" alt="Custom Bot Concept Art">
+        </div>
+        <div class="overview">
+            <div class="stat-bars">
+                <div class="barbackground"><div id="attack-bar"><p>Attack</p></div></div>
+                <div class="barbackground"><div id="health-bar"><p>Health</p></div></div>   
+                <div class="barbackground"><div id="dps-bar"><p>DPS</p></div></div> 
+                <div class="barbackground"><div id="speed-bar"><p>Speed</p></div></div>
             </div>
-        </main>
-    </div>
+            <div class="bot-overview">
+                <h2>Bot Overview</h2>
+                <p id="botoverview"></p>
+            </div>
+        </div>
+        <div class="ai-tree">
+            <table>
+                <tr>
+                    <th rowspan="2" class="ailevel">AI Level 1 (500xp)</th>
+                    <td class="ainame" id="ainame1a">
+                     </td>
+                     <td class="ainame" id="ainame1b">
+                     </td>
+                </tr>
+                <tr>
+                    <td class="aidescription" id="aidescription1a">
+                    </td>
+                    <td class="aidescription" id="aidescription1b">
+                    </td>
+                </tr>
+                <tr>
+                    <th rowspan="2" class="ailevel">AI Level 2 (2000xp)</th>
+                    <td class="ainame" id="ainame2a">
+                    </td>
+                    <td class="ainame" id="ainame2b">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="aidescription" id="aidescription2a">
+                    </td>
+                    <td class="aidescription" id="aidescription2b">
+                    </td>
+                </tr>
+                <tr>
+                    <th rowspan="2" class="ailevel">AI Level 3 (5000xp)</th>
+                    <td class="ainame" id="ainame3a">
+                    </td>
+                    <td class="ainame" id="ainame3b">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="aidescription" id="aidescription3a">
+                    </td>
+                    <td class="aidescription" id="aidescription3b">
+                    </td>
+                </tr>
+                <tr>
+                    <th rowspan="2" class="ailevel">AI Level 4 (14000xp)</th>
+                    <td class="ainame" id="ainame4a">
+                    </td>
+                    <td class="ainame" id="ainame4b">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="aidescription" id="aidescription4a">
+                    </td>
+                    <td class="aidescription" id="aidescription4b">
+                    </td>
+                </tr>
+                <tr>
+                    <th rowspan="2" class="ailevel">AI Level 5 (30000xp)</th>
+                    <td class="ainame" id="ainame5a">
+                    </td>
+                    <td class="ainame" id="ainame5b">
+                    </td>
+                    <tr>
+                    <td class="aidescription" id="aidescription5a">
+                    </td>
+                    <td class="aidescription" id="aidescription5b">
+                    </td>
+                    </tr>
+                </tr>
+            </table>
+        </div>
+        <div class="comments">
+            <p id="comments"></p>
+        </div>
+    </main>
     
     <br><br><br><br>
     <h2>Bots infos found in URL (<a href="">Bot Demo</a>)</h2>
