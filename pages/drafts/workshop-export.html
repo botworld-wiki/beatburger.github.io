@@ -455,7 +455,8 @@ permalink: "/workshop-export"
             allowTaint: true,
             width: 1450,
             height: 1040,
-            scale: 2
+            scale: 2,
+            useCORS: true
         }).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
             document.querySelector('#loadingimage').style.display = "none";
