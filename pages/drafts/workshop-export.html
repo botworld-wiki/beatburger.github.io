@@ -51,6 +51,27 @@ permalink: "/workshop-export"
             margin: 0px;
             padding: 5px;
         }
+        #return, .inlinelink {
+            text-decoration: none;
+            font-size: 2em;
+            font-weight: bold;
+            color: white;
+
+        }
+        .inlinelink {
+            display: inline-block;
+            margin: 15px 50px 15px 0px;
+        }
+        .inlinelink > p {
+            background-image: linear-gradient(45deg, rgb(4, 50, 100), rgb(0, 119, 128));
+            margin: 0px 0px 0px 0px;
+            padding: 15px;
+            width: fit-content;
+            border-radius: 30px 10px;
+            text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.462);
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.477);
+            border: 2px solid rgba(255, 255, 255, 0.388);
+        }
         .ailevel {
             width: 80px;
             height: 68px;
@@ -80,6 +101,10 @@ permalink: "/workshop-export"
         #botcardimage {
             max-width: 300px;
             max-height: 300px;
+        }
+        #botcardholder {
+            width: 300px;
+            height: 300px;
         }
         #export .abilities {
             order: 2;
@@ -178,9 +203,9 @@ permalink: "/workshop-export"
     </style>
 </head>
 <body>
-    <a href="" id="return">Go back to Workshop</a>
+    <a href="" id="return" class="inlinelink"><p>Return to Workshop</p></a><a href="" class="inlinelink"><p>Download Image</p></a>
+    <h2 id="loadingimage">Generating image, please wait...</h2>
     <div id="canvastarget"></div>
-    <button id="canvasButton">(EXPERIMENTAL) Export to image</button>
     <main id="export">
         <div class="header">
             <h1 id="header"></h1>
@@ -311,9 +336,8 @@ permalink: "/workshop-export"
     </main>
     
     <br><br><br><br>
-    <h2>Bots infos found in URL (<a href="">Bot Demo</a>)</h2>
+    <h2 id="textareaheader">Bots infos found in URL (<a href="">Bot Demo</a>)</h2>
     <textarea readonly></textarea>
-    <h2>Exported Image</h2>
     <script type="text/javascript">
 
         // global state with all the updated values. Serialized/b64 encoded into the anchor.
@@ -347,9 +371,6 @@ permalink: "/workshop-export"
 
         // paste all the values from the url into the page
         function initFromState(state){
-            // trying to work around "tainted canvas" when .toDataUrl for onclick download
-            document.querySelectorAll('img').forEach(($img)=>{ $img.crossOrigin = "*" });
-            
             // print the data found in the url into the textarea, for debug. 
             document.querySelector('textarea').value = JSON.stringify(gState).replaceAll('","','",\n"');
 
@@ -418,14 +439,13 @@ permalink: "/workshop-export"
              if ('conceptArt' in gState) document.querySelector('.custom-edit-conceptArt').src = gState['conceptArt'];
             */
         }
+        
     </script>
         <!-- https://html2canvas.hertzen.com/ -->
     <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
         <!-- Canvas Print Button -->
     <script type="text/javascript">
-    const $canvasButton = document.querySelector('#canvasButton');
-    $canvasButton.onclick = generateImageBelow;
-
+    generateImageBelow();
     function generateImageBelow(){
         // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
         html2canvas(document.querySelector("#export"), {
@@ -435,8 +455,18 @@ permalink: "/workshop-export"
             scale: 2
         }).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
+            document.querySelector('#loadingimage').style.display = "none";
         });
     } 
+    </script>
+
+    <script>
+    hideUselessStuff()
+        function hideUselessStuff() {
+        document.querySelector('#export').style.display = "none";
+        }
+        document.querySelector('textarea').style.display = "none";
+        document.querySelector('#textareaheader').style.display = "none";
     </script>
 </body>
 </html>
