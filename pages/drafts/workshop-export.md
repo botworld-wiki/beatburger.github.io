@@ -1,7 +1,8 @@
 ---
 
-  permalink: "/workshop-export"
-  
+layout: none
+permalink: "/workshop-export"
+
 ---
 
 <!DOCTYPE html>
