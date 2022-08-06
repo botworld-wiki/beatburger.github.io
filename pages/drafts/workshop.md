@@ -69,10 +69,16 @@ breadcrumbs:
 <div>
   <ul>
     <li><strong>Create your Bot</strong>: click any text, image, or stats bar, to edit it.</li>
-    <li><strong>Share the link</strong>: <button onclick="copyClipboard()">Copy URL</button>, then use an <a href="https://tinyurl.com/">url shortener</a></li>
+    <li>
+        <strong>Share the link</strong>: <button onclick="copyClipboard()">Copy URL</button>, then use an <a href="https://tinyurl.com/">url shortener</a>
+        <input id="clipboard" type="text" readonly="">
+    </li>
     <li><strong>Share as a picture</strong>: <a href="/workshop-export">click here to export as a compact picture</a></li>
+    <li>
+      <strong>Save in your browser</strong>: <button onclick="localSave()">Save</button> (supported browsers only)
+      <ul id="savedBotsList"></ul>
+    </li>
   </ul>
-  <input id="clipboard" type="text" readonly="">
 </div>
 
 <div class="bot-infos">
@@ -418,4 +424,60 @@ breadcrumbs:
         }
 </script>
 
+
+<script type="text/javascript">
+
+    /* Saving custom bots drafts in localStorage */
+    
+    localStorage['customBots'] = localStorage['customBots'] || '{}';
+    var locallySavedBots = JSON.parse(localStorage['customBots']);
+
+    function localSave(){
+        if (!(gState.name in locallySavedBots)){ locallySavedBots[gState.name] = {} }
+        Object.assign(locallySavedBots[gState.name], gState);
+        localStorage['customBots'] = JSON.stringify(locallySavedBots);
+        displaySavedBots();
+    }
+    function displaySavedBots(){
+        const $ul = document.querySelector('#savedBotsList');
+        //clear
+        $ul.innerHTML = '';
+        // create a <li> for each bot in localStorage
+        for (var botname in locallySavedBots){
+            let $li = document.createElement('li');
+            $li.innerText = botname;
+            // add a Load button to each
+            let $load = document.createElement('button');
+            $load.innerText = "Load";
+            $load.setAttribute('target', botname);
+            $load.onclick = loadSavedBot;
+            $li.appendChild($load);
+            // add a Delete button to each
+            let $delete = document.createElement('button');
+            $delete.innerText = "Delete";
+            $delete.setAttribute('target', botname);
+            $delete.onclick = deleteSavedBot;
+            $li.appendChild($delete);
+            // add the li+buttons to the list
+            $ul.appendChild($li);
+
+        }
+    }
+    displaySavedBots();
+
+    function loadSavedBot(event){
+        var targetSavedBot = event.target.getAttribute('target');
+        gState = locallySavedBots[targetSavedBot];
+        initFromState();
+        exportState();
+    }
+    function deleteSavedBot(event){
+        console.log
+        var targetSavedBot = event.target.getAttribute('target');
+        console.log('delete '+targetSavedBot)
+        delete locallySavedBots[targetSavedBot];
+        localStorage['customBots'] = JSON.stringify(locallySavedBots);
+        displaySavedBots();
+    }
+</script>
   
