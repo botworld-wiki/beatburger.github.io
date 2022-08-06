@@ -18,10 +18,6 @@ permalink: "/workshop-export"
 
     body {
             background-color: rgb(2, 55, 55);
-            background-repeat: no-repeat;
-            background-size: cover;
-            text-overflow: ellipsis;
-            overflow: hidden;
             color: white;
             font-family: 'Abel', Arial, Helvetica, sans-serif ;
         }
@@ -184,6 +180,7 @@ permalink: "/workshop-export"
 <body>
     <a href="" id="return">Go back to Workshop</a>
     <div id="canvastarget"></div>
+    <button id="canvasButton">(EXPERIMENTAL) Export to image</button>
     <main id="export">
         <div class="header">
             <h1 id="header"></h1>
@@ -317,7 +314,6 @@ permalink: "/workshop-export"
     <h2>Bots infos found in URL (<a href="">Bot Demo</a>)</h2>
     <textarea readonly></textarea>
     <h2>Exported Image</h2>
-    <button id="canvasButton">(EXPERIMENTAL) Export to image</button>
     <script type="text/javascript">
 
         // global state with all the updated values. Serialized/b64 encoded into the anchor.
@@ -431,8 +427,8 @@ permalink: "/workshop-export"
         // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
         html2canvas(document.querySelector("#export"), {
             allowTaint: true,
-            width: 1410,
-            height: 1000,
+            width: 1450,
+            height: 1040,
             scale: 2
         }).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
