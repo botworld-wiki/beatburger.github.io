@@ -424,19 +424,5 @@ function generateImageBelow(){
             $speedBar.style.width = speedInput + '%';
         }
 </script>
-  <!-- https://html2canvas.hertzen.com/ -->
-<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
-  <!-- Canvas Print Button -->
-<script type="text/javascript">
-const $canvasButton = document.querySelector('#canvasButton');
-$canvasButton.onclick = generateImageBelow;
-
-function generateImageBelow(){
-    // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
-    html2canvas(document.querySelector("#export")).then(canvas => {
-        document.body.appendChild(canvas)
-    });
-} 
-</script>
 
   
