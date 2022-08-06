@@ -67,7 +67,12 @@ breadcrumbs:
 
 <h3>Custom Bot Builder</h3>
 <div>
-    <p>Click any text about your bot to edit it live. Then share the link to this page after your edit to share your custom bot (use an <a href="https://tinyurl.com/" target="_blank">url shortener like https://tinyurl.com/</a> or the message will be too big for discord)</p>
+  <ul>
+    <li><strong>Create your Bot</strong>: click any text, image, or stats bar, to edit it.</li>
+    <li><strong>Share the link</strong>: <button onclick="copyClipboard()">Copy URL</button>, then use an <a href="https://tinyurl.com/">url shortener</a></li>
+    <li><strong>Share as a picture</strong>: <a href="/workshop-export">click here to export as a compact picture</a></li>
+  </ul>
+  <input id="clipboard" type="text" readonly="">
 </div>
 
 <div class="bot-infos">
@@ -252,21 +257,9 @@ breadcrumbs:
           <p class="custom-edit custom-edit-creators">Notes...</p>
         <p>Last updated at: <span class="custom-edit custom-edit-updatedAt"></span></p>
       </div>
-      <button id="canvasButton">(EXPERIMENTAL) Export to image</button>      <button onclick="copyClipboard()">Copy URL</button><input id="clipboard" type="text" readonly  >
 </div>
 
 
-<!-- https://html2canvas.hertzen.com/ -->
-<script src="/assets/js/html2canvas.min.js"></script>
-<script type="text/javascript">
-const $canvasButton = document.querySelector('#canvasButton');
-$canvasButton.onclick = generateImageBelow;
-function generateImageBelow(){
-    html2canvas(document.querySelector(".bot-infos")).then(canvas => {
-        document.body.appendChild(canvas)
-    });
-} 
-</script>
 <script type="text/javascript">
 
     // global state with all the updated values. Serialized/b64 encoded into the anchor.
