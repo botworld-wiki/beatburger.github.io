@@ -31,7 +31,7 @@ ability2Name: "Hide"
 ability2Info: "Chance When Hit: 15% , Cooldown: 3.5s , Block Damage: 100% , Duration: 2.5s"
 ability2Description: "Retreats into its shell, taking no damage for a few second"
 ability3Name: "Tidal Wave"
-ability3Info: "Range: 10 , Cooldown: 10s , Stun Duration: 10s , Physical Damage: 429%"
+ability3Info: "Range: 10 , Cooldown: 10s , Stun Duration: 3s , Physical Damage: 429%"
 ability3Description: "Launches a wave that damages and stuns enemies in a line"
 
 
