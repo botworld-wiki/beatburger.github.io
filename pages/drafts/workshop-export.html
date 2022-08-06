@@ -361,9 +361,10 @@ permalink: "/workshop-export"
 
         // global state with all the updated values. Serialized/b64 encoded into the anchor.
         var gState = {
-            'updatedAt': "",
-            'name': "Bot Name...",
-            'desc': "Click to edit the description..."
+            'name': "NoNameBot",
+            'creators': "anon",
+            'desc': "No bot description.",
+            'notes': "No design notes.",
         };
 
         // Do we have an anchor already?
@@ -445,8 +446,8 @@ permalink: "/workshop-export"
             //Ai Level 5
             document.querySelector('#ainame5a').innerText = gState.ai5aName || '';
             document.querySelector('#ainame5b').innerText = gState.ai5bName || '';
-            document.querySelector('#aidescription5a').innerText = gState.ai5aDesc
-            document.querySelector('#aidescription5b').innerText = gState.ai5bDesc
+            document.querySelector('#aidescription5a').innerText = gState.ai5aDesc || '';
+            document.querySelector('#aidescription5b').innerText = gState.ai5bDesc || '';
             /* code from Bot Companion, for reference/inspiration
             document.querySelectorAll('.custom-edit').forEach( ($el) => {
                 var fieldId = getCustomEditId($el);
