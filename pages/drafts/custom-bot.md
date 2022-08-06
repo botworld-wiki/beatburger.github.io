@@ -42,7 +42,7 @@ breadcrumbs:
             border: none;
             padding: none;
             }
-        .background {
+        .barbackground {
             background-color: beige;
             padding: 0px;
             margin: 2px 0px 3px 0px;
@@ -232,55 +232,12 @@ breadcrumbs:
         <div class="stats">
             
             <h2 id="stats">Stats</h2>
+            
+    <div class="barbackground"><div id="attack-bar"><p>Attack</p></div></div>
+    <div class="barbackground"><div id="health-bar"><p>Health</p></div></div>   
+    <div class="barbackground"><div id="dps-bar"><p>DPS</p></div></div> 
+    <div class="barbackground"><div id="speed-bar"><p>Speed</p></div></div>
 
-            <table>
-              <thead>
-                <tr>
-                  <th>Stats</th>
-                  <th>Health</th>
-                  <th>Attack</th>
-                  <th>DPS</th>
-                  <th>Speed</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Lvl 1</td>
-                  <td class="custom-edit custom-edit-lvl1Hp">lvl1Hp...</td>
-                  <td class="custom-edit custom-edit-lvl1Dmg">lvl1Dmg...</td>
-                  <td class="custom-edit custom-edit-lvl1Dps">lvl1Dps...</td>
-                  <td class="custom-edit custom-edit-lvl1Speed">lvl1Speed...</td>
-                </tr>
-                <tr>
-                  <td>Lvl 10</td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                </tr>
-                <tr>
-                  <td>Lvl 20</td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                </tr>
-                <tr>
-                  <td>Lvl 25</td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                  <td> - </td>
-                </tr>
-                <tr>
-                  <td>Lvl 30</td>
-                  <td class="custom-edit custom-edit-lvl30Hp">lvl30Hp...</td>
-                  <td class="custom-edit custom-edit-lvl30Dmg">lvl30Dmg...</td>
-                  <td class="custom-edit custom-edit-lvl30Dps">lvl30Dps...</td>
-                  <td class="custom-edit custom-edit-lvl30Speed">lvl30Speed...</td>
-                </tr>
-              </tbody>
-            </table>
         </div>
 
       <div class="bot_bloc_3">
