@@ -407,6 +407,10 @@ permalink: "/workshop-export"
             document.querySelector('#botacquisition').innerText = gState.acquisition || '';
             document.querySelector('#botdesc').innerText = gState.desc || '';
             //Stat Bars
+	    document.querySelector('#attack-bar').style.width = gState.attackBar || '';
+	    document.querySelector('#dps-bar').style.width = gState.dpsBar || '';
+	    document.querySelector('#health-bar').style.width = gState.healthBar || '';
+	    document.querySelector('#speed-bar').style.width = gState.speedBar || '';
             //Bot Overview
             document.querySelector('#botoverview').innerText = gState.overview || '';
             //Ability 1
