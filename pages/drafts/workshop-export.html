@@ -347,6 +347,10 @@ permalink: "/workshop-export"
 
         // paste all the values from the url into the page
         function initFromState(state){
+            // trying to work around "tainted canvas" when .toDataUrl for onclick download
+            document.querySelectorAll('img').forEach(($img)=>{ $img.crossOrigin = "*" };
+                                                    );
+            
             // print the data found in the url into the textarea, for debug. 
             document.querySelector('textarea').value = JSON.stringify(gState).replaceAll('","','",\n"');
 
