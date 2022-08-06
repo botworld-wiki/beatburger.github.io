@@ -184,6 +184,8 @@ permalink: "/workshop-export"
     </style>
 </head>
 <body>
+    <a href="" id="return">Go back to Workshop</a>
+    <div id="canvastarget"></div>
     <div id="export">
         <main>
             <div class="header">
@@ -336,6 +338,8 @@ permalink: "/workshop-export"
             gState = extractFromAnchor(anchor);
             console.log(gState);
         }
+        //Return Link Builder
+        document.querySelector('#return').href = 'https://www.botworld.wiki/workshop' + anchor
         // then initialize the app with it
         initFromState(gState);
         
@@ -430,7 +434,7 @@ permalink: "/workshop-export"
     function generateImageBelow(){
         // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
         html2canvas(document.querySelector("#export")).then(canvas => {
-            document.body.appendChild(canvas)
+            document.querySelector('#canvastarget').appendChild(canvas)
         });
     } 
     </script>
