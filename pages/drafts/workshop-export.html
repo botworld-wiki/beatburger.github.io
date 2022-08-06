@@ -212,7 +212,7 @@ permalink: "/workshop-export"
         </div>
         <div class="botcard">
             <div id="botcardholder">
-                <img id="botcardimage" src="" alt="Custom Bot Image" crossorigin="*">
+                <img id="botcardimage" src="" alt="Custom Bot Image">
             </div>
             <div id="botcardinfo">
                 <table>
@@ -247,7 +247,7 @@ permalink: "/workshop-export"
             </ul>
         </div>
         <div class="concept-arts" >
-            <img id="conceptartimage" src="" alt="Custom Bot Concept Art" crossorigin="*">
+            <img id="conceptartimage" src="" alt="Custom Bot Concept Art">
         </div>
         <div class="overview">
             <div class="stat-bars">
@@ -378,7 +378,7 @@ permalink: "/workshop-export"
             //Bot Name + Credits
             document.querySelector('#header').innerText = gState.name + ', by ' + gState.creators;
             //BotCard
-            document.querySelector('#botcardimage').src = gState.image
+            document.querySelector('#botcardimage').src = proxify(gState.image)
             document.querySelector('#bottype').innerText = gState.class
             document.querySelector('#botrarity').innerText = gState.rarity
             document.querySelector('#botacquisition').innerText = gState.acquisition
@@ -399,7 +399,7 @@ permalink: "/workshop-export"
             document.querySelector('#ability3info').innerText = gState.ability3infos;
             document.querySelector('#ability3desc').innerText = gState.ability3desc;
             //Concept Art
-            document.querySelector('#conceptartimage').src = gState.conceptArt
+            document.querySelector('#conceptartimage').src = proxify(gState.conceptArt)
             //Comments
             document.querySelector('#comments').innerText = gState.notes;
             //Ai table
@@ -438,6 +438,9 @@ permalink: "/workshop-export"
              if ('image' in gState) document.querySelector('.custom-edit-image').src = gState['image'];
              if ('conceptArt' in gState) document.querySelector('.custom-edit-conceptArt').src = gState['conceptArt'];
             */
+        }
+        function proxify(src){
+            return "https://api.allorigins.win/raw?url=" + encodeURIComponent(src)
         }
         
     </script>
