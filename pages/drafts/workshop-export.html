@@ -31,7 +31,6 @@ permalink: "/workshop-export"
         width: 1410px;
         height: 1000px;
         padding: 20px;
-        background-color: black;
         background-image: url(https://cdn.discordapp.com/attachments/923604529470124032/1005355273600389200/unknown.png);
         background-repeat: no-repeat;
         background-size: cover;
@@ -430,7 +429,7 @@ permalink: "/workshop-export"
 
     function generateImageBelow(){
         // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
-        html2canvas(document.querySelector("#export")).then(canvas => {
+        html2canvas(document.querySelector("#export"), {allowTaint: true}, {width: 1410}, {height: 1000}).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
         });
     } 
