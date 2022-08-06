@@ -87,7 +87,7 @@ breadcrumbs:
         <strong>Share the link</strong>: <button onclick="copyClipboard()">Copy URL</button>, then use an <a href="https://tinyurl.com/">url shortener</a>
         <input id="clipboard" type="text" readonly="">
     </li>
-    <li><strong>Share as a picture</strong>: <a href="/workshop-export">click here to export as a compact picture</a></li>
+    <li><strong>Share as a picture</strong>: <a id="exporttoimage" href="/workshop-export">click here to export as a compact picture</a></li>
     <li>
       <strong>Save in your browser</strong>: <button onclick="localSave()">Save</button> (supported browsers only)
       <ul id="savedBotsList"></ul>
@@ -295,6 +295,10 @@ breadcrumbs:
         // If yes, get the app state out of it
         gState = extractFromAnchor(anchor);
         console.log(gState);
+  
+    //Export to Image Link Builder
+      document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + anchor
+  
     }
     // then initialize the app with it
     initFromState(gState);
