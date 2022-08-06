@@ -27,7 +27,7 @@ permalink: "/workshop-export"
         width: 1410px;
         height: 1000px;
         padding: 20px;
-        background-image: url(https://cdn.discordapp.com/attachments/923604529470124032/1005355273600389200/unknown.png);
+        background-image: url(https://www.botworld.wiki/assets/img/bg/background.png);
         background-repeat: no-repeat;
         background-size: cover;
         text-overflow: ellipsis;
@@ -203,7 +203,7 @@ permalink: "/workshop-export"
     </style>
 </head>
 <body>
-    <a href="" id="return" class="inlinelink"><p>Return to Workshop</p></a><a href="" class="inlinelink"><p>Download Image</p></a>
+    <a href="" id="return" class="inlinelink"><p>Return to Workshop</p></a><a href="" class="inlinelink" id="download"><p>Download Image</p></a>
     <h2 id="loadingimage">Generating image, please wait...</h2>
     <div id="canvastarget"></div>
     <main id="export">
@@ -452,12 +452,23 @@ permalink: "/workshop-export"
             allowTaint: true,
             width: 1450,
             height: 1040,
-            scale: 2
+            scale: 2,
+            useCORS: true
         }).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
             document.querySelector('#loadingimage').style.display = "none";
+            bindCanvas();
         });
     } 
+    </script>
+    <script>
+        function bindCanvas(){
+            document.querySelector('canvas').onclick = (function(){
+                console.log('click');
+                 document.querySelector('#download').setAttribute('href', document.querySelector('canvas').toDataURL());
+                 document.querySelector('#download').setAttribute('download', "myPicture.png");    
+            });
+        }
     </script>
 
     <script>
