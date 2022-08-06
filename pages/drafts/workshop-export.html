@@ -455,12 +455,19 @@ permalink: "/workshop-export"
             allowTaint: true,
             width: 1450,
             height: 1040,
-            scale: 2,
-            useCORS: true
+            scale: 2
         }).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
             document.querySelector('#loadingimage').style.display = "none";
-            bindCanvas();
+
+            // set Download link url to dataUrl
+            const $download = document.querySelector('#download');
+            const $canvas = document.querySelector('canvas');
+            $download.setAttribute('href', $canvas.toDataURL());
+            $download.setAttribute('download', gState.name+".png"); 
+            // click on canvas -> click on Download link
+            $canvas.onclick = ()=>{$download.click();}
+            
         });
     } 
     </script>
