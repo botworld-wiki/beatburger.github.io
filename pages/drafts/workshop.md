@@ -376,6 +376,10 @@ breadcrumbs:
         })
         if ('image' in gState) document.querySelector('.custom-edit-image').src = gState['image'];
         if ('conceptArt' in gState) document.querySelector('.custom-edit-conceptArt').src = gState['conceptArt'];
+        if ('attackBar' in gState) {document.querySelector('#attack-bar').style.width = gState['attackBar']};
+        if ('dpsBar' in gState) {document.querySelector('#dps-bar').style.width = gState['dpsBar']};
+        if ('healthBar' in gState) {document.querySelector('#health-bar').style.width = gState['healthBar']};
+        if ('speedBar' in gState) {document.querySelector('#speed-bar').style.width = gState['speedBar']};
     }
   function copyClipboard(text) {
         document.getElementById("clipboard").value = window.location.href
@@ -402,7 +406,10 @@ breadcrumbs:
             window.alert('Error: input must be a number between 0 and 100')
             }
             var $attackBar = document.querySelector('#attack-bar')
-            $attackBar.style.width = attackInput + '%'
+            var attackValue = attackInput + '%'
+            $attackBar.style.width = attackValue
+            gState.attackBar = attackValue
+            exportState()
         }
 
         function dpsProgress(text) {
@@ -414,7 +421,10 @@ breadcrumbs:
             window.alert('Error: input must be a number between 0 and 100')
             }
             var $dpsBar = document.querySelector('#dps-bar');
-            $dpsBar.style.width = dpsInput + '%';
+            var dpsValue = dpsInput + '%'
+            $dpsBar.style.width = dpsValue
+            gState.dpsBar = dpsValue
+            exportState()
         }
 
         function healthProgress(text) {
@@ -426,7 +436,10 @@ breadcrumbs:
             window.alert('Error: input must be a number between 0 and 100')
             }
             var $healthBar = document.querySelector('#health-bar');
-            $healthBar.style.width = healthInput + '%';
+            var healthValue = healthInput + '%'
+            $healthBar.style.width = healthValue
+            gState.healthBar = healthValue
+            exportState()
         }
 
         function speedProgress(text){
@@ -438,7 +451,10 @@ breadcrumbs:
             window.alert('Error: input must be a number between 0 and 100')
             }
             var $speedBar = document.querySelector('#speed-bar');
-            $speedBar.style.width = speedInput + '%';
+            var speedValue = speedInput + '%'
+            $speedBar.style.width = speedValue
+            gState.speedBar = speedValue
+            exportState()
         }
 </script>
 
