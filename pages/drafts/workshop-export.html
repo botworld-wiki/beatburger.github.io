@@ -429,7 +429,7 @@ permalink: "/workshop-export"
 
     function generateImageBelow(){
         // turning "Export" into an image cf doc at https://html2canvas.hertzen.com/
-        html2canvas(document.querySelector("#export"), {allowTaint: true}, {width: 1410}, {height: 1000}).then(canvas => {
+        html2canvas(document.querySelector("#export"), {allowTaint: true}, {"width": "1410"}, {"height": "1000"}).then(canvas => {
             document.querySelector('#canvastarget').appendChild(canvas)
         });
     } 
