@@ -222,7 +222,7 @@ permalink: "/workshop-export"
     </style>
 </head>
 <body>
-    <a href="" id="return" class="inlinelink"><p>Return to Workshop</p></a><a href="" class="inlinelink" id="download"><p>Download Image</p></a>
+    <a href="" id="return" class="inlinelink"><p>Return to Workshop</p></a><a href="#" class="inlinelink" id="download"><p>Download Image</p></a>
     <h2 id="loadingimage">Generating image, please wait...</h2>
     <div id="canvastarget"></div>
     <main id="export">
@@ -395,56 +395,56 @@ permalink: "/workshop-export"
 
             // get the bot name from the global variable gState, and update the name span with it
             //Bot Name + Credits
-            document.querySelector('#header').innerText = gState.name + ', by ' + gState.creators;
+            document.querySelector('#header').innerText = (gState.name || 'NoNameBot') + ', by ' + (gState.creators || 'anon');
             //BotCard
-            document.querySelector('#botcardimage').src = proxify(gState.image)
-            document.querySelector('#bottype').innerText = gState.class
-            document.querySelector('#botrarity').innerText = gState.rarity
-            document.querySelector('#botacquisition').innerText = gState.acquisition
-            document.querySelector('#botdesc').innerText = gState.desc
+            document.querySelector('#botcardimage').src = gState.image? proxify(gState.image): '';
+            document.querySelector('#bottype').innerText = gState.class || '';
+            document.querySelector('#botrarity').innerText = gState.rarity || '';
+            document.querySelector('#botacquisition').innerText = gState.acquisition || '';
+            document.querySelector('#botdesc').innerText = gState.desc || '';
             //Stat Bars
             //Bot Overview
-            document.querySelector('#botoverview').innerText = gState.overview;
+            document.querySelector('#botoverview').innerText = gState.overview || '';
             //Ability 1
-            document.querySelector('#ability1name').innerText = gState.ability1name;
-            document.querySelector('#ability1info').innerText = gState.ability1infos;
-            document.querySelector('#ability1desc').innerText = gState.ability1desc;      
+            document.querySelector('#ability1name').innerText = gState.ability1name || '';
+            document.querySelector('#ability1info').innerText = gState.ability1infos || '';
+            document.querySelector('#ability1desc').innerText = gState.ability1desc || '';      
             //Ability 2
-            document.querySelector('#ability2name').innerText = gState.ability2name;
-            document.querySelector('#ability2info').innerText = gState.ability2infos;
-            document.querySelector('#ability2desc').innerText = gState.ability2desc;
+            document.querySelector('#ability2name').innerText = gState.ability2name || '';
+            document.querySelector('#ability2info').innerText = gState.ability2infos || '';
+            document.querySelector('#ability2desc').innerText = gState.ability2desc || '';
             //Ability 3
-            document.querySelector('#ability3name').innerText = gState.ability3name;
-            document.querySelector('#ability3info').innerText = gState.ability3infos;
-            document.querySelector('#ability3desc').innerText = gState.ability3desc;
+            document.querySelector('#ability3name').innerText = gState.ability3name || '';
+            document.querySelector('#ability3info').innerText = gState.ability3infos || '';
+            document.querySelector('#ability3desc').innerText = gState.ability3desc || '';
             //Concept Art
-            document.querySelector('#conceptartimage').src = proxify(gState.conceptArt)
+            document.querySelector('#conceptartimage').src = gState.conceptArt? proxify(gState.conceptArt) : '';
             //Comments
-            document.querySelector('#comments').innerText = gState.notes;
+            document.querySelector('#comments').innerText = gState.notes || '';
             //Ai table
             //Ai Level 1
-            document.querySelector('#ainame1a').innerText = gState.ai1aName
-            document.querySelector('#ainame1b').innerText = gState.ai1bName
-            document.querySelector('#aidescription1a').innerText = gState.ai1aDesc
-            document.querySelector('#aidescription1b').innerText = gState.ai1bDesc
+            document.querySelector('#ainame1a').innerText = gState.ai1aName || '';
+            document.querySelector('#ainame1b').innerText = gState.ai1bName || '';
+            document.querySelector('#aidescription1a').innerText = gState.ai1aDesc || '';
+            document.querySelector('#aidescription1b').innerText = gState.ai1bDesc || '';
             //Ai Level 2
-            document.querySelector('#ainame2a').innerText = gState.ai2aName
-            document.querySelector('#ainame2b').innerText = gState.ai2bName
-            document.querySelector('#aidescription2a').innerText = gState.ai2aDesc
-            document.querySelector('#aidescription2b').innerText = gState.ai2bDesc
+            document.querySelector('#ainame2a').innerText = gState.ai2aName || '';
+            document.querySelector('#ainame2b').innerText = gState.ai2bName || '';
+            document.querySelector('#aidescription2a').innerText = gState.ai2aDesc || '';
+            document.querySelector('#aidescription2b').innerText = gState.ai2bDesc || '';
             //Ai Level 3
-            document.querySelector('#ainame3a').innerText = gState.ai3aName
-            document.querySelector('#ainame3b').innerText = gState.ai3bName
-            document.querySelector('#aidescription3a').innerText = gState.ai3aDesc
-            document.querySelector('#aidescription3b').innerText = gState.ai3bDesc
+            document.querySelector('#ainame3a').innerText = gState.ai3aName || '';
+            document.querySelector('#ainame3b').innerText = gState.ai3bName || '';
+            document.querySelector('#aidescription3a').innerText = gState.ai3aDesc || '';
+            document.querySelector('#aidescription3b').innerText = gState.ai3bDesc || '';
             //Ai Level 4
-            document.querySelector('#ainame4a').innerText = gState.ai4aName
-            document.querySelector('#ainame4b').innerText = gState.ai4bName
-            document.querySelector('#aidescription4a').innerText = gState.ai4aDesc
-            document.querySelector('#aidescription4b').innerText = gState.ai4bDesc
+            document.querySelector('#ainame4a').innerText = gState.ai4aName || '';
+            document.querySelector('#ainame4b').innerText = gState.ai4bName || '';
+            document.querySelector('#aidescription4a').innerText = gState.ai4aDesc || '';
+            document.querySelector('#aidescription4b').innerText = gState.ai4bDesc || '';
             //Ai Level 5
-            document.querySelector('#ainame5a').innerText = gState.ai5aName
-            document.querySelector('#ainame5b').innerText = gState.ai5bName
+            document.querySelector('#ainame5a').innerText = gState.ai5aName || '';
+            document.querySelector('#ainame5b').innerText = gState.ai5bName || '';
             document.querySelector('#aidescription5a').innerText = gState.ai5aDesc
             document.querySelector('#aidescription5b').innerText = gState.ai5bDesc
             /* code from Bot Companion, for reference/inspiration
