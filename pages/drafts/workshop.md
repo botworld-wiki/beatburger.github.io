@@ -63,6 +63,20 @@ breadcrumbs:
             margin: 0px;
             padding: 1px 0px 0px 10px;
         }
+  button {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    width: fit-content;
+    border-radius: 15px 5px;
+    text-shadow: 2px 2px 3px rgb(0 0 0 / 46%);
+    box-shadow: 3px 3px 5px rgb(0 0 0 / 48%);
+    border: 2px solid rgba(255, 255, 255, 0.388);
+    margin: 10px 5px;
+    background-image: linear-gradient(45deg, rgb(4, 50, 100), rgb(0, 119, 128));
+}
 </style>
 
 <h3>Mom's Workshop: Build Your Custom Bot!</h3>
