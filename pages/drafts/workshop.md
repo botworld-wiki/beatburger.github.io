@@ -1,9 +1,9 @@
 ---
 layout: breadcrumbs
 permalink: "/workshop"
-title: "Custom Bots Builder"
-name: "Custom Bots Builder"
-description: "Use this Bot Builder to write up and share your custom bots!"
+title: "Mom's Workshop: Build Your Custom Bot!"
+name: "Mom's Workshop: Build Your Custom Bot!"
+description: "Use this Custom Bot Builder to showcase and share all your great ideas!"
 breadcrumbs:
   Community Adventure: "/#community"
 ---
@@ -65,7 +65,7 @@ breadcrumbs:
         }
 </style>
 
-<h3>Custom Bot Builder</h3>
+<h3>Mom's Workshop: Build Your Custom Bot!</h3>
 <div>
   <ul>
     <li><strong>Create your Bot</strong>: click any text, image, or stats bar, to edit it.</li>
