@@ -404,11 +404,11 @@ permalink: "/workshop-export"
             //Bot Name + Credits
             document.querySelector('#header').innerText = (gState.name || 'NoNameBot') + ', by ' + (gState.creators || 'anon');
             //BotCard
-            document.querySelector('#botcardimage').src = gState.image
-            document.querySelector('#bottype').innerText = gState.class
-            document.querySelector('#botrarity').innerText = gState.rarity
-            document.querySelector('#botacquisition').innerText = gState.acquisition
-            document.querySelector('#botdesc').innerText = gState.desc
+            document.querySelector('#botcardimage').src = gState.image || '';
+            document.querySelector('#bottype').innerText = gState.class || '';
+            document.querySelector('#botrarity').innerText = gState.rarity || '';
+            document.querySelector('#botacquisition').innerText = gState.acquisition || '';
+            document.querySelector('#botdesc').innerText = gState.desc || '';
             //Stat Bars
             if ('attackBar' in gState) {document.querySelector('#attack-bar').style.width = gState['attackBar']};
             if ('dpsBar' in gState) {document.querySelector('#dps-bar').style.width = gState['dpsBar']};
