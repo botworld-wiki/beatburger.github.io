@@ -329,7 +329,7 @@ breadcrumbs:
         var editedFieldId = getCustomEditId($el);
         var response = prompt("Edit the field: "+editedFieldId, $el.innerText);
         response = (response === null)? $el.innerText : response;
-        response = (response.match(/^\s*$/)?.length)? "click to edit..." : response;
+  response = (response.match(/^\s*$/)?.length)? "-" : response;
         var newFieldValue = response;
         $el.innerText = newFieldValue;
         updateState(editedFieldId, newFieldValue);
