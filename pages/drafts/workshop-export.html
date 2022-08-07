@@ -406,7 +406,7 @@ permalink: "/workshop-export"
             //Bot Name + Credits
             document.querySelector('#header').innerText = (gState.name || 'NoNameBot') + ', by ' + (gState.creators || 'anon');
             //BotCard
-            document.querySelector('#botcardimage').src = proxify(gState.image) || '';
+            document.querySelector('#botcardimage').src = gState.image? proxify(gState.image) : '';
             document.querySelector('#bottype').innerText = gState.class || '';
             document.querySelector('#botrarity').innerText = gState.rarity || '';
             document.querySelector('#botacquisition').innerText = gState.acquisition || '';
@@ -431,7 +431,7 @@ permalink: "/workshop-export"
             document.querySelector('#ability3info').innerText = gState.ability3infos || '';
             document.querySelector('#ability3desc').innerText = gState.ability3desc || '';
             //Concept Art
-            document.querySelector('#conceptartimage').src = gState.conceptArt? proxify(gState.conceptArt) || '';
+            document.querySelector('#conceptartimage').src = gState.conceptArt? proxify(gState.conceptArt) : '';
             //Comments
             document.querySelector('#comments').innerText = gState.notes || '';
             //Ai table
