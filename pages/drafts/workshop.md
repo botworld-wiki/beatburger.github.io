@@ -339,6 +339,7 @@ breadcrumbs:
         gState['updatedAt'] = new Date().toString();
         document.querySelector('.custom-edit-updatedAt').innerText = gState['updatedAt'];
         exportState();
+        anchor = document.location.hash;
         document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + anchor;
     }
 
