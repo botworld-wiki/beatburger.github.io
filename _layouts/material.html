@@ -37,7 +37,7 @@ layout: breadcrumbs
 
 <h3>{{page.matName}} Upgrades Scrap Calculator</h3>
 <div id="scrap-calc">
-  Shows the {{page.matName}} total to upgrade from level <input class="calc-current" type="number" value="10" min="1" max="24"> to <input class="calc-target" type="number" value="20" min="2" max="25">
+  Shows the {{page.matName}} total to upgrade from level <input class="calc-current" type="number" value="10" min="1" max="29"> to <input class="calc-target" type="number" value="20" min="2" max="30">
 </div>
 	<br>
 
@@ -129,11 +129,11 @@ const $outputS = document.querySelector('#scrap-table span.scrapcostS');
 const $outputR = document.querySelector('#scrap-table span.scrapcostR');	
 const $outputE = document.querySelector('#scrap-table span.scrapcostE');
 	
-const arraycommon1 = [ 0, 2, 3, 4, 6, 8, 10, 10, 15, 15, 20, 20, 25, 30, 30, 35, 40, 45, 50, 60, 130, 260, 410, 590, 810 ];
-const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 130, 210, 300, 410 ];
-const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 25, 60, 75, 110, 160 ];
-const arrayrare = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 5, 8, 10 ];
-const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 3 ];
+const arraycommon1 = [ 0, 2, 3, 4, 6, 8, 10, 10, 15, 15, 20, 20, 25, 30, 30, 35, 40, 45, 50, 60, 130, 160, 200, 240, 290, 340, 410, 480, 570, 670 ];
+const arraycommon2 = [ 0, 1, 2, 2, 3, 4, 4, 5, 6, 8, 10, 10, 15, 15, 15, 20, 20, 25, 25, 30, 65, 80, 100, 120, 150, 170, 210, 240, 290, 340 ];
+const arrayspecial = [ 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 8, 8, 10, 15, 25, 30, 40, 45, 55, 65, 80, 90, 110, 130];
+const arrayrare = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 4, 4, 5, 6, 8, 8 ];
+const arrayepic = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ];
 
 
 function calc(){
