@@ -56,6 +56,10 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 <span id="events"></span>
 ## Events
 
+### Electro Fest
+<div markdown="1" class"ghcms ghcms-electro-fest">
+</div>
+
 ### Creature Feature
 <div markdown="1" class=" ghcms ghcms-creature-feature">
 
