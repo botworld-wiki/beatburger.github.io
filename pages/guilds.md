@@ -56,6 +56,12 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 <span id="events"></span>
 ## Events
 
+### Shifting Sands
+<div markdown="1" class=" ghcms ghcms-shifting-sands">
+
+
+</div>
+
 ### Electro Fest
 <div markdown="1" class=" ghcms ghcms-electro-fest">
 
