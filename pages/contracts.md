@@ -69,7 +69,7 @@ WIP
 
 ### Zone Specific Contracts
 
-**These tasks must be completed in specific areas**
+**These tasks must be completed in specific maps or areas**
 
 - Defeat 3 bandits controlling grapple cannons
 - Defeat 3 bandits controlling energy cannons
@@ -96,13 +96,17 @@ WIP
 - Defeat a [Mega Slicer](</mega-slicer>)
 
 
-### Spawning more Enemies<br>
-
-
+### Spawning more Enemies
 
 Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to *grind specific enemy types* in order to complete your [Codex](</codex>) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)<br>
 
-![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/1002651490437054565/pluggie_group.png>)/#### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)/####Remember to **NOT** salvage the caravan after clearing the enemies in the area<br>
+![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/1002651490437054565/pluggie_group.png>)
+
+#### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)
+
+#### Remember to **NOT** salvage the caravan after clearing the enemies in the area<br>
+
+
 
 <br>
 </div>
@@ -113,7 +117,7 @@ They are map-specific quest chains presented as special Contracts that'll teach 
 
 ### Secrets of Spore Woods
 
-**Location**: [Spore Woods](</maps#spore-woods>) <br>
+**Location**: [Spore Woods](</maps#spore-woods>)<br>
 
 **Minimum level required**: Botpack Lv23
 
