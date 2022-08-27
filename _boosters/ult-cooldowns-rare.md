@@ -6,7 +6,7 @@ updatedAt: "2021-12-21"
 
 title: "Ult Cooldowns (Rare)"
 name: "Ult Cooldowns"
-description: ""
+description: "All bots ultimate cooldowns reduced by 20%"
 imageUrl: "/assets/img/boosters/ult-cooldowns-rare.png"
 breadcrumbs:
   Botpack: "/botpack"
