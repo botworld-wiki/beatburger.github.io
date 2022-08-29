@@ -14,9 +14,9 @@ breadcrumbs:
 
 
 boosterName: "Bot Stun"
-boosterDescription: "All bot stun attacks duration increased by 12%"
+boosterDescription: "All bot stun attacks duration increased by 12% \nStack: Additive"
 boosterImageUrl: "/assets/img/boosters/bot-stun-common.png"
-boosterStacks: "Multiplicative"
+boosterStacks: "Additive"
 boosterRarity: "Common"
 boosterRaritySortOrder: "1"
 boosterAcquisition: ""
