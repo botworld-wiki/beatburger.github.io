@@ -215,6 +215,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 - [BWA News & Updates](/news): New Bots, Game Updates, anything that's happening.
 - [YouTubers & Streamers](/content-creators): Check these out! 
 - [Custom Modes](/custom): Unofficial community-created rule sets made to test your skills! Are you up to the **challenge**?
+- [Friday Fan Arts(/friday-fan-arts): The **amazing artworks** of our community members!
 - [Play on Windows](/play-on-windows): How-to guide to link your phone & PC
 - [How to Contribute](/contribute): It's easy, really. **Simply sending us missing infos already helps a lot!** and even becoming an Editor requires zero coding experience.
 - [Credits](/credits): A big **Thank You** to everyone!
