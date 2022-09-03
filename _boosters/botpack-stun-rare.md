@@ -6,7 +6,7 @@ updatedAt: "2021-12-21"
 
 title: "Botpack Stun (Rare)"
 name: "Botpack Stun"
-description: ""
+description: "All botpack stun ability durations increased by 25%\n Stack: Additive"
 imageUrl: "/assets/img/boosters/botpack-stun-rare.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -16,7 +16,7 @@ breadcrumbs:
 boosterName: "Botpack Stun"
 boosterDescription: "All botpack stun ability durations increased by 25%"
 boosterImageUrl: "/assets/img/boosters/botpack-stun-rare.png"
-boosterStacks: "Multiplicative"
+boosterStacks: "Additive"
 boosterRarity: "Rare"
 boosterRaritySortOrder: "3"
 boosterAcquisition: ""
