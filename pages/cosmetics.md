@@ -21,17 +21,18 @@ breadcrumbs:
 
 ### Hats
 
-- [Common Hats](#common-hats)
-- [Uncommon Hats](#uncommon-hats)
-- [Rare Hats](#rare-hats)
-- [Epic Hats](#epic-hats)
+- [Common Hats](<#common-hats>)
+- [Uncommon Hats](<#uncommon-hats>)
+- [Rare Hats](<#rare-hats>)
+- [Epic Hats](<#epic-hats>)
+
 
 ### Outfits
 
-- [Common Outfits](#common-outfits)
-- [Uncommon Outfits](#uncommon-outfits)
-- [Rare Outfits](#rare-outfits)
-- [Epic Outfits](#epic-outfits)
+- [Common Outfits](<#common-outfits>)
+- [Uncommon Outfits](<#uncommon-outfits>)
+- [Rare Outfits](<#rare-outfits>)
+- [Epic Outfits](<#epic-outfits>)
 
 </div>
 <div markdown="1" class=" ghcms ghcms-hatscommon">
@@ -156,6 +157,8 @@ breadcrumbs:
 
 ### Burger Joint Cap - Season pass
 
+![300px Burger Joint Cap](<https://media.discordapp.net/attachments/877305015834935388/1007532975195435088/IMG_20220812_081507.jpg>)
+
 ### Desert Cat Goggles - Season pass
 
 ![300px Desert Cat Goggles](<https://media.discordapp.net/attachments/877305015834935388/1004472083293667499/IMG_20220803_212444.jpg>)
@@ -191,7 +194,6 @@ breadcrumbs:
 ### Traffic Cone - Season pass
 
 ![300px Traffic Cone](<https://media.discordapp.net/attachments/877305015834935388/1004472120241303605/IMG_20220803_213129.jpg>)
-
 
 </div>
 <div markdown="1" class=" ghcms ghcms-hatsepic">
@@ -279,6 +281,8 @@ breadcrumbs:
 
 ### Burger Joint Uniform - Season pass
 
+![300px Burger Joint Uniform](<https://media.discordapp.net/attachments/877305015834935388/1008687359979692053/IMG_20220815_124250.jpg>)
+
 ### Guard Uniform - Codex
 
 ![300px Guard Uniform](<https://media.discordapp.net/attachments/877305015834935388/1004733852641669161/IMG_20220804_143638.jpg>)
@@ -290,7 +294,6 @@ breadcrumbs:
 ### Wolf Pack Suit - Codex
 
 ![300px Wolf Pack Suit](<https://media.discordapp.net/attachments/877305015834935388/1004733853434388530/IMG_20220804_143747.jpg>)
-
 
 </div>
 <div markdown="1" class=" ghcms ghcms-outfitsepic">
