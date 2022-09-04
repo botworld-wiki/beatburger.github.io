@@ -70,7 +70,7 @@ Completing contracts is the main way to progress through a Season
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
   </div>
   
-## Level Mapping of Botworld
+### Level Mapping of Botworld
 <div id="level-mapping">
 <span class="mapping-span" id="scrapper-coast">
   <h3><a href="https://www.botworld.wiki/maps#scrapper-coast">Scrapper Coast</a></h3>
@@ -249,11 +249,79 @@ Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Car
 <div class="ghcms ghcms-list2">
 They are map-specific quest chains presented as special Contracts that'll teach you more about the history of Botworld and it's inhabitants
 
+### Stylist's Scissors
+
+Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+
+**Requirements**: None
+
+- Task: Beat Mega Slash
+- Reward: [Mohawk](</cosmetics>)
+
+
+### Fisherman's Friend
+
+Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+
+**Requirements**: None
+
+- Task 01: Find the missing Fisherman
+- Task 02: Defeat bandits who stoke Cinnamon's Yanky near Eagle Perch
+- Reward: [Admiral Hat](</cosmetics>)
+
+
+### A Thorny Issue
+
+Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+
+**Requirements**: None
+
+- Task 01: Prune 08 poisonous plants in Scrapper Coast
+- Reward: [Slouchy Beanie](</cosmetics>)
+
+
+### Hide and Seek
+
+Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+
+**Requirements**: None
+
+- Task 01: Find the Kid near River Run
+- Reward: [Bandage Strip](</cosmetics>)
+
+
+Great Desert Side Quest
+
+### Ancient Ruins
+
+Location: [Great Desert](</maps#great-desert>)<br>
+
+**Requirements**: Botpack level 3
+
+- Task 01: Salvage various antennas throughout Great Desert
+- Reward: 90 Coins
+
+
+### The Watchtower
+
+Location: [Great Desert](</maps#great-desert>)<br>
+
+**Requirements**: Botpack level 3
+
+- Task 01: Clear wild bots off construction areas near Northern Terraces
+- Task 02: Collect 10 Girders scattered around Great Desert
+- Task 03: Deliver the Girders to Tilly in Great Desert
+- Reward: [Construction Helmet](</cosmetics>)
+- Task 04: Help build the Watch Tower
+- Task 05: Defend the Watch Tower in Northern Terraces
+- Reward: 50 Tokens
+
+
 ### Secrets of Spore Woods
 
 **Location**: [Spore Woods](</maps#spore-woods>)<br>
 
-**Minimum level required**: Botpack Lv23
+**Requirements**: Botpack Lv23
 
 - By clearing it you'll get access to [Strange Lifeform](</codex#spore-woods>) and will get one [Corrupted Epic Booster](</boosters>) as a reward
 
@@ -262,7 +330,7 @@ They are map-specific quest chains presented as special Contracts that'll teach 
 
 **Location**: [Ashen Shore](</maps#ashen-shore>)<br>
 
-**Minimum level required**: Botpack Lv24
+**Requirements**: Botpack Lv24
 
 - You'll rescue Hilda's crew and hop into an epic quest to reach the lands beyond Botworld
 </div>
