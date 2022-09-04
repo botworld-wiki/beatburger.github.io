@@ -41,7 +41,7 @@ breadcrumbs:
       text-align: left;
 
   }
-  h3 {
+  .mapping-ul > h3 {
       text-align: center;
   }
   .mapping-img {
