@@ -39,8 +39,9 @@ Any bot that's available as a reward in your current season, you can't find it a
 
 This season lasts for [how many](</contribute#tbw>) days long<br>
 
-[To Be Written](</contribute#tbw>)
+Everyone starts with this season
 
+[To Be Written](</contribute#tbw>)
 </div>
 
 ### Rewards
@@ -95,7 +96,21 @@ This Season was 42 Days long starting on December, 30th 2021
 
 ## Previous seasons
 
-### Season 1: Season of the Wind
+### Season of Protection
+
+### Season of Chaos
+
+### Season of Corruption
+
+### Season of the mist
+
+### Season of the snail
+
+### Season of the wind
+
+### Season 0
+
+### Starter Season
 
 [To Be Written](</contribute#tbw>)
 
