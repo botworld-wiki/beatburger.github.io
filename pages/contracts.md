@@ -73,8 +73,8 @@ Completing contracts is the main way to progress through a Season
 ## Level Mapping of Botworld
 <div id="level-mapping">
 <span class="mapping-span" id="scrapper-coast">
-    <h3>Scrapper Coast</h3>
-    Level Range: 1-6
+  <h3><a href="https://www.botworld.wiki/maps#scrapper-coast">Scrapper Coast</a></h3>
+  <strong>Level Range: 1-6</strong>
     <img class="mapping-img" src="/assets/img/maps/scrapper-coast-min.png" alt="Scrapper Coast Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -90,8 +90,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="great-desert">
-    <h3>Great Desert</h3>
-    Overall level range: 5-11
+  <h3><a href="https://www.botworld.wiki/maps#great-desert">Great Desert</a></h3>
+  <strong>Level Range: 5-11</strong>
     <img class="mapping-img" src="/assets/img/maps/great-desert-min.png" alt="Great Desert Map">
     <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -106,7 +106,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="fall-grove">
-    <h3>Fall Grove</h3>
+  <h3><a href="https://www.botworld.wiki/maps#fall-grove">Fall Grove</a></h3>
+  <strong>Level Range: 11-15</strong>
     <img class="mapping-img" src="/assets/img/maps/fall-grove-min.png" alt="Fall Grove Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -121,7 +122,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="saltwater-swamp">
-    <h3>Saltwater Swamp</h3>
+  <h3><a href="https://www.botworld.wiki/maps#saltwater-swamp">Saltwater Swamp</a></h3>
+  <strong>Level Range: 14-20</strong>
     <img class="mapping-img" src="/assets/img/maps/saltwater-swamp-min.png" alt="Saltwater Swamp Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -136,7 +138,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="parched-sea">
-    <h3>Parched Sea</h3>
+  <h3><a href="https://www.botworld.wiki/maps#parched-sea">Parched Sea</a></h3>
+  <strong>Level Range: 18-24</strong>
     <img class="mapping-img" src="/assets/img/maps/parched-sea-min.png" alt="Parched Sea Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -152,7 +155,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="spore-woods">
-    <h3>Spore Wood</h3>
+  <h3><a href="https://www.botworld.wiki/maps#spore-woods">Spore Woods</a></h3>
+  <strong>Level Range: 22-27</strong>
     <img class="mapping-img" src="/assets/img/maps/spore-wood-min.png" alt="Spore Wood Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
@@ -165,7 +169,8 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="ashen-shore">
-    <h3>Ashen Shore</h3>
+  <h3><a href="https://www.botworld.wiki/maps#great-desert">Ashen Shore</a></h3>
+  <strong>Level Range: 25-30</strong>
     <img class="mapping-img" src="/assets/img/maps/ashen-shore-min.png" alt="Ashen Shore Map">
   <strong>Zones</strong>:
     <ul class="mapping-ul">
