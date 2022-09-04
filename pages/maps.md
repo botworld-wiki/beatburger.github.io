@@ -185,23 +185,20 @@ breadcrumbs:
 ## Ashen Shore
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
-
-
 ### Codex map & tips
 
 [Ashen Shore codex](</codex#ashen-shore>)
 
 - **Requirements:** Boat lvl 14
 - **Mobs lvl:** 27-33
-- **[Wild bots](</exploring#mob-encounters>):** [Bullwark](</bullwark>), [Slash](</slash>), [Halo](</Halo>), [Beat](</beat>), [Chomp](</chomp>), [Frosty](</frosty>), [Phantom](</phantom>), [Bullseye](</bullseye>)
-- **[Bandits and pirates](</exploring#mob-encounters>):** Cats, Dogs, Lizards, Buffalos, Rats
+- **[Wild bots](</exploring#mob-encounters>):** [Bullwark](</bullwark>), [Slash](</slash>), [Halo](</Halo>), [Beat](</beat>), [Chomp](</chomp>), [Frosty](</frosty>), [Phantom](</phantom>), [Bullseye](</bullseye>), [Nibbles](</nibbles>)
+- **[Vikings](</exploring#mob-encounters>):** Buffalos.
 - **[Critters](</exploring#critters>):** White Rabbits (fleeing)
 - **[Ancient Ruins](</loot#ancient-ruins>):** fate's end
 - **Points of interest:**[Giant Squeleton](</contribute#tbw>), [Moutain Peaks](</contribute#tbw>),..
 
 
 [![Image](</assets/img/maps/ashen-shore-min.png>)](</assets/img/maps/ashen-shore-min.png>)
-
 </div>
 
 
