@@ -21,7 +21,33 @@ breadcrumbs:
 
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
+## \#50 (2.9.2022)
 
+### Artist name: GlareFacer
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1015215701151199282/20220902_130158.jpg>)<br>
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1015215701390266368/20220902_130201.jpg>)<br>
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1015215701688066108/20220902_130204.jpg>)
+
+## \#49 (26.8.2022)
+
+### Artist name: Sk8yfriends
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1012735915334053898/IMG_20220826_165035.jpg>)
+
+## \#48 (19.8.2022)
+
+### Artist name: GlareFacer
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1010149213767737344/FahNZeCaQAUDjKr.jpg>)
+
+## \#47 (12.8.2022)
+
+### Artist name: SpartanArtsLP
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1010150293691969616/20220819_133541.jpg>)
 
 </div>
 
