@@ -70,13 +70,13 @@ Completing contracts is the main way to progress through a Season
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
   </div>
   
-### Level Mapping of Botworld
+## Level Mapping of Botworld
 <div id="level-mapping">
 <span class="mapping-span" id="scrapper-coast">
     <h3>Scrapper Coast</h3>
     Level Range: 1-6
     <img class="mapping-img" src="/assets/img/maps/scrapper-coast-min.png" alt="Scrapper Coast Map">
-    **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Longbeach: 1-1</li>
         <li>Southbank: 1-1</li>
@@ -93,7 +93,7 @@ Completing contracts is the main way to progress through a Season
     <h3>Great Desert</h3>
     Overall level range: 5-11
     <img class="mapping-img" src="/assets/img/maps/great-desert-min.png" alt="Great Desert Map">
-    **Zones**:
+    <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Northern Terraces: 5-5</li>
         <li>Scorched Mine: 6-6</li>
@@ -108,7 +108,7 @@ Completing contracts is the main way to progress through a Season
 <span class="mapping-span" id="fall-grove">
     <h3>Fall Grove</h3>
     <img class="mapping-img" src="/assets/img/maps/fall-grove-min.png" alt="Fall Grove Map">
-  **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Owl's Nest: 11-12</li>
         <li>Stonefinger Forest: 11-12</li>
@@ -123,7 +123,7 @@ Completing contracts is the main way to progress through a Season
 <span class="mapping-span" id="saltwater-swamp">
     <h3>Saltwater Swamp</h3>
     <img class="mapping-img" src="/assets/img/maps/saltwater-swamp-min.png" alt="Saltwater Swamp Map">
-  **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Giant's Steps: 14-14</li>
         <li>Murky Bog: 14-15</li>
@@ -138,7 +138,7 @@ Completing contracts is the main way to progress through a Season
 <span class="mapping-span" id="parched-sea">
     <h3>Parched Sea</h3>
     <img class="mapping-img" src="/assets/img/maps/parched-sea-min.png" alt="Parched Sea Map">
-  **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Ancient Crater: 18-19</li>
         <li>Cactus Field: 19-20</li>
@@ -154,7 +154,7 @@ Completing contracts is the main way to progress through a Season
 <span class="mapping-span" id="spore-woods">
     <h3>Spore Wood</h3>
     <img class="mapping-img" src="/assets/img/maps/spore-wood-min.png" alt="Spore Wood Map">
-  **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Entranceway: 22-23</li>
         <li>Woody Pass: 23-24</li>
@@ -167,7 +167,7 @@ Completing contracts is the main way to progress through a Season
 <span class="mapping-span" id="ashen-shore">
     <h3>Ashen Shore</h3>
     <img class="mapping-img" src="/assets/img/maps/ashen-shore-min.png" alt="Ashen Shore Map">
-  **Zones**:
+  <strong>Zones</strong>:
     <ul class="mapping-ul">
         <li>Elder Grove: 25-26</li>
         <li>Twin Peaks: 26-26</li>
