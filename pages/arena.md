@@ -207,10 +207,9 @@ After you've defeated Kelvin:
 ## Reginald
 
 <div markdown="1" class=" ghcms ghcms-reginald">
-
 Reginald is a dueling master who likes to battle someone with **one bot at a time**. While the rules are simple to fight with, he carries a long-lasting Freeze ability with a stun resistance booster for his bots. A very mean arena master with an attitude.
 
-![300px arenamaster reginald](<https://cdn.discordapp.com/attachments/923510071026155550/927909924317565038/arenamaster-reginald.png>)
+![300px arenamaster reginald](<https://cdn.discordapp.com/attachments/923510071026155550/1015727044077826118/Reginald_lv15.png>)
 
 - **Bots:** = [Slicer](</slicer>), [Froggy](</froggy>), [Tether](</tether>), [Scatter](</scatter>), [Longshot](</longshot>), [Brute](</brute>) Level 14
 - **Abilities:** [Speed Boost](</speed-boost>), [Chaos Translocator](</chaos-translocator>), [Snowball](</snowball>), [Super Charge](</super-charge>)
@@ -219,10 +218,21 @@ Reginald is a dueling master who likes to battle someone with **one bot at a tim
 
 ### Tips
 
-Your top priority is to **avoid the Freeze Balls**. Two ways around it:
+You can **cheese this fight** by using long-lasting abilities like [Corrode](</corrode>), [Unstable Plasma](</unstable-plasma>), [Zap Tower](</zap-tower>), etc. When one of your bots die, the enemy bot will not move until you place your next one, but the time keeps running (while slowed down), which means you'll still generate Botpack Power, [Corrode](</corrode>) will still do damage, the Towers will keep on attacking and abilities like [Unstable Plasma](</unstable-plasma>) will continue charging and eventually blow up.
 
-- have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
-- have [Chaos Translocator](</chaos-translocator>) at hand and save power to use it in a pinch
+- Time those abilities well and use them right when your bot is about to die, so that you can just wait for his bot to die before placing your next one.
+- This is specially effective to deal with his best 1v1 bots, [Slicer](</slicer>) and [Froggy](</froggy>)
+- Always wait until you have 10 Botpack Power before placing your next bot, it'll allow you to dodge his abilities while saving power to use when your current bot is about to die
+- Still counter his picks, but save your strongest bots to finish the fight, since you won't be able to cheese your way out entirely<br>
+
+    <br>
+
+
+
+If you want to fight fairly, your top priority will be to **avoid the Freeze Balls**. Two ways around it:
+
+- Have a lucky battlefield with obstacles. Can't have that every time, but you will eventually.
+- Gave [Chaos Translocator](</chaos-translocator>) at hand and save power to use it in a pinch
 
 
 [Proximity Translocator](</proximity-translocator>) can be used instead of [Chaos Translocator](</chaos-translocator>) and work considerably better, because you can choose where to teleport your bot.
@@ -245,9 +255,9 @@ Some hidden gems amongst bots:
 
 
 
-[Frosty](</frosty>) counters Reginald's [Slicer](</slicer>) and [Brute](</brute>), but make sure it to not take too much damage for them or Reginald will place [Froggy](</froggy>) or [Longshot](</longshot>)
+[Frosty](</frosty>) counters Reginald’s [Slicer](</slicer>) and [Brute](</brute>), but make sure it to not take too much damage for them or Reginald will place [Froggy](</froggy>) or [Longshot](</longshot>)
 
-- [Any more tips we're missing?](</contribute#tbw>)
+- [Any more tips we’re missing?](</contribute#tbw>)
 
 
 ### Story
@@ -255,10 +265,9 @@ Some hidden gems amongst bots:
 - **Reginald:** You offend me with your lack of skill, there will be barely any honour to be gained with my victory.
 
 
-After you've defeated Reginald:
+After you’ve defeated Reginald:
 
-- **Reginald:** I'm finished, done! How can I ever show my face in this town again? Here's your red series botpack, may you glow with its magnificence.
-
+- **Reginald:** I’m finished, done! How can I ever show my face in this town again? Here’s your red series botpack, may you glow with its magnificence.
 </div>
 
 ## Jack
@@ -401,7 +410,7 @@ After you defeated Laydee:
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph\_asis, debb*<br>
+*Credit to GlareFacer for the orinigal work of listing all the masters on discord!, Emph\_asis, debb, Echio*<br>
 
 *Rayran was here*👀
 
