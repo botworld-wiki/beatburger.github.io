@@ -17,6 +17,8 @@ breadcrumbs:
       .ghcms-list ul {column-count: 1;}
   
       h4 {display: block; text-align: left; width: 100%;}
+  
+      .mapping-span {width: 90%;}
   }
   
   @media (min-width: 811px) {
@@ -25,6 +27,8 @@ breadcrumbs:
       .ghcms-list ul {column-count: 2;}
   
       h4 {display: inline-block; text-align: justify; width: 30%;}
+  
+      .mapping-span {width: 380px;}
   }
   #level-mapping {
       display: flex;
@@ -33,7 +37,6 @@ breadcrumbs:
       margin: auto;
   }
   .mapping-span {
-      width: 380px;
       margin: 5px;
       text-align: center;
   }
