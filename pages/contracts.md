@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /contracts
 title: Contracts
-description: "All the Contracts you can get in Botworld, obectives, tips & rewards - Everything there is to know about it on the Botworld Adventure community Wiki!"
+description: "All the Contracts you can get in Botworld! \n - Contract List and level range \n - Level Mapping of all maps and zones \n - Usefull tips to help with your grinding \n - Side-Quests!"
 breadcrumbs:
   Botworld: "/#botworld"
   Seasons: "/seasons"
