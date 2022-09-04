@@ -288,41 +288,45 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 - [Collect Rare Fossils (20)](<https://media.discordapp.net/attachments/993917728773636116/1001743041884864604/Ashen_Shores_Rare_Fossil.jpg>)
 - Collect Rare Fossils (100)
-- Defeat the Roaming Super Berserker
+- [Defeat the Roaming Super Berserker](<https://media.discordapp.net/attachments/923509490307977227/1004026919597113404/Screenshot_20220802-110111_22.png>)
 - [Explore Lonely Lookout](<https://media.discordapp.net/attachments/993917728773636116/1001743041629003806/Codex_-_Lonely_Lookout.jpg>)
 - [Explore Penta Piles](<https://media.discordapp.net/attachments/993917728773636116/1001743041058574386/Screenshot_20220727_132334.jpg>)
 - [Explore Twin Peaks](<https://media.discordapp.net/attachments/993917728773636116/1001743041360560178/Screenshot_20220727_132846.jpg>)
 - [Explore Omen's Outcrop](<https://media.discordapp.net/attachments/824807657550381088/1002183578572034048/Screenshot_20220728_185924.jpg>)
-- [Explore Fate’s End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
+- [Explore Fate's End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
 - Explore Basalt Shelter
 - Defeat Viking Buffalos (100)
 - Defeat Viking Buffalos (500)
-- Defeat Beat Packs (x)
-- Defeat Beat Packs (y)
+- Defeat Beat Packs (100)
+- Defeat Beat Packs (400)
 
 
 ### Rewards
 
-- 8 Missions Completed: Viking Raider Tunic
-
-- 12 Missions Completed:<br>
-
-    (coming soon)
+- **8 Missions Completed**: Viking Raider Tunic<br>
 
 
+
+![Viking Raider Tunic](<https://media.discordapp.net/attachments/993917728773636116/1004009895907049492/IMG_20220802_195532.jpg>)
+
+- **13 Missions Completed**: Viking Raider Helmet<br>
+
+
+
+![Viking Raider Helmet](<https://media.discordapp.net/attachments/993917728773636116/1004009895584075916/IMG_20220802_195459.jpg>)
 
 ### Guides
 
 - **Red Circle**: Explore
-- **Red Line**: Roaming Super Berserker’s route
+- **Red Line**: Roaming Super Berserker's route
 
 
 ![Ashen Shore Guide Map](<https://media.discordapp.net/attachments/923509490307977227/1002022616103669810/Untitled125.jpg>)
 
-- **Rare Fossils**: spawn anywhere in Ashen Shore and does not disappear when you encounter a fight
+- **Rare Fossils**: spawn anywhere in Ashen Shore and does not disappear when you enter a fight
 
 
-*Credits: Snow ❆*
+*Credits: Snow ❆ and Echio*
 </div>
 
 ## Exterminator Squads
