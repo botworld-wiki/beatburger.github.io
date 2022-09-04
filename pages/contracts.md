@@ -46,14 +46,84 @@ Completing contracts is the main way to progress through a Season
 - Mayoral Membership allows you to skip ads and get free unlimited Contracts
 - You can reroll a contract you don't like
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
-
-
-### Level Mapping of Botworld
-
-WIP
   </div>
- 
- 
+  
+### Level Mapping of Botworld
+<div id="level-mapping">
+<span id="scrapper-coast">
+  - Longbeach: 1-1
+  - Southbank: 1-1
+  - River Run: 1-2
+  - Cobblestone Trail: 3-4
+  - Valley Floor: 3-4
+  - North Ridge: 3-4
+  - Foothills: 3-4
+  - Eagle Perch: 4-5
+  - Eastern Clearing: 5-6
+</span>
+<span id="great-desert">
+  - Northern Terraces: 5-5
+  - Scorched Mine: 6-6
+  - Serpentine River: 6-7
+  - Old Dog's Plateau: 7-8
+  - Strange Monument: 9-10
+  - Higbridge Pass: 9-11
+  - Howling Cliffs: 9-11
+  - Great Fissure: 10-11
+</span>
+<span id="fall-grove">
+  - Owl's Nest: 11-12
+  - Stonefinger Forest: 11-12
+  - Southern Slopes: 12-12
+  - Stonefinger Beach: 12-13
+  - Central Junction: 13-13
+  - Croaking Lake: 13-14
+  - Crater Dome: 14-14
+  - Redleaf Ridge: 14-15
+</span>
+<span id="saltwater-swamp">
+  - Giant's Steps: 14-14
+  - Murky Bog: 14-15
+  - Mossy Beach: 15-15
+  - Mangrove Bay: 16-16
+  - Snaggletooth Mound: 16-17
+  - Perilous Reef: 17-18
+  - Abandoned Factory: 18-18
+  - Muddy Slopes: 19-20
+</span>
+<span id="parched-sea">
+  - Ancient Crater: 18-19
+  - Cactus Field: 19-20
+  - Dragon's Ridge: 19-20
+  - Cracked Plains: 20-21
+  - Promontory: 21-21
+  - Lucky Spring: 21-22
+  - Stormy Cliffs: 21-22
+  - Hermit's Ledge: 22-23
+  - Disused Quarry: 23-24
+</span>
+<span id="spore-woods">
+  - Entranceway: 22-23
+  - Woody Pass: 23-24
+  - Firefly Grove: 24-24
+  - Mushroom Beach: 24-25
+  - Fungal Hills: 25-26
+  - Toadstool Valley: 26-27
+</span>
+<span id="ashen-shore">
+  - Elder Grove: 25-26
+  - Twin Peaks: 26-26
+  - Lonely Lookout: 26-27
+  - Penta Piles: 27-28
+  - Black Beach: 27-28
+  - Narrow Ridge: 28-29
+  - Basalt Shelter: 29-30
+  - Fate's End: 30-30
+</span>
+<span id="steel-peaks">
+</span>
+</div>
+
 <h2 id="contracts-list">Contracts list</h2>
 <div class=" ghcms ghcms-list">
 ### World Wide Contracts
