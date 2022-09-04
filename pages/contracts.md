@@ -41,7 +41,7 @@ breadcrumbs:
       text-align: left;
 
   }
-  .mapping-ul > h3 {
+  .mapping-ul > h3, #mapping-header {
       text-align: center;
   }
   .mapping-img {
@@ -70,7 +70,7 @@ Completing contracts is the main way to progress through a Season
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
   </div>
   
-### Level Mapping of Botworld
+<h3 id="mapping-header">Level Mapping of Botworld</h3>
 <div id="level-mapping">
 <span class="mapping-span" id="scrapper-coast">
   <h3><a href="https://www.botworld.wiki/maps#scrapper-coast">Scrapper Coast</a></h3>
