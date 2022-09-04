@@ -158,7 +158,7 @@ Completing contracts is the main way to progress through a Season
     </ul>
 </span>
 <span class="mapping-span" id="spore-woods">
-  <h3><a href="https://www.botworld.wiki/maps#spore-woods">Spore Woods</a></h3>
+  <h3><a href="https://www.botworld.wiki/maps#spore-woods">Spore Wood</a></h3>
   <strong>Level Range: 22-27</strong>
     <img class="mapping-img" src="/assets/img/maps/spore-wood-min.png" alt="Spore Wood Map">
   <strong>Zones</strong>:
@@ -320,9 +320,9 @@ Location: [Great Desert](</maps#great-desert>)<br>
 - Reward: 50 Tokens
 
 
-### Secrets of Spore Woods
+### Secrets of Spore Wood
 
-**Location**: [Spore Woods](</maps#spore-woods>)<br>
+**Location**: [Spore Wood](</maps#spore-woods>)<br>
 
 **Requirements**: Botpack Lv23
 
