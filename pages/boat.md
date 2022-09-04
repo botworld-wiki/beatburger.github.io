@@ -372,7 +372,9 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 </table>
 
 <div markdown="1" class=" ghcms ghcms-lvl7extra">
+Motor
 
+![motor location map](<https://media.discordapp.net/attachments/917809790284079114/1006285953238827028/Screenshot_20220808-213924_Kiwi_Browser.jpg>)
 </div>
 
 ## Level 8
