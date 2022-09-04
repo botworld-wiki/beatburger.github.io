@@ -26,6 +26,28 @@ breadcrumbs:
   
       h4 {display: inline-block; text-align: justify; width: 30%;}
   }
+  #level-mapping {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      margin: auto;
+  }
+  .mapping-span {
+      width: 380px;
+      margin: 5px;
+      text-align: center;
+  }
+  .mapping-ul {
+      text-align: left;
+
+  }
+  h3 {
+      text-align: center;
+  }
+  .mapping-img {
+      width: 95%;
+
+  }
   
   h4 {margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font: 18px/1.3 "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; margin: 0 0 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px 10px 20px 5px; -webkit-text-size-adjust: 100%;}
 </style>
@@ -50,78 +72,115 @@ Completing contracts is the main way to progress through a Season
   
 ### Level Mapping of Botworld
 <div id="level-mapping">
-<span id="scrapper-coast">
-  - Longbeach: 1-1
-  - Southbank: 1-1
-  - River Run: 1-2
-  - Cobblestone Trail: 3-4
-  - Valley Floor: 3-4
-  - North Ridge: 3-4
-  - Foothills: 3-4
-  - Eagle Perch: 4-5
-  - Eastern Clearing: 5-6
+<span class="mapping-span" id="scrapper-coast">
+    <h3>Scrapper Coast</h3>
+    Level Range: 1-6
+    <img class="mapping-img" src="/assets/img/maps/scrapper-coast-min.png" alt="Scrapper Coast Map">
+    **Zones**:
+    <ul class="mapping-ul">
+        <li>Longbeach: 1-1</li>
+        <li>Southbank: 1-1</li>
+        <li>River Run: 1-2</li>
+        <li>Cobblestone Trail: 3-4</li>
+        <li>Valley Floor: 3-4</li>
+        <li>North Ridge: 3-4</li>
+        <li>Foothills: 3-4</li>
+        <li>Eagle Perch: 4-5</li>
+        <li>Eastern Clearing: 5-6</li>
+    </ul>
 </span>
-<span id="great-desert">
-  - Northern Terraces: 5-5
-  - Scorched Mine: 6-6
-  - Serpentine River: 6-7
-  - Old Dog's Plateau: 7-8
-  - Strange Monument: 9-10
-  - Higbridge Pass: 9-11
-  - Howling Cliffs: 9-11
-  - Great Fissure: 10-11
+<span class="mapping-span" id="great-desert">
+    <h3>Great Desert</h3>
+    Overall level range: 5-11
+    <img class="mapping-img" src="/assets/img/maps/great-desert-min.png" alt="Great Desert Map">
+    **Zones**:
+    <ul class="mapping-ul">
+        <li>Northern Terraces: 5-5</li>
+        <li>Scorched Mine: 6-6</li>
+        <li>Serpentine River: 6-7</li>
+        <li>Old Dog's Plateau: 7-8</li>
+        <li>Strange Monument: 9-10</li>
+        <li>Higbridge Pass: 9-11</li>
+        <li>Howling Cliffs: 9-11</li>
+        <li>Great Fissure: 10-11</li>
+    </ul>
 </span>
-<span id="fall-grove">
-  - Owl's Nest: 11-12
-  - Stonefinger Forest: 11-12
-  - Southern Slopes: 12-12
-  - Stonefinger Beach: 12-13
-  - Central Junction: 13-13
-  - Croaking Lake: 13-14
-  - Crater Dome: 14-14
-  - Redleaf Ridge: 14-15
+<span class="mapping-span" id="fall-grove">
+    <h3>Fall Grove</h3>
+    <img class="mapping-img" src="/assets/img/maps/fall-grove-min.png" alt="Fall Grove Map">
+  **Zones**:
+    <ul class="mapping-ul">
+        <li>Owl's Nest: 11-12</li>
+        <li>Stonefinger Forest: 11-12</li>
+        <li>Southern Slopes: 12-12</li>
+        <li>Stonefinger Beach: 12-13</li>
+        <li>Central Junction: 13-13</li>
+        <li>Croaking Lake: 13-14</li>
+        <li>Crater Dome: 14-14</li>
+        <li>Redleaf Ridge: 14-15</li>
+    </ul>
 </span>
-<span id="saltwater-swamp">
-  - Giant's Steps: 14-14
-  - Murky Bog: 14-15
-  - Mossy Beach: 15-15
-  - Mangrove Bay: 16-16
-  - Snaggletooth Mound: 16-17
-  - Perilous Reef: 17-18
-  - Abandoned Factory: 18-18
-  - Muddy Slopes: 19-20
+<span class="mapping-span" id="saltwater-swamp">
+    <h3>Saltwater Swamp</h3>
+    <img class="mapping-img" src="/assets/img/maps/saltwater-swamp-min.png" alt="Saltwater Swamp Map">
+  **Zones**:
+    <ul class="mapping-ul">
+        <li>Giant's Steps: 14-14</li>
+        <li>Murky Bog: 14-15</li>
+        <li>Mossy Beach: 15-15</li>
+        <li>Mangrove Bay: 16-16</li>
+        <li>Snaggletooth Mound: 16-17</li>
+        <li>Perilous Reef: 17-18</li>
+        <li>Abandoned Factory: 18-18</li>
+        <li>Muddy Slopes: 19-20</li>
+    </ul>
 </span>
-<span id="parched-sea">
-  - Ancient Crater: 18-19
-  - Cactus Field: 19-20
-  - Dragon's Ridge: 19-20
-  - Cracked Plains: 20-21
-  - Promontory: 21-21
-  - Lucky Spring: 21-22
-  - Stormy Cliffs: 21-22
-  - Hermit's Ledge: 22-23
-  - Disused Quarry: 23-24
+<span class="mapping-span" id="parched-sea">
+    <h3>Parched Sea</h3>
+    <img class="mapping-img" src="/assets/img/maps/parched-sea-min.png" alt="Parched Sea Map">
+  **Zones**:
+    <ul class="mapping-ul">
+        <li>Ancient Crater: 18-19</li>
+        <li>Cactus Field: 19-20</li>
+        <li>Dragon's Ridge: 19-20</li>
+        <li>Cracked Plains: 20-21</li>
+        <li>Promontory: 21-21</li>
+        <li>Lucky Spring: 21-22</li>
+        <li>Stormy Cliffs: 21-22</li>
+        <li>Hermit's Ledge: 22-23</li>
+        <li>Disused Quarry: 23-24</li>
+    </ul>
 </span>
-<span id="spore-woods">
-  - Entranceway: 22-23
-  - Woody Pass: 23-24
-  - Firefly Grove: 24-24
-  - Mushroom Beach: 24-25
-  - Fungal Hills: 25-26
-  - Toadstool Valley: 26-27
+<span class="mapping-span" id="spore-woods">
+    <h3>Spore Wood</h3>
+    <img class="mapping-img" src="/assets/img/maps/spore-wood-min.png" alt="Spore Wood Map">
+  **Zones**:
+    <ul class="mapping-ul">
+        <li>Entranceway: 22-23</li>
+        <li>Woody Pass: 23-24</li>
+        <li>Firefly Grove: 24-24</li>
+        <li>Mushroom Beach: 24-25</li>
+        <li>Fungal Hills: 25-26</li>
+        <li>Toadstool Valley: 26-27</li>
+    </ul>
 </span>
-<span id="ashen-shore">
-  - Elder Grove: 25-26
-  - Twin Peaks: 26-26
-  - Lonely Lookout: 26-27
-  - Penta Piles: 27-28
-  - Black Beach: 27-28
-  - Narrow Ridge: 28-29
-  - Basalt Shelter: 29-30
-  - Fate's End: 30-30
+<span class="mapping-span" id="ashen-shore">
+    <h3>Ashen Shore</h3>
+    <img class="mapping-img" src="/assets/img/maps/ashen-shore-min.png" alt="Ashen Shore Map">
+  **Zones**:
+    <ul class="mapping-ul">
+        <li>Elder Grove: 25-26</li>
+        <li>Twin Peaks: 26-26</li>
+        <li>Lonely Lookout: 26-27</li>
+        <li>Penta Piles: 27-28</li>
+        <li>Black Beach: 27-28</li>
+        <li>Narrow Ridge: 28-29</li>
+        <li>Basalt Shelter: 29-30</li>
+        <li>Fate's End: 30-30</li>
+    </ul>
 </span>
-<span id="steel-peaks">
-</span>
+<!--<span class="mapping-span" id="steel-peaks">
+</span>-->
 </div>
 
 <h2 id="contracts-list">Contracts list</h2>
