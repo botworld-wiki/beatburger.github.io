@@ -1,6 +1,6 @@
 ---
 layout: bot
-contributors: "O.J"
+contributors: "O.J, Echio"
 updatedAt: "2022-7-9"
 
 
@@ -67,9 +67,9 @@ lvl10Dps: "250"
 lvl20Hp: "7645"
 lvl20Dmg: "428"
 lvl20Dps: "649"
-lvl25Hp: ""
-lvl25Dmg: ""
-lvl25Dps: ""
+lvl25Hp: "12312"
+lvl25Dmg: "689"
+lvl25Dps: "1045"
 lvl30Hp: ""
 lvl30Dmg: ""
 lvl30Dps: ""
