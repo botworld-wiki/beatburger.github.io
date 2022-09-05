@@ -1,6 +1,6 @@
 ---
 layout: bot
-contributors: "QC, OJ"
+contributors: "QC, OJ, Echio"
 updatedAt: "2022-06-20"
 
 
@@ -67,9 +67,9 @@ lvl10Dps: "111"
 lvl20Hp: "13455"
 lvl20Dmg: "245"
 lvl20Dps: "288"
-lvl25Hp: ""
-lvl25Dmg: ""
-lvl25Dps: ""
+lvl25Hp: "21669"
+lvl25Dmg: "394"
+lvl25Dps: "464"
 lvl30Hp: ""
 lvl30Dmg: ""
 lvl30Dps: ""
