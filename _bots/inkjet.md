@@ -7,7 +7,7 @@ updatedAt: "2021-12-30"
 title: "InkJet (Epic Evader)"
 name: "Inkjet"
 description: "Now you see us, now you don't\n\n\n"
-imageUrl: ""
+imageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/1017062949141106800/unknown.png"
 breadcrumbs:
   Bots: "/bots"
   Evader: "/bots#evaders"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "InkJet"
 botDescription: "A floaty bot that helps it's friends disappear into the night!"
-botImageUrl: "-"
+botImageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/1017062949141106800/unknown.png"
 botType: "Evader"
 botRarity: "Epic"
 botRaritySortOrder: "4"
