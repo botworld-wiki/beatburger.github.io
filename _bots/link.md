@@ -7,7 +7,7 @@ updatedAt: "2022-06-20"
 title: "Link (Epic Tank)"
 name: "Link"
 description: "The ultimate damage absorber\n\n\n"
-imageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
+imageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/1017062959530377287/unknown.png"
 breadcrumbs:
   Bots: "/bots"
   Tank: "/bots#tank"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "Link"
 botDescription: "Keeps your other bots alive by absorbing some of the damage they take. Link finds it easy to make new friends."
-botImageUrl: "https://media.discordapp.net/attachments/985501437733797969/986872185660526593/link_big.png"
+botImageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/1017062959530377287/unknown.png"
 botType: "Tank"
 botRarity: "Epic"
 botRaritySortOrder: "4"
