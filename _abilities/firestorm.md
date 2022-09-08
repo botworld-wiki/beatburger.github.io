@@ -4,8 +4,8 @@ contributors: "Echio"
 updatedAt: "2022-09-06"
 
 
-title: "Firestorm"
-name: "Firestorm"
+title: "FireStorm"
+name: "FireStorm"
 description: "5P - Creates a wall of electric fire that initially stuns and then damages enemy bots caught in it."
 imageUrl: "/assets/img/abilities/firestorm.png"
 breadcrumbs:
@@ -13,7 +13,7 @@ breadcrumbs:
   Abilities: "/abilities"
 
 
-abilityName: "Firestorm"
+abilityName: "FireStorm"
 abilityDescription: "Creates a wall of electric fire that initially stuns and then damages enemy bots caught in it."
 abilityImageUrl: "/assets/img/abilities/firestorm.png"
 abilityCost: "5"
