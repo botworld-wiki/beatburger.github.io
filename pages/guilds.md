@@ -56,6 +56,11 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 <span id="events"></span>
 ## Events
 
+# Poison Predicament
+<div markdown="1" class=" ghcms ghcms-poison-predicament">
+
+</div>
+
 # Shifting Sands
 <div markdown="1" class=" ghcms ghcms-shifting-sands">
 ![Shifting Sands Banner](<https://cdn.discordapp.com/attachments/824812153877430315/1013760868556750888/GuildEvent_Banner_ShiftingSands_Promo.png>)
