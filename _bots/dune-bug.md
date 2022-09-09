@@ -6,7 +6,7 @@ updatedAt: "2022-07-09"
 
 title: "Dune Bug (Special Evader)"
 name: "Dune Bug"
-description: "A guaranteed bot you may get while progressing the storyline. Dune Bug may become your solid friend throughout the entire game being a sub dps/aoe unit with great survivability.\n- Feature: Takes almost no damage while rolling\n- Strength: Can potentially solo against several bots at once\n- Critical Drawback: Becomes extremely vulnerable when stunned"
+description: "A guaranteed bot you may get while progressing the storyline. Dune Bug may become your solid friend throughout the entire game being a sub dps/aoe unit with great survivability.\n- Feature: Takes almost no damage while rolling\n- Strength: Can potentially solo against several bots at once\n- Critical Drawback: Becomes extremely vulnerable when stunned/against certain ranged bots"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397518774444032/dune_bug.png"
 breadcrumbs:
   Bots: "/bots"
