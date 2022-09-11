@@ -88,5 +88,5 @@ commonMat3: "Frost Fuel"
 
 ## Comments:
 
-###Evaluation by Echio
+### Evaluation by Echio
 Synergyzes really well with [Bigshot](/bigshot) for Recruit Setups, since it'll guarantee that it will be vanished before each shot as long as InkJet stays alive. It can also work as a [Chainer](/chainer) combo disruptor and is really good for non-Chainer setups, specially ones that rely on [Chasers](/chasers) or slow [Brawlers](/brawlers)
