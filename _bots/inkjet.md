@@ -19,9 +19,9 @@ botImageUrl: "https://cdn.discordapp.com/attachments/923509490307977227/10170629
 botType: "Evader"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "Season of "
+botAcquisition: "Season of Celebration"
 botOpinion: "Now you see us, now you don't"
-searchKeywords: ""
+searchKeywords: "vanish, evader, epic"
 
 
 ability1Name: "Squirt"
@@ -61,12 +61,12 @@ lvl1Hp: "1210"
 lvl1Dmg: "76"
 lvl1Dps: "76"
 lvl1Speed: "16"
-lvl10Hp: ""
-lvl10Dmg: ""
-lvl10Dps: ""
-lvl20Hp: ""
-lvl20Dmg: ""
-lvl20Dps: ""
+lvl10Hp: "2476"
+lvl10Dmg: "177"
+lvl10Dps: "177"
+lvl20Hp: "6422"
+lvl20Dmg: "459"
+lvl20Dps: "459"
 lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
@@ -77,10 +77,16 @@ lvl30Dps: ""
 
 epicMat: "InkJet Essence"
 rareMat: "Evader Spray"
-specialMat: ""
-commonMat1: ""
-commonMat2: ""
-commonMat3: ""
+specialMat: "Sticky Goo"
+commonMat1: "Sputtering Generator"
+commonMat2: "Hardened Fiberglass"
+commonMat3: "Frost Fuel"
 ---
 
+### Suggested AI Build: 
+- **BACBA**
 
+## Comments:
+
+###Evaluation by Echio
+Synergyzes really well with [Bigshot](/bigshot) for Recruit Setups, since it'll guarantee that it will be vanished before each shot as long as InkJet stays alive. It can also work as a [Chainer](/chainer) combo disruptor and is really good for non-Chainer setups, specially ones that rely on [Chasers](/chasers) or slow [Brawlers](/brawlers)
