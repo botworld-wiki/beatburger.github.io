@@ -19,7 +19,7 @@ botImageUrl: "https://media.discordapp.net/attachments/923510071026155550/103540
 botType: "Evader"
 botRarity: "Legendary"
 botRaritySortOrder: "5"
-botAcquisition: "Collect 50 Star Fragments & 10 Cosmic Cores"
+botAcquisition: "Collect 50 Star Fragments and 10 Cosmic Cores"
 botOpinion: "Botworld's first legendary bot"
 searchKeywords: "evader, legendary"
 
