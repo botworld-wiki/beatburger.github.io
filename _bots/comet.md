@@ -7,7 +7,7 @@ updatedAt: "2022-10-27"
 title: "Comet (Legendary Evader)"
 name: "Comet"
 description: "Botworld's first legendary bot\n\n\n"
-imageUrl: ""
+imageUrl: "https://media.discordapp.net/attachments/923510071026155550/1035404370042433576/Comet.png"
 breadcrumbs:
   Bots: "/bots"
   Evader: "/bots#evader"
