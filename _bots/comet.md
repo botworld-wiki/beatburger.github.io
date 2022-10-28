@@ -78,7 +78,7 @@ epicMat: "Hardened Fiberglass"
 rareMat: "Cold Battery"
 specialMat: "Sparky Wires"
 commonMat1: ""
-commonMat2: "Requires 50 Star Fragments (can be obtained in the Mayoral Membership, by defeating Quarterback, from Arena rewards, as a reward in DZs, randomly in normal zones (very low drop rate). Also requires 10 Cosmic Cores, which are obtained AFTER collecting all 50 star fragments and speaking with Copernicus in southwest Fall Grove and then defeating 10 Mega bots anywhere in Botworld."
+commonMat2: "###Requires 50 Star Fragments (can be obtained in the Mayoral Membership, by defeating Quarterback, from Arena rewards, as a reward in DZs, randomly in normal zones (very low drop rate). Also requires 10 Cosmic Cores, which are obtained AFTER collecting all 50 star fragments and speaking with Copernicus in southwest Fall Grove and then defeating 10 Mega bots anywhere in Botworld."
 ---
 
 
