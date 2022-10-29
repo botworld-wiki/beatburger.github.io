@@ -352,7 +352,7 @@ She used to spam [Zap Towers](</zap-tower>) like back when that ability was 5p a
 
 A monk lizard who strives for balance. **Pairing 2 bots at a time** to make the perfect fighting team (pretty much like Brads but with reserves). Scales don't want your bots to use its ult. whenever your bots escaped from his, he will teleport his bots to yours with an explosive entrance. make sure you choose your bots carefully
 
-![300px arenamaster scales](<https://media.discordapp.net/attachments/923509490307977227/994097616252063796/IMG_20220705_204840.jpg>)
+![300px arenamaster scales](<https://cdn.discordapp.com/attachments/923510071026155550/1036021130412171335/Scales.png>)
 
 - **Bots:** = [Virus](</virus>), [Froggy](</froggy>), [Dune Bug](</dune-bug>), [Ram](</ram>), [Halo](</halo>), [Slicer](</slicer>) Level 23
 - **Abilities:** [Supercharged Chaos Translocator](</supercharged-chaos-translocator>), [Explosive Proximity Translocator](</explosive-proximity-translocator>), [Hypercharge](</hypercharge>), [Hyperdrain](</hyperdrain>)
@@ -383,7 +383,7 @@ After you've defeated Scales:
 
 This pop star turned judge waits for you to place bots before delivering her “stunning” verdict. She uses **4 bots at a time** and **starts placing only after the player has put their bots** onto the battlefield.
 
-![300px arenamaster laydee](<https://media.discordapp.net/attachments/985501437733797969/986529332761600060/Screenshot_20220615-124420_Botworld.png>)
+![300px arenamaster laydee](<https://cdn.discordapp.com/attachments/923510071026155550/1036022087548157962/Laydee.png>)
 
 - **Bots:** 2x [Mort](</mort>), 2x [Chainer](</chainer>), [Beat](</beat>), [Scatter](</scatter>) Level 30
 - **Abilities:** [Hypercharge](</hypercharge>), [Icewall](</icewall>), [Immobilize Field](</immobilize-field>), [Immobilize](</immobilize>)
