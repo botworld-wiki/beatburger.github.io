@@ -82,8 +82,7 @@ commonMat2: "Sparky Wires"
 commonMat3: "Hardened Fiberglass"
 ---
 
-## AI Builds
-'Event Horizon (Rapid Ultimate Build)' by TsengFayt
+### 'Event Horizon (Rapid Ultimate Build)' by TsengFayt
 - **BACAA:** Build focused on rapidly repeating Comet's ultimate Lightspeed while stunning bots along the way. Pairs well with Ultimate cooldown and/or Stun duration boosters.
 
 ## Comments
