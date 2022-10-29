@@ -156,9 +156,6 @@ Credits: debb !
 
 ## Upgrade Costs
 
-
-## Upgrade Costs
-
 | Level  |  Gold | Common 1 | Common 2 | Common 3 | Special | Rare | Epic |
 | ------ | ----- | -------- | -------- | -------- | ------- | ---- | ---- |
 | 2      | 5     | 2        | 1        | 1        |         |      |      |
