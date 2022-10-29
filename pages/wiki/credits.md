@@ -77,6 +77,7 @@ Add your name to the list below:
 
 <div markdown="1" class="g-hcms g-hcms-maintainers">
 
+- **Noob (@noob_pro#1629)**
 - **@QC#2293**
 - **@debb#0810**
 - **Kartoffel (mykenception#6532)**
