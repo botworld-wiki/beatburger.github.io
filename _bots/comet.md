@@ -85,9 +85,8 @@ commonMat3: "Hardened Fiberglass"
 ## Comments
 'Event Horizon (Rapid Ultimate Build)' by TsengFayt
 - **BACAA:** Build focused on rapidly repeating Comet's ultimate Lightspeed while stunning bots along the way. Pairs well with Ultimate cooldown and/or Stun duration boosters.
-                                                                                                                                                                       To unlock the legendary botframe for Comet, you must collect 50 Star Fragments and 10 Cosmic Cores, then turn them in to Copurrnicus (located in southwest Fall Grove - Southern Slopes near the entrance to Spore Wood).
 
-Star Fragments can be obtained in the following ways:
+To unlock the legendary botframe for Comet, you must collect 50 Star Fragments and 10 Cosmic Cores, then turn them in to Copurrnicus (located in southwest Fall Grove - Southern Slopes near the entrance to Spore Wood). Star Fragments can be obtained in the following ways:
 - Reward on Mayoral Membership, Arena, and for defeating QuarterBuck
 - Found as detected scrap in heroic Danger Zones or randomly in normal zones (very low drop rate)
 
