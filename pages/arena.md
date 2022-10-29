@@ -406,6 +406,12 @@ After you defeated Laydee:
 
 </div>
 
+## QuarterBack
+
+<div markdown="1" class=" ghcms ghcms-quarterback">
+
+</div>
+
 <br>
 
 <div markdown="1" class=" ghcms ghcms-credits">
