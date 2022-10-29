@@ -32,7 +32,7 @@ You can find Info about Arena Masters here
   <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
   <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
   <li class="toc-block-entry" ><a href="#laydee">Laydee</a></li>
-  <li class="toc-block-entry" ><a href="#quarterback">QuarterBack</a></li>
+  <li class="toc-block-entry" ><a href="#quarterbuck">QuarterBuck</a></li>
 </ul>
 
 
@@ -407,9 +407,9 @@ After you defeated Laydee:
 
 </div>
 
-## QuarterBack
+## QuarterBuck
 
-<div markdown="1" class=" ghcms ghcms-quarterback">
+<div markdown="1" class=" ghcms ghcms-quarterbuck">
 
 </div>
 
