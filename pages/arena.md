@@ -32,6 +32,7 @@ You can find Info about Arena Masters here
   <li class="toc-block-entry" ><a href="#nicola">Nicola</a></li>
   <li class="toc-block-entry" ><a href="#scales">Scales</a></li>
   <li class="toc-block-entry" ><a href="#laydee">Laydee</a></li>
+  <li class="toc-block-entry" ><a href="#quarterback">QuarterBack</a></li>
 </ul>
 
 
