@@ -1,26 +1,26 @@
 ---
-layout: booster
+layout: ability
 contributors: ""
-updatedAt: ""
+updatedAt: "2022-07-24"
 
 
-title: "Faerie Blessings(Legendary)"
-name: "Faerie Blessings"
+title: "Faerie's Blessing (Legendary)"
+name: "Faerie's Blessing"
 description: "Gives 3 botpack power at the beginning of a battle. 30% chance to gain 1 botpack power when using a botpack ability - "
-imageUrl: "/assets/img/boosters/faerie-blessings-legendary.png"
+imageUrl: "/assets/img/boosters/faerie's-blessing-legendary.png"
 breadcrumbs:
   Botpack: "/botpack"
-  Boosters: "/boosters"
+  Abilities: "/boosters"
 
 
-boosterName: "Faerie Blessings"
-boosterDescription: "Gives 3 botpack power at the beginning of a battle. 30% chance to gain 1 botpack power when using a botpack ability"
-boosterImageUrl: "/assets/img/boosters/faerie-blessings-legendary.png"
-boosterStacks: ""
-boosterRarity: "Legendary"
-boosterRaritySortOrder: "5"
-boosterAcquisition: "Guild Event"
-boosterOpinion: ""
+abilityName: "Faerie's Blessing"
+abilityDescription: "Gives 3 botpack power at the beginning of a battle. 30% chance to gain 1 botpack power when using a botpack ability"
+abilityImageUrl: "/assets/img/boosters/faerie's-blessing-legendary.png"
+abilityCost: ""
+abilityRarity: "Legendary"
+abilityRaritySortOrder: "5"
+abilityAcquisition: "Fusing"
+abilityOpinion: ""
 searchKeywords: ""
 ---
 
