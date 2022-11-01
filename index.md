@@ -153,7 +153,7 @@ Check out [Starter Bots](/starter-bots) if you want, for example, but rest assur
 
 Botworld is well worth exploring at your own pace, and won’t punish you for trying stuff or fooling around, so really you can stop reading and go straight in !
 
-Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/guides/getting-started). 
+Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) or go and read [Getting Started](/getting-started). 
 
 </div>
 
