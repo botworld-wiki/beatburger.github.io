@@ -126,24 +126,6 @@ Brad is your introduction into the Arena and the owner of the Arena. He won't le
 
 </div>
 
-### Story
-
-- **Brad:** Hi kid, I'm Brad the Arena Manager, you here to get an autograph from one of the arena masters?
-- **Player:** Nope, I've come to take them on!
-- **Brad:** One cannot simply enter the Arena, you'll have to do a trial to earn your official botpack first. I warn you, it's tough. And I don't think you're ready...
-- **Player:** I was born ready. Who do I fight?
-- **Brad:** I can conduct a trial for you. All arena masters are different but I prefer a simple 2v2 format, no reserves.
- 
- 
-After you've defeated Brad:
-
-- **Brad:** Well played kid, maybe you really could join a team and become an arena star one day.
-- **Brad:** The actual masters will be much tougher than me, but you've definitely earned your new botpack today.
-- **Brad:** It's just a white series botpack. which means it only holds two boosters. But if you defeat an arena master they will upgrade it to a green series.
-- **Player:** What are boosters?
-- **Brad:** Boosters improve different aspects of your botpack or bot team. The booster you have gives you botpack energy right at the start of the battle.
-
-
 <div markdown="1" class=" ghcms ghcms-astrid">
 
 ## Astrid
@@ -164,16 +146,6 @@ Astrid is an arena master who doesn't believe in reserves and likes to deploy al
 - [Any more tips we're missing?](</contribute#tbw>)
 
 </div>
-
-### Story
-
-- **Astrid:** Waaaaaaaaaaaaagh! Watch where you're going little one, I'm gonna stomp you!
- 
- 
-After you've defeated Astrid:
-
-- **Astrid:** Waaaaaaaaa... Hmmpf. I've gotta admit you can handle yourself in a chaotic fight, you deserve this upgrade to a green series botpack.
-
 
 ## Kelvin
 
