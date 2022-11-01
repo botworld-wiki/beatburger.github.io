@@ -19,7 +19,7 @@ abilityImageUrl: "/assets/img/boosters/faerie's-blessing-legendary.png"
 abilityCost: ""
 abilityRarity: "Legendary"
 abilityRaritySortOrder: "5"
-abilityAcquisition: "Fusing"
+abilityAcquisition: "Fusing three rare boosters"
 abilityOpinion: ""
 searchKeywords: ""
 ---
