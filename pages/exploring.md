@@ -43,7 +43,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
 
 <div markdown="1" class=" ghcms ghcms-canister">
 
-## Cannister
+## Canisters
 
 You get 1 Cannister bar, and 1 HP bar. You lose HP in a fight, and your Cannister Energy heals you up between fights.
 
