@@ -108,9 +108,9 @@ You can find Info about Arena Masters here
 </ul>
 
 
-<div markdown="1" class=" ghcms ghcms-brad">
-
 ## Brad
+
+<div markdown="1" class=" ghcms ghcms-brad">
 
 Brad is your introduction into the Arena and the owner of the Arena. He won't let you battle the real masters unless you defeat him first.
 
@@ -127,9 +127,10 @@ Brad is your introduction into the Arena and the owner of the Arena. He won't le
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-astrid">
 
 ## Astrid
+
+<div markdown="1" class=" ghcms ghcms-astrid">
 
 Astrid is an arena master who doesn't believe in reserves and likes to deploy all of her 6 bots in the arena preparing for chaos. Nothing but a Chaotic Arena Master
 
