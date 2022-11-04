@@ -75,9 +75,9 @@ You can find Info about Arena Masters here
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-squad">
-
 ## Squad Cup
+
+<div markdown="1" class=" ghcms ghcms-squad">
 
 ### System
 
