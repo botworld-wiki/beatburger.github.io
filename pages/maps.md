@@ -14,6 +14,9 @@ breadcrumbs:
 
 
 ## Index
+
+<div markdown="1" class=" ghcms ghcms-index">
+
 [World Map](#world-map)<br>
       [Scrapper Coast](#scrapper-coast) |
  [Great Desert](#great-desert) |
@@ -28,6 +31,8 @@ breadcrumbs:
 - **Codex walkthrough maps:** [Codex](/codex)
 - **Special Loot Locations**: [ancient ruins, etc ](/loot)
 - **Story & Boat special items:** [Story & Boat materials](/boat-materials) 
+
+</div>
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
