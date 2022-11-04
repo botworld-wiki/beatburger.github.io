@@ -32,9 +32,13 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
   <li class="toc-block-entry" ><a href="#priorities">Priorities</a></li>
 </ul>
 
+<div markdown="1" class=" ghcms ghcms-use">
+
 **Jobs**: they're all listed in [Jobs](/jobs)
 
 **Squad Cup**: is described in [Arena](/arena)
+
+</div>
 
 <div markdown="1" class=" ghcms ghcms-acquisition">
 
