@@ -32,7 +32,7 @@ Not to be confused with [Farming](/farming), Exploring is when you need to make 
   <li class="toc-block-entry" ><a href="#tips-and-tricks">Tips and Tricks</a></li>
 </ul>
 
-<div markdown="1" class=" ghcms ghcms-tips">
+<div markdown="1" class=" ghcms ghcms-explore">
 
 - **Maps**: they're all in [Maps](/maps)
 - **Danger Zones**: get your fuel ready! [Danger Zones](/danger-zones)
