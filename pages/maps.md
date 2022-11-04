@@ -12,6 +12,9 @@ breadcrumbs:
 
 # All Maps
 
+<div markdown="1" class=" ghcms ghcms-intro">
+
+</div>
 
 ## Index
 
@@ -31,10 +34,6 @@ breadcrumbs:
 - **Codex walkthrough maps:** [Codex](/codex)
 - **Special Loot Locations**: [ancient ruins, etc ](/loot)
 - **Story & Boat special items:** [Story & Boat materials](/boat-materials) 
-
-</div>
-
-<div markdown="1" class=" ghcms ghcms-intro">
 
 </div>
 
