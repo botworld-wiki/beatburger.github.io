@@ -24,7 +24,7 @@ breadcrumbs:
   <li class="toc-block-entry" ><a href="#evaders" title="See every Evader">Evaders <img loading="lazy"   src="/assets/img/icons/evaders.png" alt="Evader bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#brawlers" title="See every Brawler">Brawlers <img loading="lazy"   src="/assets/img/icons/brawlers.png" alt="Brawler bots logo"></a></li>
   <li class="toc-block-entry" ><a href="#supports" title="See every Support">Supports <img loading="lazy"   src="/assets/img/icons/supports.png" alt="Support bots logo"></a></li>
-  <li class="toc-block-entry" ><a href="#ai" title="Everything about AI trees & xp">AI Training <img loading="lazy"   src="/assets/img/icons/AI-Training.png"</a></li>
+  <li class="toc-block-entry" ><a href="#ai" title="Everything about AI trees & xp">AI Training <img loading="lazy"   src="/assets/img/icons/AI-Training.png"></a></li>
 </ul>
 
 
