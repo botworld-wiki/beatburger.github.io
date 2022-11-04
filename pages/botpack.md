@@ -61,8 +61,6 @@ Find a detailled table with [all the info about every Ability](/abilities)
 </div>
 
 
-
-
 ## Boosters
 
 
@@ -73,7 +71,6 @@ Having the right Boosters will round up your playstyle and your comp.
 -**Stacking**: multiplicative != additive [To Be Written](/contribute#tbw)
 
 Find a detailled table with [all the info about every Booster](/boosters)
-
 
 </div>
 
@@ -92,7 +89,10 @@ Find a detailled table with [all the info about every Booster](/boosters)
 
 </div>
 
+
 ## Fusing
+
+<div markdown="1" class=" ghcms ghcms-fusing">
 
 Kindly ask your dear [Auntie](/contribute#tbw) 
 
@@ -102,15 +102,19 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 **Tip:** don't be too eager to fuse anything you might want to use later!
 
+</div>
 
 ## Botpack Level
+
+<div markdown="1" class=" ghcms ghcms-botpacklevel">
 
 - The value you see on your botpack in the top-left corner
 - Impacts your damage abilities & [mobs level scaling](/exploring#level-scaling)
 - Is equal to the **average of the 6 highest level bots *you own***. Even if you're not using them. Rounded up.
 
-## Gadgets
+</div>
 
+## Gadgets
 
 <div markdown="1" class=" ghcms ghcms-gadgets">
 
