@@ -198,7 +198,7 @@ function loadToPanel(ghCmsId){
   if ($('.'+ghCmsId).length != 1){alert('Impossible de modifier cette page'); return}
   $('#ghCMS-editor-panel input').val(ghCmsId);
   $('#ghCMS-editor-panel textarea').val(mdConverter.makeMarkdown(
-  	$('.'+ghCmsId).html()).replaceAll('<!-- -->\n', '').trim().replaceAll('(<', '(').replaceAll('>)', ')').replaceAll('\|', '|') // conflicts with js-xxs?
+  	$('.'+ghCmsId).html()).replaceAll('<!-- -->\n', '').trim().replaceAll('(<', '(').replaceAll('>)', ')').replaceAll('\\|', '|') // conflicts with js-xxs?
   )
   $('#ghCMS-editor-panel').removeClass('mini').addClass('maxi');
 }
@@ -228,7 +228,7 @@ function validateEdit(){
 
   function preSanitize(str){
     // just so we don't urlencode too often, and save some kb
-    return str.replaceAll('…','...').replaceAll('’',"'").replaceAll('œ','oe').replaceAll('\|','|')
+    return str.replaceAll('…','...').replaceAll('’',"'").replaceAll('œ','oe').replaceAll('\\|','|')
   }
   edits[pageLocation] = edits[pageLocation] || {};
 
