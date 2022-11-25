@@ -9,16 +9,17 @@ breadcrumbs:
   
 ---
 
+<div markdown="1" class=" ghcms ghcms-presentation">
 # Friday Fan Art
 
 **Organized by Featherweight**, the wiki only compiles winners in this gallery. 
 
-*Friday Fan Art has now begun! We have seen talented people in our community post incredible fan art and we wanted this event to reward them for their contributions. Every Friday, we will randomly select one fan art and reward its artist with 100 Gems!*
+*Friday Fan Art has now begun! We have seen talented people in our community post incredible fan art and we wanted this event to reward them for their contributions. Every Friday, we will randomly select one fan art and reward its artist with 150 Gems!*
 
 *How can you participate? Once you create your fan art, post it on Twitter, Facebook, or Instagram using #BotworldAdventureArt. We will go through them every week, enter selected ones into a draw, and randomly choose from the draw a fan art and feature a winner every Friday!*
 
 ![friday fan art poster](https://cdn.discordapp.com/attachments/824813164142788619/888378975565512764/Friday_Fan_Art.jpg)
-
+</div>
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
 ## \#50 (2.9.2022)
