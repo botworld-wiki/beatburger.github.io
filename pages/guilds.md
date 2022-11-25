@@ -54,14 +54,32 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 
 
 <span id="events"></span>
-## Events
+# Events
 
-# Poison Predicament
+<div markdown="1" class=" ghcms ghcms-new-events">
+
+## Sneaking Suspicions
+
+
+**Start**: 
+
+**Duration**: 14 days
+
+**Description**:
+
+**Guild Tasks**:
+
+**Rewards**:
+
+
+</div>
+
+## Poison Predicament
 <div markdown="1" class=" ghcms ghcms-poison-predicament">
 
 </div>
 
-# Shifting Sands
+## Shifting Sands
 <div markdown="1" class=" ghcms ghcms-shifting-sands">
 ![Shifting Sands Banner](<https://cdn.discordapp.com/attachments/824812153877430315/1013760868556750888/GuildEvent_Banner_ShiftingSands_Promo.png>)
 
@@ -91,7 +109,7 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 - 4000 Guild Coins: [Corrupted Brawler Dodge](</corrupted-brawler-dodge-epic>) Booster
 </div>
 
-# Electro Fest
+## Electro Fest
 <div markdown="1" class=" ghcms ghcms-electro-fest">
 ![Electro Fest Banner](<https://cdn.discordapp.com/attachments/824812153877430315/1012801905568792666/GuildEvent_Banner_Electrofest_full.png>)
 
@@ -121,7 +139,7 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
  4000 Guild Coins: Random [Epic Ability Module](</abilities>)
 </div>
 
-# Creature Feature
+## Creature Feature
 <div markdown="1" class=" ghcms ghcms-creature-feature">
 **Start**: July 28th, 2022
 
@@ -156,7 +174,7 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 </div>
 
 <div markdown="1" class=" ghcms ghcms-science-expo">
-# Science Expo
+## Science Expo
 
 ![300pix? Science Expo](<https://cdn.discordapp.com/attachments/923510071026155550/997369106745536593/unknown.png>)<br>
 
@@ -200,7 +218,7 @@ Gather your beakers and stock up on test tubes, as the Science Expo descends on 
 </div>
 
 <div markdown="1" class=" ghcms ghcms-volcanic-eruption">
-# Volcanic Eruption
+## Volcanic Eruption
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1003974760423764108/20220802_123706.jpg>)
 
@@ -253,7 +271,7 @@ Molten Rock has erupted! This massive explosion has billowed volcanic rock all t
 
 
 <div markdown="1" class=" ghcms ghcms-scavengers-fair">
-# Scavenger's Fair
+## Scavenger's Fair
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1003973870782517430/20220617_124255.jpg>)
 
@@ -307,7 +325,7 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 
 <div markdown="1" class=" ghcms ghcms-summer-slam">
-# Summer Slam
+## Summer Slam
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1003976738050678804/20220802_124450.jpg>)
 
@@ -348,7 +366,7 @@ The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whe
 
 
 <div markdown="1" class=" ghcms ghcms-hackathon">
-# Hackathon
+## Hackathon
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1003975697796190268/20220802_123955.jpg>)
 
@@ -384,7 +402,7 @@ Calling all keyboard jackeys! The time to crack open the circuits and CPUs of ev
 
 
 <div markdown="1" class=" ghcms ghcms-faerie-hunt">
-# Faerie Hunt
+## Faerie Hunt
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1003975698169471066/20220802_124044.jpg>)
 
