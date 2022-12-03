@@ -9,8 +9,8 @@ sitemap: false
 
 ---
 
-<input style="width:100%;"></input>
-<textarea style="width:100%; height:600px">
+<input id="poc-url" style="width:100%;" />
+<textarea id="poc-json" style="width:100%; height:600px">
 
 </textarea>
 
@@ -81,8 +81,8 @@ function aiDecode(str){
 
 
 
-const $output = document.querySelector('textarea');
-const $url = document.querySelector('input');
+const $output = document.querySelector('#poc-json');
+const $url = document.querySelector('#poc-url');
 
 var anchor = document.location.hash;
 if (anchor){
