@@ -1,4 +1,13 @@
+---
 
+layout: default
+permalink: /comp-serial
+title: Comp Serialization PoC
+description: crude demo
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
+
+---
 
 <input style="width:100%;"></input>
 <textarea style="width:100%; height:600px">
