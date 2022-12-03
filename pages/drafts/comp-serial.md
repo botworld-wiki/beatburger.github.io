@@ -15,9 +15,10 @@ sitemap: false
 </textarea>
 
 <script type="text/javascript">
-const BOTS = ["barrie","beat","berserker","bigshot","bombee","brute","bullseye","bullwark","chainer","chomp","comet","dune-bug","flamer","fork","froggy","frosty","gusto","halo","hornet","icicool","inkjet","ko","link","lobbie","longshot","mort","nibbles","nozzle","phantom","pluggie","pupil","ram","rocketeer","scatter","sheller","shuffle","slash","slicer","tether","thump","virus","yanky"];
-const ABILITIES = ["ball-lightning","barrier-wall","chaos-boost","chaos-translocator","charge-bolt","charge-field","chilling-ground","corrode","corrupted-bolt","corrupted-missile","deep-freeze","energy-bolt","explosive-proximity-translocator","firestorm","firewall","freeze","frost-missile","frost-tower","gale","goop","gravity-surge","gust","hack","hack-missile","hasty-ground","hypercharge","hyperdrain","icewall","immobilize-field","immobilize","knockback-bolt","knockback","lightning-rod","missile","poison-bolt","poison-missile","poison-tower","poison-trail","proximity-translocator","shield-field","shield","snowball","speed-boost","supercharged-chaos-translocator","super-charge","team-translocator","tornado-bolt","unstable-plasma","vanish","vortex","zap-tower"];
-const BOOSTERS = ["bot-crit-epic","bot-crit-special","bot-damage-common","bot-damage-epic","bot-damage-rare","bot-dodge-epic","bot-dodge-rare","bot-dodge-special","bot-effect-area-rare","bot-health-common","bot-health-epic","bot-health-rare","botpack-damage-epic","botpack-damage-special","botpack-effect-area-epic","botpack-effect-area-rare","botpack-stun-epic","botpack-stun-rare","bot-stun-common","bot-stun-epic","bot-stun-rare","brawler-lifesteal-common","chaser-speed-rare","chaser-stun-resistance-special","corrupted-brawler-dodge-epic","corrupted-power-generation-epic","corrupted-sharpshooter-range-epic","corrupted-support-ultimate-charge-epic","corrupted-tank-health-epic","energy-resistance-epic","energy-resistance-special","evader-dodge-rare","faerie's-blessing.","lifesteal-special","marathon-bot","movement-speed-common","movement-speed-epic","nectar-of-the-gods","parry-master","physical-resistance-common","physical-resistance-epic","power-generation-epic","power-generation-special","power-recycling-epic","power-recycling-special","power-start-common","power-start-epic","power-start-rare","radioactive","sniper-range-common","splasher-effect-area-special","stone-cold-stunner","stun-resistance-epic","stun-resistance-rare","sub-zero","the-motherlode","ult-charge-special","ult-cooldowns-common","ult-cooldowns-rare"];
+
+// https://stackoverflow.com/questions/14733374/how-to-generate-an-md5-file-hash-in-javascript-node-js
+var MD5 = function(d){var r = M(V(Y(X(d),8*d.length)));return r.toLowerCase()};function M(d){for(var _,m="0123456789ABCDEF",f="",r=0;r<d.length;r++)_=d.charCodeAt(r),f+=m.charAt(_>>>4&15)+m.charAt(15&_);return f}function X(d){for(var _=Array(d.length>>2),m=0;m<_.length;m++)_[m]=0;for(m=0;m<8*d.length;m+=8)_[m>>5]|=(255&d.charCodeAt(m/8))<<m%32;return _}function V(d){for(var _="",m=0;m<32*d.length;m+=8)_+=String.fromCharCode(d[m>>5]>>>m%32&255);return _}function Y(d,_){d[_>>5]|=128<<_%32,d[14+(_+64>>>9<<4)]=_;for(var m=1732584193,f=-271733879,r=-1732584194,i=271733878,n=0;n<d.length;n+=16){var h=m,t=f,g=r,e=i;f=md5_ii(f=md5_ii(f=md5_ii(f=md5_ii(f=md5_hh(f=md5_hh(f=md5_hh(f=md5_hh(f=md5_gg(f=md5_gg(f=md5_gg(f=md5_gg(f=md5_ff(f=md5_ff(f=md5_ff(f=md5_ff(f,r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+0],7,-680876936),f,r,d[n+1],12,-389564586),m,f,d[n+2],17,606105819),i,m,d[n+3],22,-1044525330),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+4],7,-176418897),f,r,d[n+5],12,1200080426),m,f,d[n+6],17,-1473231341),i,m,d[n+7],22,-45705983),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+8],7,1770035416),f,r,d[n+9],12,-1958414417),m,f,d[n+10],17,-42063),i,m,d[n+11],22,-1990404162),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+12],7,1804603682),f,r,d[n+13],12,-40341101),m,f,d[n+14],17,-1502002290),i,m,d[n+15],22,1236535329),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+1],5,-165796510),f,r,d[n+6],9,-1069501632),m,f,d[n+11],14,643717713),i,m,d[n+0],20,-373897302),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+5],5,-701558691),f,r,d[n+10],9,38016083),m,f,d[n+15],14,-660478335),i,m,d[n+4],20,-405537848),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+9],5,568446438),f,r,d[n+14],9,-1019803690),m,f,d[n+3],14,-187363961),i,m,d[n+8],20,1163531501),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+13],5,-1444681467),f,r,d[n+2],9,-51403784),m,f,d[n+7],14,1735328473),i,m,d[n+12],20,-1926607734),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+5],4,-378558),f,r,d[n+8],11,-2022574463),m,f,d[n+11],16,1839030562),i,m,d[n+14],23,-35309556),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+1],4,-1530992060),f,r,d[n+4],11,1272893353),m,f,d[n+7],16,-155497632),i,m,d[n+10],23,-1094730640),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+13],4,681279174),f,r,d[n+0],11,-358537222),m,f,d[n+3],16,-722521979),i,m,d[n+6],23,76029189),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+9],4,-640364487),f,r,d[n+12],11,-421815835),m,f,d[n+15],16,530742520),i,m,d[n+2],23,-995338651),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+0],6,-198630844),f,r,d[n+7],10,1126891415),m,f,d[n+14],15,-1416354905),i,m,d[n+5],21,-57434055),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+12],6,1700485571),f,r,d[n+3],10,-1894986606),m,f,d[n+10],15,-1051523),i,m,d[n+1],21,-2054922799),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+8],6,1873313359),f,r,d[n+15],10,-30611744),m,f,d[n+6],15,-1560198380),i,m,d[n+13],21,1309151649),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+4],6,-145523070),f,r,d[n+11],10,-1120210379),m,f,d[n+2],15,718787259),i,m,d[n+9],21,-343485551),m=safe_add(m,h),f=safe_add(f,t),r=safe_add(r,g),i=safe_add(i,e)}return Array(m,f,r,i)}function md5_cmn(d,_,m,f,r,i){return safe_add(bit_rol(safe_add(safe_add(_,d),safe_add(f,i)),r),m)}function md5_ff(d,_,m,f,r,i,n){return md5_cmn(_&m|~_&f,d,_,r,i,n)}function md5_gg(d,_,m,f,r,i,n){return md5_cmn(_&f|m&~f,d,_,r,i,n)}function md5_hh(d,_,m,f,r,i,n){return md5_cmn(_^m^f,d,_,r,i,n)}function md5_ii(d,_,m,f,r,i,n){return md5_cmn(m^(_|~f),d,_,r,i,n)}function safe_add(d,_){var m=(65535&d)+(65535&_);return(d>>16)+(_>>16)+(m>>16)<<16|65535&m}function bit_rol(d,_){return d<<_|d>>>32-_}
+
 
 var comp = {
 	bots: [
@@ -44,61 +45,123 @@ var comp = {
 
 function serialize(comp){
 	let bots = comp.bots.map(bot=>{
-		let id = BOTS.indexOf(bot.name).toString().padStart(2,'0');
+		let id = lookup.bot2id[bot.name];
 		let ai = aiEncode(bot.ai)
 		return id + ai
 	}).join('');
 	let abilities = comp.abilities.map(ability=>{
-		return ABILITIES.indexOf(ability).toString().padStart(2,'0');
+		return lookup.ability2id[ability];
 	}).join('');
 	let boosters = comp.boosters.map(booster=>{
-		return BOOSTERS.indexOf(booster).toString().padStart(2,'0');
+		return lookup.booster2id[booster];
 	}).join('');
 	return bots+abilities+boosters
 }
 
 function unserialize(str){
 	let comp = {
-		bots: str.substr(0,4*6).match(/.{1,4}/g).map(pair=>{
-			let [id, ai] = pair.match(/.{1,2}/g);
-			return {name: BOTS[+id], ai: aiDecode(ai)}
+		bots: str.substr(0,4*6).match(/.{1,4}/g).map(bot=>{
+			let [id, ai] = [bot.substr(0,3),bot.substr(3,1)];
+			return {name: lookup.id2bot[id], ai: aiDecode(ai)}
 		}),
-		abilities: str.substr(4*6, 4*2).match(/.{1,2}/g).map(id=>ABILITIES[+id]),
-		boosters: str.substr(4*6+4*2, 4*2).match(/.{1,2}/g).map(id=>BOOSTERS[+id])
+		abilities: str.substr(4*6, 4*3).match(/.{1,3}/g).map(id=>lookup.id2ability[id]),
+		boosters: str.substr(4*6+4*3, 4*3).match(/.{1,3}/g).map(id=>lookup.id2booster[id])
 
 	};
 	return comp
 }
 
 // mapping the array of 0,1 ai values to binary
+// result is base 36 encoded in a single char (2^5 = 32 ai combinations)
 function aiEncode(array){
-	let bin = Number.parseInt(array.join(''),2); // array to bin to decimal
-	return bin.toString().padStart(2,'0') // decimal to str
+	return Number.parseInt(array.join(''),2).toString(36); // array to bin to decimal to b36
 }
 function aiDecode(str){
-	return (+str).toString(2).padEnd(5,'0').split('')
+		return Number.parseInt(str, 36).toString(2).padEnd(5,'0').split('')
 }
 
 
-
-const $output = document.querySelector('#poc-json');
-const $url = document.querySelector('#poc-url');
-
-var anchor = document.location.hash;
-if (anchor){
-    // If yes, get the app state out of it
-	comp = unserialize(anchor.slice(1));
-	$output.value = JSON.stringify(comp, null, 2);
+const OVERRIDES = {
+	// SUGAR
+	// bots
+	"barrie":"Bar", "beat":"Bea", "berserker":"Ber", "bigshot":"Big", "bombee":"Bom", "brute":"Bru", "bullseye":"BuE", "bullwark":"BuW", "chainer":"Cha", "chomp":"Cho", "comet":"Com", "dune-bug":"Dun", "flamer":"Fla", "fork":"For", "froggy":"Frg", "frosty":"Frs", "gusto":"Gus", "halo":"Hal", "hornet":"Hor", "icicool":"Ici", "inkjet":"Ink", "ko":"KOx", "link":"Lin", "lobbie":"Lob", "longshot":"Lon", "mort":"Mor", "nibbles":"Nib", "nozzle":"Noz", "phantom":"Pha", "pluggie":"Plu", "pupil":"Pup", "ram":"Ram", "rocketeer":"Roc", "scatter":"Sca", "sheller":"She", "shuffle":"Shu", "slash":"Sla", "slicer":"Sli", "tether":"Tet", "thump":"Thu", "virus":"Vir", "yanky":"Yan",
+	// abilities
+	"gust":"Gus",
+	"hypercharge":"HCh",
+	"hyperdrain":"HDr",
+	"icewall":"IcW",
+	"deep-freeze":"DFr",
+	"supercharged-chaos-translocator": "SCT",
+	"chaos-translocator": "CTr",
+	"explosive-proximity-translocator":"EPT",
+	"proximity-translocator": "PTr",
+	// boosters
+	"ult-cooldowns-rare":"UCD",
+	"ult-charge-special":"UCh",
+	"faerie's-blessing":"FBl",
+	"sub-zero":"SZ0",
+	"power-start-epic":"PwS"
+	"power-generation-epic":"PwG",
+	"corrupted-power-generation-epic":"cPw",
+	// COLLISIONS
+	//'ram': 'RAM', // bullseye
+	'corrupted-sharpshooter-range-epic': 'cSR', // brawler-lifesteal-common
+	'energy-resistance-epic': 'EnR', // bot-damage-common
 }
 
-$url.value = document.location;
-$output.value = JSON.stringify(comp, null, 2);
+
+var db, lookup = {};
+function init(json){
+	db = json;
+	lookup = {
+		id2bot: Object.entries(db.bots).reduce((acc, [k, v])=>{ 
+			let key = OVERRIDES[k] || MD5(k).substr(0,3);
+			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
+			acc[key] = k; 
+			return acc
+		}, {}),
+		id2ability: Object.entries(db.abilities).reduce((acc, [k, v])=>{ 
+			let key = OVERRIDES[k] || MD5(k).substr(0,3);
+			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
+			acc[key] = k; 
+			return acc
+		}, {}),
+		id2booster: Object.entries(db.boosters).reduce((acc, [k, v])=>{ 
+			let key = OVERRIDES[k] || MD5(k).substr(0,3);
+			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
+			acc[key] = k; 
+			return acc
+		}, {})
+	}
+	lookup.bot2id = Object.fromEntries(Object.entries(lookup.id2bot).map(e => e.reverse()));
+	lookup.ability2id = Object.fromEntries(Object.entries(lookup.id2ability).map(e => e.reverse()));
+	lookup.booster2id = Object.fromEntries(Object.entries(lookup.id2booster).map(e => e.reverse()));
 
 
-$output.addEventListener('keyup', ()=>{
-	document.location.hash = '#'+serialize(JSON.parse($output.value));
+	const $output = document.querySelector('#poc-json');
+	const $url = document.querySelector('#poc-url');
+
+	if (anchor = document.location.hash){
+	    // If yes, get the app state out of it
+		comp = unserialize(anchor.slice(1));
+	}
+
 	$url.value = document.location;
-});
+	$output.value = JSON.stringify(comp, null, 2);
+
+
+	$output.addEventListener('keyup', ()=>{
+		document.location.hash = '#'+serialize(JSON.parse($output.value));
+		$url.value = document.location;
+	});
+}
+
+
+
+fetch("/assets/js/comp-serial.json")
+  .then(response => response.json())
+  .then(json => init(json));
+
 
 
 </script>
