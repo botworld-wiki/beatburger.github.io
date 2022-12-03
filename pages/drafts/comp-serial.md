@@ -100,7 +100,7 @@ const OVERRIDES = {
 	"ult-charge-special":"UCh",
 	"faerie's-blessing":"FBl",
 	"sub-zero":"SZ0",
-	"power-start-epic":"PwS"
+	"power-start-epic":"PwS",
 	"power-generation-epic":"PwG",
 	"corrupted-power-generation-epic":"cPw",
 	// COLLISIONS
