@@ -45,30 +45,39 @@ var comp = {
 
 function serialize(comp){
 	let bots = comp.bots.map(bot=>{
-		let id = lookup.bot2id[bot.name];
+		let id = lookup.bot2key[bot.name];
 		let ai = aiEncode(bot.ai)
 		return id + ai
 	}).join('');
 	let abilities = comp.abilities.map(ability=>{
-		return lookup.ability2id[ability];
+		return lookup.ability2key[ability];
 	}).join('');
 	let boosters = comp.boosters.map(booster=>{
-		return lookup.booster2id[booster];
+		return lookup.booster2key[booster];
 	}).join('');
-	return bots+abilities+boosters
+	return [bots,abilities,boosters].join('-')
 }
 
 function unserialize(str){
-	let comp = {
-		bots: str.substr(0,4*6).match(/.{1,4}/g).map(bot=>{
+	let [bots, abilities, boosters] = str.split('-');
+	try {
+		bots = bots.match(/.{1,4}/g).map(bot=>{
 			let [id, ai] = [bot.substr(0,3),bot.substr(3,1)];
-			return {name: lookup.id2bot[id], ai: aiDecode(ai)}
-		}),
-		abilities: str.substr(4*6, 4*3).match(/.{1,3}/g).map(id=>lookup.id2ability[id]),
-		boosters: str.substr(4*6+4*3, 4*3).match(/.{1,3}/g).map(id=>lookup.id2booster[id])
+			return {name: lookup.key2bot[id], ai: aiDecode(ai)}
+		})
+	} catch (e) { bots = []; }
+	try {
+		abilities = abilities.match(/.{1,3}/g).map(id=>lookup.key2ability[id])
+	} catch (e) { abilities = []; }
+	try {
+		boosters = boosters.match(/.{1,3}/g).map(id=>lookup.key2booster[id])
+	} catch (e) { boosters = []; }
 
-	};
-	return comp
+	return comp = {
+		bots: bots,
+		abilities: abilities,
+		boosters: boosters
+	}
 }
 
 // mapping the array of 0,1 ai values to binary
@@ -77,7 +86,7 @@ function aiEncode(array){
 	return Number.parseInt(array.join(''),2).toString(36); // array to bin to decimal to b36
 }
 function aiDecode(str){
-		return Number.parseInt(str, 36).toString(2).padEnd(5,'0').split('')
+	return Number.parseInt(str, 36).toString(2).padEnd(5,'0').split('')
 }
 
 
@@ -111,32 +120,32 @@ const OVERRIDES = {
 
 
 var db, lookup = {};
+
+function genLookups(dbCollection){
+	let key2entity = {};
+	let entity2key = {};
+	for (let id in dbCollection){
+		const fallback = MD5(id).substr(0,3);
+		const key = OVERRIDES[id] || fallback; 
+		if (entity2key[id]){ alert('collision: ' + id + ' and ' + entity2key[id]) }; 
+		key2entity[fallback] = id; //so serial payloads shared before an override was added stay supported
+		key2entity[key] = id;
+		entity2key[id] = key;
+	}
+	return [key2entity, entity2key]
+}
+	
 function init(json){
 	db = json;
-	lookup = {
-		id2bot: Object.entries(db.bots).reduce((acc, [k, v])=>{ 
-			let key = OVERRIDES[k] || MD5(k).substr(0,3);
-			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
-			acc[key] = k; 
-			return acc
-		}, {}),
-		id2ability: Object.entries(db.abilities).reduce((acc, [k, v])=>{ 
-			let key = OVERRIDES[k] || MD5(k).substr(0,3);
-			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
-			acc[key] = k; 
-			return acc
-		}, {}),
-		id2booster: Object.entries(db.boosters).reduce((acc, [k, v])=>{ 
-			let key = OVERRIDES[k] || MD5(k).substr(0,3);
-			if (acc[key]){ alert('collision: ' + k + ' and ' + acc[key]) }; 
-			acc[key] = k; 
-			return acc
-		}, {})
-	}
-	lookup.bot2id = Object.fromEntries(Object.entries(lookup.id2bot).map(e => e.reverse()));
-	lookup.ability2id = Object.fromEntries(Object.entries(lookup.id2ability).map(e => e.reverse()));
-	lookup.booster2id = Object.fromEntries(Object.entries(lookup.id2booster).map(e => e.reverse()));
+	const [key2bot, bot2key] = genLookups(db.bots);
+	const [key2ability, ability2key] = genLookups(db.abilities);
+	const [key2booster, booster2key] = genLookups(db.boosters);
 
+	lookup = {
+		key2bot: key2bot, bot2key: bot2key,
+		key2ability: key2ability, ability2key: ability2key,
+		key2booster: key2booster, booster2key: booster2key,
+	}
 
 	const $output = document.querySelector('#poc-json');
 	const $url = document.querySelector('#poc-url');
@@ -154,10 +163,12 @@ function init(json){
 		document.location.hash = '#'+serialize(JSON.parse($output.value));
 		$url.value = document.location;
 	});
+
 }
 
 
 
+//fetch("comp-serial.json")
 fetch("/assets/js/comp-serial.json")
   .then(response => response.json())
   .then(json => init(json));
