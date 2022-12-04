@@ -10,6 +10,12 @@ sitemap: false
 ---
 
 <input id="poc-url" style="width:100%;" />
+Search:
+<input id="search" style="width:100%;" />
+<div id="queries"></div>
+Results:
+<ul id="results"></ul>
+Comp:
 <textarea id="poc-json" style="width:100%; height:600px">
 
 </textarea>
@@ -21,6 +27,7 @@ var MD5 = function(d){var r = M(V(Y(X(d),8*d.length)));return r.toLowerCase()};f
 
 
 var comp = {
+	title: 'demo title',
 	bots: [
 		{name: "barrie", ai: [1,0,1,0,0]},
 		{name: "nozzle", ai: [1,0,1,1,1]},
@@ -55,11 +62,13 @@ function serialize(comp){
 	let boosters = comp.boosters.map(booster=>{
 		return lookup.booster2key[booster];
 	}).join('');
-	return [bots,abilities,boosters].join('-')
+	let title = comp.title.replaceAll(' ','-'); //todo proper url prep
+	return [bots,abilities,boosters,title].join('-')
 }
 
 function unserialize(str){
-	let [bots, abilities, boosters] = str.split('-');
+	let [bots, abilities, boosters, ...title] = str.split('-');
+	title = title.join(' ');
 	try {
 		bots = bots.match(/.{1,4}/g).map(bot=>{
 			let [id, ai] = [bot.substr(0,3),bot.substr(3,1)];
@@ -74,6 +83,7 @@ function unserialize(str){
 	} catch (e) { boosters = []; }
 
 	return comp = {
+		title: title,
 		bots: bots,
 		abilities: abilities,
 		boosters: boosters
@@ -104,6 +114,7 @@ const OVERRIDES = {
 	"chaos-translocator": "CTr",
 	"explosive-proximity-translocator":"EPT",
 	"proximity-translocator": "PTr",
+	"gravity-surge":"GSu",
 	// boosters
 	"ult-cooldowns-rare":"UCD",
 	"ult-charge-special":"UCh",
@@ -134,6 +145,10 @@ function genLookups(dbCollection){
 	}
 	return [key2entity, entity2key]
 }
+
+
+const $output = document.querySelector('#poc-json');
+const $url = document.querySelector('#poc-url');
 	
 function init(json){
 	db = json;
@@ -145,10 +160,8 @@ function init(json){
 		key2bot: key2bot, bot2key: bot2key,
 		key2ability: key2ability, ability2key: ability2key,
 		key2booster: key2booster, booster2key: booster2key,
+		list: Object.keys(bot2key).concat(Object.keys(ability2key), Object.keys(booster2key))
 	}
-
-	const $output = document.querySelector('#poc-json');
-	const $url = document.querySelector('#poc-url');
 
 	if (anchor = document.location.hash){
 	    // If yes, get the app state out of it
@@ -174,5 +187,53 @@ fetch("/assets/js/comp-serial.json")
   .then(json => init(json));
 
 
+var collection = [
+	'ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta',
+	'Big0-00a-da0da0-Bigshot-fever',
+	'Com0-SCT-da0da0SZ0PwS-sky-pony-boom',
+	'Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special',
+	'Bar0Lob0Dun0Yan0Roc0Ici0-Gus28c-UChUch28282-Pix-pauper',
+	'Cha0Lob0-GusIcW-SZ0UCDPwScPG-Pix-CC-shell'
+];
+
+
+const $search = document.querySelector('#search');
+const $queries = document.querySelector('#queries');
+const $results = document.querySelector('#results');
+
+function loadCompFromStr(str){
+	comp = unserialize(str);
+	$output.value = JSON.stringify(comp, null, 2);
+}
+
+function loadResults(arr){
+	$results.innerHTML = '';
+	arr.map((e)=>{
+		let $entry = document.createElement('li')
+		let $link = document.createElement('a');
+		$link.innerText = e;
+		$link.href = '#'+e;
+		$link.addEventListener('click', ()=>loadCompFromStr(e));
+		$entry.append($link);
+		$results.append($entry);
+	})
+}
+
+loadResults(collection);
+
+$search.addEventListener('keyup', ()=>{
+	const query = $search.value.toLowerCase().replaceAll(' ','-');
+	const expandedQuery = lookup.list.filter(e=>e.startsWith(query));
+	const keys = [query].concat(expandedQuery.map(e=>lookup.bot2key[e]||lookup.ability2key[e]||lookup.booster2key[e]));
+	console.log(keys);
+	
+	if (query) {$queries.innerText = expandedQuery;}
+	else {$queries.innerText = '';}
+
+	let matching = collection.filter(e=>{
+		return (keys.filter(k=>e.includes(k))).length
+	})
+	loadResults(matching);
+});
 
 </script>
