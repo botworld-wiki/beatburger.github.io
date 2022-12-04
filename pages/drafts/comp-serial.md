@@ -231,8 +231,7 @@ $search.addEventListener('keyup', ()=>{
 	else {$queries.innerText = '';}
 
 	let matching = collection.filter(e=>{
-		const low = e.toLowerCase();
-		return (keys.filter(k=>low.includes(k))).length
+		return (keys.filter(k=>e.includes(k))).length
 	})
 	loadResults(matching);
 });
