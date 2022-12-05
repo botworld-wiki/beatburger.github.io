@@ -60,7 +60,7 @@ h3{font-size:18px;line-height:24px;font-family:'Abel', "Helvetica Neue", Helveti
 a{color:#ffcc00;font-weight:600;text-decoration:none}
 a:hover{color:#ffeb9b}
 a small{font-size:11px;color:#666;margin-top:-0.6em;display:block}
-ul{list-style-image:url("../images/bullet.png")}
+ul{list-style-image:url('https://www.botworld.wiki/assets/images/bullet.png')}
 strong{font-family:'Abel', "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-weight:600}
 .wrapper{max-width:650px;margin:0 auto;position:relative;padding:0 20px}
 section img{max-width:100%}
@@ -106,7 +106,7 @@ nav{display:none}
 	section h2 {
 		background-repeat: no-repeat;
 	    background-size: 100% 100% !important;
-	    background: url(../img/bg/title-bg.png);	
+	    background: url('https://www.botworld.wiki/assets/img/bg/title-bg.png');	
 	    margin-top: 10px;
 	    margin-bottom: 0px;
 	    padding-bottom: 15px;	
@@ -118,7 +118,7 @@ nav{display:none}
 	    */
 	    margin-top: 0px;
 	    margin-bottom: 0px;
-	    background: url(../img/bg/text-bg.png);	
+	    background: url('https://www.botworld.wiki/assets/img/bg/text-bg.png');	
 		background-repeat: no-repeat;
 	    background-position: right;
 	    padding: 0px 10px 20px 5px;
@@ -249,7 +249,7 @@ nav{display:none}
       		.toc-block {
 			background-repeat: no-repeat;
 	    background-size: 100% 100% !important;
-	    background: url(../img/bg/block-bg.png);			
+	    background: url('https://www.botworld.wiki/assets/img/bg/block-bg.png');			
 	    border:  0px !important;
 	    max-width: 250px !important;
 	    /*max-width: 350px !important;*/
@@ -530,7 +530,7 @@ nav img {
 	}
 .mini-menu .wiki-title { margin: 0 auto; }
 nav .tab-label {    
-	background-image: url(../img/icons/hamburger-icon.png);
+	background-image: url('https://www.botworld.wiki/assets/img/icons/hamburger-icon.png');
 	background-position: center;
 	background-size: cover;
 	width: 50px;
@@ -614,10 +614,10 @@ nav.fixed .menu{ justify-content: right; }
 .dropdown-menu ul {
     margin: 0px !important;
     padding: 0px 20px !important;
-    background-image: url("../img/bg/text-bg.png") !important;
+    background-image: url('https://www.botworld.wiki/assets/img/bg/text-bg.png') !important;
     background-repeat: repeat-y !important;
     background-position: center right !important;
-    list-style-image: url("../images/bullet.png") !important;
+    list-style-image: url('https://www.botworld.wiki/assets/images/bullet.png') !important;
 }
 #dropdown-checkbox:checked + .menu .dropdown-menu { display: flex !important; padding-right: 0px; }
 #dropdown-checkbox:checked + .menu { display: flex !important}
@@ -736,7 +736,7 @@ nav.fixed .menu{ justify-content: right; }
 .dropdown-title {
     background-repeat: no-repeat !important;
     background-size: 100% 100% !important;
-    background: url(../img/bg/title-bg.png) !important;
+    background: url('https://www.botworld.wiki/assets/img/bg/title-bg.png') !important;
     margin-top: 10px;
     margin-bottom: 0px;
     width: 100%;
@@ -769,7 +769,7 @@ nav.fixed .menu{ justify-content: right; }
 	font-weight: normal;
 }
 .discord-link {
-	background: url(../img/icons/discord.png);
+	background: url('https://www.botworld.wiki/assets/img/icons/discord.png');
 	background-size: cover;	
 	background-repeat: no-repeat;
 	height: 25px;
@@ -777,7 +777,7 @@ nav.fixed .menu{ justify-content: right; }
 }
 	   
 span.wtf-discord {
-	background: url(../img/icons/discord.png);
+	background: url('https://www.botworld.wiki/assets/img/icons/discord.png');
 	background-size: cover;	
 	background-repeat: no-repeat;
 	height: 25px;
@@ -874,8 +874,8 @@ section iframe{
 
 
 // webp fallback for css backgrounds, using webp-modernizr.js
-body.no-webp{background: url('../img/bg/background.png') no-repeat center center fixed !important;} 
-#banner.no-webp{background-image: url('../img/banners/wiki.png') !important;}
+body.no-webp{background: url('https://www.botworld.wiki/assets/img/bg/background.png') no-repeat center center fixed !important;} 
+#banner.no-webp{background-image: url('https://www.botworld.wiki/assets/img/banners/wiki.png') !important;}
 
 /* Editor Mode friendly image styles */
 /* dirty trick exploiting md's convenient access to the alt attribute */ 
