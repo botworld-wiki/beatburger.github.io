@@ -127,7 +127,7 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 ## Botworld Adventures News
 
 
-<div markdown="1" class="grid-box tall g-hcms g-hcms-homenews">
+<div markdown="1" class="grid-box tall ghcms ghcms-homenews">
 
 - [A new bot - Nibbles is revealed](/news#d2022-07-19)
 - [Rat - a new playable character will be introduced in a future update!](/news#d2022-07-10)
