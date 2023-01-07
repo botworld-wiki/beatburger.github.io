@@ -301,7 +301,7 @@ breadcrumbs:
     };
     
     window.addEventListener("hashchange", ()=>{
-    	document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + anchor; }
+    	document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + document.location.hash; }
     );
     
   
