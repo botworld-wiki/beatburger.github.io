@@ -298,8 +298,13 @@ breadcrumbs:
   
     //Export to Image Link Builder
       document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + anchor
+    };
+    
+    window.addEventListener("hashchange", ()=>{
+    	document.querySelector('#exporttoimage').href = 'https://www.botworld.wiki/workshop-export' + anchor; }
+    );
+    
   
-    }
     // then initialize the app with it
     initFromState(gState);
     initButtonsInputs();
