@@ -87,10 +87,10 @@ commonMat3: "Hardened Fiberglass"
 
 ## Comments
 To unlock the legendary botframe for Comet, you must collect 50 Star Fragments and 10 Cosmic Cores, then turn them in to Copurrnicus (located in southwest Fall Grove - Southern Slopes near the entrance to Spore Wood). Star Fragments can be obtained in the following ways:
-- Reward on Mayoral Membership, Arena, and for defeating QuarterBuck
+- Reward on Season Pass (during Season of the Stars only), Arena, and for defeating QuarterBuck
 - Found as detected scrap in heroic Danger Zones or randomly in normal zones (very low drop rate)
 
-Once 50 Star Fragments are collected, talk to Copurrnicus, and they will request 10 Cosmic Cores, which are obtained from defeating any Mega bot (100% drop rate) located in Botworld.
+Once 50 Star Fragments are collected, talk to Copurrnicus (optional), and they will request 10 Cosmic Cores, which are obtained from defeating any Mega bot (100% drop rate) located in Botworld.
 
 
 
