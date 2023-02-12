@@ -1,0 +1,81 @@
+---
+layout: bot
+contributors: "TsengFayt"
+updatedAt: "2023-02-12"
+
+
+title: "Gyro (Epic Splasher)"
+name: "Gyro"
+description: "A melee splasher that can chase down its enemies and even pull them in to do extra damage.\n- Speciality: ?\n- Note: send your tips to the wiki team\n"
+imageUrl: "https://www.botworld.wiki/assets/img/bots/gyro.png"
+breadcrumbs:
+  Bots: "/bots"
+  Tank: "/bots#splashers"
+
+botName: "Gyro"
+botDescription: "A bot made from a giant spinning blade, keep your distance if you can."
+botImageUrl: "https://www.botworld.wiki/assets/img/bots/gyro.png"
+botType: "Splasher"
+botRarity: "Epic"
+botRaritySortOrder: "4"
+botAcquisition: "season pass, then drop"
+botOpinion: ""
+searchKeywords: "splasher, Gyro, epic, melee"
+
+
+ability1Name: "Spinning Blade"
+ability1Info: "Range: Melee , Charge Time: 3s , Hit Rate: 0.3s"
+ability1Description: "Spins around repeatedly dealing damage to nearby enemies"
+ability2Name: "Sawblade"
+ability2Info: "Range: 3.5-8, Cooldown: 6s, Knockback: Small"
+ability2Description: "Rolls towards an enemy dealing damage on impact"
+ability3Name: "Blade Storm"
+ability3Info: "Melee, Charge Time: 2s, Hit Rate: 0.3s , Cooldown: 12s , Slow Enemies: 70%"
+ability3Description: "Spins around creating a vortex repeatedly dealing damage to nearby enemies while pulling them in"
+
+
+ai1aName: "A: Inertial Dampening"
+ai1aDescription: "Move at full speed while spinning"
+ai1bName: "B: Axis Lock"
+ai1bDescription: "Increase Damage by 20% but immobilised while spinning"
+ai2aName: "A: Angular Recovery"
+ai2aDescription: "Sawblade cooldown reduced by 25%"
+ai2bName: "B: Tilted Impact"
+ai2bDescription: "Sawblade immobilises for 1s"
+ai3aName: "Gravity Heatsink"
+ai3aDescription: "Blade Storm cooldown reduced by 20%"
+ai3bName: "" <- leaving blank since it's ai C
+ai3bDescription: ""
+ai4aName: "A. Speed Boost"
+ai4aDescription: "Move speed increased by 25%"
+ai4bName: " B. Telescoping Blades"
+ai4bDescription: " Attack damage area increased by 15%"
+ai5aName: "A. Gravity Charge"
+ai5aDescription: "Blade Storm duration increase by 1s (in-game has a typo as 1%)"
+ai5bName: "  B. Velocity Reflector"
+ai5bDescription: "Immune to stun while performing Blade Storm"
+
+
+lvl1Hp: "1693"
+lvl1Dmg: "43"
+lvl1Dps: "144"
+lvl1Speed: "14"
+lvl10Hp: ""
+lvl10Dmg: ""
+lvl10Dps: ""
+lvl20Hp: ""
+lvl20Dmg: ""
+lvl20Dps: ""
+lvl25Hp: ""
+lvl25Dmg: ""
+lvl25Dps: ""
+lvl30Dmg: "635"
+lvl30Dps: "22208"
+
+epicMat: "Gyro Essence"
+rareMat: "Splasher Explosives"
+specialMat: "Thick Oil"
+commonMat1: "Clear Oil"
+commonMat2: "Mini Sensor"
+commonMat3: "Double Cog"
+---
