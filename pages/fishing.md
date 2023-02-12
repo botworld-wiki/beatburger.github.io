@@ -11,39 +11,33 @@ breadcrumbs:
 ---
 
 # Fishing Guide
-## Overview
 
 <div markdown="1" class=" ghcms ghcms-overview">
+## Overview
 </div>
-
-## How to Unlock Fishing
 
 <div markdown="1" class=" ghcms ghcms-unlocking">
+## How to Unlock Fishing
 </div>
-
-## How to Fish
 
 <div markdown="1" class=" ghcms ghcms-howto">
+## How to Fish
 </div>
-
-## Fishing Tips & Tricks
 
 <div markdown="1" class=" ghcms ghcms-tips">
+## Fishing Tips & Tricks
 </div>
-
-## Selling Fish
 
 <div markdown="1" class=" ghcms ghcms-selling">
+## Selling Fish
 </div>
-
-## Fishing Rods
 
 <div markdown="1" class=" ghcms ghcms-rods">
+## Fishing Rods
 </div>
 
-## Fishing Checklist
-
 <div markdown="1" class=" ghcms ghcms-checklist">
+## Fishing Checklist
 </div>
 
 <div markdown="1" class=" ghcms ghcms-version">
