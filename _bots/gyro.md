@@ -44,7 +44,7 @@ ai2bName: "B: Tilted Impact"
 ai2bDescription: "Sawblade immobilises for 1s"
 ai3aName: "Gravity Heatsink"
 ai3aDescription: "Blade Storm cooldown reduced by 20%"
-ai3bName: "" <- leaving blank since it's ai C
+ai3bName: ""
 ai3bDescription: ""
 ai4aName: "A. Speed Boost"
 ai4aDescription: "Move speed increased by 25%"
