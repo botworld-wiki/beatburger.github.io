@@ -6,7 +6,7 @@ updatedAt: "2023-02-12"
 
 title: "Butterfly's Sting (Legendary)"
 name: "Butterfly's Sting"
-description: ""
+description: "All bot stun attacks duration increased by 24%. All bots have a 15% chance to dodge melee attacks."
 imageUrl: "/assets/img/boosters/butterflys-sting-legendary.png"
 breadcrumbs:
   Botpack: "/botpack"
