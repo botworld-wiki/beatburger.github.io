@@ -195,6 +195,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Boat Upgrades Guide](/boat): list & maps.
     - [Bots Materials](/materials): full list.
     - [Farming Guide](/farming): the most efficient ways to get lots of anything.
+    - [Fishing Guide](/fishing): all about the fishing mechanic.
     - [Loot](/loot): Chests, Scrap Piles, Botframes, Ancient Ruins, High Grounds, Drop Rates...
 - [Arena](/arena): Solo Arena, Squad Cup, Arena Masters descriptions & Tips
 - [Seasons](/seasons): Starter Season vs Global Season, Rewards.
