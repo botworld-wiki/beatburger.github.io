@@ -9,7 +9,7 @@ sitemap: false
 
 ---
 
-        <p><input id="poc-url" style="width:100%;">
+<p><input id="poc-url" style="width:100%;">
 Search:
 <input id="search" style="width:100%;"></p>
 <div id="queries"></div>
