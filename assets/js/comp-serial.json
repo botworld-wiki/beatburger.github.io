@@ -7,7 +7,7 @@ layout: none
      "{{ bot.path | replace:'.md', '' | remove: '_bots/' }}": {
         "name": "{{ bot.botName | escape }}",
         "url": "{{ bot.path | replace:'.md', '' | remove: '_bots' }}",
-        "image": "/assets/img/bots/small{{ bot.url }}.png",,
+        "image": "/assets/img/bots/small{{ bot.url }}.png",
         "type": "{{ bot.botType | escape }}",
         "ai":[
           [{"name":"{{bot.ai1aName}}", "description":"{{bot.ai1aDescription}}"},{"name":"{{bot.ai1bName}}", "description":"{{bot.ai1bDescription}}"}],
