@@ -1,3 +1,5 @@
+---
+
 layout: default
 permalink: /comp-serial
 title: Serialized Comp Builder PoC
