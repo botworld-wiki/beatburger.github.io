@@ -1,3 +1,11 @@
+layout: default
+permalink: /comp-serial
+title: Serialized Comp Builder PoC
+description: now with UX
+robots: "NOINDEX, NOFOLLOW"
+sitemap: false
+
+---
 
         <p><input id="poc-url" style="width:100%;">
 Search:
