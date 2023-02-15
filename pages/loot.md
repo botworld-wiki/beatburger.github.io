@@ -26,6 +26,9 @@ breadcrumbs:
 - **Found at:** [Loot Spawn locations](/maps)
 - **Notably drops:** x-xx gold, [Double Cog](/double-cog), [Dull Steel](/dull-steel)
 
+- [Guilds events objectives](/guilds#objectives) often involve items found in such locations, so check out [how to find event items](/events-guide) in our Event Guide.
+
+
 ### Regular Chests
 
 - **Found at:** [Loot Spawn locations](/maps)
