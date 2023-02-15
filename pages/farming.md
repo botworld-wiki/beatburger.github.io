@@ -19,6 +19,8 @@ To farm Botworld efficiently, you will need:
 - **Good routes**: different places drop gold at varying amounts, and offer a different selection of [Rare Materials](/materials#rare)
 - **Good area knowledge**: As you get to know the precise [spawn location of every potential loot](/maps) and mob for a given area, your performance there will significantly improve. **Especially if your recruits are somewhat lacking**
 
+**This guide is focused on farming scrap**, but you will find [tips & techniques for critters & items in our Events Guide](/events-guide) 
+
 **Example:**
 
 <video controls style="max-width:100%; width:400px">
