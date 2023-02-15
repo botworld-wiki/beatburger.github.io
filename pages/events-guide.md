@@ -129,5 +129,5 @@ Whenever you change maps, items will appear in new locations and enemies will ch
 </div>
 <div markdown="1" class=" ghcms ghcms-credits">
 
-Thiago Santos & MVP ([join their discord server](https://discord.gg/fPyJMmMEx4))
+Thiago Santos & MVP ([join the discord server](https://discord.gg/fPyJMmMEx4))
 </div>
