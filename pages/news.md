@@ -23,6 +23,51 @@ breadcrumbs:
 
 </div>
 
+## d2022-12-16
+
+The Winter holidays have descended upon Botworld, with snowball fights breaking out amongst bandits and botmasters alike! Unwrap your present under the stra-topped tree in Scavenger's Landing to find your warm winter hat, and ready your snowbal throwing arm!
+
+Full event details on our [guilds & events page](</guilds>)
+
+![Winter Wonderland event picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053317443624/Screenshot_20221216-123708_Botworld.jpg>)
+
+## v1.10.0
+
+(2022-12-07)
+
+- New **bot Skins**!<br>
+
+
+
+![skins demo pic](<https://pbs.twimg.com/media/FifTTLAWQAY9C9x.jpg>)
+
+- Season of Glamour
+- Vulnerability (epic ability) 
+- Surgical Strike (legendary booster) 
+- Hackathon chips bug fix
+
+
+![300px vulnerability ability](<https://cdn.discordapp.com/attachments/824807657550381088/1050336228463099945/Screenshot_2022-12-08-15-57-10-143_com.featherweightgames.fx.jpg>)![300px surgical strike booster](<https://cdn.discordapp.com/attachments/824807657550381088/1050003977007288320/Screenshot_20221207-115948.png>)
+
+## d2022-12-03
+
+### New [Guild Event](</guilds>)
+
+Calling all keyboard jockeys! The time to crack open the circuits and CPUs of every bot and ancient ruin has arrived. Prove to Hack she's not the only one who deserves the name by hacking enemy bots to make them do your bidding, or disabling them entirely with your botpack's gadgets.<br>
+
+![Hackathon event picture](<https://pbs.twimg.com/media/FjdAyjTX0AAM0uy.jpg>)
+
+## d2022-11
+
+We've missed a couple updates & news, including the following:
+
+- [Comet](</comet>): first legendary bot, winner of the Community Bot contest!
+- [QuarterBuck](</arena#quarterbuck>): a new (Arena Master)[/arena] is in town!
+- [Inkjet](</inkjet>)
+- [Legendary boosters](</boosters>): fuse 7 epics to get one of these powerful legendaries! 
+- [Corrupted Missile](</corrupted-missile>)
+- Corrupted Bolt
+
 ## d2022-07-19
 ### New Bot Revealed - Nibbles
 
