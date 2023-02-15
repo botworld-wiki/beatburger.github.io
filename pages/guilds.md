@@ -21,35 +21,35 @@ Guilds are groups of players who can chat amongst and help each other, exchange 
 ## Completing Objectives
 
 <div markdown="1" class=" ghcms ghcms-objectives">
-Different [events](#events) have specific **tasks** that need to be completed within a given timeframe. Completing these tasks would give rewards to all the guild members which can be claimed after the event ends. Generally, there are three objectives in each event and three tiers of rewards (Mega Chests, Ability Modules, Costumes, etc.)
+![half-right Summer Slam Event](<https://media.discordapp.net/attachments/985501437733797969/985627989368799272/Screenshot_20220613-010148_Botworld.png?width=673&height=469>)
 
-![Summer Slam Event](https://media.discordapp.net/attachments/985501437733797969/985627989368799272/Screenshot_20220613-010148_Botworld.png?width=673&height=469)
+Different [events](<#events>) have specific **tasks** that need to be completed within a given timeframe. Completing these tasks would give rewards to all the guild members which can be claimed after the event ends. Generally, there are three objectives in each event and three tiers of rewards (Mega Chests, Ability Modules, Costumes, etc.)
+
+Check out our [Events Guide](/events-guide) for tips & techniques for most events
 </div>
 
 
 ## Joining a Guild
 
 <div markdown="1" class=" ghcms ghcms-joining">
+![half-right joining a guild](<https://cdn.discordapp.com/attachments/985501437733797969/985501650284314634/Screenshot_20220612-163825_Botworld.png>)
+
 - Join an existing guild by browsing through the list of guilds or searching for a Guild by name.
 - You can choose minimum number of players in the guild you're look for, like 1, 5, 10 or 15 members.
 - You can also choose location if you want guild to have people from specific country<br>
-
-
-
-![](<https://cdn.discordapp.com/attachments/985501437733797969/985501650284314634/Screenshot_20220612-163825_Botworld.png>)
 </div>
 
 ## Creating a Guild
 
 <div markdown="1" class=" ghcms ghcms-create">
+![half-right creating a guild](<https://media.discordapp.net/attachments/985501437733797969/985501649852334110/Screenshot_20220612-162706_Botworld.png>)
+
 **To create a Guild**:
 
 - Open the **Guild Create/Search** window
 - Click **Create Guild**
 - Type the **Name** and **Description**, choose the **Location** and **Invite Type**
 - Click **Create** and you have your own guild!<br>
-
-![](<https://media.discordapp.net/attachments/985501437733797969/985501649852334110/Screenshot_20220612-162706_Botworld.png>)
 </div>
 
 
@@ -58,25 +58,117 @@ Different [events](#events) have specific **tasks** that need to be completed wi
 
 <div markdown="1" class=" ghcms ghcms-new-events">
 
-## Sneaking Suspicions
+</div>
 
+## Winter Wonderland
 
-**Start**: 
+![Winter Wonderland event picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053317443624/Screenshot_20221216-123708_Botworld.jpg>)
 
-**Duration**: 14 days
+**Start**: December 3rd 2022<br>
 
-**Description**:
+**Duration**: 14 days<br>
+
+**Description**: The Winter holidays have descended upon Botworld, with snowball fights breaking out amongst bandits and botmasters alike! Unwrap your present under the stra-topped tree in Scavenger's Landing to find your warm winter hat, and ready your snowbal throwing arm!
 
 **Guild Tasks**:
 
+- Defeat Bandits while wearing Santa's Hat (1000) - *1000 Guild Coins*
+- Find Candy canes ![inline candy canes picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053913034752/Screenshot_20221216-122603_Botworld.jpg>) throughout Botworld (1000) - *1000 Guild Coins*
+- Disarm [Snowball cannons](</danger-zones#frozen-wastes>) (250) - *1000 Guild Coins*
+- Freeze enemy bots with [Snowball](</snowball>) in battle (1000) - *1000 Guild Coins* 
+
+
+**Tips**:
+
+- Snow Cannons are found only in [Frozen Wastes](</danger-zones#frozen-wastes>)
+- Candy Canes spwan randomly instead of scrap piles etc\]\(/loot#loot-spawn-locations):
+
+
+![300px candy cane picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053913034752/Screenshot_20221216-122603_Botworld.jpg>)
+
 **Rewards**:
 
+![Winter Wonderland rewards picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053527150612/Screenshot_20221216-123602_Botworld.jpg>)
 
-</div>
+## Hackathon
+
+![Hackathon event picture](<https://pbs.twimg.com/media/FjdAyjTX0AAM0uy.jpg>)
+
+**Start**: December 3rd 2022<br>
+
+**Duration**: 14 days<br>
+
+**Description**: Calling all keyboard jockeys! The time to crack open the circuits and CPUs of every bot and ancient ruin has arrived. Prove to Hack she's not the only one who deserves the name by hacking enemy bots to make them do your bidding, or disabling them entirely with your botpack's gadgets.
+
+**Guild Tasks**:
+
+- Collect Computer Chips for Hack in Scrapyard (500) - *1000 Guild Coins*
+- Damage Enemies with the Bombardment Gadget (5000) - *1000 Guild Coins*
+- Hack Enemy Bots (2000) - *1000 Guild Coins*
+
+
+**Rewards**:
+
+- 1000 Guild Coins: [Hack](</hack>) ability
+- 2000 Guild Coins: [Virus](</virus>) essence
+- 3000 Guild Coins: [Epic Chest](</loot>)
+
+
+## Sneaking Suspicions
+
+![Sneaking Suspicions Invisible event picture](<https://media.discordapp.net/attachments/877305015834935388/1047018485508751370/20221129_061706.jpg>)
+
+**Start**: November 18th 2022<br>
+
+**Duration**: 14 days<br>
+
+**Description**: When it comes to surviving the bandit-ridden wilds of Botworld, stealthy is healthy! Sneak by bandits & bots entirely, or vanish into thin air to surprise your unsuspecting opponent. Let's get Invisible!<br>
+
+**Guild Tasks**:
+
+- Sneak Past Enemies Using the Invisibility Gadget (1000) - *1000 Guild Coins*
+
+- Turn Bots Invisible During Battle (5000) - *1000 Guild Coins*
+
+- Defeat Wild Phantom Packs (1000) - *1000 Guild Coins*
+
+
+
+**Rewards**:
+
+1000 Guild Coins
+
+2000 Guild Coins
+
+3000 Guild Coins
 
 ## Poison Predicament
 <div markdown="1" class=" ghcms ghcms-poison-predicament">
+![Poison Predicament Banner](<https://cdn.discordapp.com/attachments/923510071026155550/1018593953064435762/poison-predicament-banner.jpg>)<br>
 
+**Start**: September 9th, 2022
+
+**Duration**: 14 days
+
+**Description**:<br>
+
+A venomous vexation has overtaken the bandits and Botmasters of Borworld! Use poisonous bots and corrosive Abilities to inflict all manner of blights upon your opponents, all while avoinding the sting of Botworld's flora and fauna. It's toxin time!
+
+**Guild Tasks**:
+
+- Poison Enemy Bots in Battle (20000) - *1000 Guild Coins*
+- Catch Poisonous Snakes (2500) - *1000 Guild Coins*
+- Trim Poisonous Plants in Vivid Valley (250) - *1000 Guild Coins*<br>
+
+
+
+<br>
+
+**Rewards**:
+
+- 1000 Guild Coins: [Splasher Explosive](</materials#splasher-explosive>)
+- 2000 Guild Coins: [Fork Essence](</fork>)
+- 3000 Guild Coins: [Mega Chest](</loot>)
 </div>
 
 ## Shifting Sands
