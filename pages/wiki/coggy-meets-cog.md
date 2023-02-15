@@ -47,20 +47,28 @@ http://botworld.wiki/wiki-page
 
 They are not wiki pages, but custom-made replies to frequent answers. They link to wiki pages or sections.
 
-Freshness may vary, I'll try and update regularly.
+This list isn't regularly updated, but [you can get the latest from the corresponding files on githube](https://github.com/botworld-wiki/beatburger.github.io/tree/main/embeds)
 
-
-- [ai (training)](/ai)
-- [recruit(s) comp](/recruit-comp)
-- [gadgets](/gadgets)
-
+- [scrapper coast](/scrapper-coast)
+- [spore woods](/spore-woods)
+- [arena masters](/arena-masters)
+- [ai training](/ai-training)
+- [ai](/ai)
+- [ancient ruin](/ancient-ruin)
+- [ancient ruins](/ancient-ruins)
+- [recruit comp](/recruit-comp)
+- [recruits comp](/recruits-comp)
 - [critters](/critters)
-- [ancient ruin(s)](/ancient-ruins)
+- [jackalope](/jackalope)
+- [pirate captain](/pirate-captain)
+- [gadgets](/gadgets)
+- [pauper](/pauper)
+- [super hunt](/super-hunt)
 
 
 ## Pages
 
-Freshness may vary, I'll try and update regularly.
+This list isn't regularly updated. Any page on the wiki, you can use as a !w command
 
 ### Botmasters
 
