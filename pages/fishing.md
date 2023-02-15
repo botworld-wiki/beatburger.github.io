@@ -22,9 +22,8 @@ It also includes a basic breakdown of how to unlock fishing and tips for catchin
 If you have any suggestions/changes/etc., please contact a Wiki personnel or TsengFayt#2321 (creator of this guide) on Discord.
 </div>
 
-<div markdown="1" class=" ghcms ghcms-unlocking">
 ## How to Unlock Fishing
-
+<div markdown="1" class=" ghcms ghcms-unlocking">
 - To unlock fishing you must be at least Botpack level 8. If you meet that requirement, you will randomly be assigned a Contract called 'Gone Fishing'<br>
 
     If you are at least Botpack level 8 and you do not see it, keep your contracts open and keep refreshing them. Obtaining the contract is completely random.
@@ -46,9 +45,8 @@ If you have any suggestions/changes/etc., please contact a Wiki personnel or Tse
 - Additional rods can be unlocked by completing objectives on the Fishing Codex. See the Fishing Rods section below for more info.
 </div>
 
-<div markdown="1" class=" ghcms ghcms-howto">
 ## How to Fish
-
+<div markdown="1" class=" ghcms ghcms-howto">
 - Once you have unlocked the fishing rod, you can fish at any of the locations matching the description above. To start fishing, tap the fishing hook icon above a fishing spot as if it were a scrap pile or chest.
 
 - After the fishing interaction is complete, the camera will zoom to the fishing spot and a new button will appear on the screen. <br>
@@ -60,9 +58,8 @@ If you have any suggestions/changes/etc., please contact a Wiki personnel or Tse
 - If you time it successfully, you will catch the fish/loot 100% of the time.
 </div>
 
-<div markdown="1" class=" ghcms ghcms-tips">
 ## Fishing Tips & Tricks
-
+<div markdown="1" class=" ghcms ghcms-tips">
 - Pay attention to the ferocity of the bubbles. Slight bubbling results in a Common catch, moderate bubbling results in a Special catch, heavy bubbling results in a Rare catch, and severe bubbling results in an Epic catch. <br>
 
     COMMON - - - - - - - - - - - - - - UNCOMMON<br>
@@ -82,9 +79,8 @@ If you have any suggestions/changes/etc., please contact a Wiki personnel or Tse
 - The fishing button will move with your finger, so there is no need to worry about your finger slipping off.
 </div>
 
-<div markdown="1" class=" ghcms ghcms-selling">
 ## Selling Fish
-
+<div markdown="1" class=" ghcms ghcms-selling">
 You can sell the fish to Herman the Fishmonger located in the marketplace in Scavenger's Landing, just **south of the landing zone.** Herman offers a 'Catch of the Day' bonus for catching fish from a specific zone, of a specific rarity and even individual fish. These deals last for 24 hours and refresh automatically each day. You can talk to him to find out which fish he is looking for and how much time is left until the next refresh.
 
 - \+50% for all fish caught from the requested zone
@@ -95,9 +91,8 @@ You can sell the fish to Herman the Fishmonger located in the marketplace in Sca
 You cannot choose which fish to sell! Herman will pay for all fish in your inventory at once.
 </div>
 
-<div markdown="1" class=" ghcms ghcms-rods">
 ## Fishing Rods
-
+<div markdown="1" class=" ghcms ghcms-rods">
 - Amateur Rod: A barely functional fishing rod for amateurs. Common fish are most likely to appear.<br>
 
      Unlocks the fishing interaction at fishing spots in water<br>
@@ -123,9 +118,8 @@ You cannot choose which fish to sell! Herman will pay for all fish in your inven
      Obtained: Complete all 23 objectives in the Fishing Codex
 </div>
 
-<div markdown="1" class=" ghcms ghcms-checklist">
 ## Fishing Checklist
-
+<div markdown="1" class=" ghcms ghcms-checklist">
 This is a catalogue of every fish in the game. Every map (including DZs) has a particular prefix. Costs scale with game progression.
 
 Key:<br>
