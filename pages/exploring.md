@@ -150,6 +150,7 @@ See their every locations at [Maps](/maps)
 
 - To catch a lot easily, hunt the aggressive ones
 - Saltwater Swamp is packed with snakes
+- [Guilds events objectives](/guilds#objectives) often involve this, so check out [how to catch critters](/events-guide#farming-critters) in our Event Guide.
 
 </div>
 
