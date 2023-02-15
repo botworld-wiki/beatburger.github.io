@@ -178,6 +178,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
     - [Jobs](/jobs): mechanics, list, & tips.
 - [Business Upgrades](/business): list, selection tips, and level unlocks.
 - [Guilds](/guilds): events, rewards, how guilds work in general.
+    - [Events Guide](/events-guide): the best tips & techniques to complete events, by MVP
 - [Cosmetics](/cosmetics): hats & outfits.
 - [Getting Started](/getting-started): introductory guide to get you started on the right foot.
 
