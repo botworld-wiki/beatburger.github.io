@@ -3,7 +3,7 @@
 layout: breadcrumbs
 permalink: /help
 title: Cog is here to help!
-description: "- Caps are converted, spaces are replaced with '-'\n- Bots, Abilities, Materials: !w icicool, !w gust, !w chaser core\n- Boosters need the Rarity, always: !w ult-start-special\n- No Embed = 'wiki-id' doesn't exist\n- FAQ: ancient ruin(s), critters, ai (training), recruit(s) comp, arena masters\nFollow the link for the list of all pages"
+description: "- Caps are converted, spaces are replaced with '-'\n- Bots, Abilities, Materials: !w icicool, !w gust, !w chaser core\n- Boosters need the Rarity, always: !w ult-start-special\n- No Embed = 'wiki-id' doesn't exist\n- FAQ: ancient ruin(s), critters, ai (training), recruit(s) comp, arena masters...\nFollow the link for the list of all pages"
 breadcrumbs:
   Community Wiki: "/community-wiki"
 
