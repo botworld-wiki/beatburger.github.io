@@ -420,7 +420,7 @@ function displayComp(){
         $list.querySelector('img').src = 'https://www.botworld.wiki/'+ability.image;
         $list.querySelector('a').innerText = ability.name;
         $list.querySelector('a').href = 'https://www.botworld.wiki/'+ability.url;
-        $list.querySelector('p').innerText = "Pushes enemy bots in a specific direction";
+        $list.querySelector('p').innerText = ability.description;
     };
     for (var i=0; i< comp.boosters.length; i++){
         let $preview = document.querySelector('#preview .booster'+i);
@@ -430,7 +430,7 @@ function displayComp(){
         $list.querySelector('img').src = 'https://www.botworld.wiki/'+booster.image;
         $list.querySelector('a').innerText = booster.name;
         $list.querySelector('a').href = 'https://www.botworld.wiki/'+booster.url;
-        $list.querySelector('p').innerText = "Pushes enemy bots in a specific direction";
+        $list.querySelector('p').innerText = booster.description;
     }
 }
 
