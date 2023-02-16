@@ -97,7 +97,7 @@ Search:
                     <label><input type="radio" name="boostersFilter" value="Special">Special</label>
                     <label><input type="radio" name="boostersFilter" value="Rare"> Rare</label>
                     <label><input type="radio" name="boostersFilter" value="Epic"> Epic</label>
-                    <label><input type="radio" name="boostersFilter" value="Legendarie"> Legendarie</label>
+                    <label><input type="radio" name="boostersFilter" value="Legendary"> Legendary</label>
                 </form>
                 <ul class="options"></ul>
             </div>
