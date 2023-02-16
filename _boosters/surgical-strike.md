@@ -7,7 +7,7 @@ updatedAt: "2023-01-24"
 title: "Surgical Strike (Legendary)"
 name: "Surgical Strike"
 description: "All bot area attacks radius increased by 20%. All bot attacks have 8% critical chance (critical hits deal double damage) - "
-imageUrl: "/assets/img/boosters/surgical-strike-legendary.png"
+imageUrl: "/assets/img/boosters/surgical-strike.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Surgical Strike"
 boosterDescription: "All bot area attacks radius increased by 20%. All bot attacks have 8% critical chance (critical hits deal double damage)"
-boosterImageUrl: "/assets/img/boosters/surgical-strike-legendary.png"
+boosterImageUrl: "/assets/img/boosters/surgical-strike.png"
 boosterStacks: ""
 boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
