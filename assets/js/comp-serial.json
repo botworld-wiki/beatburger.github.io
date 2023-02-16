@@ -25,7 +25,7 @@ layout: none
         "name": "{{ ability.abilityName | escape }}",
         "url": "{{ ability.path | replace:'.md', '' | remove: '_abilities' }}",
         "image": "/assets/img/abilities/{{ ability.url }}.png",
-        "description": "{{ ability.description | escape }}", 
+        "description": "{{ ability.description | escape | newline_to_br }}", 
         "rarity": "{{ ability.abilityRarity | escape }}"
       } {% unless forloop.last %},{% endunless %}
     {% endfor %}
@@ -36,7 +36,7 @@ layout: none
         "name": "{{ booster.boosterName | escape }}",
         "url": "{{ booster.path | replace:'.md', '' | remove: '_boosters' }}",
         "image": "/assets/img/boosters/{{ booster.url }}.png",
-        "description": "{{ booster.description | escape }}",
+        "description": "{{ booster.boosterDescription | escape | newline_to_br}}",
         "rarity": "{{ booster.boosterRarity | escape }}"
       } {% unless forloop.last %},{% endunless %}
     {% endfor %}
