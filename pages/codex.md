@@ -376,3 +376,9 @@ Using **Mines** and **Turrets** placed around to your advantage by timing them t
 
 *Credits: Snow ❆*
 </div>
+
+## Fishing Codex
+
+<div markdown="1" class=" ghcms ghcms-fishing">
+
+</div>
