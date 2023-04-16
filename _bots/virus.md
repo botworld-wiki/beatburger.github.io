@@ -98,5 +98,5 @@ Having higher amount of health than usual in exchange of damage output reduction
 - Use 4 [Ult Cooldown boosters](/ult-cooldowns-rare) and it will allow your Virus to have permanent hack even without [Hypercharge](/hypercharge)
 
 ### Story: Uberbot
-You get Virus from a unique Epic Jobs series (Uberbot)](/jobs#uberbot) that you have to send your [Recruits](/recruits) to.
+You get Virus from a unique Epic Jobs series [Uberbot](/jobs#uberbot) that you have to send your [Recruits](/recruits) to.
 
