@@ -22,7 +22,7 @@ breadcrumbs:
     </tr>
   </thead>
   <tbody>
-    <tr>Common</tr>
+    <tr><td>Common</td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Common' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
