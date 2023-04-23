@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Stone Cold Stunner"
 boosterDescription: "Reduces durations of stuns on all bots by 40%. All bot stun attacks duration increased by 24%"
-boosterImageUrl: "/assets/img/boosters/stone-cold-stunner-legendary.png"
+boosterImageUrl: "/assets/img/boosters/stone-cold-stunner.png"
 boosterStacks: ""
 boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
