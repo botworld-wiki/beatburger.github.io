@@ -7,7 +7,7 @@ updatedAt: "2022-09-06"
 title: "Stone Cold Stunner (Legendary)"
 name: "Stone Cold Stunner"
 description: "Reduces durations of stuns on all bots by 40%\n All bot stun attacks duration increased by 24%"
-imageUrl: "/assets/img/boosters/stone-cold-stunner-legendary.png"
+imageUrl: "/assets/img/boosters/stone-cold-stunner.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
