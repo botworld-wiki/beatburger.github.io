@@ -22,7 +22,7 @@ breadcrumbs:
     </tr>
   </thead>
   <tbody>
-    <tr><td>Common</td></tr>
+    <tr><td colspan="4"><b>Common Boosters</b></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Common' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -39,6 +39,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
+    <tr><td colspan="4"><b>Special Boosters</b></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Special' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -55,6 +56,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
+    <tr><td colspan="4"><b>Rare Boosters</b></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Rare' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -71,6 +73,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
+    <tr><td colspan="4"><b>Epic Boosters</b></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Epic' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -87,6 +90,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
+    <tr><td colspan="4"><b>Epic Boosters</b></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Legendary' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
