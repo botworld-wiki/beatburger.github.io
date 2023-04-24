@@ -13,17 +13,18 @@ breadcrumbs:
 # Botpack Boosters
 
 ## Index
-**Booster Rarity** 🔹**|** [Common](#common-boosters)**|**[Special](#special-boosters)**|**[Rare](#rare-boosters)**|**[Epic](#epic-boosters)**|**[Legendary](#legendary-boosters)**|**
+**Booster Rarity** 🔹**|** [Common](#common-boosters) **|** [Special](#special-boosters) **|** [Rare](#rare-boosters) **|** [Epic](#epic-boosters) **|** [Legendary](#legendary-boosters) **|**
 
 <table class="collection-list no-inline">
-  <thead>
+<!--  Commenting out thead since its not needed. If required again, just remove the comment tags before and after <thead></thead>  -->
+<!--   <thead>
     <tr>
       <th>Booster</th>
       <th>Name</th>
       <th>Description</th>
       <th>Overview</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr><td colspan="4" id="common-boosters"><b>Common Boosters</b></td></tr>
     {% for booster in site.boosters %}
