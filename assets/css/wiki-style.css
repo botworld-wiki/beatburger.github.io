@@ -190,6 +190,14 @@ nav{display:none}
       }
       table .overview{min-width:300px;}
 
+      /* Adding display: block to table rows and tbody and thead because table is set to block
+       * This is being added because the wiki tables in pc are being overflowed outside wrapper and need to be scrolled 
+       * If anything breaks remove "display: block" from thead, tbody and tr (or delete the next 3 lines after this comment)
+       */
+      thead, tbody, tr {
+	display: block;
+      }
+
       .rarity_Common {
 	border-radius: 5px;
         border: 5px solid #d3e1f3;
