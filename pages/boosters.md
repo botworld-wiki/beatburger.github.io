@@ -26,7 +26,7 @@ breadcrumbs:
     </tr>
   </thead> -->
   <tbody>
-    <tr><td colspan="4" id="common-boosters"><b>Common Boosters</b></td></tr>
+    <tr><td colspan="4" id="common-boosters"><h2>Common Boosters</h2></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Common' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -43,7 +43,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
-    <tr><td colspan="4" id="special-boosters"><b>Special Boosters</b></td></tr>
+    <tr><td colspan="4" id="special-boosters"><h2>Special Boosters</h2></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Special' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -60,7 +60,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
-    <tr><td colspan="4" id="rare-boosters"><b>Rare Boosters</b></td></tr>
+    <tr><td colspan="4" id="rare-boosters"><h2>Rare Boosters</h2></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Rare' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -77,7 +77,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
-    <tr><td colspan="4" id="epic-boosters"><b>Epic Boosters</b></td></tr>
+    <tr><td colspan="4" id="epic-boosters"><h2>Epic Boosters</h2></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Epic' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
@@ -94,7 +94,7 @@ breadcrumbs:
             </tr>
         {% endif %}
     {% endfor %}
-    <tr><td colspan="4" id="legendary-boosters"><b>Legendary Boosters</b></td></tr>
+    <tr><td colspan="4" id="legendary-boosters"><h2>Legendary Boosters</h2></td></tr>
     {% for booster in site.boosters %}
         {% if booster.boosterRarity == 'Legendary' %}
           <tr class="collection-list-entry rarity_{{booster.boosterRarity}}">
