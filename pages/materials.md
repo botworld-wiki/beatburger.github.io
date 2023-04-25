@@ -52,13 +52,13 @@ What you need to upgrade your bots.
     </tr>
   </thead> -->
   <tbody>
-    {% var currentRarity = "none" %}
+    {% assign currentRarity = "none" %}
     {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
         {% if material.matType == 'Bot' %}
           {% if currentRarity != material.matRarity %}
             <tr><td colspan="4" id="{{material.matRarity}}-materials"><h2>{{material.matRarity}} Materials</h2></td></tr>
-            {% currentRarity = material.matRarity %}
+            {% assign currentRarity = material.matRarity %}
           {% endif %}
           <tr class="collection-list-entry rarity_{{material.matRarity}}">
               <td class="table-pic">
