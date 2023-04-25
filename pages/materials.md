@@ -57,7 +57,11 @@ What you need to upgrade your bots.
     {% for material in mats_by_rarity %}
         {% if material.matType == 'Bot' %}
           {% if currentRarity != material.matRarity %}
-            <tr><td colspan="4" id="{{material.matRarity}}-materials"><h2>{{material.matRarity}} Materials</h2></td></tr>
+            {% if material.matRarity.size > 15 %} <!-- If rarity is longer than 15 characters, then display Botframe instead --> 
+              <tr><td colspan="4" id="botframe-materials"><h2>Botframes (Depend on Bot Rarity)</h2></td></tr>
+            {% else %}
+              <tr><td colspan="4" id="{{material.matRarity | downcase }}-materials"><h2>{{material.matRarity}} Materials</h2></td></tr>
+            {% endif %}
             {% assign currentRarity = material.matRarity %}
           {% endif %}
           <tr class="collection-list-entry rarity_{{material.matRarity}}">
