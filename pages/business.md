@@ -15,7 +15,7 @@ breadcrumbs:
 
 Business Upgrades will offer you lucrative or convenient perks that will all make your life easier.
 
-**Missing something to upgrade your Boat?**: [Boat Upgrades Walktrhough](/boat)
+**Missing something to upgrade your Boat?**: [Boat Upgrades Walkthrough](/boat)
 
 </div>
 
@@ -86,7 +86,7 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 - Shakedown
 - Scavenger Training
 
-Everything about grinding gold & [mats](/materials) in [the Farming Guide](/farming)
+Everything about grinding gold & [mats](/materials) in the [Farming Guide](/farming)
  
 ### Full Walkthrough by Young Fung
 
