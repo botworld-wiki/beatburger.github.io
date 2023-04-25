@@ -11,7 +11,7 @@ breadcrumbs:
 ---
 
 
-# Bots Materials
+# Bot Upgrade Materials
 
 
 
@@ -20,7 +20,7 @@ breadcrumbs:
 
 
 <ul class="page-toc toc-block-list links">
-  <li class="toc-block-entry" ><a href="#bots" title="Every Bots Material info">Bots Mats</a></li>
+  <li class="toc-block-entry" ><a href="#bots" title="Every Bots Material info">Bot Mats</a></li>
   <li class="toc-block-entry" ><a href="#crafting" title="Required Mats for every Bot ">Crafting Table</a></li>
   <li class="toc-block-entry" ><a href="#costs" title="Upgrade Costs by level">Upgrade Costs</a></li>
 </ul>
@@ -42,18 +42,24 @@ What you need to upgrade your bots.
 </div>
 
 <table class="collection-list no-inline">
-  <thead>
+<!--  Commenting out thead since its not needed. If required again, just remove the comment tags before and after <thead></thead>  -->
+  <!--   <thead>
     <tr>
       <th>Material</th>
       <th>Name</th>
       <th>Description</th>
       <th>Overview</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
+    {% let curentRarity = "none" %}
     {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
         {% if material.matType == 'Bot' %}
+          {% if currentRarity != material.matRarity %}
+            <tr><td colspan="4" id="{{material.matRarity}}-materials"><h2>{{material.matRarity}} Materials</h2></td></tr>
+            {% currentRarity = material.matRarity %}
+          {% endif %}
           <tr class="collection-list-entry rarity_{{material.matRarity}}">
               <td class="table-pic">
              <a href="{{ site.baseurl }}{{ material.url }}" title="Everything about the material {{ material.matName }}"> 
