@@ -102,7 +102,7 @@ breadcrumbs:
     {% endfor %}
     <tr><td colspan="5" id="legendary-abilities"><h2>Legendary Abilities</h2></td></tr>
 <!--  Remove below line when legendary abilities added and copy the for loop from above with appropriate changes    -->
-    <tr class="collection-list-entry rarity_legendary"><td colspan="5">No Legendary Abilities Yet!</td></tr>
+    <tr class="collection-list-entry rarity_Legendary"><td colspan="5">No Legendary Abilities Yet!</td></tr>
   </tbody>
 </table>
 
