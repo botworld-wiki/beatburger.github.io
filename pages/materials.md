@@ -52,7 +52,7 @@ What you need to upgrade your bots.
     </tr>
   </thead> -->
   <tbody>
-    {% let curentRarity = "none" %}
+    {% let currentRarity = "none" %}
     {% assign mats_by_rarity = site.materials | sort: "matRaritySortOrder" %}
     {% for material in mats_by_rarity %}
         {% if material.matType == 'Bot' %}
