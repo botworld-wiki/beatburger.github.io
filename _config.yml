@@ -15,6 +15,9 @@ collections:
   boat:
     output: true
     permalink: /:path
+  fishes:
+    output: true
+    permalink: /:path
     
 title: Botworld Wiki
 description: Robopedia, Guides & Tips collected by the Community
