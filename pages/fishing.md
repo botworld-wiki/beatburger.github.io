@@ -263,15 +263,15 @@ Key:<br>
     <tr class="collection-list-entry">
       {% for scFish in scrapperCoastFishes%}
         <td>Scrapper Coast</td>
-        {% if scFish.fishRarity == "common" %}
+        {% if scFish.fishRarity == "Common" %}
           <td>
-              <a href="{{ site.baseurl }}{{ scFish.url }}" title="Everything about the Booster {{ scFish.name }}"> {{ scFish.name }} </a>
+             {{ scFish.name }}
           </td>
         {% endif %}
         <td></td>
         <td></td>
         <td></td>
-      {% endFor %}
+      {% endfor %}
     </tr>
   </tbody>
 </table>
