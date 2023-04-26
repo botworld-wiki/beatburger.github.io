@@ -258,20 +258,20 @@ Key:<br>
   <tbody>
     {% assign fish = site.fishes %}
     
-    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" %}
+<!--     {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" %} -->
     
     <tr class="collection-list-entry">
-      {% for scFish in scrapperCoastFishes %}
+<!--       {% for scFish in scrapperCoastFishes %} -->
         <td>Scrapper Coast</td>
-        {% if scFish.fishRarity == "Common" %}
+<!--         {% if scFish.fishRarity == "Common" %} -->
           <td>
-             {{ scFish.name }}
+             {{ fish[0].name }}
           </td>
-        {% endif %}
-        <td></td>
-        <td></td>
-        <td></td>
-      {% endfor %}
+<!--         {% endif %} -->
+        <td>B</td>
+        <td>C</td>
+        <td>D</td>
+<!--       {% endfor %} -->
     </tr>
   </tbody>
 </table>
