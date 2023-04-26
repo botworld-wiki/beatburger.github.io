@@ -245,7 +245,7 @@ Key:<br>
  🟣 Blackwater Dragonfish \| 125 🪙
 </div>
 
-<table class="collection-list no-inline">
+<!-- <table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Location</th>
@@ -276,7 +276,7 @@ Key:<br>
       {% endfor %}
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <div markdown="1" class=" ghcms ghcms-version">
 \_\_
