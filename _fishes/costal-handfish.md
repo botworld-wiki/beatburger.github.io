@@ -6,7 +6,7 @@ updatedAt: "2023-04-26"
 
 title: "Coastal Handfish (Rare fish)"
 name: "Coastal Handfish"
-description: "Rare fish found in Scrapper Coast"
+description: "Rare fish that can be caught in Scrapper Coast"
 imageUrl: ""
 breadcrumbs:
   Botworld: "/#botworld"
