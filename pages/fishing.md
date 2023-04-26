@@ -258,22 +258,22 @@ Key:<br>
   <tbody>
     {% assign fish = site.fishes %}
     
-    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" %}
+    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" | sort: "fishRaritySortOrder" %}
     
     <tr class="collection-list-entry">
       {% for scFish in scrapperCoastFishes %}
         <td>Scrapper Coast</td>
         {% if scFish.fishRarity == "Common" %}
-          <td> {{ scFish.name }} </td>
+          <td> {{ scFish.name ({{ scFish.fishValue }}) }} </td>
         {% endif %}
         {% if scFish.fishRarity == "Special" %}
-          <td> {{ scFish.name }} </td>
+          <td> {{ scFish.name ({{ scFish.fishValue }}) }} </td>
         {% endif %}
         {% if scFish.fishRarity == "Rare" %}
-          <td> {{ scFish.name }} </td>
+          <td> {{ scFish.name ({{ scFish.fishValue }}) }} </td>
         {% endif %}
         {% if scFish.fishRarity == "Epic" %}
-          <td> {{ scFish.name }} </td>
+          <td> {{ scFish.name ({{ scFish.fishValue }}) }} </td>
         {% endif %}
       {% endfor %}
     </tr>
