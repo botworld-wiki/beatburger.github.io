@@ -258,7 +258,7 @@ Key:<br>
   <tbody>
     {% assign fish = site.fishes %}
     
-    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" }
+    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" %}
     
     <tr class="collection-list-entry">
       {% for scFish in scrapperCoastFishes%}
