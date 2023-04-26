@@ -6,7 +6,7 @@ updatedAt: "2023-04-26"
 
 title: "Coastal Clownfish (Special fish)"
 name: "Coastal Clownfish"
-description: "Special fish found in Scrapper Coast"
+description: "Special fish that can be caught in Scrapper Coast"
 imageUrl: ""
 breadcrumbs:
   Botworld: "/#botworld"
