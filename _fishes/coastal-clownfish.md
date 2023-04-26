@@ -13,7 +13,7 @@ breadcrumbs:
   Exploring: "/exploring"
 
 
-fishName: "Coastal Clownfisht"
+fishName: "Coastal Clownfish"
 fishDescription: "Special fish that can be caught in Scrapper Coast"
 fishImageUrl: ""
 fishLocation: "Scrapper Coast"
