@@ -6,7 +6,7 @@ updatedAt: "2023-04-26"
 
 title: "Coastal Trout (Common fish)"
 name: "Coastal Trout"
-description: "Common fish found in Scrapper Coast"
+description: "Common fish that can be caught in Scrapper Coast"
 imageUrl: ""
 breadcrumbs:
   Botworld: "/#botworld"
