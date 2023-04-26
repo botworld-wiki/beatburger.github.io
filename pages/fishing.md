@@ -261,7 +261,7 @@ Key:<br>
     {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" %}
     
     <tr class="collection-list-entry">
-      {% for scFish in scrapperCoastFishes%}
+      {% for scFish in scrapperCoastFishes %}
         <td>Scrapper Coast</td>
         {% if scFish.fishRarity == "Common" %}
           <td>
