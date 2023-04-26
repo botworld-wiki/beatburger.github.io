@@ -264,13 +264,17 @@ Key:<br>
       {% for scFish in scrapperCoastFishes %}
         <td>Scrapper Coast</td>
         {% if scFish.fishRarity == "Common" %}
-          <td>
-             {{ scFish.name }}
-          </td>
+          <td> {{ scFish.name }} </td>
         {% endif %}
-        <td>B</td>
-        <td>C</td>
-        <td>D</td>
+        {% if scFish.fishRarity == "Special" %}
+          <td> {{ scFish.name }} </td>
+        {% endif %}
+        {% if scFish.fishRarity == "Rare" %}
+          <td> {{ scFish.name }} </td>
+        {% endif %}
+        {% if scFish.fishRarity == "Epic" %}
+          <td> {{ scFish.name }} </td>
+        {% endif %}
       {% endfor %}
     </tr>
   </tbody>
