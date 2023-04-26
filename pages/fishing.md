@@ -248,7 +248,7 @@ Key:<br>
 <table class="collection-list no-inline">
   <thead>
     <tr>
-      <thLocation</th>
+      <th>Location</th>
       <th>Common Fish</th>
       <th>Special Fish</th>
       <th>Rare Fish</th>
