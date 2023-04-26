@@ -245,6 +245,37 @@ Key:<br>
  🟣 Blackwater Dragonfish \| 125 🪙
 </div>
 
+<table class="collection-list no-inline">
+  <thead>
+    <tr>
+      <thLocation</th>
+      <th>Common Fish</th>
+      <th>Special Fish</th>
+      <th>Rare Fish</th>
+      <th>Epic Fish</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign fish = site.fishes %}
+    
+    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" }
+    
+    <tr class="collection-list-entry">
+      {% for scFish in scrapperCoastFishes%}
+        <td>Scrapper Coast</td>
+        {% if scFish.fishRarity == "common" %}
+          <td>
+              <a href="{{ site.baseurl }}{{ scFish.url }}" title="Everything about the Booster {{ scFish.name }}"> {{ scFish.name }} </a>
+          </td>
+        {% endif %}
+        <td></td>
+        <td></td>
+        <td></td>
+      {% endFor %}
+    </tr>
+  </tbody>
+</table>
+
 <div markdown="1" class=" ghcms ghcms-version">
 \_\_
 
