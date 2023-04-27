@@ -1,0 +1,21 @@
+---
+layout: breadcrumbs
+---
+
+<h1 id="{{ page.path }}">{{ page.fishName }}</h1>
+
+<p><img loading="lazy"  src="{{ page.fishImageUrl }}" alt="Image of the {{ page.fishName }} fish" /></p>
+
+<ul>
+  <li><strong>Rarity</strong>: {{ page.fishRarity }} </li>
+  <li><strong>Found in</strong>: {{ page.fishLocation }} </li>
+  <li><strong>Value</strong>: {{ page.fishValue }} 🪙</li>
+  <li><strong>Description</strong>: {{ page.fishDescription }} </li>
+</ul>
+
+{{content}}
+
+	<div id="contribs" style="flex: 1 0 100%; margin:20px auto">
+		<span>Last updated at: {{page.updatedAt}}</span>
+		<p>Contributors: {{page.contributors}}</p>
+	</div>
