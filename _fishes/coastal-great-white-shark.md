@@ -7,7 +7,7 @@ updatedAt: "2023-04-26"
 title: "Coastal Great White Shark (Epic fish)"
 name: "Coastal Great White Shark"
 description: "Epic fish that can be caught in Scrapper Coast"
-imageUrl: ""
+imageUrl: "/assets/img/fishes/coastal-great-white-shark.png"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 fishName: "Coastal Great White Shark"
 fishDescription: "Epic fish that can be caught in Scrapper Coast"
-fishImageUrl: ""
+fishImageUrl: "/assets/img/fishes/coastal-great-white-shark.png"
 fishLocation: "Scrapper Coast"
 fishValue: "27"
 fishRarity: "Epic"
