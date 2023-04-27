@@ -13,7 +13,7 @@ breadcrumbs:
   Exploring: "/exploring"
 
 
-fishName: "Saltwater Carp"
+fishName: "Cape Whitefish"
 fishDescription: "Common fish that can be caught in Parched Sea"
 fishImageUrl: "/assets/img/fishes/cape-whitefish.png"
 fishLocation: "Parched Sea"
