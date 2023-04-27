@@ -245,6 +245,7 @@ Key:<br>
  🟣 Blackwater Dragonfish \| 125 🪙
 </div>
 
+## Fish Price Comparison Table
 <table class="collection-list no-inline">
   <thead>
     <tr>
