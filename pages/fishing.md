@@ -245,7 +245,7 @@ Key:<br>
  🟣 Blackwater Dragonfish \| 125 🪙
 </div>
 
-<!-- <table class="collection-list no-inline">
+<table class="collection-list no-inline">
   <thead>
     <tr>
       <th>Location</th>
@@ -257,26 +257,28 @@ Key:<br>
   </thead>
   <tbody>
     {% assign fish = site.fishes %}
-    {% assign scrapperCoastFishes = fish | where: "fishLocation", "Scrapper Coast" | sort: "fishRaritySortOrder" %}
-    <tr class="collection-list-entry">
-      <td>Scrapper Coast</td>
-      {% for scFish in scrapperCoastFishes %}
-        {% if scFish.fishRarity == "Common" %}
-          <td> {{ scFish.name }} ({{ scFish.fishValue }}) </td>
-        {% endif %}
-        {% if scFish.fishRarity == "Special" %}
-          <td> {{ scFish.name }} ({{ scFish.fishValue }}) </td>
-        {% endif %}
-        {% if scFish.fishRarity == "Rare" %}
-          <td> {{ scFish.name }} ({{ scFish.fishValue }}) </td>
-        {% endif %}
-        {% if scFish.fishRarity == "Epic" %}
-          <td> {{ scFish.name }} ({{ scFish.fishValue }}) </td>
-        {% endif %}
-      {% endfor %}
-    </tr>
+    {% assign locations = "Scrapper Coast", "Great Desert", "Fall Grove", "Saltwater Swamp", "Parched Sea", "Spore Wood", "Ashen Shore", "Frozen Wastes", "Molten Rock", "Vivid Valley", "Scrapyard" | split: ", " %}
+    {% for location in locations %}
+      {% assign locationFishes = fish | where: "fishLocation", location | sort: "fishRaritySortOrder" %}
+      <tr class="collection-list-entry">
+        <td>{{ location }}</td>
+        {% for locationFish in locationFishes %}
+          {% if locationFish.fishRarity == "Common" %}
+            <td> {{ locationFish.name }} ({{ locationFish.fishValue }}) </td>
+          {% endif %}
+          {% if locationFish.fishRarity == "Special" %}
+            <td> {{ locationFish.name }} ({{ locationFish.fishValue }}) </td>
+          {% endif %}
+          {% if locationFish.fishRarity == "Rare" %}
+            <td> {{ locationFish.name }} ({{ locationFish.fishValue }}) </td>
+          {% endif %}
+          {% if locationFish.fishRarity == "Epic" %}
+            <td> {{ locationFish.name }} ({{ locationFish.fishValue }}) </td>
+          {% endif %}
+        {% endfor %}
+      </tr>
   </tbody>
-</table> -->
+</table>
 
 <div markdown="1" class=" ghcms ghcms-version">
 \_\_
