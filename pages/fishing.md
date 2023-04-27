@@ -277,6 +277,7 @@ Key:<br>
           {% endif %}
         {% endfor %}
       </tr>
+    {% endfor %}
   </tbody>
 </table>
 
