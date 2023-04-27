@@ -265,13 +265,25 @@ Key:<br>
         <td>{{ location }}</td>
         {% for locationFish in locationFishes %}
           {% if locationFish.fishRarity == "Common" %}
-            <td class="rarity_{{locationFish.fishRarity}}"> {{ locationFish.name }} ({{ locationFish.fishValue }} 🪙) </td>
+            <td class="rarity_{{locationFish.fishRarity}}">
+              <a href="{{site.baseurl}}{{locationFish.url}}"{{ locationFish.name }} </a> <br>
+              ({{ locationFish.fishValue }} 🪙)
+            </td>
           {% elsif locationFish.fishRarity == "Special" %}
-            <td class="rarity_{{locationFish.fishRarity}}"> {{ locationFish.name }} ({{ locationFish.fishValue }} 🪙) </td>
+            <td class="rarity_{{locationFish.fishRarity}}">
+              <a href="{{site.baseurl}}{{locationFish.url}}"{{ locationFish.name }} </a> <br>
+              ({{ locationFish.fishValue }} 🪙)
+            </td>
           {% elsif locationFish.fishRarity == "Rare" %}
-            <td class="rarity_{{locationFish.fishRarity}}"> {{ locationFish.name }} ({{ locationFish.fishValue }} 🪙) </td>
+            <td class="rarity_{{locationFish.fishRarity}}">
+              <a href="{{site.baseurl}}{{locationFish.url}}"{{ locationFish.name }} </a> <br>
+              ({{ locationFish.fishValue }} 🪙)
+            </td>
           {% elsif locationFish.fishRarity == "Epic" %}
-            <td class="rarity_{{locationFish.fishRarity}}"> {{ locationFish.name }} ({{ locationFish.fishValue }} 🪙) </td>
+            <td class="rarity_{{locationFish.fishRarity}}">
+              <a href="{{site.baseurl}}{{locationFish.url}}"{{ locationFish.name }} </a> <br>
+              ({{ locationFish.fishValue }} 🪙)
+            </td>
           {% endif %}
         {% endfor %}
       </tr>
