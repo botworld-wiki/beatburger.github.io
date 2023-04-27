@@ -7,7 +7,7 @@ updatedAt: "2023-04-26"
 title: "Coastal Handfish (Rare fish)"
 name: "Coastal Handfish"
 description: "Rare fish that can be caught in Scrapper Coast"
-imageUrl: ""
+imageUrl: "/assets/img/fishes/coastal-handfish.png"
 breadcrumbs:
   Botworld: "/#botworld"
   Exploring: "/exploring"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 fishName: "Coastal Handfish"
 fishDescription: "Rare fish that can be caught in Scrapper Coast"
-fishImageUrl: ""
+fishImageUrl: "/assets/img/fishes/coastal-handfish.png"
 fishLocation: "Scrapper Coast"
 fishValue: "17"
 fishRarity: "Rare"
