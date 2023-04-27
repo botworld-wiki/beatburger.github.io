@@ -257,7 +257,7 @@ Key:<br>
   </thead>
   <tbody>
     {% assign fish = site.fishes %}
-    {% assign locations = "Scrapper Coast", "Great Desert", "Fall Grove", "Saltwater Swamp", "Parched Sea", "Spore Wood", "Ashen Shore", "Frozen Wastes", "Molten Rock", "Vivid Valley", "Scrapyard" | split: ", " %}
+    {% assign locations = "Scrapper Coast, Great Desert, Fall Grove, Saltwater Swamp, Parched Sea, Spore Wood, Ashen Shore, Frozen Wastes, Molten Rock, Vivid Valley, Scrapyard" | split: ", " %}
     {% for location in locations %}
       {% assign locationFishes = fish | where: "fishLocation", location | sort: "fishRaritySortOrder" %}
       <tr class="collection-list-entry">
