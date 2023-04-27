@@ -245,7 +245,7 @@ Key:<br>
  🟣 Blackwater Dragonfish \| 125 🪙
 </div>
 
-## Fish Price Comparison Table
+## Fish Price Comparison
 <table class="collection-list no-inline">
   <thead>
     <tr>
@@ -262,7 +262,8 @@ Key:<br>
     {% for location in locations %}
       {% assign locationFishes = fish | where: "fishLocation", location | sort: "fishRaritySortOrder" %}
       <tr class="collection-list-entry">
-        <td>{{ location }}</td>
+        {% assign locationLink = location | downcase | replace: ' ', '-' %}
+        <td><a href="/{{ locationLink }}">{{ location }}</a></td>
         {% for locationFish in locationFishes %}
           {% if locationFish.fishRarity == "Common" %}
             <td class="rarity_{{locationFish.fishRarity}}">
