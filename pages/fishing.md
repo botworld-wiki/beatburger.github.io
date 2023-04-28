@@ -264,11 +264,11 @@ Key:<br>
       <tr class="collection-list-entry">
         {% assign locationLink = location | downcase | replace: ' ', '-' %}
         {% if location == "Frozen Wastes" or location == "Molten Rock" or location == "Vivid Valley" or location == "Scrapyard" %}
-          {% assign locationLink = "/danger-zones#" | append: locationLink %}
+          {% assign locationLink = "danger-zones#" | append: locationLink %}
         {% else %}
-          {% assign locationLink = "/maps#" | append: locationLink %}
+          {% assign locationLink = "maps#" | append: locationLink %}
         {% endif %}
-        <td><a href="/{{ locationLink }}">{{ location }}</a></td>
+        <td><a href="{{site.baseurl}}/{{ locationLink }}">{{ location }}</a></td>
         {% for locationFish in locationFishes %}
           {% if locationFish.fishRarity == "Common" %}
             <td class="rarity_{{locationFish.fishRarity}}">
