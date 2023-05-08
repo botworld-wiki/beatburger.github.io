@@ -4,6 +4,7 @@ layout: breadcrumbs
 permalink: /raid
 title: "Raid Guide"
 description: "This page will give you all the information you need to dive into the raids experience"
+breadcrumbs:
   Botworld: "/#botworld"
 
 ---
