@@ -6,7 +6,7 @@ updatedAt: "2023-06-25"
 
 title: "Overclocked (Legendary)"
 name: "Overclocked"
-description: "All bots health increased by 8%. Reduces energy damage taken by all bots by 15%"
+description: "All botpack ability damage increased by 24%. All botpack area abilities radius increased by 24%"
 imageUrl: "/assets/img/boosters/overclocked.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -14,12 +14,12 @@ breadcrumbs:
 
 
 boosterName: "Overclocked"
-boosterDescription: "All bots health increased by 8%. Reduces energy damage taken by all bots by 15%"
+boosterDescription: "All botpack ability damage increased by 24%. All botpack area abilities radius increased by 24%"
 boosterImageUrl: "/assets/img/boosters/overclocked.png"
 boosterStacks: ""
 boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
-boosterAcquisition: "Fusing (7 epics)"
+boosterAcquisition: "Fusing (7 epic boosters required)"
 boosterOpinion: ""
 searchKeywords: ""
 ---
