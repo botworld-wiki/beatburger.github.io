@@ -60,8 +60,8 @@ async function fetchEdits(){
     for (let e in edits[pageLocation]){
       let $target = $('.' + e);
       let newContent = decodeURI(atob(edits[pageLocation][e].b64));
-      $target.html(filterXSS(newContent, XSSoptions)); /* removed XSS protection because it stripped headings html ids */  
-      // $target.html(newContent);
+      // $target.html(filterXSS(newContent, XSSoptions)); /* removed XSS protection because it stripped headings html ids */  
+      $target.html(newContent);
     }
   }
   editorModeOn()? 0: $(document).ready(fetchInlines);
