@@ -52,8 +52,8 @@ var mdConverter = new showdown.Converter({
 	simpleLineBreaks: true,
 	tables: true,
 	underline: true,
-	noHeaderId = false,
-	ghCompatibleHeaderId = true
+	noHeaderId: false,
+	ghCompatibleHeaderId: true
 });
 
 $(document).ready(()=>{
