@@ -43,7 +43,7 @@ const pageLocation = document.location.pathname + document.location.search;
 var edits, editsSha, editsAsCommited;
 
 // https://github.com/octokit/octokit.js/#usage
-import { Octokit } from "https://esm.sh/octokit";
+import { Octokit } from "https://esm.sh/@octokit/core";
 const octokit = new Octokit({ auth: ghCMSCredentials.token });
 
 // todo: restrict hns to h3s
