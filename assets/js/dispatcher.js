@@ -48,7 +48,7 @@ async function fetchEdits(){
   if (document.domain === "localhost"){
     jsonUrl = '/assets/js/edits.json'
   } else {
-    jsonUrl = '/assets/js/edits.json?cachebreak='+Math.random()
+    jsonUrl = '/assets/js/edits.json?cachebreak='//+Math.random()
   }
 
   const pageLocation = document.location.pathname + document.location.search;
@@ -152,4 +152,4 @@ $(document).ready(function(){$.getScript('/assets/js/webp-modernizr.js')});
 
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
 if (typeof afterDispatch !== 'undefined') { afterDispatch() }
-editorModeOn()? $.getModule('/assets/js/ghcms.js?0') : 0;
+editorModeOn()? $.getModule('/assets/js/ghcms.js?1') : 0;
