@@ -45,8 +45,8 @@ breadcrumbs:
 
 </div>
 
-<div markdown="1" class=" ghcms ghcms-island">
 ## Tutorial Island
+<div markdown="1" class=" ghcms ghcms-island">
 
 - **Requirements:** download the game
 - **Mobs lvl:** 1 lvl, but all bots deal 50% less damage
