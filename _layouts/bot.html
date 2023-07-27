@@ -389,7 +389,7 @@ function calc(){
     shopCounterRaw += scrapCounterR * goldCostRare;
     shopCounterRaw += scrapCounterE * goldCostEpic;
     $outputShopCostRaw.innerText = shopCounterRaw;
-    $outputShopCostDiscounted.innerText = Math.Round(shopCounterRaw * discountMultiplier);
+    $outputShopCostDiscounted.innerText = shopCounterRaw * discountMultiplier;
 }
 
 $currentLevel.addEventListener('input', calc);
