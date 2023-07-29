@@ -150,6 +150,12 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
             <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
             <div class="menu-first-row">
                 <div class="menu-links">
+                    <!-- Feedback overlay trigger -->
+                    {%- if site.data.featureData.feedback.enabled -%}
+                    {%- if site.data.featureData.feedback.feedbackTriggers.inNavSearchLine -%}
+                    <span id="feedbackTrigger">Send Feedback</span>
+                    {%- endif -%}
+                    {%- endif -%}
                     <!-- search -->
                     <span class="menu-search"><input type="text" id="search-input" placeholder="🔍 Bots, abilities..."></span>
                 </div>
@@ -360,11 +366,19 @@ body{background: url('https://www.botworld.wiki/assets/img/bg/background.png') n
 <footer style="padding:10px"><a href="/">Home</a> - <a href="/privacy" rel="nofollow">Privacy Policy</a></footer>
       
 <div id="meet-bb" class="wtf">
-      <input style="display: none;" type="checkbox" id="bb-checkbox">
-      <h3>Meet us <a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">on Discord</a> !</h3>
-      <label for="bb-checkbox" title="Meet Beat Burger">
-        <img loading="lazy"   src="/assets/img/icons/beatburger-mini.png" alt="Beat Burger logo by Lollitree">
-      </label>
+    <input style="display: none;" type="checkbox" id="bb-checkbox">
+    <h3>
+        Meet us <a href="https://discord.gg/FsJzvtFrgq" title="Go to discord">on Discord</a> !
+        <!-- Feedback overlay trigger -->
+        {%- if site.data.featureData.feedback.enabled -%}
+        {%- if site.data.featureData.feedback.feedbackTriggers.inMeetBB -%}
+        <br /><span id="feedbackTrigger">Send Feedback</span>
+        {%- endif -%}
+        {%- endif -%}
+    </h3>
+    <label for="bb-checkbox" title="Meet Beat Burger">
+        <img loading="lazy" src="/assets/img/icons/beatburger-mini.png" alt="Beat Burger logo by Lollitree">
+    </label>
 </div>
 
 
@@ -402,6 +416,7 @@ function changeMenu() {
 
 <script defer="defer" async="async" async src="/assets/js/dispatcher.js?v=0.7"></script>
 
+{%- include feedback-overlay.liquid -%}
 
   </body>
 </html>

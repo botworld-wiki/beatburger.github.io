@@ -1,0 +1,136 @@
+<!-- feedback-overlay.liquid -->
+{%- if site.data.featureData.feedback.enabled -%}
+    <!-- Feedback Form Overlay -->
+    <!-- Styles inlined for dynamic embedding -->
+    <div class="feedback-overlay" id="feedbackOverlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 9999;">
+        <div class="feedback-form" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: #333; color: #fff; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); width: 75%;">
+            <h2 style="margin-top: 0;">Wiki Feedback</h2>
+            <form id="feedbackForm">
+                <label for="nickname" style="display: block; margin-bottom: 10px; color: #fff;">Nickname:</label>
+                <input type="text" id="nickname" required style="display: block; margin-bottom: 10px; color: #000;">
+                <label for="description" style="display: block; margin-bottom: 10px; color: #fff;">Description:</label>
+                <textarea id="description" rows="6" required style="display: block; margin-bottom: 10px; color: #000; width: 80%;"></textarea>
+                {%- if site.data.featureData.feedback.allowImage -%}
+                <label for="imageInput" style="display: block; margin-bottom: 10px; color: #fff;">Add image (max 1):</label>
+                <input type="file" id="imageInput" accept="image/png, image/jpg, image/jpeg, image/webp" style="display: block; margin-bottom: 10px; color: #000;">
+                {%- endif -%}
+                <button type="submit" style="margin-top: 20px; background-color: #555; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; display: inline-block; margin-right: 10px;">Submit</button>
+                <button type="button" id="closeButton" style="margin-top: 20px; background-color: #555; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; display: inline-block; margin-right: 10px;">Hide</button>
+                <button type="button" id="resetButton" style="margin-top: 20px; background-color: #555; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; display: inline-block; margin-right: 10px;">Clear</button>
+            </form>
+        </div>
+    </div>
+    <!-- /Feedback Form Overlay -->
+
+    <!-- Feedback Form handling -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const feedbackTriggers = document.querySelectorAll("#feedbackTrigger");
+            const feedbackOverlay = document.getElementById("feedbackOverlay");
+            const feedbackForm = document.getElementById("feedbackForm");
+            const closeButton = document.getElementById("closeButton");
+            const resetButton = document.getElementById("resetButton");
+
+            function showFeedbackForm() {
+                feedbackOverlay.style.display = "block";
+            }
+
+            function hideFeedbackForm() {
+                feedbackOverlay.style.display = "none";
+            }
+
+            function resetFeedbackForm() {
+                feedbackForm.reset();
+            }
+
+            feedbackTriggers.forEach((trigger) => {
+                trigger.addEventListener("click", showFeedbackForm);
+            });
+            closeButton.addEventListener("click", hideFeedbackForm);
+            resetButton.addEventListener("click", resetFeedbackForm);
+
+            feedbackForm.addEventListener("submit", async function (event) {
+                event.preventDefault();
+
+                const nickname = document.getElementById("nickname").value;
+                const description = document.getElementById("description").value;
+                let file = null;
+                let fileExtension = null;
+
+                {% if site.data.featureData.feedback.allowImage %}
+                const fileInput = document.getElementById('imageInput');
+
+                if (fileInput.files.length > 1) {
+                    alert('Only one image is allowed.');
+                    return;
+                }
+
+                if (fileInput.files.length == 1) {
+                    file = fileInput.files[0];
+                    fileExtension = file.name.split('.').pop().toLowerCase();
+                }
+                {% endif %}
+
+                try {
+                    sendFeedbackToDiscord(location, nickname, description, file, fileExtension);
+                } catch (error) {
+                    alert('Something went wrong... If it keeps happening, contact us on Discord.');
+                    console.error("Error occurred while sending feedback:", error)
+                }
+
+                // Close the feedback form after submitting
+                hideFeedbackForm();
+                resetFeedbackForm();
+            });
+
+        });
+
+        function sendFeedbackToDiscord(fullUrl, nickname, description, imageFile, fileExtension) {
+            // exposing the webhook in front-facing js is inevitable
+            const webhookUrl = "{{ site.data.featureData.feedback.webhookUrl }}";
+
+            const payload = {
+                username: "Wiki Feedbeat",
+                content: `${fullUrl}`,
+                embeds: [
+                    {
+                        "title": `Feedback by: ${nickname}`,
+                        "description": `${description}`
+                    }
+                ]
+            };
+
+            const formData = new FormData();
+
+            {% if site.data.featureData.feedback.allowImage %}
+            if (imageFile !== null) {
+                payload.embeds[0].image = {
+                    url: 'attachment://image.' + fileExtension
+                };
+                formData.append('image', imageFile, 'image.' + fileExtension);
+            }
+            {% endif %}
+
+            const payloadJson = JSON.stringify(payload);
+            formData.append('payload_json', JSON.stringify(payload));
+
+            fetch(webhookUrl, {
+                method: 'POST',
+                body: formData,
+            })
+                .then(response => {
+                    if (response.ok) {
+                        alert('Thank you for your feedback!');
+                    } else {
+                        alert('Something went wrong... If it keeps happening, contact us on Discord.');
+                        console.error("Error occurred while sending feedback:", response)
+                    }
+                })
+                .catch(error => {
+                    alert('Something went wrong... If it keeps happening, contact us on Discord.');
+                    console.error("Error occurred while sending feedback:", error)
+                });
+        }
+    </script>
+<!-- /Feedback Form handling -->
+{%- endif -%}

@@ -1,0 +1,11 @@
+{
+  "feedback": {
+    "enabled": true,
+    "allowImage": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1134943888952537200/SdTEmi1nTTukA9RfnGoWcopyAPBA-8wJWv1uGE-td4MpDfjTH2s0YIAQ8kdOElu1n69y",
+    "feedbackTriggers": {
+      "inMeetBB": true,
+      "inNavSearchLine": true
+    }
+  }
+}
