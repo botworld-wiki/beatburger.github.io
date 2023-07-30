@@ -687,6 +687,13 @@ fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
   .then(response => response.json())
   .then(json => init(json));
 
+// idk just hacking it together so links load new comps
+const reload = ()=>{
+    window.scrollTo(0, 500);
+    document.location.reload();
+}
+// applies to all links in library + the blank reset one
+document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', reload))
 
 /* end - Main init */
 
