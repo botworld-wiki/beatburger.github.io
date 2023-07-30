@@ -12,6 +12,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 
 - Tap or click a Bot, AI pick, Ability or Booster to change it
 - You can name your comp so it's easy to recognize when shared
+- [Empty comp loadout](#---blank) (to start from scratch)
 - Some samples are [listed below](#library)
 - The url of this page updates with your changes, copy/paste to share or save:
 
@@ -22,12 +23,12 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
         <h2 id="title">Tap to enter a comp title</h2>
         <div id="bots">
             <ul>
-                <li class="bot bot0"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>   
-                <li class="bot bot1"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
-                <li class="bot bot2"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
-                <li class="bot bot3"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
-                <li class="bot bot4"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
-                <li class="bot bot5"><img><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
+                <li class="bot bot0"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>   
+                <li class="bot bot1"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
+                <li class="bot bot2"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
+                <li class="bot bot3"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
+                <li class="bot bot4"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
+                <li class="bot bot5"><img src="/assets/img/materials/essence.png"><ul><li></li><li></li><li></li><li></li><li></li></ul></li>
             </ul>
             <div class="select select-bot" style="display:none;">
                 <form class="filters">
@@ -107,7 +108,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
         <h3>Bots</h3>
         <ul>
             <li class="bot bot0">
-                <img position="test"/>
+                <img/>
                 <div><a></a><ul><li></li><li></li><li></li><li></li><li></li></ul></div>
             </li>
             <li class="bot bot1">
@@ -285,6 +286,13 @@ function resetDisplay(){
         // selection filters buttons
         document.querySelectorAll('#preview #boosters .select form [name=boostersFilter]').forEach($e=>$e.addEventListener('click',()=>filterBoostersOptions(position)));
     }));
+}
+
+// no-thumbnail trick for images missing src
+function displayAltTextOnly(elem){
+  var alt = document.createTextNode( elem.getAttribute('alt') ); 
+  elem.parentNode.insertBefore( alt, elem );
+  elem.parentNode.removeChild( elem );
 }
 
 function toggleBotsSelect(position){
