@@ -229,7 +229,9 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
         border-radius: 5px;
         padding: 3px;
         margin: 3px;
-        
+    }
+    form.filters label{
+        display: inline-block;
     }
     #preview .select .options img{
         width:20px;
