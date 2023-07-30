@@ -179,7 +179,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
     <li>Sky Pony Boom: <a href="#Com0-SCT-da0da0SZ0PwS-sky-pony-boom">Com0-SCT-da0da0SZ0PwS-sky-pony-boom</a></li>
     <li>Kart's Special: <a href="#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special">Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special</a></li>
     <li>Pix Pauper: <a href="#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper">#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper</a></li>
-    <li>Pix's CC Shell: <a href="#Cha0Lob0-GusIcW-SZ0UCDPwScPG-Pix-CC-shell">Cha0Lob0-GusIcW-SZ0UCDPwScPG-Pix-CC-shell</a></li>
+    <li>Pix's CC Shell: <a href="#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell">Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell</a></li>
 </ul>
 
 
@@ -665,18 +665,19 @@ function init(json){
         list: Object.keys(bot2key).concat(Object.keys(ability2key), Object.keys(booster2key))
     }
 
-    if ((anchor = document.location.hash) && (anchor !== '#library')){
+    importComp();
+
+}
+
+function importComp(anchor){
+    if ((anchor) || ( (anchor = document.location.hash) && (anchor !== '#library') ) ){
         // If yes, get the app state out of it
         comp = unserialize(anchor.slice(1));
     }
-
-    $url.value = document.location;
+    
+    $url.value = 'https://botworld.wiki/comp' + (anchor? anchor : '');
     $output.value = JSON.stringify(comp, null, 2);
     displayComp();
-
-
-    //$output.addEventListener('keyup', );
-
 }
 
 function exportComp(){
@@ -689,13 +690,8 @@ fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
   .then(response => response.json())
   .then(json => init(json));
 
-// idk just hacking it together so links load new comps
-const reload = ()=>{
-    window.scrollTo(0, 500);
-    document.location.reload();
-}
 // applies to all links in library + the blank reset one
-document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', reload))
+document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', (ev)=>{importComp(ev.target.hash); window.scrollTo(0, 500);}))
 
 /* end - Main init */
 
