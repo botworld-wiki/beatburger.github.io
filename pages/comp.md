@@ -263,6 +263,11 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 const emptyDisplay = document.querySelector('#display').innerHTML;
 function resetDisplay(){
     document.querySelector('#display').innerHTML = emptyDisplay;
+    // title change
+    document.querySelector('#title').addEventListener('click', ()=>{
+        editTitle();
+    }) 
+
     // bots select
     document.querySelectorAll('#preview #bots li.bot img').forEach(($e,position)=>$e.addEventListener('click',()=>{
         toggleBotsSelect(position);
@@ -290,11 +295,12 @@ function resetDisplay(){
     }));
 }
 
-// no-thumbnail trick for images missing src
-function displayAltTextOnly(elem){
-  var alt = document.createTextNode( elem.getAttribute('alt') ); 
-  elem.parentNode.insertBefore( alt, elem );
-  elem.parentNode.removeChild( elem );
+function editTitle(){
+        var response = prompt("Enter a new comp title", comp.title);
+        response = (response === null)? comp.title : response;
+        comp.title = response;
+        displayComp();
+        exportComp();
 }
 
 function toggleBotsSelect(position){
@@ -674,7 +680,7 @@ function importComp(anchor){
         // If yes, get the app state out of it
         comp = unserialize(anchor.slice(1));
     }
-    
+
     $url.value = 'https://botworld.wiki/comp' + (anchor? anchor : '');
     $output.value = JSON.stringify(comp, null, 2);
     displayComp();
