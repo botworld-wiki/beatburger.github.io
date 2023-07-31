@@ -67,6 +67,9 @@ async function fetchEdits(){
   editorModeOn()? 0: $(document).ready(fetchInlines);
   editorModeOn()? 0: $(document).ready(videoEmbeds);
 
+  // really shouldn't be nested in here halfway through the actual execution chain, but... *todo* 
+  if (typeof afterDispatch !== 'undefined') { afterDispatch() }
+
 }
 
 $(document).ready(fetchEdits);
@@ -151,5 +154,4 @@ $(document).ready(loadGA);
 $(document).ready(function(){$.getScript('/assets/js/webp-modernizr.js')});
 
 function editorModeOn(){ return (localStorage['ghCMSEditor-' + document.domain])==="enabled" }
-if (typeof afterDispatch !== 'undefined') { afterDispatch() }
 editorModeOn()? $.getModule('/assets/js/ghcms.js?1') : 0;
