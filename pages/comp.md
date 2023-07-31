@@ -173,15 +173,18 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 </div>
 
 <h2>Library of full or partial comps to start from</h2>
-<ul id="library">
-    <li>Arena Chainer Meta: <a href="#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta">ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta</a></li>
-    <li>Bigshot Fever: <a href="#Big0-00a-da0da0-Bigshot-fever">Big0-00a-da0da0-Bigshot-fever</a></li>
-    <li>Sky Pony Boom: <a href="#Com0-SCT-da0da0SZ0PwS-sky-pony-boom">Com0-SCT-da0da0SZ0PwS-sky-pony-boom</a></li>
-    <li>Kart's Special: <a href="#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special">Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special</a></li>
-    <li>Pix Pauper: <a href="#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper">#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper</a></li>
-    <li>Pix's CC Shell: <a href="#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell">Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell</a></li>
-    <li>Ultimate Stunlock by daryxdragon: <a href="#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon">#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon</a></li>
-</ul>
+<div id="library" markdown="1" class="ghcms ghcms-library">
+
+- Arena Chainer Meta: [#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta](#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta)
+- Bigshot Fever: [#Big0-00a-da0da0-Bigshot-fever](#Big0-00a-da0da0-Bigshot-fever)
+- Sky Pony Boom: [#Com0-SCT-da0da0SZ0PwS-sky-pony-boom](#Com0-SCT-da0da0SZ0PwS-sky-pony-boom)
+- Kart's Special: [#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special](#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special)
+- Pix Pauper: [#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper](#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper)
+- Pix's CC Shell
+Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell
+- Ultimate Stunlock by daryxdragon: [#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon](#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon) 
+
+</div>
 
 
 <style type="text/css">
@@ -699,7 +702,11 @@ fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
 
 // make links load the new comp properly
 // applies to all links in library + the blank reset one
-document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', (ev)=>{importComp(ev.target.hash); window.scrollTo(0, 500);}))
+function bindCompLinks(){
+    document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', (ev)=>{importComp(ev.target.hash); window.scrollTo(0, 500);}));
+}
+bindCompLinks();
+const afterDispatch = bindCompLinks;
 
 /* end - Main init */
 
