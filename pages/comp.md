@@ -608,7 +608,7 @@ function aiDecode(str){
 const OVERRIDES = {
     // SUGAR
     // bots
-    "barrie":"Bar", "beat":"Bea", "berserker":"Ber", "bigshot":"Big", "bombee":"Bom", "brute":"Bru", "bullseye":"BuE", "bullwark":"BuW", "chainer":"Cha", "chomp":"Cho", "comet":"Com", "dune-bug":"Dun", "flamer":"Fla", "fork":"For", "froggy":"Frg", "frosty":"Frs", "gusto":"Gus", "gyro":"Gyr", "halo":"Hal", "hornet":"Hor", "icicool":"Ici", "inkjet":"Ink", "ko":"KOx", "link":"Lin", "lobbie":"Lob", "longshot":"Lon", "mort":"Mor", "nibbles":"Nib", "nozzle":"Noz", "phantom":"Pha", "pluggie":"Plu", "pupil":"Pup", "ram":"Ram", "rocketeer":"Roc", "scatter":"Sca", "sheller":"She", "shuffle":"Shu", "slash":"Sla", "slicer":"Sli", "tether":"Tet", "thump":"Thu", "virus":"Vir", "yanky":"Yan",
+    "barrie":"Bar", "beat":"Bea", "berserker":"Ber", "bigshot":"Big", "bombee":"Bom", "bouncer":"Bou", "brute":"Bru", "bullseye":"BuE", "bullwark":"BuW", "chainer":"Cha", "chomp":"Cho", "comet":"Com", "dune-bug":"Dun", "flamer":"Fla", "fork":"For", "froggy":"Frg", "frosty":"Frs", "gusto":"Gus", "gyro":"Gyr", "halo":"Hal", "hornet":"Hor", "icicool":"Ici", "inkjet":"Ink", "ko":"KOx", "link":"Lin", "lobbie":"Lob", "longshot":"Lon", "mort":"Mor", "nibbles":"Nib", "nozzle":"Noz", "phantom":"Pha", "pluggie":"Plu", "pupil":"Pup", "ram":"Ram", "rocketeer":"Roc", "scatter":"Sca", "sheller":"She", "shuffle":"Shu", "slash":"Sla", "slicer":"Sli", "tether":"Tet", "thump":"Thu", "virus":"Vir", "yanky":"Yan",
     // abilities
     "gust":"Gus",
     "hypercharge":"HCh",
