@@ -13,8 +13,9 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 - Tap or click a Bot, AI pick, Ability or Booster to change it
 - You can name your comp so it's easy to recognize when shared
 - [Empty comp loadout](#---blank) (to start from scratch)
-- Some samples are [listed below](#library)
-- The url of this page updates with your changes, copy/paste to share or save:
+- Some starting samples are [listed below](#library)
+- User submitted compositions are [also below](#user-comps)
+- The url of this page updates with your changes, copy/paste to share or save, or send to us via Send Feedback to be added
 
 <p><input id="poc-url" style="width:100%;"></p>
 
