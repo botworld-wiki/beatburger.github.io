@@ -173,11 +173,10 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 </div>
 
 <h2>User compositions</h2>
+<ul id="user-comps">
+    <li>Ultimate Stunlock by daryxdragon: <a href="#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon">#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon</a></li>
+</ul>
 
-<div markdown="1" class=" ghcms ghcms-usercomps">
-    - [Ultimate Stunlock by daryxdragon](<##ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon>)
-</div>
-        
 <h2>Library of full or partial comps to start from</h2>
 <ul id="library">
     <li>Arena Chainer Meta: <a href="#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta">ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta</a></li>
