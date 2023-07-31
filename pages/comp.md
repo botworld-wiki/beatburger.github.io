@@ -688,7 +688,7 @@ function importComp(anchor){
 
 function exportComp(){
     document.location.hash = '#'+serialize(comp);
-    $url.value = document.location;
+    $url.value = document.location.replace(':www.',':'); //shorter urls to share
 }
 
 fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
