@@ -13,9 +13,8 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 - Tap or click a Bot, AI pick, Ability or Booster to change it
 - You can name your comp so it's easy to recognize when shared
 - [Empty comp loadout](#---blank) (to start from scratch)
-- Some starting samples are [listed below](#library)
-- User submitted compositions are [also below](#user-comps)
-- The url of this page updates with your changes, copy/paste to share or save, or send to us via Send Feedback to be added
+- Some starting samples and user submitted builds are [listed below](#library)
+- The url of this page updates with your changes, copy/paste to share or save, or send to us via Send Feedback to be added to the list (use **discord** nickname for that one so you can be contacted)
 
 <p><input id="poc-url" style="width:100%;"></p>
 
@@ -173,11 +172,6 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
     </div>
 </div>
 
-<h2>User compositions</h2>
-<ul id="user-comps">
-    <li>Ultimate Stunlock by daryxdragon: <a href="#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon">#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon</a></li>
-</ul>
-
 <h2>Library of full or partial comps to start from</h2>
 <ul id="library">
     <li>Arena Chainer Meta: <a href="#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta">ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta</a></li>
@@ -186,6 +180,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
     <li>Kart's Special: <a href="#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special">Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special</a></li>
     <li>Pix Pauper: <a href="#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper">#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper</a></li>
     <li>Pix's CC Shell: <a href="#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell">Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell</a></li>
+    <li>Ultimate Stunlock by daryxdragon: <a href="#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon">#ChapBea0Lobb-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon</a></li>
 </ul>
 
 
@@ -702,6 +697,7 @@ fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
   .then(response => response.json())
   .then(json => init(json));
 
+// make links load the new comp properly
 // applies to all links in library + the blank reset one
 document.querySelectorAll('#library a, a[href^="#---"]').forEach(($e)=>$e.addEventListener('click', (ev)=>{importComp(ev.target.hash); window.scrollTo(0, 500);}))
 
