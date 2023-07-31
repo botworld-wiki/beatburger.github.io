@@ -158,21 +158,26 @@ if (window.location.hash.startsWith('#font')){
 	
 var $bannerOverload = `
 <style>
- {
-    background: url(__url__) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+#banner {
+    background-image: url(__url__) !important;
+    background-repeat: no-repeat !important;
+    background-position: top center !important;
+    height: 350px !important;
 }
 </style>`
 
 function loadBanner(){
 	if (window.location.hash.startsWith('#banner')){
 	 	document.querySelector('#bannerPicker').style.display = 'block';
+ 		 if (window.location.hash.match(/#banner=./)){
+		 	document.querySelector('#bannerPicker div').innerHTML = $bannerOverload.replaceAll('__url__', 
+		 		window.location.hash.replace('#banner=','').replaceAll('%20', ' ')
+		 	);
+		 }
+		/* applies to page banners, not wiki banner
 		if (window.location.hash.match(/#banner=./)){
 			document.querySelector('#bannerPicked').src = window.location.hash.replace('#banner=','').replaceAll('%20', ' ');
-		}
+		}*/
 	}
 }
 if (window.location.hash.startsWith('#banner')){

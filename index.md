@@ -215,6 +215,7 @@ Alternatively, have a look at [all the new bots you’ll encounter soon](/bots) 
 ## Community Adventure
 
 - [BWA News & Updates](/news): New Bots, Game Updates, anything that's happening.
+- [Comp Builder](/comp): create, share, save your favorite loadouts with bots, AI, abilities & boosters
 - [YouTubers & Streamers](/content-creators): Check these out! 
 - [Custom Modes](/custom): Unofficial community-created rule sets made to test your skills! Are you up to the **challenge**?
 - [Friday Fan Art](/friday-fan-art): The **amazing artwork** of our community members!
