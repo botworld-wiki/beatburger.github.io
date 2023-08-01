@@ -80,6 +80,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
                     <label><input type="radio" name="abilitiesFilter" value="Special">Special</label>
                     <label><input type="radio" name="abilitiesFilter" value="Rare"> Rare</label>
                     <label><input type="radio" name="abilitiesFilter" value="Epic"> Epic</label>
+                    <label><input type="radio" name="abilitiesFilter" value="Legendary"> Legendary</label>
                 </form>
                 <ul class="options"></ul>
             </div>
