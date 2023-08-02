@@ -185,6 +185,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 - Ultimate Stunlock by daryxdragon: [#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon](#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon)
 - Shadow Wizard Money Gang, wall yourself safe and nuke them from above (credits to Kart, Mooncore and GreenQhale): [#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang](#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang)
 - Glacial Hyper Offense by Mooncore: [#Big0LobhMor1Bou3Shu0BuE0-GSu456a7100a-cPwcPwcPwcPw-Glacial-Hyper-Offense](#Big0LobhMor1Bou3Shu0BuE0-GSu456a7100a-cPwcPwcPwcPw-Glacial-Hyper-Offense)
+- Melee Build by OnlyGirlTeam [MVP]: [#BuWgCharThuqGyroRamjLing-HChGusGSu2f5-SZ0ba4PwSab2-Melee-Build](#BuWgCharThuqGyroRamjLing-HChGusGSu2f5-SZ0ba4PwSab2-Melee-Build)
 
 </div>
 
