@@ -176,16 +176,16 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 <h2>Library of full or partial comps to start from</h2>
 <div id="library" markdown="1" class="ghcms ghcms-library">
 
-- Arena Chainer Meta: [#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta](#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta)
-- Bigshot Fever: [#Big0-00a-da0da0-Bigshot-fever](#Big0-00a-da0da0-Bigshot-fever)
-- Sky Pony Boom: [#Com0-SCT-da0da0SZ0PwS-sky-pony-boom](#Com0-SCT-da0da0SZ0PwS-sky-pony-boom)
-- Kart's Special: [#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special](#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special)
-- Pix Pauper: [#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper](#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper)
-- Pix's CC Shell [#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell](#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell)
 - Ultimate Stunlock by daryxdragon: [#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon](#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon)
 - Shadow Wizard Money Gang, wall yourself safe and nuke them from above (credits to Kart, Mooncore and GreenQhale): [#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang](#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang)
 - Glacial Hyper Offense by Mooncore: [#Big0LobhMor1Bou3Shu0BuE0-GSu456a7100a-cPwcPwcPwcPw-Glacial-Hyper-Offense](#Big0LobhMor1Bou3Shu0BuE0-GSu456a7100a-cPwcPwcPwcPw-Glacial-Hyper-Offense)
 - Melee Build by OnlyGirlTeam [MVP]: [#BuWgCharThuqGyroRamjLing-HChGusGSu2f5-SZ0ba4PwSab2-Melee-Build](#BuWgCharThuqGyroRamjLing-HChGusGSu2f5-SZ0ba4PwSab2-Melee-Build)
+- Kart's Special: [#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special](#Ici0Roc0Lob0-GusHDrGSu-EnREnREnREnR-karts-special)
+- Pix Pauper: [#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper](#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper)
+- Arena Chainer Meta: [#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta](#ChakLobnMorgVirsNozmFor0-GusDFrSCTHCh-cPwPwSSZ0UCD-arena-chainer-meta)
+- Bigshot Fever: [#Big0-00a-da0da0-Bigshot-fever](#Big0-00a-da0da0-Bigshot-fever)
+- Sky Pony Boom: [#Com0-SCT-da0da0SZ0PwS-sky-pony-boom](#Com0-SCT-da0da0SZ0PwS-sky-pony-boom)
+- Pix's CC Shell [#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell](#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell)
 
 </div>
 
