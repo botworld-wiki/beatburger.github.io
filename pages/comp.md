@@ -183,7 +183,7 @@ description: Create a full or partial Comp with Bots, AI, Abilities and Boosters
 - Pix Pauper: [#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper](#Bar0LoboDundYan9Roc0Ici1-Gus28c5c1186-UChUCh282282-Pix-pauper)
 - Pix's CC Shell [#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell](#Cha0Lob0-GusIcW-SZ0UCDPwS-Pix-CC-shell)
 - Ultimate Stunlock by daryxdragon: [#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon](#ChapBea0Lobr-456-SZ0UCDUCDUCD-ultimate-stunlock-by-daryxdragon)
--Shadow Wizard Money Gang, wall yourself safe and nuke them from above (credits to Kart, Mooncore and GreenQhale)[#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang](#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang)
+- Shadow Wizard Money Gang, wall yourself safe and nuke them from above (credits to Kart, Mooncore and GreenQhale)[#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang](#She0ShuiBoug-b56a71DFr-cPwcPwcPwcPw-Shadow-Wizard-Money-Gang)
 
 </div>
 
