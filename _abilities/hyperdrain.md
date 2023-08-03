@@ -6,7 +6,7 @@ updatedAt: "2021-12-14"
 
 title: "Hyperdrain"
 name: "Hyperdrain"
-description: "3P - Rapidly drains a bot’s ultimate ability"
+description: "3P - Rapidly drains a bot’s ultimate ability (duration: 3.5s)"
 imageUrl: "/assets/img/abilities/hyperdrain.png"
 breadcrumbs:
   Botpack: "/botpack"
@@ -14,7 +14,7 @@ breadcrumbs:
 
 
 abilityName: "Hyperdrain"
-abilityDescription: "Rapidly drains a bot’s ultimate ability"
+abilityDescription: "Rapidly drains a bot’s ultimate ability (duration: 3.5s)"
 abilityImageUrl: "/assets/img/abilities/hyperdrain.png"
 abilityCost: "3"
 abilityRarity: "Epic"
