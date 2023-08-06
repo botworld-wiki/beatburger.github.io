@@ -2,64 +2,91 @@
 
 layout: default
 permalink: /contribution-counter
-title: Contribution Counter PoC
-description: now with UX
-robots: "NOINDEX, NOFOLLOW"
-sitemap: false
+title: Contribution Counter
+description: Count your individual contribution points from a single fullscreen screenshot. Works best with PNG, but will handle JPG with a bit less accuracy as well!
 
 ---
 
 <h1>This is a beta feature test! All feedback welcome and appreciated</h1>
 
-<h2>Beta test details</h2>
-<div>The contribution counter should currently work with .png screenshots taken from Android and TRIMMED to just include the right side of the screen with progress bars.</div>
-<div>Support for full screen screenshots from phones is in progress. Support for full screen tablet layouts will come later.</div>
-<div>Support for iPhone/iPad screenshots is in slow progress (it has different color values)</div>
-<div>Support for Google Play Beta screenshots will not come anytime soon (do you guys not have phones? ;) )</div>
-<div>If your screenshot (trimmed!) doesnt get read properly, please send it with some feedback (or just alone) info using Send Feedback above</div>
-<div>Support for jpg screenshots is a question mark, as it has compression artifacts that distort the picture (and another color values scheme to support)</div>
-<div>Nicer UI and UX will come after we will be done with core feature support for most configurations and make sure the numbers are as correct as we can make them</div>
-<div>Note that it only finds the red bars right now, so if yours are empty it wont see anything</div>
-<div>Note that since its counting pixels there might be slight inaccuracies, but they should be negligible for crisp .png screenshots</div>
-<div>Note that when sending feedback we get info from which page it was sent, so no need to say its for this one</div>
-
+<h2>Screenshot support</h2>
+<div>The contribution counter should currently work with any .png (accurate) and .jpg (less accurate) FULL SCREEN screenshots.</div>
+<div>Just open your events in-game, make sure all task bars are visible, screenshot and use :)</div>
+<div>.jpg results will be less accurate, because the images are compressed to take less space. There isnt much we can do about that, sorry :(</div>
 
 <h2>Instructions</h2>
+<div>Check if Task counters match current event tasks. Defaults are for 4 tasks (1000 each) + total progress (4000 total)</div>
 <div>Select a screenshot with the button below, and the rest should happen on its own</div>
-<div>Before checking next screenshot refresh the page!</div>
-<div>Results are shown in a table that will appear below, you are probably most interested in last two columns - contrib (your own), and guild (for control)</div>
-<div>(on mobile you might need to scroll to the right)</div>
-<div>Read the table from the top, each row represents one progress bar (so practically one task unless something is empty)</div>
-<div>Aside of tasks (4) it will most likely find the total event progress (5th row right now) and the You Everyone legend (6th row). You can ignore the last one for obvious reason :)</div>
-<div>You can ignore the Find Pixels button, its for recalculations, and the clusters row (thats for debugging)</div>
-<div>If things go weird, let us know using Send Feedback in the header</div>
+<div>You will see a results table for reading, a table to copy for Discord, and plain text to copy for in-game chat</div>
+<div>Below the results you will also see how the counter saw your screenshot.</div>
+<div>If things go weird, let us know using Send Feedback in the header and attach the screenshot you used</div>
 <div>Enjoy, have fun and let us know what you think :)</div>
+<br />
+<label for="clusterMultipliers">Task counters (comma-separated):</label>
+<input type="text" id="clusterMultipliers" name="clusterMultipliers" value="1000,1000,1000,1000,4000" />
+<br />
 <input type="file" id="fileInput">
-
-<button type="button" id="findButton">Find Pixels</button>
-<div id="clusters">
-    <p>Clusters of rows with FirstOwnContributionPixel:</p>
-    <ul id="clusterList"></ul>
-</div>
+<br />
+<br />
 
 <div id="resultsDisplay"></div>
+<!-- Display Markdown Table -->
+<div>
+    <textarea id="markdownTable" rows="1" readonly></textarea>
+    <button id="copyToClipboardBtnMrkdwn">Copy table (Discord)</button>
+</div>
+<br />
+<!-- Display text for in-game chat -->
+<div>
+    <textarea id="gameChatText" rows="1" readonly></textarea>
+    <button id="copyToClipboardBtnGame">Copy text (game chat)</button>
+</div>
+
+<br />
+<br />
+<!--<label for="debugCheckbox">Enable Debug Draw:</label>
+<input type="checkbox" id="debugCheckbox" name="debugCheckbox" checked />-->
 
 <canvas id="myCanvas"></canvas>
 
+<div id="debugResultsDisplay"></div>
+<div id="debugResultsDisplay2"></div>
+
 <script type="text/javascript">
+    // helper function for color tolerance
+    function approximatelyEqual(value, to, tolerance) {
+        return Math.abs(value - to) <= tolerance;
+    }
+
+    // version without Math library to be safe until that's sorted out
+    //function approximatelyEqual(value, to, tolerance) {
+    //    const difference = value - to;
+    //    const absoluteDifference = difference >= 0 ? difference : -difference;
+    //    return absoluteDifference <= tolerance;
+    //}
+
+
+
     // Function to process the image and find clusters
-    function processImage(imageData, width, height) {
+    function processImage(pixelData, width, height) {
         const clusters = [];
         const rowsData = [];
+        const pixels = pixelData.pixels;
+        const dividingColumn = pixelData.dividingColumn;
 
+        // const redTolerance = parseInt(document.getElementById("redTolerance").value);
+        // const greenTolerance = parseInt(document.getElementById("greenTolerance").value);
         let clusterStartRow = null;
         let clusterEndRow = null;
         let inPotentialCluster = false;
 
         for (let row = 0; row < height; row++) {
-            const rowData = processRow(imageData, row, width);
+            // change processing function in next line for different versions
+            // const rowData = processRow(pixelData, row, width, redTolerance, greenTolerance);
+            // const rowData = processRow2(pixelData, row, width);
+            const rowData = processRow3(pixels, row, width, dividingColumn);
             // if row has red pixels found
-            if (rowData.firstOwnContributionPixelX !== null && rowData.lastOwnContributionPixelX !== null) {
+            if (rowData.firstOwnContributionPixelX !== null /*&& rowData.lastOwnContributionPixelX !== null*/) {
                 // if not currently within a cluster, start one
                 if (!inPotentialCluster) {
                     inPotentialCluster = true;
@@ -70,14 +97,19 @@ sitemap: false
                 }
                 // adjust endRow
                 clusterEndRow = row;
+                if (rowData.lastOwnContributionPixelX === null) {
+                    // make it 0 length, but keep it away from NaN to not break cluster
+                    rowData.lastOwnContributionPixelX = rowData.firstOwnContributionPixelX;
+                }
                 // add row to rows collection
                 rowsData.push(rowData);
             } else if (inPotentialCluster) {
                 // we're out of a potential cluster
                 // push the rows into a collection property in the cluster object for further processing
                 const clusterSize = clusterEndRow - clusterStartRow + 1;
-                // consider it a cluster if 10 rows in a row have contribution bar red pixels
-                if (clusterSize >= 10) {
+                // consider it a cluster if some rows in a row have contribution bar red pixels
+                // or if we're at the last row
+                if (clusterSize >= 50) {
                     clusters.push({
                         startRow: clusterStartRow,
                         endRow: clusterEndRow,
@@ -91,17 +123,252 @@ sitemap: false
                 clusterEndRow = null;
                 rowsData.length = 0;
             }
+            // if at last row and in cluster, push it
+            if (inPotentialCluster && row === height - 1) {
+                clusters.push({
+                    startRow: clusterStartRow,
+                    endRow: clusterEndRow,
+                    // HACK: probably there's a better way for a deep copy
+                    rows: JSON.parse(JSON.stringify(rowsData))
+                });
+            }
         }
 
         return clusters;
     }
 
+    function processRow3(pixelData, row, width, dividingColumn) {
+        let firstOwnContributionPixelX = null;
+        let lastOwnContributionPixelX = null;
+        let lastGuildContributionPixelX = null;
+        let lastContributionPixelX = null;
+
+        // let's not complicate things and calculate each thing separately
+        // it can be optimized later
+
+        // start with own contribution, left to right
+        let insideRedBar = false;
+
+        for (let col = dividingColumn; col < width; col++) {
+            const i = (row * width + col) * 4;
+            const red = pixelData[i];
+            const green = pixelData[i + 1];
+            const blue = pixelData[i + 2];
+
+            if (red === 255) {
+                if (firstOwnContributionPixelX === null) {
+                    firstOwnContributionPixelX = col; // -1 for color blend adjustment
+                    insideRedBar = true;
+                }
+                lastOwnContributionPixelX = col;
+            } else if (insideRedBar) {
+                lastOwnContributionPixelX = col;
+                break;
+            }
+        }
+
+        // now end of bar calculation
+        // this may be slightly off due to orphaned pixels
+        // it will be corrected on cluster level later
+        // right to left this time
+        // probably can be optimized to check for background instead and go left to right
+
+        const blueBarThreshold = 20;
+        let blueBarCounter = 0;
+
+        for (let col = width; col > dividingColumn; col--) {
+            const i = (row * width + col) * 4;
+            const red = pixelData[i];
+            const green = pixelData[i + 1];
+            const blue = pixelData[i + 2];
+
+            if (blue > 20) {
+                blueBarCounter++;
+
+            } else {
+                blueBarCounter = 0;
+
+            }
+
+            if (blueBarCounter >= blueBarThreshold) {
+                lastContributionPixelX = col + blueBarThreshold;
+                break;
+            }
+        }
+
+        // now guild contribution end
+        // we can use lastOwn and lasContribution as border values, we know it should be somewhere in between
+        // right to left?
+        // probably can be optimized to one of the earlier iterations, not going to for now
+        // we are looking for values around 0 29 77 (guild progress)
+        // but need to distinguish from 0 40 97 (blank progress)
+        // of course there is the vertical bar that can skew it...
+
+        let guildBarCounter = 0;
+        let guildBarThreshold = 20;
+
+        for (let col = lastContributionPixelX + 1; col >= lastOwnContributionPixelX; col--) {
+            const i = (row * width + col) * 4;
+            const red = pixelData[i];
+            const green = pixelData[i + 1];
+            const blue = pixelData[i + 2];
+
+            if (approximatelyEqual(green, 29, 5) && approximatelyEqual(blue, 77, 10)) {
+                guildBarCounter++;
+            } else {
+                guildBarCounter = 0;
+            }
+
+            if (guildBarCounter >= guildBarThreshold) {
+                lastGuildContributionPixelX = col + guildBarThreshold; // +1 for color adjustment
+                break;
+            }
+        }
+
+
+        // rowData return
+        const rowData = {
+            firstOwnContributionPixelX: firstOwnContributionPixelX,
+            lastOwnContributionPixelX: lastOwnContributionPixelX,
+            lastGuildContributionPixelX: lastGuildContributionPixelX,
+            lastContributionPixelX: lastContributionPixelX
+        };
+        console.log(`Row: ${row}, ${JSON.stringify(rowData)}`);
+        return rowData;
+    }
+
+    // New function to classify pixels as one of
+    // own contribution (red dominant) only
+    // if it is an event total progress row, fetch also start/end of bar and later use it for all rows
+    //
+    function processRow2(pixelData, row, width) {
+
+        // calibration values
+        const ownContributionRedAbove = 250;
+        const whiteTextAllChannelsAbove = 210;
+        const tealTextRedBelow = 120;
+        const tealTextGreenBlueAbove = 210;
+        const coinRedAbove = 50;
+        const eventBarBackgroundGreenAbove = 51;
+        const eventBarBackgroundRedBelow = 0;
+
+        // return variables
+        let firstOwnContributionPixelX = null;
+        let lastOwnContributionPixelX = null;
+        let lastGuildContributionPixelX = null;
+        let lastContributionPixelX = null;
+        let isEventProgressRow = false;
+        let isTaskOrScoreTextRow = false;
+        let coinReached = false;
+        let coinStart = null;
+        let coinEnd = null;
+
+        // this row flag variables, not returned
+        let insideRedBar = false;
+        let redBarFinished = false;
+
+
+        // start iterating over pixels left to right
+        // if skipping left side (full screenshot) will be added then
+        // start the col value higher than zero to skip left side
+        // col = number of pixels from left side of the image
+        for (let col = 0; col < width; col++) {
+            // calculate array position in image stream
+            // * 4, because red, green, blue, alpha
+            const i = (row * width + col) * 4;
+            const red = pixelData[i];
+            const green = pixelData[i + 1];
+            const blue = pixelData[i + 2];
+
+
+            if (redBarFinished === false && red > ownContributionRedAbove && green === 0 && blue === 0) {
+                // pure red - we're inside the red area, for the first time or it continues but no gap yet
+                // coin icon should not fall here, unless own contribution bar reached it, which means it's an out of scope picture
+                // this is the only branch that will count own contribution
+                if (firstOwnContributionPixelX === null) {
+                    // red bar encountered for the first time
+                    firstOwnContributionPixelX = col;
+                    insideRedBar = true;
+                }
+                lastOwnContributionPixelX = col;
+                // console.log(`RED col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+            } else if (red > whiteTextAllChannelsAbove && green > whiteTextAllChannelsAbove && blue > whiteTextAllChannelsAbove) {
+                // white text - we are in the event progress bar
+                isEventProgressRow = true;
+                // console.log(`WHITE col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+                // we also know we are near the middle y range of that bar, might be useful to avoid round corners
+                // no need to do much else
+                // importantly, flags should stay for insideRedBar / finished, since we don't know if it will go over
+            } else if (red < tealTextRedBelow && green > tealTextGreenBlueAbove && blue > tealTextGreenBlueAbove) {
+                // teal text - every bar has it somewhere, even if not on every row
+                // set flag - we will use it as a marker to avoid middle rows for checking guild contribution
+                // because text etc can skew it
+                isTaskOrScoreTextRow = true;
+                // console.log(`TEAL col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+                // flags stay the same, as we don't know if something goes over or not, or even are we before or after the coin yet (doesn't matter really)
+            } else if (insideRedBar) {
+                // first pixel after redBar
+                insideRedBar = false;
+                redBarFinished = true;
+            }
+            else if (redBarFinished) {
+                // we know we are past the red bar (second pixel or later)
+                // console.log(`BAR col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+                // now need to determine where we are
+                if (red > coinRedAbove) {
+                    // we are over the coin (probably), it's the only element with significant red values
+                    // edit: no its not, jpg compression makes a real mess for this :(
+                    // need to apply length counting...
+                    coinReached = true;
+                    // console.log(`COIN col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+                } else if (isEventProgressRow && coinReached) {
+                    // here we know we are:
+                    // past own contribution bar (redBarFinished = true)
+                    // past the coin (coinReached = true) [might be over it still due to heavy artifacting, but unlikely]
+                    // in the middle of the bar vertically (isEventProgressRow)
+                    // not over text (white or teal) -> earlier branches would catch it
+                    // since we are not calculating guild contribution (in this version)
+                    // we only care if we are still inside the whole bar or not
+                    // it's easiest to distinguish background in these circumstances
+                    // so: let's start moving lastContributionPixelX
+                    // when blue color gets brighter, both green and blue channels are going up
+                    if (red < eventBarBackgroundRedBelow && green > eventBarBackgroundGreenAbove) {
+                        // we've reached the backround on this pixel
+                        lastContributionPixelX = col - 1;
+                        // can stop now
+                        break;
+                        // some debug.logs
+                        // console.log(`BAR-TAIL col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+                    }
+                    // console.log(`BG col: ${col}, r: ${red}, g: ${green}, b: ${blue}`);
+
+                }
+
+            }
+        }
+
+        // rowData return
+        const rowData = {
+            firstOwnContributionPixelX: firstOwnContributionPixelX,
+            lastOwnContributionPixelX: lastOwnContributionPixelX,
+            lastGuildContributionPixelX: lastGuildContributionPixelX,
+            lastContributionPixelX: lastContributionPixelX,
+            isEventProgressRow: isEventProgressRow,
+            isTaskOrScoreTextRow: isTaskOrScoreTextRow,
+            isCoinEncountered: coinReached
+        };
+        console.log(`Row: ${row}, ${JSON.stringify(rowData)}`);
+        return rowData;
+    }
+
+    // currently unused - replaced with processRow2
     // Function to process a single row and find pixels
     // blank progress 1 41 98
     // everyone 1 30 76
     // me 87 19 75
     // event bar blank progress 1 41 98
-    function processRow(imageData, row, width) {
+    // only works for clean png's, and not from all models/OS's
+    /* function processRow(imageData, row, width, colorTolerance) {
         const pixelData = imageData.data;
         let firstOwnContributionPixelX = null;
         let lastOwnContributionPixelX = null;
@@ -115,13 +382,13 @@ sitemap: false
             // for later maybe
             // const blue = pixelData[i + 2];
             // const alpha = pixelData[i + 3];
-            if (firstOwnContributionPixelX === null && red === 87 && green === 19) {
+            if (firstOwnContributionPixelX === null && approximatelyEqual(red, 87, colorTolerance) && approximatelyEqual(green, 19, colorTolerance)) {
                 firstOwnContributionPixelX = col;
-            } else if (red === 87 && green === 19) {
+            } else if (approximatelyEqual(red, 87, colorTolerance) && approximatelyEqual(green, 19, colorTolerance)) {
                 lastOwnContributionPixelX = col;
-            } else if (red === 1 && green === 30) {
+            } else if (approximatelyEqual(red, 1, colorTolerance) && approximatelyEqual(green, 30, colorTolerance)) {
                 lastGuildContributionPixelX = col;
-            } else if (red === 1 && green === 41) {
+            } else if (approximatelyEqual(red, 1, colorTolerance) && approximatelyEqual(green, 41, colorTolerance)) {
                 lastContributionPixelX = col;
             }
         }
@@ -147,6 +414,7 @@ sitemap: false
             lastContributionPixelX: lastContributionPixelX,
         };
     }
+    */
 
     // Function to process a cluster and find contribution start, end and bar end, and calculate contribution points
     // Note: highly dependant on rowData having right values, so if it's wrong the error is probably in processRow
@@ -155,7 +423,7 @@ sitemap: false
         let maxLastOwnContributionPixelX = -Infinity;
         let maxLastGuildContributionPixelX = -Infinity;
         let maxLastContributionPixelX = -Infinity;
-        
+
 
         cluster.rows.forEach((rowData) => {
             if (rowData.firstOwnContributionPixelX < minFirstOwnContributionPixelX) {
@@ -192,8 +460,8 @@ sitemap: false
             maxOwnX: maxLastOwnContributionPixelX,
             maxGuildX: maxLastGuildContributionPixelX,
             maxBarX: maxLastContributionPixelX,
-            contrib: contributionPercentage * 100,
-            guild: guildProgress * 100
+            contrib: contributionPercentage,
+            guild: guildProgress
         };
 
         // Some debug logs
@@ -209,11 +477,154 @@ sitemap: false
 
     }
 
+    // Function to sanitize and clean up cluster info
+    // and get them ready for displaying to the user
+    function sanitizeClusters(clusters) {
+        if (clusters.length === 0) {
+            return [];
+        }
+
+        // Start with the last cluster as the reference for comparison
+        let lastCluster = clusters[clusters.length - 1];
+
+        // Create a new array to store the sanitized clusters
+        const sanitizedClusters = [lastCluster];
+
+        // Iterate over clusters from last to first (skip the last one as it's already added)
+        for (let i = clusters.length - 2; i >= 0; i--) {
+            const currentCluster = clusters[i];
+
+            // Check the distance between currentCluster's minOwnX and lastCluster's minOwnX
+            const minOwnXDistance = Math.abs(currentCluster.minOwnX - lastCluster.minOwnX);
+
+            // Check the distance between currentCluster's maxBarX and lastCluster's maxBarX
+            const maxBarXDistance = Math.abs(currentCluster.maxBarX - lastCluster.maxBarX);
+
+            // If the distance is less than or equal to 15 pixels, add the currentCluster to the sanitizedClusters array
+            if (minOwnXDistance <= 10 && maxBarXDistance <= 10) {
+                currentCluster.minOwnX = lastCluster.minOwnX;
+                currentCluster.maxBarX = lastCluster.maxBarX;
+                sanitizedClusters.unshift(currentCluster); // Add the current cluster to the beginning of the array
+            }
+        }
+
+        return sanitizedClusters;
+    }
+
+
+    // I give up, need to clean up image first
+    function sanitizeImageData(imageData, ctx, width) {
+        const pixels = imageData.data;
+        const gradientColorStart = { r: 0, g: 25, b: 90 };
+        const gradientColorEnd = { r: 0, g: 71, b: 149 };
+        const gradientTolerance = 9;
+
+        // First pass
+        for (let i = 0; i < pixels.length; i += 4) {
+            // pixels[i] is the red channel value (0-255)
+            // pixels[i + 1] is the green channel value (0-255)
+            // pixels[i + 2] is the blue channel value (0-255)
+            // pixels[i + 3] is the alpha channel value (0-255)
+
+            if (pixels[i + 1] > 200 && pixels[i + 2] > 200) {
+                // let's make all text white
+                pixels[i] = 255;
+                pixels[i + 1] = 255;
+                pixels[i + 2] = 255;
+                // } else if (pixels[i] > pixels[i +1] && pixels[i] > pixels[i+2]) {
+            } else if (pixels[i] > 50) {
+                // it's reddish, but it could be around text
+                if (pixels[i + 1] > 50) {
+                    // around text
+                    pixels[i] = 255;
+                    pixels[i + 1] = 255;
+                    pixels[i + 2] = 255;
+                } else {
+                    // own contribution or coin
+                    pixels[i] = 255;
+                    pixels[i + 1] = 0;
+                    pixels[i + 2] = 0;
+                }
+            } else {
+                // get rid of red channel, we wont need it anymore
+                pixels[i] = 0;
+            }
+
+        }
+
+        // Second pass - get rid of gradient
+        for (let y = 0; y < imageData.height; y++) {
+            for (let x = 0; x < imageData.width; x++) {
+                const pixelIndex = (y * imageData.width + x) * 4;
+
+                // Get the color of the current pixel
+                const r = pixels[pixelIndex];
+                const g = pixels[pixelIndex + 1];
+                const b = pixels[pixelIndex + 2];
+
+                // Calculate the expected gradient color at this position
+                const gradientRatio = y / imageData.height;
+                // const expectedR = Math.round(gradientColorStart.r + gradientRatio * (gradientColorEnd.r - gradientColorStart.r));
+                const expectedG = Math.round(gradientColorStart.g + gradientRatio * (gradientColorEnd.g - gradientColorStart.g));
+                const expectedB = Math.round(gradientColorStart.b + gradientRatio * (gradientColorEnd.b - gradientColorStart.b));
+
+                // check if the pixel color matches the expected gradient color, with some tolerance
+                if (approximatelyEqual(g, expectedG, gradientTolerance) && approximatelyEqual(b, expectedB, gradientTolerance)) {
+                    // Replace gradient with black
+                    pixels[pixelIndex] = 0;     // Red channel
+                    pixels[pixelIndex + 1] = 0; // Green channel
+                    pixels[pixelIndex + 2] = 0; // Blue channel
+                    // pixels[pixelIndex + 3] is the alpha channel, leave it unchanged
+                }
+            }
+        }
+
+        // Third pass - get rid of left side
+        // multi-pass
+        // we need to find a col that goes black for at least half length
+        let dividingColumn = null;
+        console.log("Dividing column: " + dividingColumn);
+        const startingColumn = Math.round(imageData.width * 0.2);
+        for (let x = startingColumn; x < imageData.width; x++) {
+            let blackCounter = 0;
+            for (let y = 0; y < imageData.height; y++) {
+                const pixelIndex = (y * imageData.width + x) * 4;
+
+                if ((pixels[pixelIndex] + pixels[pixelIndex + 1] + pixels[pixelIndex + 2]) === 0) {
+                    blackCounter = blackCounter + 1;
+                }
+            }
+            if (blackCounter > (imageData.height / 2)) {
+                dividingColumn = x + 5;
+                console.log("Dividing column: " + dividingColumn);
+                break;
+            }
+        }
+        // then replace everything before that column
+        for (let col = 0; col < dividingColumn; col++) {
+            for (let row = 0; row < imageData.height; row++) {
+                const pixelIndex = (row * imageData.width + col) * 4;
+                pixels[pixelIndex] = 0;
+                pixels[pixelIndex + 1] = 0;
+                pixels[pixelIndex + 2] = 0;
+            }
+        }
+
+        imageData.data = pixels;
+        // Redraw the image so user can spot weird things
+        ctx.putImageData(imageData, 0, 0);
+
+        return { pixels: pixels, dividingColumn: dividingColumn };
+    }
+
     // Function to process the image and display clusters
     function findPixelsInImage(image) {
         const canvas = document.getElementById("myCanvas");
         const ctx = canvas.getContext("2d");
-        const resultsDisplay = document.getElementById("resultsDisplay");
+        // const resultsDisplay = document.getElementById("resultsDisplay");
+        const debugResultsDisplay = document.getElementById("debugResultsDisplay");
+        const debugResultsDisplay2 = document.getElementById("debugResultsDisplay2");
+        const debugCheckbox = document.getElementById("debugCheckbox");
 
         const originalWidth = image.width;
         const originalHeight = image.height;
@@ -225,28 +636,142 @@ sitemap: false
 
         const imageData = ctx.getImageData(0, 0, originalWidth, originalHeight);
 
-        const clusters = processImage(imageData, originalWidth, originalHeight);
+        // Warning! changes image display
+        const pixelData = sanitizeImageData(imageData, ctx);
+
+        const clusters = processImage(pixelData, originalWidth, originalHeight);
 
         let processedClusters = [];
 
         // Process each cluster and calculate contribution percentage for each of them
         clusters.forEach((cluster) => {
-            const processedCluster = processCluster(cluster);
-            processedClusters.push(processedCluster);
+            processedClusters.push(processCluster(cluster));
+        });
+        debugResultsDisplay.innerHTML = displayClusters(processedClusters);
+        let sanitizedClusters = sanitizeClusters(processedClusters);
+        debugResultsDisplay2.innerHTML = displayClusters(sanitizedClusters);
+        
+        debugDrawClusters(sanitizedClusters, ctx);
+
+        displayUserResults(sanitizedClusters);
+
+    }
+
+    function displayUserResults(sanitizedClusters) {
+        const tableContainer = document.getElementById("resultsDisplay");
+        const markdownTable = document.getElementById("markdownTable");
+        const gameChatText = document.getElementById("gameChatText");
+        const clusterMultiplierInput = document.getElementById("clusterMultipliers").value;
+        const multipliers = clusterMultiplierInput.split(",").map((m) => parseInt(m.trim()));
+
+        // Create the table element
+        const table = document.createElement("table");
+        table.style.border = "1px solid";
+        // Create the table header row
+        const headerRow = document.createElement("tr");
+
+        // Add header cells for each column
+        const headers = ["Own Contribution %", "Own Points", "Guild Progress %", "Guild Points"];
+        headers.forEach((headerText) => {
+            const headerCell = document.createElement("th");
+            headerCell.textContent = headerText;
+            headerRow.appendChild(headerCell);
+        });
+        let markdown = "```";
+        markdown += "| Own Contribution % | Own Points | Guild Progress % | Guild Points |\n";
+        markdown += "| " + "-".repeat(18) + " | " + "-".repeat(10) + " | " + "-".repeat(16) + " | " + "-".repeat(12) + " |\n";
+        let ownPointsCollection = [];
+        // Add the header row to the table
+        table.appendChild(headerRow);
+
+        // Create a row for each cluster and populate the data
+        sanitizedClusters.forEach((cluster, index) => {
+            const row = document.createElement("tr");
+            const pointsMultiplier = multipliers[index];
+
+            // Own Contribution %
+            const ownContributionCell = document.createElement("td");
+            ownContributionCell.style.border = "1px solid";
+            const ownContributionPercentage = (cluster.contrib * 100).toFixed(2);
+            ownContributionCell.textContent = ownContributionPercentage + "%";
+            row.appendChild(ownContributionCell);
+
+            // Own Points
+            const ownPointsCell = document.createElement("td");
+            ownPointsCell.style.border = "1px solid";
+            const ownPoints = Math.round(cluster.contrib * pointsMultiplier);
+            ownPointsCell.textContent = ownPoints;
+            ownPointsCollection.push(ownPoints);
+            row.appendChild(ownPointsCell);
+
+            // Guild Progress %
+            const guildProgressCell = document.createElement("td");
+            guildProgressCell.style.border = "1px solid";
+            const guildProgressPercentage = (cluster.guild * 100).toFixed(2);
+            guildProgressCell.textContent = guildProgressPercentage + "%";
+            row.appendChild(guildProgressCell);
+
+            // Guild Points
+            const guildPointsCell = document.createElement("td");
+            guildPointsCell.style.border = "1px solid";
+            const guildPoints = Math.round(cluster.guild * pointsMultiplier);
+            guildPointsCell.textContent = guildPoints;
+            row.appendChild(guildPointsCell);
+
+            // Add the row to the table
+            table.appendChild(row);
+            markdown += `| ${ownContributionCell.textContent.padStart(18)} | ${ownPointsCell.textContent.padStart(10)} | ${guildProgressCell.textContent.padStart(16)} | ${guildPointsCell.textContent.padStart(12)} |\n`;
         });
 
-        // Call the displayClusters function with the collected data and display results
-        resultsDisplay.innerHTML = displayClusters(processedClusters);
+        // Clear the table container and append the new table
+        tableContainer.innerHTML = "";
+        tableContainer.appendChild(table);
+
+        markdown += "```";
+        markdownTable.value = markdown;
+
+        gameChatText.value = ownPointsCollection.join(" / ");
+    }
+
+    // Function to draw debug rectangles around found clusters
+    function debugDrawClusters(processedClusters, ctx) {
+        const greenColor = "rgba(0, 255, 0, 0.2)"; // Green color with transparency -> whole bar
+        const blueColor = "rgba(0, 0, 255, 0.2)"; // Blue color with transparency -> guild progress
+
+        processedClusters.forEach((cluster) => {
+            const {
+                clusterStartRow,
+                clusterEndRow,
+                minOwnX,
+                maxBarX,
+                maxGuildX,
+            } = cluster;
+
+            // Calculate the width and height of the rectangles
+            const greenRectWidth = maxBarX - minOwnX;
+            const rectHeight = clusterEndRow - clusterStartRow;
+
+            // Draw the green rectangle
+            ctx.fillStyle = greenColor;
+            ctx.fillRect(minOwnX, clusterStartRow, greenRectWidth, rectHeight);
+
+            // Calculate the width and height of the blue rectangle
+            const blueRectWidth = maxGuildX - minOwnX;
+
+            // Draw the blue rectangle
+            ctx.fillStyle = blueColor;
+            ctx.fillRect(minOwnX, clusterStartRow, blueRectWidth, rectHeight);
+        });
     }
 
     // Function to generate a table with results from processedClusters
-    function displayClusters(processedClusters) {
+    function displayClusters(clusters) {
         const table = document.createElement("table");
         table.setAttribute("border", "1");
 
         // Create table header
         const headerRow = document.createElement("tr");
-        for (const key of Object.keys(processedClusters[0])) {
+        for (const key of Object.keys(clusters[0])) {
             const th = document.createElement("th");
             th.textContent = key;
             headerRow.appendChild(th);
@@ -254,7 +779,7 @@ sitemap: false
         table.appendChild(headerRow);
 
         // Create table rows with cluster data
-        for (const cluster of processedClusters) {
+        for (const cluster of clusters) {
             const row = document.createElement("tr");
             for (const value of Object.values(cluster)) {
                 const td = document.createElement("td");
@@ -292,14 +817,30 @@ sitemap: false
             }
         });
 
-        const findButton = document.getElementById("findButton");
-        findButton.addEventListener("click", function () {
-            const canvas = document.getElementById("myCanvas");
-            const image = new Image();
-            image.src = canvas.toDataURL();
-            image.onload = function () {
-                findPixelsInImage(image);
-            };
+        // Copy to Clipboard functionality
+        const copyToClipboardBtnMrkdwn = document.getElementById("copyToClipboardBtnMrkdwn");
+        copyToClipboardBtnMrkdwn.addEventListener("click", function () {
+            const markdownTable = document.getElementById("markdownTable");
+            markdownTable.select();
+            document.execCommand("copy");
         });
+
+        const copyToClipboardBtnGame = document.getElementById("copyToClipboardBtnGame");
+        copyToClipboardBtnGame.addEventListener("click", function () {
+            const gameChatText = document.getElementById("gameChatText");
+            gameChatText.select();
+            document.execCommand("copy");
+        });
+
+
+        //const findButton = document.getElementById("findButton");
+        //findButton.addEventListener("click", function () {
+        //    const canvas = document.getElementById("myCanvas");
+        //    const image = new Image();
+        //    image.src = canvas.toDataURL();
+        //    image.onload = function () {
+        //        findPixelsInImage(image);
+        //    };
+        //});
     });
 </script>
