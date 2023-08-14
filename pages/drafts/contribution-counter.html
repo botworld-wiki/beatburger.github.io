@@ -499,8 +499,8 @@ description: Count your individual contribution points from a single fullscreen 
             headerRow.appendChild(headerCell);
         });
         let markdown = "```";
-        markdown += "| Own Contribution % | Own Points | Guild Progress % | Guild Points |\n";
-        markdown += "| " + "-".repeat(18) + " | " + "-".repeat(10) + " | " + "-".repeat(16) + " | " + "-".repeat(12) + " |\n";
+        markdown += "|  Own % | Own Pts | Guild % | Guild Pts |\n";
+        markdown += "| " + "-".repeat(6) + " | " + "-".repeat(7) + " | " + "-".repeat(7) + " | " + "-".repeat(9) + " |\n";
         let ownPointsCollection = [];
         // Add the header row to the table
         table.appendChild(headerRow);
@@ -541,7 +541,7 @@ description: Count your individual contribution points from a single fullscreen 
 
             // Add the row to the table
             table.appendChild(row);
-            markdown += `| ${ownContributionCell.textContent.padStart(18)} | ${ownPointsCell.textContent.padStart(10)} | ${guildProgressCell.textContent.padStart(16)} | ${guildPointsCell.textContent.padStart(12)} |\n`;
+            markdown += `| ${ownContributionCell.textContent.padStart(6)} | ${ownPointsCell.textContent.padStart(7)} | ${guildProgressCell.textContent.padStart(7)} | ${guildPointsCell.textContent.padStart(9)} |\n`;
         });
 
         // Clear the table container and append the new table
