@@ -153,9 +153,9 @@ description: Count your individual contribution points from a single fullscreen 
             const green = pixelData[i + 1];
             const blue = pixelData[i + 2];
 
-            if (red === 255) {
+            if (red === 255 && green !== 255) {
                 if (firstOwnContributionPixelX === null) {
-                    firstOwnContributionPixelX = col; // -1 for color blend adjustment
+                    firstOwnContributionPixelX = col;
                     insideRedBar = true;
                 }
                 lastOwnContributionPixelX = col;
