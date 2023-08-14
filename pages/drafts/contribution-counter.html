@@ -499,9 +499,11 @@ description: Count your individual contribution points from a single fullscreen 
             headerRow.appendChild(headerCell);
         });
         let markdown = "```";
+
         markdown += "|  Own % (Pts)  | Guild % (Pts) |\n";
         // 16.27% (1234)
         markdown += "| " + "-".repeat(13) + " | " + "-".repeat(13) + " |\n";
+
         let ownPointsCollection = [];
         // Add the header row to the table
         table.appendChild(headerRow);
