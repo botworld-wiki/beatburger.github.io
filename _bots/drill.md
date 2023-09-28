@@ -1,6 +1,6 @@
 ---
 layout: bot
-contributors: "arios"
+contributors: "Arios, MayoTunaOrange"
 updatedAt: "2023-09-12"
 
 
@@ -19,7 +19,7 @@ botImageUrl: "https://cdn.discordapp.com/attachments/1136023207237931039/1151182
 botType: "Chaser"
 botRarity: "Epic"
 botRaritySortOrder: "4"
-botAcquisition: "(UNRELEASED) Season, then drop"
+botAcquisition: "Season, then drop"
 botOpinion: "No opinion yet."
 searchKeywords: "drill, epic, chaser, stun"
 
