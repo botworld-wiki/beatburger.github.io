@@ -20,9 +20,9 @@ abilityCost: "2"
 abilityRarity: "Epic"
 abilityRaritySortOrder: "4"
 abilityAcquisition: ""
-abilityOpinion: ""
+abilityOpinion: "Corrupted bolt does more damage as it travels"
 searchKeywords: ""
 ---
 
 ## Notes
-[Pictures needed](/contribute#tbw)
+Corrupted bolt does more damage as it travels, similar to Charge Bolt
