@@ -6,7 +6,7 @@ updatedAt: "2023-07-27"
 
 title: "Corrupted Bolt"
 name: "Corrupted Bolt"
-description: "2P - A fast moving ball of energy that can hit both enemy and friendly bots"
+description: "2P - A fast moving ball of energy that can hit both enemy and friendly bots (It does more damage as it travels)"
 imageUrl: "/assets/img/abilities/corrupted-bolt.png"
 breadcrumbs:
   Botpack: "/botpack"
