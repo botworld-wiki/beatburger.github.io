@@ -1,10 +1,10 @@
 ---
 layout: embed
-permalink: "/chasers
+permalink: "/chasers"
 redirectTo: "https://www.botworld.wiki/bots#chasers"
 
-title: "Common Bots"
-name: "Common Bots"
-description: "List of all Common Bots in the game"
+title: "Chasers"
+name: "Chasers"
+description: "List of all Chasers in the game"
 ---
 
