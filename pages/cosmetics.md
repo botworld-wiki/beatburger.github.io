@@ -240,8 +240,10 @@ breadcrumbs:
 
 </div>
 
-
+<div markdown="1" class=" ghcms ghcms-hatslegendary">
+[Want to contribute?](https://www.botworld.wiki/contribute#tbw)
 </div>
+
 <div markdown="1" class=" ghcms ghcms-outfitscommon">
 
 ## Common Outfits
@@ -255,7 +257,7 @@ breadcrumbs:
 
 ## Uncommon Outfits
 
-### Nothing yet:(
+[Want to contribute?](https://www.botworld.wiki/contribute#tbw)
 
 
 </div>
