@@ -1,6 +1,6 @@
 ---
 layout: embed
-permalink: "/brawlers
+permalink: "/brawlers"
 redirectTo: "https://www.botworld.wiki/bots#brawlers"
 
 title: "Brawlers"
