@@ -320,6 +320,10 @@ breadcrumbs:
 
 </div>
 
+<div markdown="1" class=" ghcms ghcms-outfitslegendary">
+[Want to contribute?](https://www.botworld.wiki/contribute#tbw)
+</div>
+
 <div markdown="1" class=" ghcms ghcms-stylescommon">
 [Want to contribute?](https://www.botworld.wiki/contribute#tbw)
 </div>
