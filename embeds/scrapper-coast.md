@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/scrapper-coast"
-redirectTo: "https://www.botworld.wiki/maps#scrapper-coast"
+redirectTo: "/maps#scrapper-coast"
 
 
 title: "Scrapper Coast"

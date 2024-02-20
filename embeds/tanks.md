@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/tanks"
-redirectTo: "https://www.botworld.wiki/bots#tanks"
+redirectTo: "/bots#tanks"
 
 title: "Tanks"
 name: "Tanks"

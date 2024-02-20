@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/common-boosters"
-redirectTo: "https://www.botworld.wiki/boosters#common-boosters"
+redirectTo: "/boosters#common-boosters"
 
 title: "Common Boosters"
 name: "Common Boosters"

@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/evaders"
-redirectTo: "https://www.botworld.wiki/bots#evaders"
+redirectTo: "/bots#evaders"
 
 title: "Evaders"
 name: "Evaders"

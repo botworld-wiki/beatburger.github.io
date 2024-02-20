@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/pauper"
-redirectTo: "https://www.botworld.wiki/custom"
+redirectTo: "/custom"
 
 
 title: "Pauper Challenge"

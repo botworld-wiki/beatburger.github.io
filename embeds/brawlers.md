@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/brawlers"
-redirectTo: "https://www.botworld.wiki/bots#brawlers"
+redirectTo: "/bots#brawlers"
 
 title: "Brawlers"
 name: "Brawlers"

@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/fish-price"
-redirectTo: "https://www.botworld.wiki/fishing#fish-price-comparison"
+redirectTo: "/fishing#fish-price-comparison"
 
 title: "Fish Price Table"
 name: "Fish Price Table"

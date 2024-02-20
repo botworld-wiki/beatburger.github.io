@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/epic-abilities"
-redirectTo: "https://www.botworld.wiki/abilities#epic-abilities"
+redirectTo: "/abilities#epic-abilities"
 
 title: "Epic Abilities"
 name: "Epic Abilities"

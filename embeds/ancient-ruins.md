@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/ancient-ruins"
-redirectTo: "https://www.botworld.wiki/loot#ancient-ruins"
+redirectTo: "/loot#ancient-ruins"
 
 
 title: "Ancient Ruins"

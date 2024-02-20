@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/special-boosters"
-redirectTo: "https://www.botworld.wiki/boosters#special-boosters"
+redirectTo: "/boosters#special-boosters"
 
 title: "Special Boosters"
 name: "Special Boosters"

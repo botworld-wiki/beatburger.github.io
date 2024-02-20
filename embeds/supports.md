@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/supports"
-redirectTo: "https://www.botworld.wiki/bots#supports"
+redirectTo: "/bots#supports"
 
 title: "Supports"
 name: "Supports"

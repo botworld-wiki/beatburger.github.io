@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/spore-woods"
-redirectTo: "https://www.botworld.wiki/maps#spore-woods"
+redirectTo: "/maps#spore-woods"
 
 
 title: "Spore Woods"

@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/styles"
-redirectTo: "https://www.botworld.wiki/cosmetics"
+redirectTo: "/cosmetics"
 
 title: "Styles"
 name: "Styles"

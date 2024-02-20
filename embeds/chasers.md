@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/chasers"
-redirectTo: "https://www.botworld.wiki/bots#chasers"
+redirectTo: "/bots#chasers"
 
 title: "Chasers"
 name: "Chasers"

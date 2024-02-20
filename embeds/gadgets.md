@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/gadgets"
-redirectTo: "https://www.botworld.wiki/botpack#gadgets"
+redirectTo: "/botpack#gadgets"
 
 title: "Gadgets"
 name: "Gadgets"

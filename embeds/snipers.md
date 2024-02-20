@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/snipers"
-redirectTo: "https://www.botworld.wiki/bots#snipers"
+redirectTo: "/bots#snipers"
 
 title: "Snipers"
 name: "Snipers"

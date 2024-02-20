@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/ai"
-redirectTo: "https://www.botworld.wiki/bots#ai"
+redirectTo: "/bots#ai"
 
 
 title: "AI Training"

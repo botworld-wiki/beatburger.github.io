@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/pirate-captain"
-redirectTo: "https://www.botworld.wiki/story#quests"
+redirectTo: "/story#quests"
 imageUrl: "https://cdn.discordapp.com/attachments/917809790284079114/1000892537667588166/Screenshot_20220725-002921_Kiwi_Browser.jpg"
 title: "Pirate Captain"
 name: "Pirate Captain"

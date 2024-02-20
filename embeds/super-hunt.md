@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/super-hunt"
-redirectTo: "https://www.botworld.wiki/custom"
+redirectTo: "/custom"
 
 
 title: "Super Hunt Challenge"

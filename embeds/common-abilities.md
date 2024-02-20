@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/common-abilities"
-redirectTo: "https://www.botworld.wiki/abilities#common-abilities"
+redirectTo: "/abilities#common-abilities"
 
 title: "Common Abilities"
 name: "Common Abilities"

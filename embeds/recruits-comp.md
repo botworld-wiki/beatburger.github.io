@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/recruits-comp"
-redirectTo: "https://www.botworld.wiki/recruits#composition"
+redirectTo: "/recruits#composition"
 
 
 title: "Recruits Comp Tips"

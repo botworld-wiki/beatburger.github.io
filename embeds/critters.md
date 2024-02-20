@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/critters"
-redirectTo: "https://www.botworld.wiki/exploring#critters"
+redirectTo: "/exploring#critters"
 
 
 title: "Critters"

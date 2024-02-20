@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/arena-masters"
-redirectTo: "https://www.botworld.wiki/arena#arena-masters"
+redirectTo: "/arena#arena-masters"
 
 
 title: "Arena Masters"
