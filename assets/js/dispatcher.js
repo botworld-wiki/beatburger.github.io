@@ -93,7 +93,7 @@ async function fetchInlines(){
     var inlinesLookup = {};
     for (let i=0; i < entries.length; i++) {
         if (entries[i].inline){
-            inlinesLookup['https://www.botworld.wiki'+entries[i].url] = entries[i].inline;
+            inlinesLookup[entries[i].url] = entries[i].inline;
         }
     }
 
