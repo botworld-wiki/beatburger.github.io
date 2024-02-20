@@ -204,7 +204,7 @@ breadcrumbs:
 - Quick Search scope reduced to only titles, leaving the rest for Advanced Search later on
 - Boosters WikiSheet + Converter + [page init](/boosters)
 - new menu links
-- Redirects [botworld.wiki/sct](botworld.wiki/sct) -> [https://www.botworld.wiki/supercharged-chaos-translocator](/supercharged-chaos-translocator) (embed-friendly)
+- Redirects [botworld.wiki/sct](botworld.wiki/sct) -> [/supercharged-chaos-translocator](/supercharged-chaos-translocator) (embed-friendly)
 - meta robots & sitemap exclusions
 - Edits Merger poc
 - Editor Mode edits merged, cleared.
@@ -257,15 +257,15 @@ breadcrumbs:
 
 ## Day 3
 
-- [Development Roadmap](https://www.botworld.wiki/roadmap)
-- [WikiSheets Converter](https://www.botworld.wiki/converter)
+- [Development Roadmap](/roadmap)
+- [WikiSheets Converter](/converter)
 - New Bots: yanky, slash, lobbie, rocketeer, brute
 - Added "Contributors" and "Last updated at" on bot pages
-- New pages created with sections, to be written: [Gadgets](https://www.botworld.wiki/gadgets), [Botpack Modules](https://www.botworld.wiki/botpack), [Arena Masters](https://www.botworld.wiki/arena-masters)
+- New pages created with sections, to be written: [Gadgets](/gadgets), [Botpack Modules](/botpack), [Arena Masters](/arena-masters)
 - ~~Added a new "?Information?" section on homepage, idk how to organize info pages vs guides actually, let me hear it~~
 - New Drive folder to work collectively on writing pages content
-- Proposal: all [Articles](https://www.botworld.wiki/#articles) listed at the bottom of the homepage (3 categories: [Botmasters](https://www.botworld.wiki/#botmaster), [Botworld](https://www.botworld.wiki/#botworld), [Guides](https://www.botworld.wiki/#guides))
-- [Bots](https://www.botworld.wiki/bots) page new layout
+- Proposal: all [Articles](/#articles) listed at the bottom of the homepage (3 categories: [Botmasters](/#botmaster), [Botworld](/#botworld), [Guides](/#guides))
+- [Bots](/bots) page new layout
 
 ## Day 2
 

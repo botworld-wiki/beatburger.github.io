@@ -233,7 +233,7 @@ Official announcement & demo clip on [the official Featherweight twitter](https:
 
 - New outfits added.
 - [Codex](</codex>) added featuring new tasks in each of the first five zones.
-- New Ability: [Gravity Surge](<https://www.botworld.wiki/gravity-surge>).
+- New Ability: [Gravity Surge](</gravity-surge>).
 - New Season Pass: *Season of the Snail.*
 
 
@@ -327,10 +327,10 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 
 **Features:**
 
-### New bot: [Gusto](<https://www.botworld.wiki/gusto>).
+### New bot: [Gusto](</gusto>).
 
 - Added hats.
-- Added two new abilities: [Gale](<https://www.botworld.wiki/gale>) & [Tornado Bolt](<https://www.botworld.wiki/tornado-bolt>).
+- Added two new abilities: [Gale](</gale>) & [Tornado Bolt](</tornado-bolt>).
 - New season pass: *Season of the Wind*.
 - Added new Side Quests to Scrapper’s Coast.
 - Auto turrets and aggressive plant traps now drop a piece of scrap when you disable them.
@@ -362,7 +362,7 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 **Released:** 2021-10-20
 
-### New bot: [Tether](<https://www.botworld.wiki/tether>)
+### New bot: [Tether](</tether>)
 
 **Bug Fixes:**
 
@@ -386,7 +386,7 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 ## d2021-10-19
 
-### [Tether](<https://www.botworld.wiki/tether>)
+### [Tether](</tether>)
 
 Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joining Botworld Adventure this week! It digs its cables into the ground to grab enemies from afar and hold them in place. It sure isn’t afraid to get its hands dirty.
 
@@ -460,7 +460,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 ## d2021-9-21
 
-### [Halo](https://www.botworld.wiki/halo)
+### [Halo](/halo)
 
 We wanted to share with you how our latest bot looks like. Welcome Halo, a new Support Bot that will be joining Botworld Adventure this October 2nd! We will fully reveal this bot in action and demonstrate its abilities in battles
 
@@ -589,10 +589,10 @@ We wanted to share with you how our latest bot looks like. Welcome Halo, a new S
 
 **Released:** 2021-5-22
 
-### New Bot: [Fork](<https://www.botworld.wiki/fork>)
+### New Bot: [Fork](</fork>)
 
 - Arena Team Names, Uniforms and Banners
-- 6 new abilities: [Immobilize](<https://www.botworld.wiki/immobilize>), [Poison Bolt](<https://www.botworld.wiki/poison-bolt>), [Ball Lightning](<https://www.botworld.wiki/ball-lightning>), [Poison Trail](<https://www.botworld.wiki/poison-trail>), [Corrode](<https://www.botworld.wiki/corrode>), [Immobilize Field](<https://www.botworld.wiki/immobilize-field>)
+- 6 new abilities: [Immobilize](</immobilize>), [Poison Bolt](</poison-bolt>), [Ball Lightning](</ball-lightning>), [Poison Trail](</poison-trail>), [Corrode](</corrode>), [Immobilize Field](</immobilize-field>)
 - UI improvements
 - Bot Balance
 - Bug fixes

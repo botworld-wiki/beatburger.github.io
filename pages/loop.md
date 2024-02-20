@@ -1,7 +1,7 @@
 ---
 layout: embed
 permalink: "/loop"
-redirectTo: "https://www.botworld.wiki/loop"
+redirectTo: "/loop"
 
 
 title: "Don't you dare"

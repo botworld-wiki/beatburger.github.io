@@ -189,7 +189,7 @@ Unique Bandits have 6 bots in their loadout
 
 The first Super Bot you'll face on your journey
 
-**Roams around**: [Great Desert](<https://www.botworld.wiki/maps#great-desert>)
+**Roams around**: [Great Desert](</maps#great-desert>)
 
 **Bots**:1x **Mega Flamer**, 1x [Yanky](</yanky>)
 
@@ -243,7 +243,7 @@ The first Super Bot you'll face on your journey
 
 He hits hard from the start and will snowball in power as the battle drags on
 
-**Roams around**: [Parched Sea](<https://www.botworld.wiki/maps#parched-sea>)
+**Roams around**: [Parched Sea](</maps#parched-sea>)
 
 **Bots**:1x **Super K.O.**, 1x [Halo](</halo>)
 
@@ -263,7 +263,7 @@ He hits hard from the start and will snowball in power as the battle drags on
 
 The strongest Roaming Boss
 
-**Roams around**: [Spore Wood](<https://www.botworld.wiki/maps#spore-woods>)
+**Roams around**: [Spore Wood](</maps#spore-woods>)
 
 **Bots**: 1x **Super Virus**, 1x [Fork](</fork>), 1x [K.O.](</ko>)
 

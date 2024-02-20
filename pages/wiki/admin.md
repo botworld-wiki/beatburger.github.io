@@ -134,7 +134,7 @@ if (window.location.hash.startsWith('#font')){
 </script>
   
 <div id="bannerPicker">
-	<a href="https://www.botworld.wiki/#https://cdn.discordapp.com/attachments/918419557792776202/920439171171094588/welcome.png">Example</a>
+	<a href="/#https://cdn.discordapp.com/attachments/918419557792776202/920439171171094588/welcome.png">Example</a>
 	<input type="text" placeholder="https://cdn.discordapp.com/attachments/918419557792776202/920287854268129280/BotpediaBackgroundAlt3.png">
 	<div></div>
 </div>

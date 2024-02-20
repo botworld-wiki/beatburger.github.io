@@ -29,7 +29,7 @@ Formatting demo:
 
 You can combine stuff too ***like this***
 
-[link to other pages like this](https://www.botworld.wiki)
+[link to other pages like this]()
 
 - list
 - stuff

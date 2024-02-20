@@ -25,11 +25,11 @@ From Monday 2022-07-04 21h CET, to Monday 2022-07-11 21h CET
 
 ### index
 
-1. [Thank You Featherweight](https://www.botworld.wiki/wikiweek#thank-you-featherweight)
-2. [Important](https://www.botworld.wiki/wikiweek#important)
-3. [Rewards](https://www.botworld.wiki/wikiweek#rewards)
-4. [Rules](https://www.botworld.wiki/wikiweek#rules)
-5. [Documentation](https://www.botworld.wiki/wikiweek#documentation) \
+1. [Thank You Featherweight](/wikiweek#thank-you-featherweight)
+2. [Important](/wikiweek#important)
+3. [Rewards](/wikiweek#rewards)
+4. [Rules](/wikiweek#rules)
+5. [Documentation](/wikiweek#documentation) \
     a. [How WikiWeek works](#how-wikiweek-works)  \
     b. [How to prepare a valuable contribution](#how-to-prepare-a-valuable-contribution)  \
     c. [How to use Editor Mode to edit content](#how-to-use-editor-mode-to-edit-content)  \
@@ -117,7 +117,7 @@ Note: this only applies to purposedly harmful behavior. Good-faith mistakes can 
 ![Editor Mode usage demo](https://camo.githubusercontent.com/1077764570dde697200709de12c5b7790666d4d4f3cf58a9a7b27b506da381fc/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3931373830393739303238343037393131342f3937393430383931393737383639373232362f656469746f722d6d6f64652e706e67)
 
 - get your credentials (DM pix)
-- login from the [admin login page](https://www.botworld.wiki/admin)
+- login from the [admin login page](/admin)
 - take a first tour, click a couple "Edit" buttons, try changing some stuff to preview the result, but don't save anything just yet.
 - **safety talk: read the section** below to ensure your hard work can't be lost due to someone else's mistake or a potential internal bug. 
 - have at it
