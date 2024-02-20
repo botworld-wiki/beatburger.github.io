@@ -7,7 +7,7 @@ updatedAt: "2022-01-06"
 title: "Sheller (Epic Splasher)"
 name: "Sheller"
 description: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  \n- Speciality: lays down Mines\n- Note: still untested!\n- Acquisition: Snail Season 30 reward"
-imageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
+imageUrl: "/assets/img/bots/sheller.png"
 breadcrumbs:
   Bots: "/bots"
   Splasher: ""
@@ -15,7 +15,7 @@ breadcrumbs:
 
 botName: "Sheller"
 botDescription: "Launches deadly mines around the arena. Sheller traded out any semblance of accuracy in favour of raw firepower."
-botImageUrl: "https://www.botworld.wiki/assets/img/bots/sheller.png"
+botImageUrl: "/assets/img/bots/sheller.png"
 botType: "Splasher"
 botRarity: "Epic"
 botRaritySortOrder: "4"
