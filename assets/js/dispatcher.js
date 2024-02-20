@@ -93,7 +93,7 @@ async function fetchInlines(){
     var inlinesLookup = {};
     for (let i=0; i < entries.length; i++) {
         if (entries[i].inline){
-            inlinesLookup[entries[i].url] = entries[i].inline;
+            inlinesLookup[document.location.origin+entries[i].url] = entries[i].inline;
         }
     }
 
