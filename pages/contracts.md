@@ -57,9 +57,8 @@ breadcrumbs:
 <h1 id="contracts">Contracts</h1>
 
   <div class=" ghcms ghcms-intro">
-Completing contracts is the main way to progress through a Season
 
-**Seasons**: find out how they work in [Seasons](</seasons>)<br>
+Completing contracts is the main way to progress through a Season **Seasons**: find out how they work in [Seasons](</seasons>)<br>
 
 **Earning Season Tokens while exploring**: [Exploring](</exploring>)<br>
 
@@ -71,6 +70,7 @@ Completing contracts is the main way to progress through a Season
 - Mayoral Membership allows you to skip ads and get free unlimited Contracts
 - You can reroll a contract you don't like
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
+
   </div>
   
 <h3 id="mapping-header">Level Mapping of Botworld</h3>
@@ -193,7 +193,7 @@ Completing contracts is the main way to progress through a Season
 
 <h2 id="contracts-list">Contracts list</h2>
 <div class=" ghcms ghcms-list">
-### World Wide Contracts
+  ### World Wide Contracts
 
 **These tasks can be completed in any map or area**
 
@@ -254,7 +254,7 @@ They are map-specific quest chains presented as special Contracts that'll teach 
 
 ### Stylist's Scissors
 
-Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+**Location**: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 **Requirements**: None
 
@@ -264,7 +264,7 @@ Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 ### Fisherman's Friend
 
-Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+**Location**: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 **Requirements**: None
 
@@ -275,7 +275,7 @@ Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 ### A Thorny Issue
 
-Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+**Location**: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 **Requirements**: None
 
@@ -285,7 +285,7 @@ Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 ### Hide and Seek
 
-Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
+**Location**: [Scrapper Coast](</maps#scrapper-coast>)<br>
 
 **Requirements**: None
 
@@ -293,11 +293,9 @@ Location: [Scrapper Coast](</maps#scrapper-coast>)<br>
 - Reward: [Bandage Strip](</cosmetics>)
 
 
-Great Desert Side Quest
-
 ### Ancient Ruins
 
-Location: [Great Desert](</maps#great-desert>)<br>
+**Location**: [Great Desert](</maps#great-desert>)<br>
 
 **Requirements**: Botpack level 3
 
@@ -307,7 +305,7 @@ Location: [Great Desert](</maps#great-desert>)<br>
 
 ### The Watchtower
 
-Location: [Great Desert](</maps#great-desert>)<br>
+**Location**: [Great Desert](</maps#great-desert>)<br>
 
 **Requirements**: Botpack level 3
 
@@ -320,9 +318,9 @@ Location: [Great Desert](</maps#great-desert>)<br>
 - Reward: 50 Tokens
 
 
-### Secrets of Spore Wood
+### Secrets of Spore Woods
 
-**Location**: [Spore Wood](</maps#spore-woods>)<br>
+**Location**: [Spore Woods](</maps#spore-woods>)<br>
 
 **Requirements**: Botpack Lv23
 
