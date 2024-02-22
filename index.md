@@ -129,12 +129,32 @@ description: Everything about every Bot, Ability, Map,.. anything in Botworld ! 
 
 <div markdown="1" class="grid-box tall ghcms ghcms-homenews">
 
-- [A new bot - Nibbles is revealed](/news#d2022-07-19)
-- [Rat - a new playable character will be introduced in a future update!](/news#d2022-07-10)
-- [WikiWeek](/wikiweek): Gems rewards for wiki contributiones this week! [full rules and infos](/wikiweek)
-- [QnA with the devs](</qna>): Featherweight answer some questions of ours!
-- [Community Bot Event](</news#d2022-06-25>): FW invites the community to create a bot! The winner(s) will see their bot concept make it into the game, and be involved in the development process! [Details, dates, rewards, etc in the full post](</news#d2022-06-25>) 
-- New bot: [Link](</link>) joins the game along with arena master [Laydee](</arena#laydee>)!
+### New wiki features!
+
+- **Send feedback**: send your edit suggestions directly to our team (link under the banner, and or via the bottom right Beat Burger button)
+- [Comp Builder](</comp>): create, share, save your favorite loadouts with bots, AI, abilities & boosters
+
+
+### Season of Cosmos
+
+The new season **Season of Cosmos** is here. This season brings exciting new updates to the game (v 1.14)
+
+- **Raids** rework: You now choose abilities and boosters as you progress during waves 
+- New Season Pass: the Season of Cosmos begins, providing access to a new Bullseye Style (Judgement), new legendary [cosmetics](</cosmetics>), and loads of scrap
+- New Legendary [Booster](</boosters>) \- [Pure Energy](</pure-energy>)
+- 3 New Legendary [Abilities](</abilities>) \- [Glacier Path](</glacier-path>), [Hack Bolt](</hack-bolt>), [Orbital Laser](</orbital-laser>) 
+- New [Guild](</guilds>) Quests and Guild improvements
+
+
+\_\_
+
+Ongoing Events
+
+**Raid Rumble** (June 25 - July 20, 2023)<br>
+
+10 winners - 1000 gems each
+
+Please refer [https://bit.ly/raidrumble](<https://bit.ly/raidrumble>) for more info. You can also join the discord server or lookout for posts on social media to know more about this event and how to participate
 
 </div>
 

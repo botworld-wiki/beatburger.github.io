@@ -71,7 +71,7 @@ Completing contracts is the main way to progress through a Season **Seasons**: f
 - You can reroll a contract you don't like
 - You'll get Contracts for maps/zones that are in a level range equal to Your Botpack Level +-2, keep that in mind and plan ahead your Bot upgrades
 
-  </div>
+</div>
   
 <h3 id="mapping-header">Level Mapping of Botworld</h3>
 <div id="level-mapping">

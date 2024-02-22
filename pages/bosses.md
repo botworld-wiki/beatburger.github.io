@@ -176,20 +176,21 @@ Ps. It might be tricky to use [Pupil](</pupil>) against him since Mega Dunebug w
 ## Roaming bosses
 
 <div markdown="1" class=" ghcms ghcms-roaming">
-
 Special bosses that appear roaming in specific maps, they can be either **Super Bots** or **Unique Bandits** and beating them will grant a [Codex](</codex>) achievement
 
 Super Bots have 50% stun resistance, Hack immunity ([Hack](</hack>), [Hack Missile](</hack-missile>) and [Virus](</virus>)) and a fixed loadout
 
 Unique Bandits have 6 bots in their loadout
 
-### Super Flamer - Base level 15
+### Super Flamer
+
+**Base level:** 15
 
 ![300px Super Flamer](<https://cdn.discordapp.com/attachments/923510071026155550/993826972977344532/unknown.png>)<br>
 
 The first Super Bot you'll face on your journey
 
-**Roams around**: [Great Desert](</maps#great-desert>)
+**Roams around**: [Great Desert](</maps#great-desert>) ([Route](</codex#great-desert>))
 
 **Bots**:1x **Mega Flamer**, 1x [Yanky](</yanky>)
 
@@ -204,11 +205,13 @@ The first Super Bot you'll face on your journey
 - Random Drop bots that are also great in this fight are: [Link](</link>), [Bigshot](</bigshot>), [Pupil](</pupil>), [Halo](</halo>), [Pluggie](</pluggie>) ([Arena](</arena>)), [Beat](</beat>) ([Arena](</arena>)) and [Mort](</mort>)
 
 
-### Wold Pack Alpha - Base level 20
+### Wolf Pack Alpha
+
+**Base level:** 20
 
 ![300px Wolf Pack Alpha](<https://cdn.discordapp.com/attachments/923510071026155550/993952479681196152/unknown.png>)<br>
 
-**Roams around**: [Fall Grove](</maps#fall-grove>)
+**Roams around**: [Fall Grove](</maps#fall-grove>) ([Route](</codex#fall-grove>))
 
 **Bots**: 2x [Slicer](</slicer>), 2x [Ram](</ram>), 2x [Longshot](</longshot>)
 
@@ -222,11 +225,13 @@ The first Super Bot you'll face on your journey
 
 <div markdown="1" class=" ghcms ghcms-roaming1">
 
-### Fork Tongue Fanatics Leader - Base level 22
+### Fork Tongue Fanatics Leader
+
+**Base level:** 22
 
 ![300px Fork Tongue Fanatics Leader](<https://cdn.discordapp.com/attachments/923510071026155550/993952575890128916/unknown.png>)
 
-**Roams around**: [Saltwater Swamp](</maps#saltwater-swamp>)
+**Roams around**: [Saltwater Swamp](</maps#saltwater-swamp>) ([Route](</codex#saltwater-swamp>))
 
 **Bots**: 2x [Fork](</fork>), 2x [Thump](</thump>), 2x [Froggy](</froggy>)
 
@@ -237,13 +242,15 @@ The first Super Bot you'll face on your journey
 - [to be written...](</contribute#tbw>)
 
 
-### Super K.O. - Base level 25
+### Super K.O.
+
+**Base level:** 25
 
 ![300px Super K.O.](<https://cdn.discordapp.com/attachments/923510071026155550/993823666565554186/unknown.png>)
 
 He hits hard from the start and will snowball in power as the battle drags on
 
-**Roams around**: [Parched Sea](</maps#parched-sea>)
+**Roams around**: [Parched Sea](</maps#parched-sea>) ([Route](</codex#parched-sea>))
 
 **Bots**:1x **Super K.O.**, 1x [Halo](</halo>)
 
@@ -252,18 +259,20 @@ He hits hard from the start and will snowball in power as the battle drags on
 **Super K.O.** is quite bulky and hits really hard, so it's not easily tanked
 
 - [Halo](</halo>) must be taken care of as soon as possible to prevent Super K.O. from being buffed
-- "Hit and Run" is the best strategy to deal with him. [Rocketeer](</rocketeer>) and [Gust](</gust>) are great for keeping him away, while [Frosty](</Frosty>) and [Dune bug](</dune-bug>) can drag him around. [Vortex](</vortex>) and [Barrier Wall](</barrier-wall>) can be used to stagger for time and counter his speed boost
+- “Hit and Run” is the best strategy to deal with him. [Rocketeer](</rocketeer>) and [Gust](</gust>) are great for keeping him away, while [Frosty](</Frosty>) and [Dune bug](</dune-bug>) can drag him around. [Vortex](</vortex>) and [Barrier Wall](</barrier-wall>) can be used to stagger for time and counter his speed boost
 - The [Bigshot](</bigshot>) \+ [Vanish](</vanish>) combo will work just fine in taking him down, but be aware that he can quickly reach and kill [Bigshot](</bigshot>) if you fail to react after his speed boost
 - The fight can be cheesed by using 2x [Corrupted Power Generation](</corrupted-power-generation>)(or 3x [Epic Power Generation](</power-generation-epic>)) + [Barrier Wall](</barrier-wall>) to keep him permanently locked while [Bullseye](</bullseye>) steadily drain his health
 
 
-### Super Virus - Base level 30
+### Super Virus
+
+**Base level:** 30
 
 ![300px Super Virus](<https://cdn.discordapp.com/attachments/923510071026155550/993828686723813498/unknown.png>)
 
-The strongest Roaming Boss
+The former strongest Roaming Boss
 
-**Roams around**: [Spore Wood](</maps#spore-woods>)
+**Roams around**: [Spore Woods](</maps#spore-woods>) ([Route](</codex#spore-woods>))
 
 **Bots**: 1x **Super Virus**, 1x [Fork](</fork>), 1x [K.O.](</ko>)
 
@@ -272,8 +281,26 @@ The strongest Roaming Boss
 **Super Virus** isn't the only threat in this fight, if you focus on him [Fork](</fork>) will wipe out your [Snipers](</bots#snipers>) and [Splashers](</bots#splashers>)
 
 - [Hyperdrain](</hyperdrain>) is essential to keep him from hacking your frontline
-- The "Hit and Run" strategy used against **Super K.O.** works well against him, but it is heavier on Botpack Power because you'll need to constantly keep his ult in check. You'll also need to save Botpack Power for an emergency [Gust](</gust>), [SCT](</supercharged-chaos-translocator>), [Proximity Translocator](</proximity-translocator>) or [Barrier-wall](</barrier-wall>) to counter his Disable skill
+- The “Hit and Run” strategy used against **Super K.O.** works well against him, but it is heavier on Botpack Power because you'll need to constantly keep his ult in check. You'll also need to save Botpack Power for an emergency [Gust](</gust>), [SCT](</supercharged-chaos-translocator>), [Proximity Translocator](</proximity-translocator>) or [Barrier-wall](</barrier-wall>) to counter his Disable skill
 - As with **Super K.O.**, this fight can be cheesed by using 2x [Corrupted Power Generation](</corrupted-power-generation>) (or 3x [Epic Power Generation](</power-generation-epic>)) + [Barrier Wall](</barrier-wall>) to keep him permanently locked while [Bullseye](</bullseye>) steadily drain his health
+
+
+### Super Berserker
+
+**Base level:** 30
+
+- [picture to be added](</contribute#tbw>)
+
+
+The strongest Roaming Boss
+
+**Roams around**: [Ashen Shore](</maps#ashen-shore>) ([Route](</codex#ashen-shore>))
+
+**Bots**: [to be added](</contribute#tbw>)
+
+**Tips**
+
+- [to be written...](</contribute#tbw>)
 
 </div>
 

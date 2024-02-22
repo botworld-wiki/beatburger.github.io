@@ -11,9 +11,7 @@ breadcrumbs:
 # Botpack
 
 <div markdown="1" class=" ghcms ghcms-intro">
-
-Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](</bots>), cast powerful abilities, equip useful boosters and use fun gadgets.
-
+Mom gave you a Botpack, now you're a real Botmaster! With it you can control your [bots](</bots>), cast powerful [abilities](</abilities>), equip useful [boosters](</boosters>), and use fun [gadgets](</gadgets>).
 </div>
 
 <div class="botpack">
@@ -36,12 +34,13 @@ Mom gave you a Botpack, now you're a real Botmaster! With it you can control you
 
 <div markdown="1" class=" ghcms ghcms-abilities">
 
-How well you use your Abilities will make or break difficult fights. Try and have a tool for most tricky situations you can get yourself into!
+How well you use your abilities will make or break difficult fights. Try and have the right tool for the job and counters for tricky situations you will undoubtedly get yourself into!
 
-- **Power generation rate**:  [missing data](/contribute#tbw)
-- **Damaging abilities scale** with your botpack level: [missing data](/contribute#tbw)
+- **Power generation rate**: [missing data](</contribute#tbw>)
+- **Damaging abilities scale** with your botpack level: [missing data](</contribute#tbw>)
 
-Find a detailled table with [all the info about every Ability](/abilities)
+
+Check out the [Abilities](</abilities>) page for **detailed information on every ability.**
 
 </div>
 
@@ -65,13 +64,11 @@ Find a detailled table with [all the info about every Ability](/abilities)
 
 
 <div markdown="1" class=" ghcms ghcms-boosters">
-
 Having the right Boosters will round up your playstyle and your comp.
 
--**Stacking**: multiplicative != additive [To Be Written](/contribute#tbw)
+**Stacking**: multiplicative != additive [missing data](</contribute#tbw>)
 
-Find a detailled table with [all the info about every Booster](/boosters)
-
+Check out the [Boosters](</boosters>) page for **detailed information on every booster.**
 </div>
 
 <div class="botpack no-inline">

@@ -13,17 +13,22 @@ breadcrumbs:
 # Codex Guide
 
 <div markdown="1" class=" ghcms ghcms-intro">
-![Codex Tab screenshot](<https://media.discordapp.net/attachments/993917728773636116/994253039349272576/IMG_20220706_214628.jpg>)
 
-The Codex is a new feature added with [Version 1.2](</news#v120>). It adds a couple of new Quests to the early and midgame zones and gives advanced players a reason to visit again - other than [Farming](</farming>) of course.
+![Codex Tab screenshot](<https://media.discordapp.net/attachments/923510071026155550/1037315781375037440/Codex.png>)
 
-Each [Map](</maps>) has its own quest list and you can get cosmetic rewards for finishing a certain amount ontop of 100 Coins for each objective you complete.
+### Overview
 
-Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>) \| [Spore Woods](<#spore-woods>) \| [Ashen Shore](<#ashen-shore>) \| [Exterminator Squads](<#exterminator-squads>)
+The Codex is a new feature added with [Version 1.2](</news#v120>). It adds new Quests to normal and danger zones which gives advanced players a reason to revisit areas - other than [Farming](</farming>).
+
+### Rewards
+
+Each [Map](</maps>) has it's own list of quests that reward the player with cosmetic rewards for completing a specific number of objectives and 100 Coins for each objective you complete.
+
+**Jump to section 🔹** \| [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>) \| [Spore Woods](<#spore-woods>) \| [Ashen Shore](<#ashen-shore>) \| [Exterminator Squads](<#exterminator-squads>) \| [Fishing Codex](<#fishing-codex>) \|
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
-
 ## Scrapper Coast
 
 ### Missions
@@ -55,20 +60,20 @@ Go to: [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>)�
 
 ### Guides
 
-- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. There is no real place to farm for this, it's just random and you'll eventually find one doing the other Codex missions. Anyways this is what it looks like:
+- **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. It can appear anywhere on the map, at complete random. Here is what it looks like:
 
 
-![300px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+![100px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
 
-Fastest way to search rare **Jackalope** is to search every places on the map. If haven't found it yet, just jetpack home to reset the map and repeat until you find it
+The fastest way to find the **Rare Jackalope** is to search the entire map. If haven't found it yet, just jetpack home to reset the map and repeat until you find it.
 
-- **Rare Tulips:** replace Scrap Piles and can be found anywhere
-- **Wild Yanky:** 5-7 can be found if you start at cobblestone clearing. run north and stay left to River Run.
-- **Rat Bandits:** A good place to farm these is Cobblestone Trail
-- **Red Square:** Explore ![Scrapper Coast](<https://cdn.discordapp.com/attachments/923510071026155550/926945206790651984/scrapper-coast-codex-new-min.png>)
+- **Rare Tulips:** These replace Scrap Piles and can be found anywhere. [Click here](<https://cdn.discordapp.com/attachments/923510071026155550/1016514967912071259/tulip-route.png>) to see the route suggested by Echio.
+- **Wild Yanky Packs:** Roughly 5-7 can be found by starting at Cobblestone Clearing (see route map below), then run North staying on the left toward River Run.
+- **Rat Bandits:** A good place to farm these is Cobblestone Trail.
+- **Explore:** Exploration locations can be found in the areas highlighted by red squares in the route map below. ![Scrapper Coast](<https://cdn.discordapp.com/attachments/923510071026155550/926945206790651984/scrapper-coast-codex-new-min.png>)
 
 
-*credit: debb, Kartoffel*
+*credit: debb, Kartoffel, Echio*
 
 </div>
 
@@ -90,7 +95,7 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - Defeat Desert Cat Bandits (150)
 - Defeat Desert Cat Bandits (750)
 - Defeat Wild [Pupil](</pupil>) Packs (75)
-- Defeat Dangerous Wild [Pupil](</pupil>) Packs (3)
+- Defeat Dangerous Wild [Pupil](</pupil>) Packs (2)
 
 
 ### Rewards
@@ -121,8 +126,8 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 ### Missions
 
-- Pick Pumpkins (20)
-- Pick Pumpkins (100)
+- Pick [Pumpkins](<https://cdn.discordapp.com/attachments/923510071026155550/1016547752475373628/Screenshot_20220906-0015032.png>) (20)
+- Pick [Pumpkins](<https://cdn.discordapp.com/attachments/923510071026155550/1016547752475373628/Screenshot_20220906-0015032.png>) (100)
 - [Defeat the Wandering Wolf Pack Alpha](<https://cdn.discordapp.com/attachments/923510071026155550/926406886620807208/unknown.png>)
 - [Explore the Wolf Pack Settlement](<https://cdn.discordapp.com/attachments/923510071026155550/925299781293719622/Screenshot_20211228-153308.jpg>)
 - [Explore the Crater Dome Control Panel](<https://cdn.discordapp.com/attachments/923510071026155550/925299781520207892/Screenshot_20211228-152931.jpg>)
@@ -130,9 +135,9 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - [Explore Mia's Place](<https://cdn.discordapp.com/attachments/923510071026155550/925299781792833536/Screenshot_20211228-153057.jpg>)
 - [Explore Redleaf Trail](<https://cdn.discordapp.com/attachments/923510071026155550/926203200548249690/unknown.png>)
 - [Explore the Stonefinger Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/926201276566495323/unknown.png>)
-- [Catch Dragonflies (10)](<https://media.discordapp.net/attachments/993917728773636116/993937322846453891/Screenshot_20220326-141608.png>)
+- [Catch Dragonflies (10)](<https://media.discordapp.net/attachments/923510071026155550/958814580245676172/Screenshot_20220326-141608.png>)
 - Defeat Wild [Thump](</thump>) Packs (75)
-- Defeat Dangerous Wild [Thump](</thump>) Packs (3)
+- Defeat Dangerous Wild [Thump](</thump>) Packs (2)
 - Defeat Wolf Pack Scrappers (150)
 - Defeat Wolf Pack Scrappers (750)
 
@@ -141,19 +146,20 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 **All 13 Missions completed:** Wolf Pack Alpha Mask
 
-![Wolf Pack Alpha Mask](<https://cdn.discordapp.com/attachments/923510071026155550/926154509183492166/IMG_20211230_234643.jpg>)
+![200px Wolf Pack Alpha Mask](<https://cdn.discordapp.com/attachments/923510071026155550/926154509183492166/IMG_20211230_234643.jpg>)
 
 **8 Missions completed:** Wolf Pack Suit
 
-![Wolf Pack Suit](<https://cdn.discordapp.com/attachments/923510071026155550/926146415883849788/unknown.png>)
+![300px Wolf Pack Suit](<https://cdn.discordapp.com/attachments/923510071026155550/926146415883849788/unknown.png>)
 
 ### Guides
 
+- **Pumpkins**: Replace Scrap Piles and can appear anywhere. [Click here](<https://cdn.discordapp.com/attachments/923510071026155550/1016514968239210506/pumpkin-route.png>) to see the route suggested by Echio
 - **Red Square:** Explore
 - **Black Line:** Wandering Wolf Pack Alpha
 
 
-![Fall Grove](<https://cdn.discordapp.com/attachments/923510071026155550/926945205578502205/fall-grove-codex-new-min.png>)*credit: Hex, debb, Nostalgia, BloodxReaper*
+![Fall Grove](<https://cdn.discordapp.com/attachments/923510071026155550/926945205578502205/fall-grove-codex-new-min.png>)*credit: Hex, debb, Nostalgia, BloodxReaper, Echio*
 </div>
 
 ## Saltwater Swamp
@@ -161,29 +167,30 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 ### Missions
 
-- [Defeat the Fork Tongue Fanatics Leader](<https://cdn.discordapp.com/attachments/923510071026155550/926331336422207508/IMG_20211231_095858.jpg>)
+- Defeat the [Fork Tongue Fanatics Leader](<https://cdn.discordapp.com/attachments/923510071026155550/926331336422207508/IMG_20211231_095858.jpg>)
 - [Explore the Abandoned Factory](<https://cdn.discordapp.com/attachments/923510071026155550/925218667556397098/Screenshot_2021-12-28-09-39-31-350_com.featherweightgames.fx.png>)
 - [Explore the Big Tree](<https://cdn.discordapp.com/attachments/923510071026155550/925218477919338566/Screenshot_2021-12-28-09-18-42-434_com.featherweightgames.fx.png>)
 - [Explore the Bog Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/925333569549791242/Screenshot_20211228_112427.png>)
 - [Explore Giant's Steps](<https://cdn.discordapp.com/attachments/923510071026155550/925326439509790780/Screenshot_20211228_105620.png>)
 - [Explore Larry's Cruise Ship](<https://cdn.discordapp.com/attachments/923510071026155550/925314557210132530/Screenshot_20211228_100859.png>)
 - [Explore the Mangrove Village](<https://cdn.discordapp.com/attachments/923510071026155550/925218478678499378/Screenshot_2021-12-28-09-34-04-579_com.featherweightgames.fx.png>)
-- [Catch a Rare Firefly](<https://media.discordapp.net/attachments/993917728773636116/993937310724935751/Screenshot_20220403-120101.png>)
+- [Explore the Ritual Grounds](<https://cdn.discordapp.com/attachments/923510071026155550/1017647176106655815/Screenshot_20220909-0040282.png>)
+- [Catch a Rare Firefly](<https://media.discordapp.net/attachments/832312687932473414/1046148910701363251/image.png>)
 - Defeat Fork Tongue Fanatics (200)
 - Defeat Fork Tongue Fanatics (1000)
-- Defeat Wild Froggy Packs (100)
-- Defeat Wild Froggy Packs (500)
+- Defeat Wild [Froggy](</froggy>) Packs (100)
+- Defeat Wild [Froggy](</froggy>) Packs (500)
 
 
 ### Rewards
 
-**All 12 Missions completed:** Fork Tongue Headwear
+**All 13 Missions completed:** Fork Tongue Headwear
 
-![Fork Tongue Headwear](<https://cdn.discordapp.com/attachments/923510071026155550/926154220153995295/IMG_20211230_234602.jpg>)
+![200px Fork Tongue Headwear](<https://cdn.discordapp.com/attachments/923510071026155550/926154220153995295/IMG_20211230_234602.jpg>)
 
 **8 Missions completed:** Fork Tongue War Paint
 
-![Fork Tongue War Paint](<https://cdn.discordapp.com/attachments/923510071026155550/926146321302306907/unknown.png>)
+![300px Fork Tongue War Paint](<https://cdn.discordapp.com/attachments/923510071026155550/926146321302306907/unknown.png>)
 
 ### Guides
 
@@ -191,7 +198,7 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - **Black Line:** Roaming Fork Leader
 
 
-![Saltwater Swamp Codex](<https://cdn.discordapp.com/attachments/923510071026155550/926945206274773062/saltwater-swamp-codex-new-min.png>)
+![Saltwater Swamp Codex](<https://cdn.discordapp.com/attachments/923510071026155550/1017646685888974908/saltwater-swamp-codex-new-min.png>)
 
 *Credit: cloud9, Hex, debb, BloodxReaper*
 </div>
@@ -220,11 +227,11 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 **All 12 Missions completed:** Pirate Hat
 
-![Pirate Hat](<https://cdn.discordapp.com/attachments/923510071026155550/926427041602080778/IMG_20211231_174935.jpg>)
+![200px Pirate Hat](<https://cdn.discordapp.com/attachments/923510071026155550/926427041602080778/IMG_20211231_174935.jpg>)
 
 **8 Missions completed:** Pirate Costume
 
-![Pirate Costume](<https://cdn.discordapp.com/attachments/923510071026155550/926146239370772520/unknown.png>)
+![300px Pirate Costume](<https://cdn.discordapp.com/attachments/923510071026155550/926146239370772520/unknown.png>)
 
 ### Guides
 
@@ -232,7 +239,7 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - **Black Line:** [Roaming Super K.O.](</bosses#super-ko>)'s route
 
 
-![Parched Sea](<https://cdn.discordapp.com/attachments/923510071026155550/932915315514425384/parched-sea-codex-new3-min.png>)*credit: Hex, debb, cloud9, Chael, Letplz*
+![Parched Sea](<https://pokefarm.com/upload/:JNGl/potential_bwa/parched-sea-codex-new3-min.png_2.png>)*credit: Hex, debb, cloud9, Chael, Letplz*
 </div>
 
 ## Spore Woods
@@ -258,11 +265,11 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 **8 Missions completed:** Plant Garb Gang<br>
 
-![Plant Gang Garb](<https://cdn.discordapp.com/attachments/923509490307977227/993831615883124786/Screenshot_20220705-125116_Botworld.jpg>)
+![300px Plant Gang Garb](<https://cdn.discordapp.com/attachments/923509490307977227/993831615883124786/Screenshot_20220705-125116_Botworld.jpg>)
 
 **All 12 Missions completed:** Plant Gang Cap<br>
 
-![Plant Gang Cap](<https://media.discordapp.net/attachments/993917728773636116/994297693511897269/IMG_20220707_004346.jpg>)
+![300px Plant Gang Cap](<https://media.discordapp.net/attachments/993917728773636116/994297693511897269/IMG_20220707_004346.jpg>)
 
 ### Guides
 
@@ -274,14 +281,14 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 ![Spore Woods](<https://media.discordapp.net/attachments/923510071026155550/994120304622313482/SporeWood-BossPat.jpg>)
 
 - **Rare critters spawn conditions**: If you encounter a fight with a bandit or bot, they will despawn and appears somewhere else within Spore Woods
-- **Strange Lifeform**: To reach it, you'll need a side quest called **Secret of the Spore Woods** to appear in your [Contracts](</contracts>) section. Keep doing contracts or discard them until it appears
+- **Strange Lifeform**: To reach it, you’ll need a side quest called **Secret of the Spore Woods** to appear in your [Contracts](</contracts>) section. Keep doing contracts or discard them until it appears
 
 
 *Credits: Snow ❆, Hex, Chael and Echio*
-
 </div>
 
 ## Ashen Shore
+
 <div markdown="1" class=" ghcms ghcms-ashenshore">
 
 ### Missions
@@ -294,7 +301,7 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 - [Explore Twin Peaks](<https://media.discordapp.net/attachments/993917728773636116/1001743041360560178/Screenshot_20220727_132846.jpg>)
 - [Explore Omen's Outcrop](<https://media.discordapp.net/attachments/824807657550381088/1002183578572034048/Screenshot_20220728_185924.jpg>)
 - [Explore Fate's End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
-- Explore Basalt Shelter
+- [Explore Basalt Shelter](<https://media.discordapp.net/attachments/993917728773636116/1001751830033870898/Screenshot_20220727_142002.jpg>)
 - Defeat Viking Buffalos (100)
 - Defeat Viking Buffalos (500)
 - Defeat Beat Packs (100)
@@ -305,15 +312,9 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 
 - **8 Missions Completed**: Viking Raider Tunic<br>
 
-
-
-![Viking Raider Tunic](<https://media.discordapp.net/attachments/993917728773636116/1004009895907049492/IMG_20220802_195532.jpg>)
-
 - **13 Missions Completed**: Viking Raider Helmet<br>
 
 
-
-![Viking Raider Helmet](<https://media.discordapp.net/attachments/993917728773636116/1004009895584075916/IMG_20220802_195459.jpg>)
 
 ### Guides
 
@@ -332,35 +333,29 @@ Fastest way to search rare **Jackalope** is to search every places on the map. I
 ## Exterminator Squads
 
 <div markdown="1" class=" ghcms ghcms-squads">
+
 ### Missions
 
-- Defeat Bosses in Frozen Wastes (100)
-- Defeat an Exterminator Squad in Frozen Wastes
-- Defeat the Final Exterminator Squad in Frozen Wastes
-- Defeat Bosses in Molten Rock (100)
-- Defeat an Exterminator Squad in Molten Rock
-- Defeat the Final Exterminator Squad in Molten Rock
-- Defeat Bosses in Vivid Valley (100)
-- Defeat an Exterminator Squad in Vivid Valley
-- Defeat the Final Exterminator Squad in Vivid Valley
-- Defeat Bosses in Scrapyard (100)
-- [Defeat an Exterminator Squad in Scrapyard](<https://media.discordapp.net/attachments/993917728773636116/994796190954700821/unknown.png>)
-- Defeat the Final Exterminator Squad in Scrapyard
+- Defeat Bosses in [Frozen Wastes](</danger-zones#frozen-wastes>) (100)
+- Defeat an [Exterminator Squad](</danger-zones#exterminator-squads>) in [Frozen Wastes](</danger-zones#frozen-wastes>)
+- Defeat the Final [Exterminator Squad](</danger-zones#exterminator-squads>) in [Frozen Wastes](</danger-zones#frozen-wastes>)
+- Defeat Bosses in [Molten Rock](</danger-zones#molten-rock>) (100)
+- Defeat an [Exterminator Squad](</danger-zones#exterminator-squads>) in [Molten Rock](</danger-zones#molten-rock>)
+- Defeat the Final [Exterminator Squad](</danger-zones#exterminator-squads>) in [Molten Rock](</danger-zones#molten-rock>)
+- Defeat Bosses in [Vivid Valley](</danger-zones#vivid-valley>) (100)
+- Defeat an [Exterminator Squad](</danger-zones#exterminator-squads>) in [Vivid Valley](</danger-zones#vivid-valley>)
+- Defeat the Final [Exterminator Squad](</danger-zones#exterminator-squads>) in [Vivid Valley](</danger-zones#vivid-valley>)
+- Defeat Bosses in [Scrapyard](</danger-zones#scrapyard>) (100)
+- Defeat an [Exterminator Squad](</danger-zones#exterminator-squads>) in [Scrapyard](</danger-zones#scrapyard>)
+- Defeat the Final [Exterminator Squad](</danger-zones#exterminator-squads>) in [Scrapyard](</danger-zones#scrapyard>)
 
 
 ### Rewards
 
 **7 Missions completed:** Exterminator Armour<br>
 
-![Exterminator Armour](<https://media.discordapp.net/attachments/993917728773636116/994071778420867102/Untitled102_20220706094614.png>)
-
-### Guides
-
-- **Recommended gadgets**: Invisibility, Bombardment, Shockwave Generator and Mine
 - [Bosses](</bosses>):
 
-
-![Bosses](<https://media.discordapp.net/attachments/993917728773636116/994074586645798922/Untitled100.png>)<br>
 
 Unless they are only 1 level higher then you can feel confident to defeat them
 
@@ -380,5 +375,50 @@ Using **Mines** and **Turrets** placed around to your advantage by timing them t
 ## Fishing Codex
 
 <div markdown="1" class=" ghcms ghcms-fishing">
+### Mission
 
+- Catch Common Fish (100)
+- Catch Common Fish (500)
+- Catch Special Fish (80)
+- Catch Special Fish (400)
+- Catch Rare Fish (60)
+- Catch Rare Fish (300)
+- Catch Epic Fish (40)
+- Catch Epic Fish (200)
+- Catch Coastal Fish in Scrapper Coast (200)
+- Catch River Fish in Great Desert (200)
+- Catch Freshwater Fish in Fall Grove (200)
+- Catch Saltwater Fish in Saltwater Swamp (200)
+- Catch Cape Fish in Parched Sea (200)
+- Catch Wetland Fish in Spore Wood (200)
+- Catch Northern Fish in Ashen Shore (200)
+- Catch Polar Fish in Frozen Wastes (100)
+- Catch Volcano Fish in Molten Rock (100)
+- Catch Tropical Fish in Vivid Valley (100)
+- Catch Blackwater Fish in Scrapyard (100)
+- Earn the Fishmonger's Catch of the Day Bonus (100)
+- Earn the Fishmonger's Catch of the Day Bonus (500)
+- Earn Coins Selling Fish to the Fishmonger (1000)
+- Earn Coins Selling Fish to the Fishmonger (10000)
+
+
+### Rewards
+
+**Complete "Gone Fishing" Contract:** Amateur Rod<br>
+
+![100px Amateur Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076008744225357894/icon-fishing-amateurrod.webp>)
+
+**5 Missions Completed:** Hobby Rod<br>
+
+![100px Hobby Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076008912412749874/icon-fishing-hobbyrod.webp>)
+
+**15 Missions Completed:** Pro Rod<br>
+
+![100px Pro Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076009081682276442/icon-fishing-prorod.webp>)
+
+**23 Missions Completed:** Champion Rod<br>
+
+![100px Champion Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076010158980857876/icon-fishing-championrod.webp>)
+
+*Credits:Balakrishna and TsengFayt*
 </div>

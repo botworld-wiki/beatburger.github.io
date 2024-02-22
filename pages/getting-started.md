@@ -15,13 +15,11 @@ breadcrumbs:
 
 ## Hello young Botmaster !
 
-If you've just started with this great game and have questions at this very early stage, you're in the right place.
+If you've just started with this great game and have questions at this early stage, you're in the right place!
 
+Let’s make one thing clear: **this game won’t punish you for any choice you make**. Even when mutually exclusive options are presented, there will be other opportunities to try and pick the ones you haven’t yet - or get the same rewards by other means.
 
-Let's make one thing clear: **this game won't punish you for any choice you make**. Even when mutually exclusive options are presented, you will get other occasions to try and pick the ones you haven't yet, or get the same rewards by other means.
-
-
-[Botworld is well worth exploring](/exploring) at your own pace, and won't punish you for trying stuff or fooling around, so really you can stop reading and go straight in ! 
+[Botworld is well worth exploring](</exploring>) at your own pace and can even reward you for trying new things or just fooling around, so feel free to jump right in!
 
 </div>
 

@@ -58,6 +58,20 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 
 <div markdown="1" class=" ghcms ghcms-new-events">
 
+## Current event
+
+Current event is:<br>
+
+[Poison Predicament](<#poison-predicament>), started at 2023-09-08, and ending by 2023-09-22.
+
+### Tips
+
+- For poison task use Goop, and no bots with poison.
+- You can use 4x Goop and auto battle. It will be less efficient, but can help if you're tired.
+- Snakes can be found in Saltwater Swamp, Parched Sea and Vivid Valley.
+- When farming plants in Vivid Valley: the plants try to predict your position. When you see them shoot, change direction. Also you can run a bit past them and stop, they will shoot behind you.
+- Plants take a long time to disable, longer than invisibility can cover.
+
 </div>
 
 ## Winter Wonderland
@@ -167,8 +181,9 @@ A venomous vexation has overtaken the bandits and Botmasters of Borworld! Use po
 **Rewards**:
 
 - 1000 Guild Coins: [Splasher Explosive](</materials#splasher-explosive>)
-- 2000 Guild Coins: [Fork Essence](</fork>)
+- 2000 Guild Coins: [Fork](</fork>) Essence
 - 3000 Guild Coins: [Mega Chest](</loot>)
+
 </div>
 
 ## Shifting Sands
@@ -211,13 +226,16 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 
 **Description**:<br>
 
- Can you feel that buzz in your fuzz? Watch out for static discharge as the Electro Fest inspires Botmasters to power up and unleash some shocking tactics in battle! Zap, stun and spark your way to glory, but don't get lit up by the electrifying new traps Bandits have laid around Botworld...
+Can you feel that buzz in your fuzz? Watch out for static discharge as the Electro Fest inspires Botmasters to power up and unleash some shocking tactics in battle! Zap, stun and spark your way to glory, but don't get lit up by the electrifying new traps Bandits have laid around Botworld...
 
 **Guild Tasks**:
 
 - Cause Enemies to get Zapped by Electric Mines (1000) - *1000 Guild Coins*<br>
 
+
+
 ![100px Electro Fest Mine](<https://cdn.discordapp.com/attachments/923510071026155550/1011658676865613834/Screenshot_20220823-1219473.png>)
+
 - Hit Enemy Bots with [Zap Tower](</zap-tower>) (10000) - *1000 Guild Coins*
 - Hit Enemy Bots with [Pluggie](</pluggie>)'s Electrocute ultimate (3000) - *1000 Guild Coins*
 - Stun Enemy Bots with [Longshot](</longshot>)'s Electric Field (3000) - *1000 Guild Coins*
@@ -228,7 +246,8 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 - 1000 Guild Coins: [Super Chest](</loot>)
 - 2500 Guild Coins: [Pluggie](</pluggie>) Essence<br>
 
- 4000 Guild Coins: Random [Epic Ability Module](</abilities>)
+- 4000 Guild Coins: Random [Epic Ability Module](</abilities>)
+
 </div>
 
 ## Creature Feature
@@ -245,10 +264,16 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 - Find Rare Butterflies throughout Botworld (1000) - *1000 Guild Coins*<br>
 
+
+
 ![200pxRare Butterfly](<https://cdn.discordapp.com/attachments/923510071026155550/1002732905845489705/butterfly.jpeg>)
+
 - Find Origami Animals near Forests (1000) - *1000 Guild Coins*<br>
 
+
+
 ![Origami Animals](<https://cdn.discordapp.com/attachments/923510071026155550/1002755358965641286/origami-creature-feature_600px.png>)
+
 - Defeat Enemies using Summoned Recruits (10000) - *1000 Guild Coins*
 - Defeat Enemies Using an all Animal-themed Bot Team (1000) - *1000 Guild Coins*<br>
 
@@ -263,6 +288,63 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 - 1000 Guild Coins: Random [Rare Booster](</boosters>)
 - 2500 Guild Coins: [Froggy](</froggy>) Essence
 - 4000 Guild Coins: [Mega Chest](</loot>)
+
+
+NEXT OCCURRENCE:<br>
+
+![Creature Feature, temp](<https://cdn.discordapp.com/attachments/1128269795612180530/1134426116145287289/IMG_20230728_120152.jpg>)
+
+**Warning!**<br>
+
+*InkJet and Sheller seem to be bugged and prevent awarding points. Check [official Discord](<https://discord.com/channels/824807656945745951/824814784930250753>) for current status.*<br>
+
+**Start**: July 28th, 2023
+
+**Duration**: 14 days
+
+**Description**:
+
+Botworld's celebration of all creatures great and small has begun! From the tiniest forest critters, to the furry folk of Scrapper Coast - and even bots that could be mistaken for animals themselves - it's time to reflect on the majesty of all life on Botworld.
+
+**Guild tasks**:
+
+- Find Rare Butterflies throughout Botworld (1000) - *1000 Guild Coins*<br>
+
+
+
+![200pxRare Butterfly](<https://cdn.discordapp.com/attachments/923510071026155550/1002732905845489705/butterfly.jpeg>)
+
+- Find Origami Animals near Forests (1000) - *1000 Guild Coins*<br>
+
+
+
+![Origami Animals](<https://cdn.discordapp.com/attachments/923510071026155550/1002755358965641286/origami-creature-feature_600px.png>)
+
+- Defeat Enemies using Summoned Recruits (10000) - *1000 Guild Coins*
+- Defeat Enemies Using an all Animal-themed Bot Team (1000) - *1000 Guild Coins*<br>
+
+
+
+*Animal themed Bots*: [Thump](</thump>), [Dune Bug](</dune-bug>), [Hornet](</hornet>), [Bullwark](</bullwark>), [Nozzle](</nozzle>), [Froggy](</froggy>), [Ram](</ram>) and [Bullseye](</bullseye>), [Link](</link>), [Sheller](</sheller>), [InkJet](</inkjet>) and [Comet](</comet>)<br>
+
+<br>
+
+**Editor notes and tips:**<br>
+
+- There is more Animal themed Bots then last year.<br>
+
+- Points are awarded based on used bots, not all bots you have in the loadout.<br>
+
+
+
+![300px Animal Bots, Amad](<https://media.discordapp.net/attachments/824807657550381088/1134383428914135151/Screenshot_2023-07-28-02-06-49.png>)<br>
+
+**Rewards**
+
+- 1000 Guild Coins: Random [Rare Booster](</boosters>)
+- 2500 Guild Coins: [Froggy](</froggy>) Essence
+- 4000 Guild Coins: [Mega Chest](</loot>)
+
 </div>
 
 <div markdown="1" class=" ghcms ghcms-science-expo">

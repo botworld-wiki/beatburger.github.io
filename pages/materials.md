@@ -37,7 +37,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-bots">
 
-What you need to upgrade your bots.
+**These materials are used to upgrade bots. Upgrading bots above level 20 also requires a bot essence.**
 
 </div>
 

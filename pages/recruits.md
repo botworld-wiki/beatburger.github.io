@@ -34,9 +34,9 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 <div markdown="1" class=" ghcms ghcms-use">
 
-**Jobs**: they're all listed in [Jobs](/jobs)
+**Jobs**: Info can be found in [Jobs](</jobs>).<br>
 
-**Squad Cup**: is described in [Arena](/arena)
+**Squad Cup**: Info can be found in [Arena](</arena>).
 
 </div>
 
@@ -44,9 +44,11 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 ## Acquisition
 
-- 1st : boat lvl 4
-- 2nd : boat lvl 7
-- 3rd : boat lvl 11
+Recruits are unlocked by upgrading your [boat](</boat>).
+
+- **First Recruit:** [Boat Level 4](</boat#level-4>)
+- **Second Recruit:**[Boat Level 7](</boat#level-7>)
+- **Third Recruit:**[Boat Level 11](</boat#level-11>)
 
 </div>
 
@@ -54,9 +56,7 @@ Recruits, how do they work ? They're the most useful tool you have in Botworld A
 
 ## Management
 
-Unlocked at Boat lvl 7, you can change their bots, abilities and boosters.
-
-Make good use of it?
+After unlocking [Boat Level 7](</boat#level-7>), you gain the option to change their [bots](</bots>), [abilities](</abilities>), and [boosters](</boosters>).
 
 </div>
 
@@ -64,7 +64,7 @@ Make good use of it?
 
 ## Mechanics
 
-Every recruit fight is simulated, so synergies (bots+abilities+boosters) matter. A [good recruit](#tips) can punch above its weight. 
+Recruit fights are simulated, similar to using the auto-battle option during fights, meaning synergies between [bots](</bots>), [abilities](</abilities>), and [boosters](</boosters>) matter. A [good recruit](<#tips>) can punch above its weight.
 
 </div>
 
@@ -92,7 +92,7 @@ Distribute your high lvl bots for each recruit to make them equal to enemies
 
 Important revenue stream, some pretty neat rares & epics, and sometimes the easier way to get some annoying [Boat mats](</materials#boat>)<br>
 
- Recruits is the best way to get coins. There's a lots of job where you can earn 100, 600 or even 2000 if you enough lucky.
+Recruits is the best way to get coins. There's a lots of job where you can earn 100, 600 or even 2000 if you enough lucky.
 
 Jobs options reset every 6h
 
@@ -100,7 +100,9 @@ Full [Jobs list](</jobs>)
 
 ### Tip
 
-if you're waiting for Uberbot, try and pick short jobs so you know you’ll have a chance to pick Uberbot at every reset
+If you're waiting for Uberbot, try and pick short jobs so you know you'll have a chance to pick Uberbot at every reset<br>
+
+ Don't forget to reset your jobs with ads if you really want that Uberbot job!
 
 </div>
 

@@ -22,6 +22,92 @@ breadcrumbs:
 </div>
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
+</div>
+
+## \#64 (9.12.2022)
+
+### Artist name: TE TE
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1050731203503861780/20221209_120543.jpg>)
+
+## \#63 (2.12.2022)
+
+### Artist name: Rairan
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1048230790544228352/Fi-Vam0WAAEuyj9-1.png>)
+
+## \#62 (25.11.2022)
+
+### Artist name: cornstarchlegs
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1045663731851477003/20221125_123318.jpg>)
+
+## \#61 (18.11.2022)
+
+### Artist name: BaotyGamer
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1043138551518347294/20221118_131959.jpg>)
+
+## \#60 (11.11.2022)
+
+### Artist name: JackBullwark\_
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1040566983458041936/20221111_110113.jpg>)
+
+## \#59 (4.11.2022)
+
+### Artist name: TheActek
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1038067478976274462/Fgt7AK9XgAE9n_D.jpg>)
+
+## \#58 (28.10.2022)
+
+### Artist name: Syriasher
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1035522832521769070/20221028_135751.jpg>)
+
+## \#57 (21.10.2022)
+
+### Artist name: mitchillustrate
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1032963012207841310/20221021_122550.jpg>)
+
+## \#56 (14.10.2022)
+
+### Artist name: GlareFacer
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1030414426223935488/20221014_110450.jpg>)
+
+## \#55 (7.10.2022)
+
+### Artist name: Edward Enrique
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1027946362446286888/20221007_132946.jpg>)
+
+## \#54 (30.9.2022)
+
+### Artist name: San Brian
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1025342361628311572/20220930_114316.jpg>)
+
+## \#53 (23.9.2022)
+
+### Artist name: ActekThe
+
+![](<https://media.discordapp.net/attachments/940722879052541953/1022914561046757426/IMG_20220923_185705.jpg>)
+
+## \#52 (16.9.2022)
+
+### Artist name: Jackbullwark\_
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1020255779854503978/20220916_103934.jpg>)
+
+## \#51 (9.9.2022)
+
+### Artist name: sargento\_miles
+
+![](<https://media.discordapp.net/attachments/877305015834935388/1017773362958827530/20220909_142539.jpg>)
+
 ## \#50 (2.9.2022)
 
 ### Artist name: GlareFacer
@@ -50,7 +136,6 @@ breadcrumbs:
 
 ![](<https://media.discordapp.net/attachments/877305015834935388/1010150293691969616/20220819_133541.jpg>)
 
-</div>
 
 ## #46 (5.8.2022)
 

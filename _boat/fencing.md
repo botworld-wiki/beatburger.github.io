@@ -36,4 +36,4 @@ matOverview: "<a href='/farming'>Farmable</a>"
 ---
 
 
-[Fencing Farming](https://www.botworld.wiki/farming#crater-dome): ![Crater Dome Fencing Farming](https://cdn.discordapp.com/attachments/879011114963304508/879062165359820810/crater-dome-route.jpg)
+[Fencing Farming](/farming#crater-dome): ![Crater Dome Fencing Farming](https://cdn.discordapp.com/attachments/879011114963304508/879062165359820810/crater-dome-route.jpg)

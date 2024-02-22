@@ -20,8 +20,35 @@ breadcrumbs:
 
 
 <div markdown="1" class=" ghcms ghcms-main">
-
 </div>
+
+## v1.11.0
+
+### Season of the Sea, Gyro, and FISHING!
+
+- New Feature: [Fishing](</fishing>) \- Cast your fishing line into the waters of Botworld with over 40 different fish to catch! You start [learning how to fish](</fishing#how-to-fish>) through a side quest so keep an eye out for it.
+- New Bot: [Gyro](</gyro>) is an epic splasher bot who pulls enemies towards its giant spinning blade.
+- New Legendary Booster.
+- New Season Pass: the Season of the Sea begins, providing access to Gyro, new cosmetics, and loads of scrap.
+- New Achievements and Contracts.
+
+
+Bug Fixes:
+
+- Fixed a bug where stacking defense on a bot caused it to heal upon taking damage. 
+
+
+2023-01-31
+
+## 2022-12-24
+
+### Create Your Style Event
+
+*Today's announcement will be all about your creativity and your style. Featherweight Games is proud to announce the Create Your Style Event! Botmasters, now you can create your own bot Style. [...]* \- [link to the official FeatherWeight post on discord](<https://discord.com/channels/824807656945745951/824813164142788619/1056179491879272468>)
+
+Applications are now open and you have until Feb 10th, 2023 to still [submit your application](<https://bit.ly/botworldstyle>)
+
+![create your still event banner](<https://cdn.discordapp.com/attachments/824813164142788619/1056179491975745596/BA_Create_your_style_event.jpg>)
 
 ## d2022-12-16
 
