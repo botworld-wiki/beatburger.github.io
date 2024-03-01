@@ -326,7 +326,7 @@ function filterBotsOptions(position){
     $list.innerHTML = '';
     var out = ''; 
     for (var i=0; i<results.length; i++){
-        out += '<li onclick="selectBot(\''+results[i][0]+'\','+position+')"><img src="https://botworld.wiki'+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
+        out += '<li onclick="selectBot(\''+results[i][0]+'\','+position+')"><img src="'+document.location.origin+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
     }
     $list.innerHTML = out;
 }
@@ -387,7 +387,7 @@ function filterAbilitiesOptions(position){
     $list.innerHTML = '';
     var out = ''; 
     for (var i=0; i<results.length; i++){
-        out += '<li onclick="selectAbility(\''+results[i][0]+'\','+position+')"><img src="https://botworld.wiki'+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
+        out += '<li onclick="selectAbility(\''+results[i][0]+'\','+position+')"><img src="'+document.location.origin+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
     }
     $list.innerHTML = out;
 }
@@ -417,7 +417,7 @@ function filterBoostersOptions(position){
     $list.innerHTML = '';
     var out = ''; 
     for (var i=0; i<results.length; i++){
-        out += '<li onclick="selectBooster(\''+results[i][0]+'\','+position+')"><img src="https://botworld.wiki'+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
+        out += '<li onclick="selectBooster(\''+results[i][0]+'\','+position+')"><img src="'+document.location.origin+results[i][1].image+'"/><span>'+results[i][1].name+'</span></li>';
     }
     $list.innerHTML = out;
 }
@@ -439,10 +439,10 @@ function displayComp(){
         let $preview = document.querySelector('#preview .bot'+i);
         let $list = document.querySelector('#list .bot'+i);
         let bot = db.bots[comp.bots[i].name];
-        $preview.querySelector('img').src = 'https://www.botworld.wiki/'+bot.image;
-        $list.querySelector('img').src = 'https://www.botworld.wiki/'+bot.image;
+        $preview.querySelector('img').src = document.location.origin+'/'+bot.image;
+        $list.querySelector('img').src = document.location.origin+'/'+bot.image;
         $list.querySelector('a').innerText = bot.name;
-        $list.querySelector('a').href = 'https://www.botworld.wiki/'+bot.url;
+        $list.querySelector('a').href = document.location.origin+'/'+bot.url;
         let aipicks = comp.bots[i].ai;
         let $previewAi = $preview.querySelectorAll('li');
         let $listAi = $list.querySelectorAll('li');
@@ -457,20 +457,20 @@ function displayComp(){
         let $preview = document.querySelector('#preview .ability'+i);
         let $list = document.querySelector('#list .ability'+i);
         let ability = db.abilities[comp.abilities[i]];
-        $preview.querySelector('img').src = 'https://www.botworld.wiki/'+ability.image;
-        $list.querySelector('img').src = 'https://www.botworld.wiki/'+ability.image;
+        $preview.querySelector('img').src = document.location.origin+'/'+ability.image;
+        $list.querySelector('img').src = document.location.origin+'/'+ability.image;
         $list.querySelector('a').innerText = ability.name;
-        $list.querySelector('a').href = 'https://www.botworld.wiki/'+ability.url;
+        $list.querySelector('a').href = document.location.origin+'/'+ability.url;
         $list.querySelector('p').innerText = ability.description;
     };
     for (var i=0; i< comp.boosters.length; i++){
         let $preview = document.querySelector('#preview .booster'+i);
         let $list = document.querySelector('#list .booster'+i);
         let booster = db.boosters[comp.boosters[i]];
-        $preview.querySelector('img').src = 'https://www.botworld.wiki/'+booster.image;
-        $list.querySelector('img').src = 'https://www.botworld.wiki/'+booster.image;
+        $preview.querySelector('img').src = document.location.origin+'/'+booster.image;
+        $list.querySelector('img').src = document.location.origin+'/'+booster.image;
         $list.querySelector('a').innerText = booster.name;
-        $list.querySelector('a').href = 'https://www.botworld.wiki/'+booster.url;
+        $list.querySelector('a').href = document.location.origin+'/'+booster.url;
         $list.querySelector('p').innerText = booster.description;
     }
 }
@@ -688,7 +688,7 @@ function importComp(anchor){
         comp = unserialize(anchor.slice(1));
     }
 
-    $url.value = 'https://botworld.wiki/comp' + (anchor? anchor : '');
+    $url.value = document.location.origin+'/comp' + (anchor? anchor : '');
     $output.value = JSON.stringify(comp, null, 2);
     displayComp();
 }
@@ -698,7 +698,7 @@ function exportComp(){
     $url.value = document.location;
 }
 
-fetch("https://www.botworld.wiki/assets/js/comp-serial.json")
+fetch(document.location.origin+"/assets/js/comp-serial.json")
 //fetch("/assets/js/comp-serial.json")
   .then(response => response.json())
   .then(json => init(json));
