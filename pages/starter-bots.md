@@ -12,9 +12,9 @@ description: The place to learn everything there is to know about your starter b
 
 # Starter Bots
 
-![starter-selection](<[https://cdn.discordapp.com/attachments/923510071026155550/927866008197287956/starter-selection-min.png](https://discord.com/channels/@me/1213187459207143444/1213202371375665172)>)
+![starter-selection](</assets/img/bots/starter-selection-min.png>)
 
-![300px inline starter ram](<[https://cdn.discordapp.com/attachments/923510071026155550/927866007933030440/starter-ram-min.png](https://discord.com/channels/@me/1213187459207143444/1214175705022205983)>)![300px inline starter thump](<[https://cdn.discordapp.com/attachments/923510071026155550/927866007295524904/starter-thump-min.png](https://discord.com/channels/@me/1213187459207143444/1214175824044105788)>)![300px inline starter froggy](<[https://cdn.discordapp.com/attachments/923510071026155550/927866007622672404/starter-froggy-min.png](https://discord.com/channels/@me/1213187459207143444/1214175901705838642)>)
+![300px inline starter ram](</assets/img/bots/starter-ram-min.png>)![300px inline starter thump](</assets/img/bots/starter-thump-min.png>)![300px inline starter froggy](</assets/img/bots/starter-froggy-min.png>)
 
 ## Choosing the right bot
 
