@@ -24,7 +24,7 @@ Time to get your Bots to battle! Advice, tactical tips, combat mechanics, everyt
 
 ## Basics
 
-![Combat screenshot](https://cdn.discordapp.com/attachments/923510071026155550/926836755334836274/Battle.png)
+![Combat screenshot](/assets/img/pics/battle_scr.png)
 
 You and your opponent place your bots at the same time. The AI doesn't get to see your pick before they make theirs.
 
