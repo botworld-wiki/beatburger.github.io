@@ -21,7 +21,7 @@ Guilds are groups of players who can chat amongst and help each other, exchange 
 ## Completing Objectives
 
 <div markdown="1" class=" ghcms ghcms-objectives">
-![half-right Summer Slam Event](</assets/img/pics/guilds_summer_slam.png?width=673&height=469>)
+![Summer Slam Event](</assets/img/pics/guilds_summer_slam.png>)
 
 Different [events](<#events>) have specific **tasks** that need to be completed within a given timeframe. Completing these tasks would give rewards to all the guild members which can be claimed after the event ends. Generally, there are three objectives in each event and three tiers of rewards (Mega Chests, Ability Modules, Costumes, etc.)
 
@@ -32,7 +32,7 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 ## Joining a Guild
 
 <div markdown="1" class=" ghcms ghcms-joining">
-![half-right joining a guild](</assets/img/pics/guilds_join.png>)
+![joining a guild](</assets/img/pics/guilds_join.png>)
 
 - Join an existing guild by browsing through the list of guilds or searching for a Guild by name.
 - You can choose minimum number of players in the guild you're look for, like 1, 5, 10 or 15 members.
@@ -42,7 +42,7 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 ## Creating a Guild
 
 <div markdown="1" class=" ghcms ghcms-create">
-![half-right creating a guild](</assets/img/pics/guilds_create.png>)
+![creating a guild](</assets/img/pics/guilds_create.png>)
 
 **To create a Guild**:
 
