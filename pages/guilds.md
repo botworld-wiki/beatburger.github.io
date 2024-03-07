@@ -21,7 +21,7 @@ Guilds are groups of players who can chat amongst and help each other, exchange 
 ## Completing Objectives
 
 <div markdown="1" class=" ghcms ghcms-objectives">
-![half-right Summer Slam Event](<https://media.discordapp.net/attachments/985501437733797969/985627989368799272/Screenshot_20220613-010148_Botworld.png?width=673&height=469>)
+![Summer Slam Event](</assets/img/pics/guilds_summer_slam.png>)
 
 Different [events](<#events>) have specific **tasks** that need to be completed within a given timeframe. Completing these tasks would give rewards to all the guild members which can be claimed after the event ends. Generally, there are three objectives in each event and three tiers of rewards (Mega Chests, Ability Modules, Costumes, etc.)
 
@@ -32,7 +32,7 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 ## Joining a Guild
 
 <div markdown="1" class=" ghcms ghcms-joining">
-![half-right joining a guild](<https://cdn.discordapp.com/attachments/985501437733797969/985501650284314634/Screenshot_20220612-163825_Botworld.png>)
+![joining a guild](</assets/img/pics/guilds_join.png>)
 
 - Join an existing guild by browsing through the list of guilds or searching for a Guild by name.
 - You can choose minimum number of players in the guild you're look for, like 1, 5, 10 or 15 members.
@@ -42,7 +42,7 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 ## Creating a Guild
 
 <div markdown="1" class=" ghcms ghcms-create">
-![half-right creating a guild](<https://media.discordapp.net/attachments/985501437733797969/985501649852334110/Screenshot_20220612-162706_Botworld.png>)
+![creating a guild](</assets/img/pics/guilds_create.png>)
 
 **To create a Guild**:
 
@@ -76,7 +76,7 @@ Current event is:<br>
 
 ## Winter Wonderland
 
-![Winter Wonderland event picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053317443624/Screenshot_20221216-123708_Botworld.jpg>)
+![Winter Wonderland event picture](</assets/img/pics/event_winter_wonderland.jpg>)
 
 **Start**: December 3rd 2022<br>
 
@@ -87,7 +87,7 @@ Current event is:<br>
 **Guild Tasks**:
 
 - Defeat Bandits while wearing Santa's Hat (1000) - *1000 Guild Coins*
-- Find Candy canes ![inline candy canes picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053913034752/Screenshot_20221216-122603_Botworld.jpg>) throughout Botworld (1000) - *1000 Guild Coins*
+- Find Candy canes ![inline candy canes picture](</assets/img/pics/event_candy_cane.jpg>) throughout Botworld (1000) - *1000 Guild Coins*
 - Disarm [Snowball cannons](</danger-zones#frozen-wastes>) (250) - *1000 Guild Coins*
 - Freeze enemy bots with [Snowball](</snowball>) in battle (1000) - *1000 Guild Coins* 
 
@@ -98,15 +98,15 @@ Current event is:<br>
 - Candy Canes spwan randomly instead of scrap piles etc\]\(/loot#loot-spawn-locations):
 
 
-![300px candy cane picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053913034752/Screenshot_20221216-122603_Botworld.jpg>)
+![300px candy cane picture](</assets/img/pics/event_candy_cane.jpg>)
 
 **Rewards**:
 
-![Winter Wonderland rewards picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053527150612/Screenshot_20221216-123602_Botworld.jpg>)
+![Winter Wonderland rewards picture](</assets/img/pics/event_winter_rewards.jpg>)
 
 ## Hackathon
 
-![Hackathon event picture](<https://pbs.twimg.com/media/FjdAyjTX0AAM0uy.jpg>)
+![Hackathon event picture](</assets/img/pics/event_hackaton.jpg>)
 
 **Start**: December 3rd 2022<br>
 
@@ -130,7 +130,7 @@ Current event is:<br>
 
 ## Sneaking Suspicions
 
-![Sneaking Suspicions Invisible event picture](<https://media.discordapp.net/attachments/877305015834935388/1047018485508751370/20221129_061706.jpg>)
+![Sneaking Suspicions Invisible event picture](</assets/img/pics/event_sneaking.jpg>)
 
 **Start**: November 18th 2022<br>
 
@@ -158,7 +158,7 @@ Current event is:<br>
 
 ## Poison Predicament
 <div markdown="1" class=" ghcms ghcms-poison-predicament">
-![Poison Predicament Banner](<https://cdn.discordapp.com/attachments/923510071026155550/1018593953064435762/poison-predicament-banner.jpg>)<br>
+![Poison Predicament Banner](</assets/img/pics/event_poison.jpg>)<br>
 
 **Start**: September 9th, 2022
 
@@ -188,7 +188,7 @@ A venomous vexation has overtaken the bandits and Botmasters of Borworld! Use po
 
 ## Shifting Sands
 <div markdown="1" class=" ghcms ghcms-shifting-sands">
-![Shifting Sands Banner](<https://cdn.discordapp.com/attachments/824812153877430315/1013760868556750888/GuildEvent_Banner_ShiftingSands_Promo.png>)
+![Shifting Sands Banner](</assets/img/pics/event_shifting_sands.png>)
 
 **Start**: August 25th, 2022
 
@@ -207,7 +207,7 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 
 
 
-![100px Rare Blue Cacti](<https://cdn.discordapp.com/attachments/923510071026155550/1012773240491487232/unknown.png>)
+![100px Rare Blue Cacti](</assets/img/pics/event_rare_cactus.png>)
 
 **Rewards**:
 
@@ -218,7 +218,7 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 
 ## Electro Fest
 <div markdown="1" class=" ghcms ghcms-electro-fest">
-![Electro Fest Banner](<https://cdn.discordapp.com/attachments/824812153877430315/1012801905568792666/GuildEvent_Banner_Electrofest_full.png>)
+![Electro Fest Banner](</assets/img/pics/event_electro.png>)
 
 **Start**: August 11th, 2022
 
@@ -234,7 +234,7 @@ Can you feel that buzz in your fuzz? Watch out for static discharge as the Elect
 
 
 
-![100px Electro Fest Mine](<https://cdn.discordapp.com/attachments/923510071026155550/1011658676865613834/Screenshot_20220823-1219473.png>)
+![100px Electro Fest Mine](</assets/img/pics/event_electro_mine.png>)
 
 - Hit Enemy Bots with [Zap Tower](</zap-tower>) (10000) - *1000 Guild Coins*
 - Hit Enemy Bots with [Pluggie](</pluggie>)'s Electrocute ultimate (3000) - *1000 Guild Coins*
@@ -266,13 +266,13 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 
 
-![200pxRare Butterfly](<https://cdn.discordapp.com/attachments/923510071026155550/1002732905845489705/butterfly.jpeg>)
+![200pxRare Butterfly](</assets/img/pics/event_creature_butterfly.jpg>)
 
 - Find Origami Animals near Forests (1000) - *1000 Guild Coins*<br>
 
 
 
-![Origami Animals](<https://cdn.discordapp.com/attachments/923510071026155550/1002755358965641286/origami-creature-feature_600px.png>)
+![Origami Animals](</assets/img/pics/event_origami.png>)
 
 - Defeat Enemies using Summoned Recruits (10000) - *1000 Guild Coins*
 - Defeat Enemies Using an all Animal-themed Bot Team (1000) - *1000 Guild Coins*<br>
@@ -281,7 +281,7 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 *Animal themed Bots*: [Thump](</thump>), [Dune Bug](</dune-bug>), [Hornet](</hornet>), [Bullwark](</bullwark>), [Nozzle](</nozzle>), [Froggy](</froggy>), [Ram](</ram>) and [Bullseye](</bullseye>)<br>
 
-![300px Animal Bots, Amad](<https://cdn.discordapp.com/attachments/923510071026155550/1002697940508360815/Screenshot_20220729-1900242.png>)<br>
+![300px Animal Bots, Amad](</assets/img/pics/event_amad_animal_bots.png>)<br>
 
 **Rewards**
 
@@ -292,7 +292,7 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 NEXT OCCURRENCE:<br>
 
-![Creature Feature, temp](<https://cdn.discordapp.com/attachments/1128269795612180530/1134426116145287289/IMG_20230728_120152.jpg>)
+![Creature Feature, temp](</assets/img/pics/event_creature_banner.jpg>)
 
 **Warning!**<br>
 
@@ -312,13 +312,13 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 
 
-![200pxRare Butterfly](<https://cdn.discordapp.com/attachments/923510071026155550/1002732905845489705/butterfly.jpeg>)
+![200pxRare Butterfly](</assets/img/pics/event_creature_butterfly.jpg>)
 
 - Find Origami Animals near Forests (1000) - *1000 Guild Coins*<br>
 
 
 
-![Origami Animals](<https://cdn.discordapp.com/attachments/923510071026155550/1002755358965641286/origami-creature-feature_600px.png>)
+![Origami Animals](</assets/img/pics/event_origami.png>)
 
 - Defeat Enemies using Summoned Recruits (10000) - *1000 Guild Coins*
 - Defeat Enemies Using an all Animal-themed Bot Team (1000) - *1000 Guild Coins*<br>
@@ -337,7 +337,7 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 
 
-![300px Animal Bots, Amad](<https://media.discordapp.net/attachments/824807657550381088/1134383428914135151/Screenshot_2023-07-28-02-06-49.png>)<br>
+![300px Animal Bots, Amad](</assets/img/pics/event_amad_animal_bots.png>)<br>
 
 **Rewards**
 
@@ -350,7 +350,7 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 <div markdown="1" class=" ghcms ghcms-science-expo">
 ## Science Expo
 
-![300pix? Science Expo](<https://cdn.discordapp.com/attachments/923510071026155550/997369106745536593/unknown.png>)<br>
+![300pix? Science Expo](</assets/img/pics/event_science_expo.png>)<br>
 
 **Start**: July 14th, 2022<br>
 
@@ -368,13 +368,13 @@ Gather your beakers and stock up on test tubes, as the Science Expo descends on 
 
 
 
-![200px Robo Rabbit](<https://cdn.discordapp.com/attachments/923510071026155550/997305103545548870/unknown.png>)
+![200px Robo Rabbit](</assets/img/pics/event_roborabbit.png>)
 
 - Find the Mad Scientist’s Test Tubes in [Saltwater Swamp](</maps#saltwater-swamp>) (500) - *1000 Guild Coins*<br>
 
 
 
-![200px Test Tubes](<https://cdn.discordapp.com/attachments/923510071026155550/997305047727755356/unknown.png>)
+![200px Test Tubes](</assets/img/pics/event_science_testtubes.png>)
 
 - Damage Enemy Bots with [Unstable Plasma](</unstable-plasma>) (500) - *1000 Guild Coins*
 - Finish Enemy Bots with [Explosive Proximity Translocator](</explosive-proximity-translocator>) (500) - *1000 Guild Coins*
@@ -394,7 +394,7 @@ Gather your beakers and stock up on test tubes, as the Science Expo descends on 
 <div markdown="1" class=" ghcms ghcms-volcanic-eruption">
 ## Volcanic Eruption
 
-![](<https://media.discordapp.net/attachments/877305015834935388/1003974760423764108/20220802_123706.jpg>)
+![](</assets/img/pics/event_volcanic_eruption.jpg>)
 
 **Start:** July 1, 2022<br>
 
@@ -413,25 +413,25 @@ Molten Rock has erupted! This massive explosion has billowed volcanic rock all t
 
 
 
-![100px Volcanic Glass](<https://cdn.discordapp.com/attachments/923510071026155550/996129624406900766/unknown.png>)
+![100px Volcanic Glass](</assets/img/pics/event_volcanic_glass.png>)
 
 - **Damage enemy bots with [Flamer](</flamer>)'s Flamefield.** (3000) - *1000 Guild Coins*<br>
 
 
 
-![300px Flamer's Flamefield](<https://cdn.discordapp.com/attachments/923510071026155550/996130538396065862/unknown.png>)
+![300px Flamer's Flamefield](</assets/img/pics/event_volcanic_flamefield.png>)
 
 - **Cause enemies to damage themselves in Molten rock** (2000) - *2000 Guild Coins*<br>
 
 
 
-[video Throwing Bandit into a Flamethrower](<https://cdn.discordapp.com/attachments/923510071026155550/995433365631160360/Flamethrower_low_quality.mp4>)
+[video Throwing Bandit into a Flamethrower](</assets/img/pics/Flamethrower_low_quality.mp4>)
 
 - **Catch rare Fireflies in Great Desert and Parched Sea** (1000) - *500 Guild Coins*<br>
 
 
 
-![100px Rare Firefly](<https://cdn.discordapp.com/attachments/923510071026155550/996114265134080040/Screenshot_20220711-224634_Botworld.png>)<br>
+![100px Rare Firefly](</assets/img/pics/event_volcanic_firefly.png>)<br>
 
 <br>
 
@@ -447,7 +447,7 @@ Molten Rock has erupted! This massive explosion has billowed volcanic rock all t
 <div markdown="1" class=" ghcms ghcms-scavengers-fair">
 ## Scavenger's Fair
 
-![](<https://media.discordapp.net/attachments/877305015834935388/1003973870782517430/20220617_124255.jpg>)
+![](</assets/img/pics/event_scavengers_fair.jpg>)
 
 **Start**: June 17, 2022
 
@@ -461,7 +461,7 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 - **Find 500 Fabric Rolls** throughout Botworld *\- 500 Guild Coins*<br>
 
-    ![Fabric Rolls](<https://media.discordapp.net/attachments/877305015834935388/1003923170111262760/scaled_image_picker1061717898399345748-photo-processed.jpg>)
+    ![Fabric Rolls](</assets/img/pics/event_scavenger_fabricroll.jpg>)
 
 - **Find and Scavenge 1000 [Scrap Piles](</loot#scrap-piles>)** throughout Botworld *\- 1000 Guild Coins*
 
@@ -473,7 +473,7 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 
 
-![Merchants](<https://media.discordapp.net/attachments/877305015834935388/1003712282297118812/PhotoRetouch1659374043615.png>)
+![Merchants](</assets/img/pics/event_scavenger_merchant.png>)
 
 **Rewards**:
 
@@ -481,19 +481,19 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 
 
 
-![Merchanthat](<https://media.discordapp.net/attachments/910452806677319721/993057725556731934/IMG_20220703_093523.jpg>)
+![Merchanthat](</assets/img/pics/event_scavenger_merchanthat.jpg>)
 
 - 2500 guild coins: **Merchant Garb**<br>
 
 
 
-![Merchantgarb](<https://media.discordapp.net/attachments/910452806677319721/993057894671069224/IMG_20220703_093546.jpg>)
+![Merchantgarb](</assets/img/pics/event_scavenger_merchant_garb.jpg>)
 
 - 5000 guild coins: **30 gems**<br>
 
 
 
-![30 gems](<https://media.discordapp.net/attachments/877305015834935388/1003617926215106663/1659351545912.png>)
+![30 gems](</assets/img/pics/event_reward_30gems.png>)
 </div>
 
 
@@ -501,7 +501,7 @@ A scavenger without trade is just a junk hoarder, or so the Merchant's Union bel
 <div markdown="1" class=" ghcms ghcms-summer-slam">
 ## Summer Slam
 
-![](<https://media.discordapp.net/attachments/877305015834935388/1003976738050678804/20220802_124450.jpg>)
+![](</assets/img/pics/event_summer_slam.jpg>)
 
 **Start**: June 3, 2022
 
@@ -518,7 +518,7 @@ The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whe
 
 
 
-![Lost tenis balls](<https://media.discordapp.net/attachments/877305015834935388/1003927573870424104/scaled_image_picker8982202468268209048-photo-processed.jpg>)
+![Lost tennis balls](</assets/img/pics/event_summer_tennisballs.jpg>)
 
 - **Use 5000 [Gust](</gust>) or [Gale](</gale>)** in Battle.
 
@@ -531,7 +531,7 @@ The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whe
 
 
 
-![Sportsvisor](<https://media.discordapp.net/attachments/910452806677319721/990238048442806293/scaled_image_picker3189470287676633296-photo-processed.jpg>)
+![Sportsvisor](</assets/img/pics/event_summer_sportsvisor.jpg>)
 
 - 2000 guild coins: **Rare Random [Ability Module](</botpack#abilities>)**
 - 3000 guild coins: **[Mega Chest](</loot#reward-chests>)**
@@ -542,7 +542,7 @@ The sun is out, and so are summer-lovin' botmasters and bandits of Botworld! Whe
 <div markdown="1" class=" ghcms ghcms-hackathon">
 ## Hackathon
 
-![](<https://media.discordapp.net/attachments/877305015834935388/1003975697796190268/20220802_123955.jpg>)
+![](</assets/img/pics/event_hackathon.jpg>)
 
 **Start**: May 20, 2022
 
@@ -558,7 +558,7 @@ Calling all keyboard jackeys! The time to crack open the circuits and CPUs of ev
 
 
 
-![Computer chips](<https://media.discordapp.net/attachments/877305015834935388/1003930215027834890/scaled_image_picker6606714438761525269-photo-processed.jpg>)
+![Computer chips](</assets/img/pics/event_hackathon_chips.jpg>)
 
 - **Hack 5000 Enemy Bots**
 - **Damage 2000 Enemies** with the [Bombardment Gadget](</botpack#gadgets>)
@@ -578,7 +578,7 @@ Calling all keyboard jackeys! The time to crack open the circuits and CPUs of ev
 <div markdown="1" class=" ghcms ghcms-faerie-hunt">
 ## Faerie Hunt
 
-![](<https://media.discordapp.net/attachments/877305015834935388/1003975698169471066/20220802_124044.jpg>)
+![](</assets/img/pics/event_faerie_hunt.jpg>)
 
 **Start**: May 2, 2022
 
@@ -594,19 +594,19 @@ Tales of mythical bots and legendary boosters are travelling as hushed whispers 
 
 
 
-![Feariebothunter](<https://media.discordapp.net/attachments/877305015834935388/1003933882934112306/Screenshot_2022-05-16-20-26-20-684_com.featherweightgames.fx.jpg>)
+![Feariebothunter](</assets/img/pics/event_faerie_bothunter.jpg>)
 
 - **Find 200 Amad's Notebooks** near [Ancient Ruins](</loot#ancient-ruins>)<br>
 
 
 
-![Amad'sNootebooks](<https://media.discordapp.net/attachments/877305015834935388/1003933540074922034/scaled_image_picker1207286680194701654-photo-processed.jpg>)
+![Amad'sNootebooks](</assets/img/pics/event_faerie_amads_notebook.jpg>)
 
 - **Catch 10 mythical Faerie Bots** somewhere in Botworld<br>
 
 
 
-![Feariebot](<https://media.discordapp.net/attachments/877305015834935388/1003933564280250418/IMG_20220802_095035.jpg>)
+![Feariebot](</assets/img/pics/event_faerie_hunt.jpg>)
 
 *Each Task gives 1000 guild coins*
 
@@ -616,13 +616,13 @@ Tales of mythical bots and legendary boosters are travelling as hushed whispers 
 
 
 
-![Hunterhat](<https://media.discordapp.net/attachments/910452806677319721/976998588221628476/IMG_4207.png>)
+![Hunterhat](</assets/img/pics/event_faerie_hat.jpg>)
 
 - 1800 guild coins: **Faerie Hunter Robe**<br>
 
 
 
-![Hunterrobe](<https://media.discordapp.net/attachments/877305015834935388/1003962746079035463/IMG_20220802_114849.jpg>)
+![Hunterrobe](</assets/img/pics/event_faerie_garb.jpg>)
 
 - 2500 guild coins: **[Faerie's Blessing](</contribute#tbw>)**
 </div>

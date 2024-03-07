@@ -38,21 +38,21 @@ Key (to conserve on words):<br>
 
 ## Gold
 
-- **⚪ A Day's Work**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)125<br>
+- **⚪ A Day's Work**: ![inline block](</assets/img/icons/icon-coin.png>)125<br>
 
     A local business is looking for someone to help with their fruit stand in the market. Send a recruit to work with them for a day.<br>
 
     6h 24m \| Lvl -6 \| Safe
 
-- **⚪ Working Two Jobs**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)
+- **⚪ Working Two Jobs**: ![inline block](</assets/img/icons/icon-coin.png>)
 
-- **🟢 Security Work**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)891<br>
+- **🟢 Security Work**: ![inline block](</assets/img/icons/icon-coin.png>)891<br>
 
     There's a caravan heading through the wilds looking for some extra bodyguards. Send a recruit to join up to earn a good wage with some danger pay.<br>
 
     19h 12m \| Lvl -1 \| Dangerous
 
-- **🟢 Stocktake Sale**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)245<br>
+- **🟢 Stocktake Sale**: ![inline block](</assets/img/icons/icon-coin.png>)245<br>
 
     A sale of all the unneeded scrap and old boosters from the boat could make a tidy profit. Assign a recruit to sort through all the potential merchandise.<br>
 
@@ -66,13 +66,13 @@ Key (to conserve on words):<br>
 
 ## Tokens
 
-- **⚪ Paperwork**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1073111575038267393/icon-currency-token.webp>)52<br>
+- **⚪ Paperwork**: ![inline block](</assets/img/icons/icon-blue-token.png>)52<br>
 
     []<br>
 
     \| Lvl -5 \| Safe
 
-- **⚪ Civic Duty**: ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1073111575038267393/icon-currency-token.webp>)23<br>
+- **⚪ Civic Duty**: ![inline block](</assets/img/icons/icon-blue-token.png>)23<br>
 
     The mayor has some extra contracts to assign. Send a recruit to try and secure the contracts and get the work done.<br>
 
@@ -118,11 +118,11 @@ Key (to conserve on words):<br>
 - Field Work (p2 = barrier)
 
 
-![200px Uberbot p2](<https://cdn.discordapp.com/attachments/923510071026155550/924366675715973160/Screenshot_2021-12-25-19-16-24-763_com.featherweightgames.fx.jpg>)
+![200px Uberbot p2](</assets/img/pics/job_uberbot_pt2.png>)
 
-![200px Robot X p1](<https://cdn.discordapp.com/attachments/923510071026155550/924365653161414666/Screenshot_20211225-131714_Botworld.jpg>)
+![200px Robot X p1](</assets/img/pics/job_robotX.png>)
 
-![200px Field Work p1](<https://cdn.discordapp.com/attachments/923510071026155550/924365652494536784/Screenshot_20211225-191351_Botworld.jpg>)
+![200px Field Work p1](</assets/img/pics/job_fieldwork.png>)
 
 ## Replacement
 

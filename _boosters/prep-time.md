@@ -7,7 +7,7 @@ updatedAt: "2023-09-12"
 title: "Prep Time (Legendary)"
 name: "Prep Time"
 description: "Gives 2 botpack power at the beginning of a battle. Increases botpack power generation rate by 20%"
-imageUrl: "https://cdn.discordapp.com/attachments/1136023207237931039/1151180642504155288/IMG_20230912_173956.jpg"
+imageUrl: "/assets/img/boosters/prep_time.png"
 breadcrumbs:
   Botpack: "/botpack"
   Boosters: "/boosters"
@@ -15,7 +15,7 @@ breadcrumbs:
 
 boosterName: "Prep Time"
 boosterDescription: "Gives 2 botpack power at the beginning of a battle. Increases botpack power generation rate by 20%"
-boosterImageUrl: "https://cdn.discordapp.com/attachments/1136023207237931039/1151180642504155288/IMG_20230912_173956.jpg"
+boosterImageUrl: "/assets/img/boosters/prep_time.png"
 boosterStacks: ""
 boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
