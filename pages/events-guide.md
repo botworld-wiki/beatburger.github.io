@@ -20,7 +20,7 @@ It is a compilation of my personal experience and that of other amazing [Guild](
 
 Hope you all enjoy it. 💪🏽👊🏽
 
-![ MVP guild logo](<https://cdn.discordapp.com/attachments/1075164641623281765/1075427676841590794/MVP.png>)
+![ MVP guild logo](</assets/img/pics/MVP_banner.png>)
 
 </div>
 <div markdown="1" class=" ghcms ghcms-critters">
@@ -43,7 +43,7 @@ Hope you all enjoy it. 💪🏽👊🏽
 
 Go to [Fall Grove](</maps#fall-grove>) and go down to the place indicated on the map, your objective is to eliminate all the enemies along the path indicated in red.
 
-![MVPs Fall Grove Farming Map](<https://cdn.discordapp.com/attachments/1074787170998554695/1074787315391672401/image.png>)
+![MVPs Fall Grove Farming Map](</assets/img/pics/fall_grove_run.png>)
 
 **You will do it using the following method**:
 
@@ -75,7 +75,7 @@ If you have a strong team and [recruits](</recruits>), you can improve this path
 - 1\.3: The star marks [where items can usually appear](</loot#loot-spawn-locations>). (there are places outside this marking, but the route described does not cover these places)
 
 
-![MVPs Spore Woods Farming Map](<https://cdn.discordapp.com/attachments/1074787170998554695/1074787615041142794/image.png>)
+![MVPs Spore Wood Farming Map](</assets/img/pics/spore_wood_run.png>)
 
 ### 2) Things that must be avoided
 
@@ -109,7 +109,7 @@ Remembering that if at any stage you find 3 items, you can leave the map, becaus
 - 1\.4: If you call your [recruits](</recruits>) on a map, **they may not follow you when switching maps**.
 
 
-![MVPs Farming Dual Maps](<https://cdn.discordapp.com/attachments/1074787170998554695/1074787773380317204/image.png>)
+![MVPs Farming Dual Maps](</assets/img/pics/dual_map_run.png>)
 
 ### 2) Things that must be avoided
 

@@ -19,22 +19,15 @@ breadcrumbs:
 
 [To Be Written](/contribute#tbw)
 
-
 </div>
 
 <div markdown="1" class=" ghcms ghcms-main">
 
-(lvl-X is not right 100%, idk how it really works yet)<br>
+The level of jobs is scaling with your own level. To have the maximum chance of success, level up your bots to your level, or as near as possible. "lvl -6" means the job has a difficulty of 6 levels below yours, making it "easy". A job for Larry is never easy. <br>
 
-Key (to conserve on words):<br>
+Key:<br>
 
-⚪ - Common<br>
-
-🟢 - Special<br>
-
-🔴 - Rare<br>
-
-🟣 - Epic
+⚪ Common -- 🟢 Special -- 🔴 Rare -- 🟣 Epic
 
 ## Gold
 
@@ -68,8 +61,6 @@ Key (to conserve on words):<br>
 
 - **⚪ Paperwork**: ![inline block](</assets/img/icons/icon-blue-token.png>)52<br>
 
-    []<br>
-
     \| Lvl -5 \| Safe
 
 - **⚪ Civic Duty**: ![inline block](</assets/img/icons/icon-blue-token.png>)23<br>
@@ -84,8 +75,6 @@ Key (to conserve on words):<br>
 
 - **⚪ Module Maintenance**: Random common [Ability](</abilities>)<br>
 
-    []<br>
-
     5h 24m \| ? \| Safe
 
 - **⚪ Patch's Assistant**: Random common [Booster](</boosters>)<br>
@@ -96,33 +85,35 @@ Key (to conserve on words):<br>
 
 - **🔴 Sunk Modules**:
 
+    How long can your recruits hold their breath?
+
+  14h 24m \| Lvl ? \| Dangerous 
 
 
 ## Mats
 
 - - **🔴 Risky Rewards**: Two of the same random Rare [Material](</materials>)<br>
 
-        Larry is expecting a scrap delivery that seems to have been attacked on the road. He says he'll give us half if we send someone to fight off the bandits. Must be good scrap...<br>
+Larry is expecting a scrap delivery that seems to have been attacked on the road. He says he'll give us half if we send someone to fight off the bandits. Must be good scrap...<br>
 
-        14h 24m \| Lvl -3 \| Risky
+14h 24m \| Lvl -3 \| Risky       
 
     
-
-
 ## Unique jobs
 
 - Uberbot, epic (p1= 12h, risky ; p3 = virus)
+  ![200px Uberbot p2](</assets/img/pics/job_uberbot_pt2.png>)
+ 
 - Trash into treasure (p3? = icewall)
 - A simple job
+ 
 - Robot X
+ ![200px Robot X p1](</assets/img/pics/job_robotX.png>)
+ 
 - Field Work (p2 = barrier)
+ ![200px Field Work p1](</assets/img/pics/job_fieldwork.png>)
 
 
-![200px Uberbot p2](</assets/img/pics/job_uberbot_pt2.png>)
-
-![200px Robot X p1](</assets/img/pics/job_robotX.png>)
-
-![200px Field Work p1](</assets/img/pics/job_fieldwork.png>)
 
 ## Replacement
 

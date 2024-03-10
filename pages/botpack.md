@@ -120,7 +120,7 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 - **Activation:** From your botpack (bottom right while in the wild) or at the start of a fight (**turn off autobattle**). Demo:
 
 
-[video demo of gadgets activation](<https://cdn.discordapp.com/attachments/826340570908721203/931917757501550683/XRecorder_Edited_15012022_152654.mp4>)
+[video demo of gadgets activation](</assets/img/gadgets/gadgets_activation_vid.mp4>)
 
 - **Require:** that you pay to unlock them, and equip them
 - **Refresh:** every time you leave town or when using Gadget Repair stations inside [Danger Zones](</danger-zones>)
@@ -128,7 +128,7 @@ Kindly ask your dear [Auntie](/contribute#tbw)
 
 ### Hack
 
-![300px Hack](<https://cdn.discordapp.com/attachments/923510071026155550/995428513186328616/unknown.png>)<br>
+![300px Hack](</assets/img/gadgets/hack-npc.png>)<br>
 
 She builds your them all for you! She bills you of course, but she's very helpful and just about the only friendly Rat out there so really, you should just consider yourself lucky.
 
@@ -152,7 +152,7 @@ She builds your them all for you! She bills you of course, but she's very helpfu
 
 ![Image](</assets/img/gadgets/bombardment.png>)
 
-Each strike deals slightly less than 1/3 of a Wild Bot/Bandit's health bar worth of damage, value that is halved against [Booses](</bosses>) ([needs confirmation](</contribute#tbw>)). Striking a regular unit 3 times will leave them with close to no health, while striking a [Boss](</bosses>) 3 times will take away around 1/3 of it's health bar.
+Each strike deals slightly less than 1/3 of a Wild Bot/Bandit's health bar worth of damage, value that is halved against [Bosses](</bosses>) ([needs confirmation](</contribute#tbw>)). Striking a regular unit 3 times will leave them with close to no health, while striking a [Boss](</bosses>) 3 times will take away around 1/3 of it's health bar.
 
 - **Level 1:** range 10, 2 uses
 - **Level 2:** range 14, 2 uses

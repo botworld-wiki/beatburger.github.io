@@ -24,7 +24,7 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 
 ## Generators
 
-![Boat Machines](/assets/img/pics/business_boat_machines.jpg)
+![Boat Machines](/assets/img/pics/business-generators.png)
 
 - **Scrap Collector:** Generates 4/8/16 pieces of scrap every 6 hours   
 - **Arcade Machine:** Generates 30/60/120 coins every 6 hours          
@@ -32,7 +32,7 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 
 ## Scrap
 
-![Scrap Upgrades](/assets/img/pics/business_scrap_upgrades.jpg)
+![Scrap Upgrades](/assets/img/pics/business-scrap.png)
 
 - **Scavenger Training:** Increases the amount of scrap dropped by [Wild Bots](/exploring#wild-bots) by 5% / 10% / 15%            
 - **Shakedown:** Increases the amount of scrap dropped by [Bandits](/exploring#bandits) by 5% / 10% / 15%. Doesn't seem to have an effect on gold, only scrap.
@@ -43,7 +43,7 @@ Business Upgrades will offer you lucrative or convenient perks that will all mak
 
 ## Repair, Tokens, Recruits
 
-![Misc Upgrades](/assets/img/pics/business_misc_upgrades.jpg)
+![Misc Upgrades](/assets/img/pics/business-various.png)
 
 - **Repair Boost:** Increases repair [Canister](/exploring#canister) effectiveness by 10% / 20%
 - **Canister Storage:** Max repair [Canister](/exploring#canister) count increased by 1/2

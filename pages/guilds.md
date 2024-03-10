@@ -56,24 +56,6 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 <span id="events"></span>
 # Events
 
-<div markdown="1" class=" ghcms ghcms-new-events">
-
-## Current event
-
-Current event is:<br>
-
-[Poison Predicament](<#poison-predicament>), started at 2023-09-08, and ending by 2023-09-22.
-
-### Tips
-
-- For poison task use Goop, and no bots with poison.
-- You can use 4x Goop and auto battle. It will be less efficient, but can help if you're tired.
-- Snakes can be found in Saltwater Swamp, Parched Sea and Vivid Valley.
-- When farming plants in Vivid Valley: the plants try to predict your position. When you see them shoot, change direction. Also you can run a bit past them and stop, they will shoot behind you.
-- Plants take a long time to disable, longer than invisibility can cover.
-
-</div>
-
 ## Winter Wonderland
 
 ![Winter Wonderland event picture](</assets/img/pics/event_winter_wonderland.jpg>)
@@ -87,16 +69,14 @@ Current event is:<br>
 **Guild Tasks**:
 
 - Defeat Bandits while wearing Santa's Hat (1000) - *1000 Guild Coins*
-- Find Candy canes ![inline candy canes picture](</assets/img/pics/event_candy_cane.jpg>) throughout Botworld (1000) - *1000 Guild Coins*
+- Find Candy canes throughout Botworld (1000) - *1000 Guild Coins*
 - Disarm [Snowball cannons](</danger-zones#frozen-wastes>) (250) - *1000 Guild Coins*
 - Freeze enemy bots with [Snowball](</snowball>) in battle (1000) - *1000 Guild Coins* 
-
 
 **Tips**:
 
 - Snow Cannons are found only in [Frozen Wastes](</danger-zones#frozen-wastes>)
 - Candy Canes spwan randomly instead of scrap piles etc\]\(/loot#loot-spawn-locations):
-
 
 ![300px candy cane picture](</assets/img/pics/event_candy_cane.jpg>)
 
@@ -146,8 +126,6 @@ Current event is:<br>
 
 - Defeat Wild Phantom Packs (1000) - *1000 Guild Coins*
 
-
-
 **Rewards**:
 
 1000 Guild Coins
@@ -155,6 +133,7 @@ Current event is:<br>
 2000 Guild Coins
 
 3000 Guild Coins
+
 
 ## Poison Predicament
 <div markdown="1" class=" ghcms ghcms-poison-predicament">
@@ -173,8 +152,6 @@ A venomous vexation has overtaken the bandits and Botmasters of Borworld! Use po
 - Poison Enemy Bots in Battle (20000) - *1000 Guild Coins*
 - Catch Poisonous Snakes (2500) - *1000 Guild Coins*
 - Trim Poisonous Plants in Vivid Valley (250) - *1000 Guild Coins*<br>
-
-
 
 <br>
 
@@ -203,9 +180,8 @@ It's getting hot on Botworld, as the sandy dunes of Great Desert and arid outcro
 - Defeat Bandits in [Great Desert](</maps#great-desert>) and [Parched Sea](</maps#parched-sea>) (5000) - *1000 Guild Coins*
 - Dodge Enemy Attacks with [Dune Bug](</dune-bug>) (1000) - *1000 Guild Coins*
 - Get Stung by Scorpions (5000) - *1000 Guild Coins*
-- Harvest Rare Blue Cacti in [Great Desert](</maps#great-desert>) and [Parched Sea](</maps#parched-sea>) (1000) - *1000 Guild Coins*<br>
-
-
+- Harvest Rare Blue Cacti in [Great Desert](</maps#great-desert>) and [Parched Sea](</maps#parched-sea>) (1000) - *1000 Guild Coins*
+<br>
 
 ![100px Rare Blue Cacti](</assets/img/pics/event_rare_cactus.png>)
 
@@ -264,13 +240,9 @@ Botworld's celebration of all creatures great and small has begun! From the tini
 
 - Find Rare Butterflies throughout Botworld (1000) - *1000 Guild Coins*<br>
 
-
-
-![200pxRare Butterfly](</assets/img/pics/event_creature_butterfly.jpg>)
+![200pxRare Butterfly](</assets/img/pics/guild-event-butterfly-ani.gif>)
 
 - Find Origami Animals near Forests (1000) - *1000 Guild Coins*<br>
-
-
 
 ![Origami Animals](</assets/img/pics/event_origami.png>)
 
