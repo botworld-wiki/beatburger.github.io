@@ -69,16 +69,14 @@ Check out our [Events Guide](/events-guide) for tips & techniques for most event
 **Guild Tasks**:
 
 - Defeat Bandits while wearing Santa's Hat (1000) - *1000 Guild Coins*
-- Find Candy canes ![inline candy canes picture](</assets/img/pics/event_candy_cane.jpg>) throughout Botworld (1000) - *1000 Guild Coins*
+- Find Candy canes throughout Botworld (1000) - *1000 Guild Coins*
 - Disarm [Snowball cannons](</danger-zones#frozen-wastes>) (250) - *1000 Guild Coins*
 - Freeze enemy bots with [Snowball](</snowball>) in battle (1000) - *1000 Guild Coins* 
-
 
 **Tips**:
 
 - Snow Cannons are found only in [Frozen Wastes](</danger-zones#frozen-wastes>)
 - Candy Canes spwan randomly instead of scrap piles etc\]\(/loot#loot-spawn-locations):
-
 
 ![300px candy cane picture](</assets/img/pics/event_candy_cane.jpg>)
 
