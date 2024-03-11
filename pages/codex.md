@@ -208,15 +208,15 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 <div markdown="1" class=" ghcms ghcms-parchedsea">
 ### Missions
 
-- [Collect Pirate Treasure Chests (10)](<https://media.discordapp.net/attachments/923510071026155550/996114307471392908/Screenshot_20220711-224047_Botworld.png>)
-- [Defeat the Roaming Super K.O.](<https://cdn.discordapp.com/attachments/923510071026155550/926254905335881748/unknown.png>)
-- [Explore the Big Dish](<https://cdn.discordapp.com/attachments/923510071026155550/925686849597505536/Screenshot_2021-12-28-23-55-46-98.jpg>)
-- [Explore Dragon's Ridge Pier](<https://cdn.discordapp.com/attachments/923510071026155550/925686850402791475/Screenshot_2021-12-28-23-31-44-05.jpg>)
-- [Explore Geronimo Drop](<https://media.discordapp.net/attachments/923510071026155550/925686850654470174/Screenshot_2021-12-28-23-21-50-28.jpg?width=953&height=451>)
-- [Explore the Grand Anchor](<https://cdn.discordapp.com/attachments/923510071026155550/926408505655689296/unknown.png>)
-- [Explore Hermit's Bluff](<https://cdn.discordapp.com/attachments/923510071026155550/925686849844957234/Screenshot_2021-12-28-23-51-42-24.jpg>)
-- [Explore the Lighthouse Restaurant](<https://cdn.discordapp.com/attachments/923510071026155550/925686850100805672/Screenshot_2021-12-28-23-38-39-61.jpg>)
-- [Catch a Rare Ruby Scarab](<https://cdn.discordapp.com/attachments/923510071026155550/997310263080534026/unknown.png>)
+- [Collect Pirate Treasure Chests (10)](</assets/img/codex/mission_pirate_chest.png>)
+- [Defeat the Roaming Super K.O.](</assets/img/codex/mission_super_KO.png>)
+- [Explore the Big Dish](</assets/img/codex/mission_explore_big_dish.jpg>)
+- [Explore Dragon's Ridge Pier](</assets/img/codex/mission_explore_dragonsridge_pier.jpg>)
+- [Explore Geronimo Drop](</assets/img/codex/mission_explore_geronimo_drop.jpg?width=953&height=451>)
+- [Explore the Grand Anchor](</assets/img/codex/mission_explore__grand_anchor.png>)
+- [Explore Hermit's Bluff](</assets/img/codex/mission_explore_hermits_bluff.jpg>)
+- [Explore the Lighthouse Restaurant](</assets/img/codex/mission_explore_lighthouse.jpg>)
+- [Catch a Rare Ruby Scarab](</assets/img/codex/mission_ruby_scarab.png>)
 - Defeat Sand Pirates (200)
 - Defeat Sand Pirates (1000)
 - Defeat Wild [Pluggie](</pluggie>) Packs (100)
@@ -227,19 +227,19 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **All 12 Missions completed:** Pirate Hat
 
-![200px Pirate Hat](<https://cdn.discordapp.com/attachments/923510071026155550/926427041602080778/IMG_20211231_174935.jpg>)
+![200px Pirate Hat](</assets/img/codex/reward_pirate_hat.jpg>)
 
 **8 Missions completed:** Pirate Costume
 
-![300px Pirate Costume](<https://cdn.discordapp.com/attachments/923510071026155550/926146239370772520/unknown.png>)
+![300px Pirate Costume](</assets/img/codex/reward_pirate_costume.png>)
 
 ### Guides
 
 - **Red Square:** Explore
 - **Black Line:** [Roaming Super K.O.](</bosses#super-ko>)'s route
 
-
-![Parched Sea](<https://pokefarm.com/upload/:JNGl/potential_bwa/parched-sea-codex-new3-min.png_2.png>)*credit: Hex, debb, cloud9, Chael, Letplz*
+![Parched Sea](</assets/img/codex/parched-sea-codex-new-min.png>)
+*credit: Hex, debb, cloud9, Chael, Letplz*
 </div>
 
 ## Spore Woods
