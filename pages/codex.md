@@ -33,7 +33,8 @@ Each [Map](</maps>) has its own list of quests that reward the player with cosme
 
 ### Missions
 
-- [Catch a Rare Jackalope](</assets/img/codex/mission_jackalope_ss.jpg>) (Bunny —) ![inline Jackalope picture](</assets/img/codex/mission_jackalope.png>)
+- [Catch a Rare Jackalope](</assets/img/codex/mission_jackalope_ss.jpg>)
+ (a white rabbit with antlers) ![inline Jackalope picture](</assets/img/codex/mission_jackalope.png>)
 - Collect [Rare Tulips](</assets/img/codex/mission_tulips.jpg>) (20) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
 - Collect [Rare Tulips](</assets/img/codex/mission_tulips.jpg>) (100) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
 - [Explore the Bandit Hideout](</assets/img/codex/mission_bandit_hideout.png>)
