@@ -85,13 +85,13 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 - Fix Jammed Wind Turbines (7)
 - Salvage Shipping Containers (7)
-- [Defeat the Roaming Super Flamer](<https://media.discordapp.net/attachments/923510071026155550/926202048138059776/Screenshot_2021-12-31-01-24-42-334_com.featherweightgames.fx.jpg?width=953&height=429>)
-- [Explore the Fissure Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/926175824598683758/unknown.png>)
-- [Explore the Giant Saw](<https://cdn.discordapp.com/attachments/923510071026155550/926177256576000020/unknown.png>)
-- [Explore Highbridge Outcrop](<https://cdn.discordapp.com/attachments/923510071026155550/926176445112401920/unknown.png>)
-- [Explore the Serpentine Pools](<https://cdn.discordapp.com/attachments/923510071026155550/926174054199730236/unknown.png>)
-- [Explore the Strange Monument](<https://cdn.discordapp.com/attachments/923510071026155550/926174654241050664/unknown.png>)
-- [Explore the Giant Waterfall](<https://cdn.discordapp.com/attachments/923510071026155550/926176900085346354/unknown.png>)
+- [Defeat the Roaming Super Flamer](</assets/img/codex/mission_super_flamer_ss.jpg?width=953&height=429>)
+- [Explore the Fissure Ruins](</assets/img/codex/mission_explore_grandfissure_ss.png>)
+- [Explore the Giant Saw](</assets/img/codex/mission_explore_giant_saw_ss.png>)
+- [Explore Highbridge Outcrop](</assets/img/codex/mission_explore_highbridge_ss.png>)
+- [Explore the Serpentine Pools](</assets/img/codex/mission_explore_serpentine_pools_ss.png>)
+- [Explore the Strange Monument](</assets/img/codex/mission_explore_strange_monument_ss.png>)
+- [Explore the Giant Waterfall](</assets/img/codex/mission_explore_waterfall_ss.png>)
 - Defeat Desert Cat Bandits (150)
 - Defeat Desert Cat Bandits (750)
 - Defeat Wild [Pupil](</pupil>) Packs (75)
@@ -102,11 +102,11 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **All 13 Missions completed:** Desert Cat Goggles
 
-![200px Desert Cat Goggles](<https://cdn.discordapp.com/attachments/923510071026155550/926154509426765824/IMG_20211230_234710.jpg>)
+![200px Desert Cat Goggles](</assets/img/codex/reward_desert_cat_goggles.jpg>)
 
 **8 Missions completed:** Desert Cat Robes
 
-![300px Desert Cat Robes](<https://cdn.discordapp.com/attachments/923510071026155550/926146488923459584/unknown.png>)
+![300px Desert Cat Robes](</assets/img/codex/reward_desert_cat_robes.png>)
 
 ### Guides
 
@@ -116,7 +116,7 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 - **Black Line:** Roaming Super Flamer, **Roams Clockwise**
 
 
-![Great Desert Codex](<https://cdn.discordapp.com/attachments/923510071026155550/928070772717666384/great-desert-codex-new.png>)
+![Great Desert Codex](</assets/img/codex/great-desert-codex-new.png>)
 
 *Credit: O.J., debb, BloodxReaper, Hex*
 </div>
