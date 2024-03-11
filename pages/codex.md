@@ -14,7 +14,7 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-![Codex Tab screenshot](<https://media.discordapp.net/attachments/923510071026155550/1037315781375037440/Codex.png>)
+![Codex Tab screenshot](</assets/img/codex/codex_screen.png>)
 
 ### Overview
 
@@ -33,15 +33,15 @@ Each [Map](</maps>) has it's own list of quests that reward the player with cosm
 
 ### Missions
 
-- [Catch a Rare Jackalope](<https://cdn.discordapp.com/attachments/923510071026155550/925702854537265192/Screenshot_20211229-170312.jpg>) (Bunny —) ![inline Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
-- Collect [Rare Tulips](<https://media.discordapp.net/attachments/826341154450309140/983408929314836511/Screenshot_20220606-044708_F1_VM.jpg>) (20) ([map 1](<https://media.discordapp.net/attachments/923510071026155550/927864004561477632/IMG_2585.png>), [map 2](<https://media.discordapp.net/attachments/923510071026155550/927864004821549066/IMG_2586.png>))
-- Collect [Rare Tulips](<https://media.discordapp.net/attachments/826341154450309140/983408929314836511/Screenshot_20220606-044708_F1_VM.jpg>) (100) ([map 1](<https://media.discordapp.net/attachments/923510071026155550/927864004561477632/IMG_2585.png>), [map 2](<https://media.discordapp.net/attachments/923510071026155550/927864004821549066/IMG_2586.png>))
-- [Explore the Bandit Hideout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197954359347/Screenshot_20211228-123603_Botworld.png>)
-- [Explore Cobblestone Clearing](<https://cdn.discordapp.com/attachments/923510071026155550/925273197086138428/Screenshot_20211228-122031_Botworld.png>)
-- [Explore the Eagle Perch Lookout](<https://cdn.discordapp.com/attachments/923510071026155550/925273197627195402/Screenshot_20211228-123211_Botworld.png>)
-- [Explore Cinnamon's Boat](<https://cdn.discordapp.com/attachments/923510071026155550/925273198180831292/Screenshot_20211228-123830_Botworld.png>)
-- [Explore Southbank Beach](<https://cdn.discordapp.com/attachments/923510071026155550/925273196880621629/Screenshot_20211228-121522_Botworld.png>)
-- [Explore the abandoned Mineshaft](<https://cdn.discordapp.com/attachments/923510071026155550/926211960138256506/unknown.png>)
+- [Catch a Rare Jackalope](</assets/img/codex/mission_jackalope_ss.jpg>) (Bunny —) ![inline Jackalope picture](</assets/img/codex/misson_jackalope.png>)
+- Collect [Rare Tulips](</assets/img/codex/misson_tulips.jpg>) (20) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
+- Collect [Rare Tulips](</assets/img/codex/misson_tulips.jpg>) (100) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
+- [Explore the Bandit Hideout](</assets/img/codex/misson_bandit_hideout.png>)
+- [Explore Cobblestone Clearing](</assets/img/codex/misson_explore_cobblestone_ss.png>)
+- [Explore the Eagle Perch Lookout](</assets/img/codex/misson_explore_eagleperch_ss.png>)
+- [Explore Cinnamon's Boat](</assets/img/codex/misson_explore_cinnamon_boat_ss.png>)
+- [Explore Southbank Beach](</assets/img/codex/misson_explore_southbank_ss.png>)
+- [Explore the abandoned Mineshaft](</assets/img/codex/misson_explore_abandoned_mine_ss.png>)
 - Defeat Rat Bandits (100)
 - Defeat Rat Bandits (500)
 - Defeat Wild [Yanky](</yanky>) Packs (40)
@@ -52,25 +52,25 @@ Each [Map](</maps>) has it's own list of quests that reward the player with cosm
 
 **All 13 Missions completed:** Guard Helmet
 
-![200px Guard Helmet](<https://cdn.discordapp.com/attachments/923510071026155550/926229322098941992/unknown.png>)
+![200px Guard Helmet](</assets/img/codex/reward_guard_helmet.png>)
 
 **8 Missions completed:** Guard Uniform
 
-![300px Guard Uniform](<https://cdn.discordapp.com/attachments/923510071026155550/926146553465413632/unknown.png>)
+![300px Guard Uniform](</assets/img/codex/reward_guard_uniform.png>)
 
 ### Guides
 
 - **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. It can appear anywhere on the map, at complete random. Here is what it looks like:
 
 
-![100px Jackalope picture](<https://cdn.discordapp.com/attachments/923510071026155550/925701450565287946/1640773608420.png>)
+![100px Jackalope picture](</assets/img/codex/misson_jackalope.png>)
 
 The fastest way to find the **Rare Jackalope** is to search the entire map. If haven't found it yet, just jetpack home to reset the map and repeat until you find it.
 
-- **Rare Tulips:** These replace Scrap Piles and can be found anywhere. [Click here](<https://cdn.discordapp.com/attachments/923510071026155550/1016514967912071259/tulip-route.png>) to see the route suggested by Echio.
+- **Rare Tulips:** These replace Scrap Piles and can be found anywhere. [Click here](</assets/img/codex/tulip-route.png>) to see the route suggested by Echio.
 - **Wild Yanky Packs:** Roughly 5-7 can be found by starting at Cobblestone Clearing (see route map below), then run North staying on the left toward River Run.
 - **Rat Bandits:** A good place to farm these is Cobblestone Trail.
-- **Explore:** Exploration locations can be found in the areas highlighted by red squares in the route map below. ![Scrapper Coast](<https://cdn.discordapp.com/attachments/923510071026155550/926945206790651984/scrapper-coast-codex-new-min.png>)
+- **Explore:** Exploration locations can be found in the areas highlighted by red squares in the route map below. ![Scrapper Coast](</assets/img/codex/scrapper-coast-codex-new-min.png>)
 
 
 *credit: debb, Kartoffel, Echio*
