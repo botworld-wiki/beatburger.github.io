@@ -14,19 +14,19 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-**Danger Zones are special zones that require Danger Zone Fuel ![inline block](</assets/img/dzs/icon-dangerzonefuel.png>) to visit. Danger Zones are home to much tougher enemies and bosses as well as better rewards in the form of Danger Chests. The further from the landing spot a chest or enemy is, typically the higher level/tier it will be. Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Be sure make the most out of every trip!**
+**Danger Zones are special zones that require Danger Zone Fuel ![inline block](</assets/img/icons/icon-dangerzonefuel.png>) to visit. Danger Zones are home to much tougher enemies and bosses as well as better rewards in the form of Danger Chests. The further from the landing spot a chest or enemy is, typically the higher level/tier it will be. Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Be sure make the most out of every trip!**
 
 ### Overview
 
-**Danger Zone Fuel ![inline block](</assets/img/dzs/icon-dangerzonefuel.png>):** Similar to **Repair Canisters ![inline block](</assets/img/icons/icon-energycanister.png>)**, Danger Zone Fuel is used travel to a selected Danger Zone from the World Map. Each trip to a Danger Zone will cost a single Danger Zone Fuel. Fuel replenishes every 20h up to [Boat Level 14](</boat#level-14>) and replenishes **3x faster** at [Boat Level 15](</boat#level-15>) (in practice every 8h).
+**Danger Zone Fuel ![inline block](</assets/img/icons/icon-dangerzonefuel.png>):** Similar to **Repair Canisters ![inline block](</assets/img/icons/icon-energycanister.png>)**, Danger Zone Fuel is used travel to a selected Danger Zone from the World Map. Each trip to a Danger Zone will cost a single Danger Zone Fuel. Fuel replenishes every 20h up to [Boat Level 14](</boat#level-14>) and replenishes **3x faster** at [Boat Level 15](</boat#level-15>) (in practice every 8h).
 
 ### Events and Points of Interest
 
-- **Obstacles ![inline block](</assets/img/dzs/icon-blocked.png>):** Some paths may be blocked by obstacles, check the zone maps below to learn how to nagivate to areas when blocked.
-- **Repair Stations ![inline repair canister](</assets/img/dzs/icon-repair-station.png>):** These will fill half (3 bars) of your repair canister. They can only be used once per run for each canister found on the map.
-- **Gadget Repair ![inline gadget fill](</assets/img/dzs/icon-gadget-fill.png>):** These will refill all charges on your gadgets. They can only be used once per run for each canister found on the map.
-- **Random Encounters ![inline random encounters](</assets/img/dzs/icon-random-encounter.png>):** Find a list of possible encounters [here](</danger-zones#random-encounters>).
-- **Exterminator Squads ![inline ext squads](</assets/img/dzs/icon-exterminator.png>):** Find info about Exterminator Squads [here](</danger-zones#exterminator-squads>).<br>
+- **Obstacles ![inline block](</assets/img/icons/icon-blocked.png>):** Some paths may be blocked by obstacles, check the zone maps below to learn how to nagivate to areas when blocked.
+- **Repair Stations ![inline repair canister](</assets/img/icons/icon-repair-station.png>):** These will fill half (3 bars) of your repair canister. They can only be used once per run for each canister found on the map.
+- **Gadget Repair ![inline gadget fill](</assets/img/icons/icon-gadget-fill.png>):** These will refill all charges on your gadgets. They can only be used once per run for each canister found on the map.
+- **Random Encounters ![inline random encounters](</assets/img/icons/icon-random-encounter.png>):** Find a list of possible encounters [here](</danger-zones#random-encounters>).
+- **Exterminator Squads ![inline ext squads](</assets/img/icons/icon-exterminator.png>):** Find info about Exterminator Squads [here](</danger-zones#exterminator-squads>).<br>
 
 
 
