@@ -126,16 +126,16 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 ### Missions
 
-- Pick [Pumpkins](<https://cdn.discordapp.com/attachments/923510071026155550/1016547752475373628/Screenshot_20220906-0015032.png>) (20)
-- Pick [Pumpkins](<https://cdn.discordapp.com/attachments/923510071026155550/1016547752475373628/Screenshot_20220906-0015032.png>) (100)
-- [Defeat the Wandering Wolf Pack Alpha](<https://cdn.discordapp.com/attachments/923510071026155550/926406886620807208/unknown.png>)
-- [Explore the Wolf Pack Settlement](<https://cdn.discordapp.com/attachments/923510071026155550/925299781293719622/Screenshot_20211228-153308.jpg>)
-- [Explore the Crater Dome Control Panel](<https://cdn.discordapp.com/attachments/923510071026155550/925299781520207892/Screenshot_20211228-152931.jpg>)
-- [Explore the Croaking Lake Jetty](<https://cdn.discordapp.com/attachments/923510071026155550/926202687928815626/unknown.png>)
-- [Explore Mia's Place](<https://cdn.discordapp.com/attachments/923510071026155550/925299781792833536/Screenshot_20211228-153057.jpg>)
-- [Explore Redleaf Trail](<https://cdn.discordapp.com/attachments/923510071026155550/926203200548249690/unknown.png>)
-- [Explore the Stonefinger Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/926201276566495323/unknown.png>)
-- [Catch Dragonflies (10)](<https://media.discordapp.net/attachments/923510071026155550/958814580245676172/Screenshot_20220326-141608.png>)
+- Pick [Pumpkins](</assets/img/codex/mission_pumpkin.png>) (20)
+- Pick [Pumpkins](</assets/img/codex/mission_pumpki.png>) (100)
+- [Defeat the Wandering Wolf Pack Alpha](</assets/img/codex/mission_wolf_pack_alpha.png>)
+- [Explore the Wolf Pack Settlement](</assets/img/codex/mission_wolf_pack_settlement.jpg>)
+- [Explore the Crater Dome Control Panel](</assets/img/codex/mission_crater_dome.jpg>)
+- [Explore the Croaking Lake Jetty](</assets/img/codex/mission_explore_croaking_lake.png>)
+- [Explore Mia's Place](</assets/img/codex/mission_explore_mias_place.jpg>)
+- [Explore Redleaf Trail](</assets/img/codex/mission_explore_redleaf_trail.png>)
+- [Explore the Stonefinger Ruins](</assets/img/codex/mission_explore_stonefinger_ruins.png>)
+- [Catch Dragonflies (10)](</assets/img/codex/mission_dragonfly.png>)
 - Defeat Wild [Thump](</thump>) Packs (75)
 - Defeat Dangerous Wild [Thump](</thump>) Packs (2)
 - Defeat Wolf Pack Scrappers (150)
@@ -146,20 +146,20 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **All 13 Missions completed:** Wolf Pack Alpha Mask
 
-![200px Wolf Pack Alpha Mask](<https://cdn.discordapp.com/attachments/923510071026155550/926154509183492166/IMG_20211230_234643.jpg>)
+![200px Wolf Pack Alpha Mask](</assets/img/codex/reward_wolfpackalpha_mask.jpg>)
 
 **8 Missions completed:** Wolf Pack Suit
 
-![300px Wolf Pack Suit](<https://cdn.discordapp.com/attachments/923510071026155550/926146415883849788/unknown.png>)
+![300px Wolf Pack Suit](</assets/img/codex/reward_wolfpackalpha_suit.png>)
 
 ### Guides
 
-- **Pumpkins**: Replace Scrap Piles and can appear anywhere. [Click here](<https://cdn.discordapp.com/attachments/923510071026155550/1016514968239210506/pumpkin-route.png>) to see the route suggested by Echio
+- **Pumpkins**: Replace Scrap Piles and can appear anywhere. [Click here](</assets/img/codex/pumpkin-route.png>) to see the route suggested by Echio
 - **Red Square:** Explore
 - **Black Line:** Wandering Wolf Pack Alpha
 
 
-![Fall Grove](<https://cdn.discordapp.com/attachments/923510071026155550/926945205578502205/fall-grove-codex-new-min.png>)*credit: Hex, debb, Nostalgia, BloodxReaper, Echio*
+![Fall Grove](</assets/img/codex/fall-grove-codex-new-min.png>)*credit: Hex, debb, Nostalgia, BloodxReaper, Echio*
 </div>
 
 ## Saltwater Swamp
