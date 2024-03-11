@@ -27,7 +27,7 @@ Let’s make one thing clear: **this game won’t punish you for any choice you 
 
 ## Starter bot
 
-![half-right starter-selection](<https://cdn.discordapp.com/attachments/923510071026155550/927866008197287956/starter-selection-min.png>)
+![half-right starter-selection](</assets/img/bots/starter-selection-min.png>)
 
 It's really just that: your starter bot. **You will find botframes to build the other two** just like any other bot wandering through Botworld.
 

@@ -14,19 +14,19 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-intro">
 
-**Danger Zones are special zones that require Danger Zone Fuel ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1037817676329930854/icon-dangerzonefuel.png>) to visit. Danger Zones are home to much tougher enemies and bosses as well as better rewards in the form of Danger Chests. The further from the landing spot a chest or enemy is, typically the higher level/tier it will be. Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Be sure make the most out of every trip!**
+**Danger Zones are special zones that require Danger Zone Fuel ![inline block](</assets/img/icons/icon-dangerzonefuel.png>) to visit. Danger Zones are home to much tougher enemies and bosses as well as better rewards in the form of Danger Chests. The further from the landing spot a chest or enemy is, typically the higher level/tier it will be. Danger Zones are no laughing matter! They're hostile, and Danger Fuel is scarce and precious. Be sure make the most out of every trip!**
 
 ### Overview
 
-**Danger Zone Fuel ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1037817676329930854/icon-dangerzonefuel.png>):** Similar to **Repair Canisters ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1037817676795486259/icon-energycanister.png>)**, Danger Zone Fuel is used travel to a selected Danger Zone from the World Map. Each trip to a Danger Zone will cost a single Danger Zone Fuel. Fuel replenishes every 20h up to [Boat Level 14](</boat#level-14>) and replenishes **3x faster** at [Boat Level 15](</boat#level-15>) (in practice every 8h).
+**Danger Zone Fuel ![inline block](</assets/img/icons/icon-dangerzonefuel.png>):** Similar to **Repair Canisters ![inline block](</assets/img/icons/icon-energycanister.png>)**, Danger Zone Fuel is used travel to a selected Danger Zone from the World Map. Each trip to a Danger Zone will cost a single Danger Zone Fuel. Fuel replenishes every 20h up to [Boat Level 14](</boat#level-14>) and replenishes **3x faster** at [Boat Level 15](</boat#level-15>) (in practice every 8h).
 
 ### Events and Points of Interest
 
-- **Obstacles ![inline block](<https://cdn.discordapp.com/attachments/923510071026155550/928587497712287784/icon-blocked.png>):** Some paths may be blocked by obstacles, check the zone maps below to learn how to nagivate to areas when blocked.
-- **Repair Stations ![inline repair canister](<https://cdn.discordapp.com/attachments/923509490307977227/928584230739542087/icon-repair-station.png>):** These will fill half (3 bars) of your repair canister. They can only be used once per run for each canister found on the map.
-- **Gadget Repair ![inline gadget fill](<https://cdn.discordapp.com/attachments/923510071026155550/928585390183550986/icon-gadget-fill.png>):** These will refill all charges on your gadgets. They can only be used once per run for each canister found on the map.
-- **Random Encounters ![inline random encounters](<https://cdn.discordapp.com/attachments/923510071026155550/928597988308299796/icon-random-encounter.png>):** Find a list of possible encounters [here](</danger-zones#random-encounters>).
-- **Exterminator Squads ![inline ext squads](<https://cdn.discordapp.com/attachments/923510071026155550/928606147492057108/icon-exterminator.png>):** Find info about Exterminator Squads [here](</danger-zones#exterminator-squads>).<br>
+- **Obstacles ![inline block](</assets/img/icons/icon-blocked.png>):** Some paths may be blocked by obstacles, check the zone maps below to learn how to nagivate to areas when blocked.
+- **Repair Stations ![inline repair canister](</assets/img/icons/icon-repair-station.png>):** These will fill half (3 bars) of your repair canister. They can only be used once per run for each canister found on the map.
+- **Gadget Repair ![inline gadget fill](</assets/img/icons/icon-gadget-fill.png>):** These will refill all charges on your gadgets. They can only be used once per run for each canister found on the map.
+- **Random Encounters ![inline random encounters](</assets/img/icons/icon-random-encounter.png>):** Find a list of possible encounters [here](</danger-zones#random-encounters>).
+- **Exterminator Squads ![inline ext squads](</assets/img/icons/icon-exterminator.png>):** Find info about Exterminator Squads [here](</danger-zones#exterminator-squads>).<br>
 
 
 
@@ -73,7 +73,7 @@ breadcrumbs:
 
 ## Frozen Wastes
 
-![half-right image](<https://cdn.discordapp.com/attachments/923510071026155550/1037824436826554418/map-frozenwastes.png>)
+![half-right image](</assets/img/maps/map-frozenwastes.png>)
 
 ### Overview
 
@@ -98,14 +98,14 @@ Frozen Wastes is geographically located North of Ashen Shore, can only be reache
 
 ### Route Map
 
-![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928738325001547816/frozen-wastes-pathing-min.png>)
+![Image](</assets/img/maps/frozen-wastes-pathing-min.png>)
 </div>
 
 <div markdown="1" class=" ghcms ghcms-moltenrocks">
 
 ## Molten Rock
 
-![half-right image](<https://cdn.discordapp.com/attachments/923510071026155550/1037824437220810904/map-moltenrock.png>)
+![half-right image](</assets/img/maps/map-moltenrock.png>)
 
 ### Overview
 
@@ -131,7 +131,7 @@ Molten Rock is geographically located South of the Great Desert, can only be rea
 
 ### Route Map
 
-![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928728168230170674/molten-rock-pathing-min.png>)
+![Image](</assets/img/maps/molten-rock-pathing-min.png>)
 
 </div>
 
@@ -139,7 +139,7 @@ Molten Rock is geographically located South of the Great Desert, can only be rea
 
 ## Vivid Valley
 
-![half-right image](<https://cdn.discordapp.com/attachments/923510071026155550/1037824438063865866/map-vividvalley.png>)
+![half-right image](</assets/img/maps/map-vividvalley.png>)
 
 ### Overview
 
@@ -167,7 +167,7 @@ Vivid Valley is geographically located East of Saltwater Swamp, can only be reac
 
 ### Route Map
 
-![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928616231412572220/vivid-valley-pathing1-min.png>)
+![Image](</assets/img/maps/vivid-valley-pathing-min.png>)
 
 </div>
 
@@ -175,7 +175,7 @@ Vivid Valley is geographically located East of Saltwater Swamp, can only be reac
 
 ## Scrapyard
 
-![half-right image](<https://cdn.discordapp.com/attachments/923510071026155550/1037824437631864852/map-scrapyard.png>)
+![half-right image](</assets/img/maps/map-scrapyard.png>)
 
 ### Overview
 
@@ -199,7 +199,7 @@ Scrapyard is geographically located Northeast of Saltwater Swamp, can only be re
 
 ### Route Map
 
-![Image](<https://cdn.discordapp.com/attachments/923510071026155550/928773426863300638/scrapyard-pathing3-min.png>)
+![Image](</assets/img/maps/scrapyard-pathing-min.png>)
 
 </div>
 
@@ -213,7 +213,7 @@ Scrapyard is geographically located Northeast of Saltwater Swamp, can only be re
 
 ### **Bexley The Brave**
 
-![300px bexley](<https://cdn.discordapp.com/attachments/923510071026155550/928579389153763378/unknown.png>)
+![300px bexley](</assets/img/dzs/npc_bexley.png>)
 
 Bexley can be battled and rewards you for winning with loot.
 
@@ -285,7 +285,7 @@ Bexley can be battled and rewards you for winning with loot.
 
 ### **Mechanic**
 
-![300px mechanic](<https://media.discordapp.net/attachments/832312687932473414/1063714815555678228/image.png>)
+![300px mechanic](</assets/img/dzs/npc_mechanic.png>)
 
 A dog mechanic offers to repair your **entire** red bar for coins.
 
@@ -293,9 +293,9 @@ A dog mechanic offers to repair your **entire** red bar for coins.
 
 - **Mechanic:** Hey there! I see your bots are lookin' a little worse for wear.
 
-- **Mechanic:** How'd ya like me to repair those scraggly-lookin' bots for ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10?<br>
+- **Mechanic:** How'd ya like me to repair those scraggly-lookin' bots for ![inline block](</assets/img/icons/icon-coin.png>) 10?<br>
 
-    **Player (Option A):** Yes please *(Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10)*<br>
+    **Player (Option A):** Yes please *(Pay ![inline block](</assets/img/icons/icon-coin.png>) 10)*<br>
 
     **Player (Option B):** No thanks *(ends encounter)*
 
@@ -305,7 +305,7 @@ A dog mechanic offers to repair your **entire** red bar for coins.
 
 ### **Merchant**
 
-![300px merchant](<https://media.discordapp.net/attachments/832312687932473414/1063337961518800906/image.png>)<br>
+![300px merchant](</assets/img/dzs/npc_brokencart.png>)<br>
 
 A merchant's caravan has broken down and they will offer 100 coins in exchange for your repair canister energy (all of your remaining red bar).
 
@@ -315,7 +315,7 @@ A merchant's caravan has broken down and they will offer 100 coins in exchange f
 
 - **Player:** How much do you need?
 
-- **Merchant:** I'll give you ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>) 100 if you donate the rest of your repair energy to me. Then you can jetpack home and I can fix my cart.<br>
+- **Merchant:** I'll give you ![inline block](</assets/img/icons/icon-coin.png>) 100 if you donate the rest of your repair energy to me. Then you can jetpack home and I can fix my cart.<br>
 
 
 
@@ -337,7 +337,7 @@ A merchant's caravan has broken down and they will offer 100 coins in exchange f
 
 ### **Trix**
 
-![300px trix](<https://media.discordapp.net/attachments/832312687932473414/1064774322532667432/image.png>)
+![300px trix](</assets/img/dzs/npc_trix.png>)
 
 Trix is searching for a rare flower to give to her crush and gives you scrap to lighten her load.<br>
 
@@ -373,7 +373,7 @@ Trix is searching for a rare flower to give to her crush and gives you scrap to 
 
 ### **Ember and Flake**
 
-![300px emberandflake](<https://cdn.discordapp.com/attachments/923510071026155550/928577367658614824/unknown.png>)
+![300px emberandflake](</assets/img/dzs/npc_ember_flake.png>)
 
 Ember and Flake argue about which bots are stronger: fire or ice. You can settle their dispute by claiming you can defeat any bots of that type and you will battle their team of bots. You are rewarded with loot if you win.
 
@@ -435,7 +435,7 @@ Ember and Flake argue about which bots are stronger: fire or ice. You can settle
 
 ### **Larry**
 
-![300px larry](<https://cdn.discordapp.com/attachments/923510071026155550/928744778785513543/unknown.png>)
+![300px larry](</assets/img/dzs/npc_larry.png>)
 
 Good old Larry is offer selling 10 [Cold Batteries](</cold-battery>) for 25 coins.<br>
 
@@ -463,9 +463,9 @@ Good old Larry is offer selling 10 [Cold Batteries](</cold-battery>) for 25 coin
 
 - **Larry (upon picking B):** Why do you ask so many questions? I dunno, because they're gonna defrost or something.
 
-- **Larry:** Look, because you're a friend, I'll give you 10 Cold Batteries for ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>) 25\. You interested?<br>
+- **Larry:** Look, because you're a friend, I'll give you 10 Cold Batteries for ![inline block](</assets/img/icons/icon-coin.png>) 25\. You interested?<br>
 
-    **Player (Option A):** Sure! *(Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>) 25)*<br>
+    **Player (Option A):** Sure! *(Pay ![inline block](</assets/img/icons/icon-coin.png>) 25)*<br>
 
     **Player (Option B):** No thanks *(ends encounter)*<br>
 
@@ -473,7 +473,7 @@ Good old Larry is offer selling 10 [Cold Batteries](</cold-battery>) for 25 coin
 
 - **Larry (upon picking C):** Whatever, a deal's a deal and this one's a steal. You want these 10 fresh Cold Batteries or not?<br>
 
-    **Player (Option A):** Sure! *(Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>) 25)*<br>
+    **Player (Option A):** Sure! *(Pay ![inline block](</assets/img/icons/icon-coin.png>) 25)*<br>
 
     **Player (Option B):** No thanks *(ends encounter)*
 
@@ -487,7 +487,7 @@ Good old Larry is offer selling 10 [Cold Batteries](</cold-battery>) for 25 coin
 
 ### **Mad Scientist A**
 
-![300px madscientist](<https://cdn.discordapp.com/attachments/923510071026155550/928578187032657970/unknown.png>)
+![300px madscientist](</assets/img/dzs/npc_mad_scientist.png>)
 
 Mad Scientist will offer to battle you with electric bots and reward you for winning with loot.
 
@@ -520,7 +520,7 @@ Mad Scientist will offer to battle you with electric bots and reward you for win
 
 ### **Mad Scientist B**
 
-![300px madscientist](<https://cdn.discordapp.com/attachments/923510071026155550/928578187032657970/unknown.png>)<br>
+![300px madscientist](</assets/img/dzs/npc_mad_scientist.png>)<br>
 
 \*Looks the exact same as the other one, but has a different effect.<br>
 
@@ -561,7 +561,7 @@ Teleports the player randomly to another location in the DZ. Beware! It can tele
 
 ### **Tourist Hostage**
 
-![300px bandittourist](<https://media.discordapp.net/attachments/832312687932473414/1069122919269138532/image.png>)<br>
+![300px bandittourist](</assets/img/dzs/npc_tourist.png>)<br>
 
 A bandit has taken a tourist hostage! You have the choice to pay a ransom or fight to release him, or not. When released, he will give you a large amount of coins and scrap. THIS IS ALWAYS WORTH DOING, AS THE TOURIST WILL GIVE YOU BACK MORE COINS THAN YOU PAY.
 
@@ -611,13 +611,13 @@ A bandit has taken a tourist hostage! You have the choice to pay a ransom or fig
 
     **Player (Option B):** Fair enough. What's the ransom?
 
-- **Bandit (upon picking B in both above scenarios):** Sigh. There's nobody else around to rescue him, so we'll say ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)20\. What do you reckon?<br>
+- **Bandit (upon picking B in both above scenarios):** Sigh. There's nobody else around to rescue him, so we'll say ![inline block](</assets/img/icons/icon-coin.png>) 20\. What do you reckon?<br>
 
-    **Player (Option A):** Okay *(Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)20)*<br>
+    **Player (Option A):** Okay *(Pay ![inline block](</assets/img/icons/icon-coin.png>) 20)*<br>
 
     **Player (Option B):** I'm not paying any ransom! *(Fight)*<br>
 
-    **Player (Option C):** That's outrageous! I'll take him for ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10<br>
+    **Player (Option C):** That's outrageous! I'll take him for ![inline block](</assets/img/icons/icon-coin.png>) 10<br>
 
     **Player (Option D):** Nah you can keep him *(ends encounter)*
 
@@ -631,11 +631,11 @@ A bandit has taken a tourist hostage! You have the choice to pay a ransom or fig
 
 **Bandit:** I already told you, I'm not a waiter! Urgh.
 
-- **Tourist:** Hey, I'm worth more than ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10! You're rude.
+- **Tourist:** Hey, I'm worth more than ![inline block](</assets/img/icons/icon-coin.png>) 10! You're rude.
 
-- **Bandit:** Urgh fine, ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10 just to get him off my hands.<br>
+- **Bandit:** Urgh fine, ![inline block](</assets/img/icons/icon-coin.png>) 10 just to get him off my hands.<br>
 
-    **Player (Option A):** Deal *(Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)10)*<br>
+    **Player (Option A):** Deal *(Pay ![inline block](</assets/img/icons/icon-coin.png>) 10)*<br>
 
     **Player (Option B):** On second thoughts, you can keep him *(ends encounter)*
 
@@ -655,9 +655,9 @@ A bandit has taken a tourist hostage! You have the choice to pay a ransom or fig
 
 ### **Event Merchant**
 
-![300px eventmerchant](<https://media.discordapp.net/attachments/832312687932473414/1080737844294860850/97920550771.png?width=626&height=500>)<br>
+![300px eventmerchant](</assets/img/dzs/npc_event_merchant.png?width=626&height=500>)<br>
 
-A merchant has been attacked by two bandits and it's up to you to save them! You'll also get a chance to buy a random special [booster](</boosters>) for ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)500\.<br>
+A merchant has been attacked by two bandits and it's up to you to save them! You'll also get a chance to buy a random special [booster](</boosters>) for ![inline block](</assets/img/icons/icon-coin.png>) 500\.<br>
 
 \* THIS ENCOUNTER ONLY OCCURS DURING THE **SCAVENGER'S FAIR**[GUILD](</guilds>) EVENT<br>
 
@@ -668,12 +668,12 @@ A merchant has been attacked by two bandits and it's up to you to save them! You
 ### Interactions
 
 - **Merchant:** Woah, thanks for that, Botmaster! Those highwaymen were going to clean out my inventory and leave me stranded here. Now I just need money to get back to town.
-- **Merchant:** Say, wanna pitch in? My wares are all jumbled up, but I'll let you pick out the first Special [module](</boosters>) you see on top of the pile for ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)500\.
+- **Merchant:** Say, wanna pitch in? My wares are all jumbled up, but I'll let you pick out the first Special [module](</boosters>) you see on top of the pile for ![inline block](</assets/img/icons/icon-coin.png>) 500\.
 
 
 *(With enough coins)*
 
-- **Player (Option A):** Sure! (Pay ![inline block](<https://media.discordapp.net/attachments/923510071026155550/1063449997087084587/icon-coin.webp>)500)<br>
+- **Player (Option A):** Sure! (Pay ![inline block](</assets/img/icons/icon-coin.png>) 500)<br>
 
     **(Merchant):** Here you go. Thanks again! This should cover me for the trip back to Scavenger's Landing.
 
@@ -693,9 +693,9 @@ A merchant has been attacked by two bandits and it's up to you to save them! You
 
 ## Exterminator Squads
 
-**Exterminator Squads are a difficult challenge. Exterminators are found exclusively on Danger Zone maps. Once you upgrade to [Boat Level 15](</boat>), your Danger Zone map menu will change to Heroic. Exterminators have 4 types : Buffalo ![inline icon buff](<https://cdn.discordapp.com/attachments/923510071026155550/928740159455911986/exterminator_buffalo_icon.png>)(Frozen Wastes), Cat ![inline icon cat](<https://cdn.discordapp.com/attachments/923510071026155550/928740158805798952/exterminator_cat_icon.png>)(Molten Rock), Lizard ![inline icon liz](<https://cdn.discordapp.com/attachments/923510071026155550/928740158998720572/exterminator_lizard_icon.png>)(Vivid Valley) and Dog ![inline icon dog](<https://cdn.discordapp.com/attachments/923510071026155550/928740159229411328/exterminator_dog_icon.png>) (Scrapyard).**
+**Exterminator Squads are a difficult challenge. Exterminators are found exclusively on Danger Zone maps. Once you upgrade to [Boat Level 15](</boat>), your Danger Zone map menu will change to Heroic. Exterminators have 4 types : Buffalo ![inline icon buff](</assets/img/dzs/exterminator_buffalo_icon.png>)(Frozen Wastes), Cat ![inline icon cat](</assets/img/dzs/exterminator_cat_icon.png>)(Molten Rock), Lizard ![inline icon liz](</assets/img/dzs/exterminator_lizard_icon.png>)(Vivid Valley) and Dog ![inline icon dog](</assets/img/dzs/exterminator_dog_icon.png>) (Scrapyard).**
 
-![extsquad](<https://cdn.discordapp.com/attachments/923510071026155550/928655311693291580/unknown.png>)
+![extsquad](</assets/img/dzs/npc_exterminator.png>)
 
 ### Rewards
 
@@ -735,9 +735,9 @@ Exterminator Squads difficulty increases each time you defeat them.
 - **Scrapyard:** Dog Pest Control
 
 
-![300px pc buff](<https://media.discordapp.net/attachments/923510071026155550/928637165343236146/Pest_Control_Buffalo.png>) ![300px inline pc cat](<https://media.discordapp.net/attachments/923510071026155550/928830798369546260/Pest_Control_Cath.png>)
+![300px pc buff](</assets/img/dzs/Pest_Control_Buffalo.png>) ![300px inline pc cat](</assets/img/dzs/Pest_Control_Cath.png>)
 
-![300px pc liz](<https://media.discordapp.net/attachments/923510071026155550/928637165972377630/Pest_Control_Lizard.png>)![300px inline pc dpg](<https://media.discordapp.net/attachments/923510071026155550/928637166333091860/Pest_Control_Dog.png>)
+![300px pc liz](</assets/img/dzs/Pest_Control_Lizard.png>)![300px inline pc dpg](</assets/img/dzs/Pest_Control_Dog.png>)
 
 </div>
 
