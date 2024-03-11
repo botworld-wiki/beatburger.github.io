@@ -63,7 +63,7 @@ Each [Map](</maps>) has its own list of quests that reward the player with cosme
 - **Rare Jackalope:** This one is hard to spot because it looks almost the same as regular bunnies. It can appear anywhere on the map, at complete random. Here is what it looks like:
 
 
-![100px Jackalope picture](</assets/img/codex/misson_jackalope.png>)
+![100px Jackalope picture](</assets/img/codex/mission_jackalope.png>)
 
 The fastest way to find the **Rare Jackalope** is to search the entire map. If haven't found it yet, just jetpack home to reset the map and repeat until you find it.
 
