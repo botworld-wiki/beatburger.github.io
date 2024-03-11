@@ -59,7 +59,7 @@ Tutorial Island is where the player starts their journey. After designing their 
 
 <div markdown="1" class=" ghcms ghcms-scrappercoast">
 
-![half-right image](<https://cdn.discordapp.com/attachments/923510071026155550/1037961173045354546/map-scrappercoast.png>)
+![half-right image](</assets/img/maps/map-scrappercoast.png>)
 
 <br>
 
@@ -101,7 +101,7 @@ Scrapper Coast is at the heart of Botworld and is home to a port town called Sca
 
 <div markdown="1" class=" ghcms ghcms-greatdesert">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038087219358994494/map-greatdesert-rs.png>)
+![half-right image](</assets/img/maps/map-greatdesert-rs.png>)
 
 <br>
 
@@ -147,7 +147,7 @@ Great Desert is geographically located East of Scrapper Coast and Northeast of P
 
 <div markdown="1" class=" ghcms ghcms-fallgrove">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038096673878053014/map-fallgrove-rs.png>)
+![half-right image](</assets/img/maps/map-fallgrove-rs.png>)
 
 <br>
 
@@ -193,7 +193,7 @@ Fall Grove is geographically located North of Scrapper Coast and East of Spore W
 
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038181563990540308/map-saltwaterswamp-rs.png>)
+![half-right image](</assets/img/maps/map-saltwaterswamp-rs.png>)
 
 <br>
 
@@ -235,7 +235,7 @@ Saltwater Swamp is geographically located North of Fall Grove and East of Ashen 
 
 <div markdown="1" class=" ghcms ghcms-parchedsea">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038189825041371266/map-parchedsea-rs.png>)
+![half-right image](</assets/img/maps/map-parchedsea-rs.png>)
 
 <br>
 
@@ -277,7 +277,7 @@ Parched Sea is geographically located South of Scrapper Coast and Great Desert. 
 
 <div markdown="1" class=" ghcms ghcms-sporewoods">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038201037741371533/map-sporewood-rs.png>)
+![half-right image](</assets/img/maps/map-sporewood-rs.png>)
 
 <br>
 
@@ -318,7 +318,7 @@ Spore Wood is geographically located West of Fall Grove and South of Ashen Shore
 
 <div markdown="1" class=" ghcms ghcms-ashenshore">
 
-![half-right image](<https://cdn.discordapp.com/attachments/384176893357719562/1038208479241961492/map-ashenshore-rs.png>)
+![half-right image](</assets/img/maps/map-ashenshore-rs.png>)
 
 <br>
 
