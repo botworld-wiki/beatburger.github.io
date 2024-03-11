@@ -167,15 +167,15 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 <div markdown="1" class=" ghcms ghcms-saltwaterswamp">
 ### Missions
 
-- Defeat the [Fork Tongue Fanatics Leader](<https://cdn.discordapp.com/attachments/923510071026155550/926331336422207508/IMG_20211231_095858.jpg>)
-- [Explore the Abandoned Factory](<https://cdn.discordapp.com/attachments/923510071026155550/925218667556397098/Screenshot_2021-12-28-09-39-31-350_com.featherweightgames.fx.png>)
-- [Explore the Big Tree](<https://cdn.discordapp.com/attachments/923510071026155550/925218477919338566/Screenshot_2021-12-28-09-18-42-434_com.featherweightgames.fx.png>)
-- [Explore the Bog Ruins](<https://cdn.discordapp.com/attachments/923510071026155550/925333569549791242/Screenshot_20211228_112427.png>)
-- [Explore Giant's Steps](<https://cdn.discordapp.com/attachments/923510071026155550/925326439509790780/Screenshot_20211228_105620.png>)
-- [Explore Larry's Cruise Ship](<https://cdn.discordapp.com/attachments/923510071026155550/925314557210132530/Screenshot_20211228_100859.png>)
-- [Explore the Mangrove Village](<https://cdn.discordapp.com/attachments/923510071026155550/925218478678499378/Screenshot_2021-12-28-09-34-04-579_com.featherweightgames.fx.png>)
-- [Explore the Ritual Grounds](<https://cdn.discordapp.com/attachments/923510071026155550/1017647176106655815/Screenshot_20220909-0040282.png>)
-- [Catch a Rare Firefly](<https://media.discordapp.net/attachments/832312687932473414/1046148910701363251/image.png>)
+- Defeat the [Fork Tongue Fanatics Leader](</assets/img/codex/mission_forktongue_leader.jpg>)
+- [Explore the Abandoned Factory](</assets/img/codex/mission_explore_abandoned_factory.png>)
+- [Explore the Big Tree](</assets/img/codex/mission_explore_big_tree.png>)
+- [Explore the Bog Ruins](</assets/img/codex/mission_explore_bog_ruins.png>)
+- [Explore Giant's Steps](</assets/img/codex/mission_explore_giants_steps.png>)
+- [Explore Larry's Cruise Ship](</assets/img/codex/mission_explore_cruise_ship.png>)
+- [Explore the Mangrove Village](</assets/img/codex/mission_explore_mangrove_village.png>)
+- [Explore the Ritual Grounds](</assets/img/codex/mission_explore_ritual_grounds.png>)
+- [Catch a Rare Firefly](</assets/img/codex/mission_firefly.png>)
 - Defeat Fork Tongue Fanatics (200)
 - Defeat Fork Tongue Fanatics (1000)
 - Defeat Wild [Froggy](</froggy>) Packs (100)
@@ -186,11 +186,11 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **All 13 Missions completed:** Fork Tongue Headwear
 
-![200px Fork Tongue Headwear](<https://cdn.discordapp.com/attachments/923510071026155550/926154220153995295/IMG_20211230_234602.jpg>)
+![200px Fork Tongue Headwear](</assets/img/codex/reward_forktongue_headwear.jpg>)
 
 **8 Missions completed:** Fork Tongue War Paint
 
-![300px Fork Tongue War Paint](<https://cdn.discordapp.com/attachments/923510071026155550/926146321302306907/unknown.png>)
+![300px Fork Tongue War Paint](</assets/img/codex/reward_forktongue_warpaint.png>)
 
 ### Guides
 
@@ -198,7 +198,7 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 - **Black Line:** Roaming Fork Leader
 
 
-![Saltwater Swamp Codex](<https://cdn.discordapp.com/attachments/923510071026155550/1017646685888974908/saltwater-swamp-codex-new-min.png>)
+![Saltwater Swamp Codex](</assets/img/codex/saltwater-swamp-codex-new-min.png>)
 
 *Credit: cloud9, Hex, debb, BloodxReaper*
 </div>
