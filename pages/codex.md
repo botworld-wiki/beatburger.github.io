@@ -18,11 +18,11 @@ breadcrumbs:
 
 ### Overview
 
-The Codex is a new feature added with [Version 1.2](</news#v120>). It adds new Quests to normal and danger zones which gives advanced players a reason to revisit areas - other than [Farming](</farming>).
+The Codex is a feature added with [Version 1.2](</news#v120>). It adds new Quests to normal and danger zones which gives players a reason to discover areas and later to revisit areas - other than [Farming](</farming>).
 
 ### Rewards
 
-Each [Map](</maps>) has it's own list of quests that reward the player with cosmetic rewards for completing a specific number of objectives and 100 Coins for each objective you complete.
+Each [Map](</maps>) has its own list of quests that reward the player with cosmetic rewards for completing a specific number of objectives and 100 Coins for each objective you complete.
 
 **Jump to section 🔹** \| [Scrapper Coast](<#scrapper-coast>) \| [Great Desert](<#great-desert>) \| [Fall Grove](<#fall-grove>) \| [Saltwater Swamp](<#saltwater-swamp>) \| [Parched Sea](<#parched-sea>) \| [Spore Woods](<#spore-woods>) \| [Ashen Shore](<#ashen-shore>) \| [Exterminator Squads](<#exterminator-squads>) \| [Fishing Codex](<#fishing-codex>) \|
 
@@ -33,15 +33,15 @@ Each [Map](</maps>) has it's own list of quests that reward the player with cosm
 
 ### Missions
 
-- [Catch a Rare Jackalope](</assets/img/codex/mission_jackalope_ss.jpg>) (Bunny —) ![inline Jackalope picture](</assets/img/codex/misson_jackalope.png>)
-- Collect [Rare Tulips](</assets/img/codex/misson_tulips.jpg>) (20) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
-- Collect [Rare Tulips](</assets/img/codex/misson_tulips.jpg>) (100) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
-- [Explore the Bandit Hideout](</assets/img/codex/misson_bandit_hideout.png>)
-- [Explore Cobblestone Clearing](</assets/img/codex/misson_explore_cobblestone_ss.png>)
-- [Explore the Eagle Perch Lookout](</assets/img/codex/misson_explore_eagleperch_ss.png>)
-- [Explore Cinnamon's Boat](</assets/img/codex/misson_explore_cinnamon_boat_ss.png>)
-- [Explore Southbank Beach](</assets/img/codex/misson_explore_southbank_ss.png>)
-- [Explore the abandoned Mineshaft](</assets/img/codex/misson_explore_abandoned_mine_ss.png>)
+- [Catch a Rare Jackalope](</assets/img/codex/mission_jackalope_ss.jpg>) (Bunny —) ![inline Jackalope picture](</assets/img/codex/mission_jackalope.png>)
+- Collect [Rare Tulips](</assets/img/codex/mission_tulips.jpg>) (20) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
+- Collect [Rare Tulips](</assets/img/codex/mission_tulips.jpg>) (100) ([map 1](</assets/img/codex/map_tulip_locations.png>), [map 2](</assets/img/codex/map_tulip_locations_2.png>))
+- [Explore the Bandit Hideout](</assets/img/codex/mission_bandit_hideout.png>)
+- [Explore Cobblestone Clearing](</assets/img/codex/mission_explore_cobblestone_ss.png>)
+- [Explore the Eagle Perch Lookout](</assets/img/codex/mission_explore_eagleperch_ss.png>)
+- [Explore Cinnamon's Boat](</assets/img/codex/mission_explore_cinnamon_boat_ss.png>)
+- [Explore Southbank Beach](</assets/img/codex/mission_explore_southbank_ss.png>)
+- [Explore the abandoned Mineshaft](</assets/img/codex/mission_explore_abandoned_mine_ss.png>)
 - Defeat Rat Bandits (100)
 - Defeat Rat Bandits (500)
 - Defeat Wild [Yanky](</yanky>) Packs (40)
