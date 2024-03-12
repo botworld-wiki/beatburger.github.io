@@ -12,9 +12,8 @@ breadcrumbs:
 
 # Fishing Guide
 
-<div markdown="1" class=" ghcms ghcms-overview">
 ## Overview
-
+<div markdown="1" class=" ghcms ghcms-overview">
 This guide was created to help players locate fish and track their collection and its value. <br>
 
 It also includes a basic breakdown of how to unlock fishing and tips for catching what you need! <br>
@@ -24,75 +23,70 @@ If you have any suggestions/changes/etc., please contact a Wiki personnel or Tse
 
 ## How to Unlock Fishing
 <div markdown="1" class=" ghcms ghcms-unlocking">
-- To unlock fishing you must be at least Botpack level 8. If you meet that requirement, you will randomly be assigned a Contract called ‘Gone Fishing'<br>
+  To unlock fishing you must be at least Botpack level 8. If you meet that requirement, you will randomly be assigned a Contract called ‘Gone Fishing'.
+  If you are at least Botpack level 8 and you do not see it, keep your contracts open and keep refreshing them. Obtaining the contract is completely random.
 
-    If you are at least Botpack level 8 and you do not see it, keep your contracts open and keep refreshing them. Obtaining the contract is completely random.
+  Once you have the Contract, complete the objectives, which begin with talking to Dad, who will tell you to talk with the Fisherman on the **top left** of the Scavenger's Landing pier.
+  The Fisherman will teach you how to fish and give you your first rod - the Amateur Rod.
 
-- Once you have the Contract, complete the objectives, which begin with talking to Dad, who will tell you to talk with the Fisherman on the **top left** of the Scavenger's Landing pier.
+  ![100px amateur rod](</assets/img/fishing/fishing-amateur-rod.png>)
 
-- The Fisherman will teach you how to fish and give you your first rod - the Amateur Rod.
+  After obtaining the rod, you can fish in any zone, including Danger Zones, by interacting with fishing spots marked with circular ripples of water: <br>
 
-    ![100px amateur rod](</assets/img/fishing/fishing-amateur-rod.png>)
+  ![200px fishing spot](</assets/img/fishing/fishing_spot.png>) <br>
 
-- After obtaining the rod, you can fish in any zone, including Danger Zones, by interacting with fishing spots marked with circular ripples of water: <br>
+  Once close enough, a fishing hook icon will appear. <br>
 
-    ![200px fishing spot](<https://media.discordapp.net/attachments/904224085477842996/1074518480654700594/image.png>) <br>
+  ![100px fishing button](</assets/img/fishing/fishing-button.png>)
 
-    Once close enough, a fishing hook icon will appear. <br>
+  In the case that the circular ripples might be difficult to see due to camera angles or there being a cliff, a stationed rod, net, and bucket of fish marks where you can fish.<br>
 
-    ![100px fishing button](</assets/img/fishing/fishing-button.png>)
+  ![100px fishing spot indicator](</assets/img/fishing/fishing_spot_indicator.png>)
 
-    In the case that the circular ripples might be difficult to see due to camera angles or there being a cliff, a stationed rod, net, and bucket of fish marks where you can fish.<br>
-
-    ![100px fishing spot indicator](<https://media.discordapp.net/attachments/904224085477842996/1074523878258393178/image.png>)
-
-- Additional rods can be unlocked by completing objectives on the Fishing Codex. See the [Fishing Rods](<#fishing-rods>) section below for more info.
+  Additional rods can be unlocked by completing objectives on the Fishing Codex. See the [Fishing Rods](<#fishing-rods>) section below for more info.
 </div>
 
 ## How to Fish
 <div markdown="1" class=" ghcms ghcms-howto">
-- Once you have unlocked the fishing rod, you can fish at any of the locations matching the description above. To start fishing, tap the fishing hook icon above a fishing spot as if it were a scrap pile or chest.
+  Once you have unlocked the fishing rod, you can fish at any of the locations matching the description above. To start fishing, tap the fishing hook icon above a fishing spot as if it were a scrap pile or chest.
+  
+  After the fishing interaction is complete, the camera will zoom to the fishing spot and a new button will appear on the screen. <br>
+  
+  If you are damaged or attacked by any source, the fishing interaction will stop and you must tap again, but once the interaction has begun, the world around you freezes (similar to when you open your botpack to use gadgets or summon recruits)
 
-- After the fishing interaction is complete, the camera will zoom to the fishing spot and a new button will appear on the screen. <br>
+  To cast your line, tap and HOLD the icon. Once the gauge fills to max and after a brief delay, the water will begin to bubble. After a short time, a fish or loot will appear. To reel in your line, release the button while the fish or loot is on screen.
 
-    If you are damaged or attacked by any source, the fishing interaction will stop and you must tap again, but once the interaction has begun, the world around you freezes (similar to when you open your botpack to use gadgets or summon recruits)
-
-- To cast your line, tap and HOLD the icon. Once the gauge fills to max and after a brief delay, the water will begin to bubble. After a short time, a fish or loot will appear. To reel in your line, release the button while the fish or loot is on screen.
-
-- If you time it successfully, you will catch the fish/loot 100% of the time.
+  If you time it successfully, you will catch the fish/loot 100% of the time.
 </div>
 
 ## Fishing Tips & Tricks
 <div markdown="1" class=" ghcms ghcms-tips">
-- Pay attention to the ferocity of the bubbles. Slight bubbling results in a Common catch, moderate bubbling results in a Special catch, heavy bubbling results in a Rare catch, and severe bubbling results in an Epic catch. <br>
+  Pay attention to the ferocity of the bubbles. Slight bubbling results in a Common catch, moderate bubbling results in a Special catch, heavy bubbling results in a Rare catch, and severe bubbling results in an Epic catch. 
+  <br><br>
+  
+  Common:
 
-    <br>
+![200px Common](</assets/img/fishing/bubbles_common.png>)
 
+  Special:
 
+![200px Special](</assets/img/fishing/bubbles_special.png>)
 
-Common <br>
+  Rare:
 
-![200px Common](<https://media.discordapp.net/attachments/904224085477842996/1074511958860103791/image.png>)
+![200px Rare](</assets/img/fishing/bubbles_rare.png>)
 
-Uncommon<br>
+  Epic:
 
-![200px Uncommon](<https://media.discordapp.net/attachments/904224085477842996/1074512094264823938/image.png>)
+![200px Epic](</assets/img/fishing/bubbles_epic.png>)
 
-Rare<br>
+If you don't like the fish/loot that appears, KEEP HOLDING THE BUTTON. If you do not release the button, you will keep the line cast for 4-5 attempts before automatically reeling in the line. This can be helpful if you are searching for specific fish/loot.
 
-![200px Rare](<https://media.discordapp.net/attachments/904224085477842996/1074512127777308702/image.png>)
+The higher rarity the fish/loot is, the shorter frame of time you have to reel it in. Common catches last a second or so, but Epic catches require near instant release to work.
 
-Epic<br>
+Fishing spots refresh every time the area is refreshed. This can involve exiting an area and then returning, such as through the transitions between locations on the map, or jetpacking in/out from Scavenger's Landing. Quitting and reentering the game also works (only while in Scavenger's Landing), but be sure to manually save before doing so.
 
-![200px Epic](<https://media.discordapp.net/attachments/904224085477842996/1074512158043414569/image.png>)
-
-- If you don't like the fish/loot that appears, KEEP HOLDING THE BUTTON. If you do not release the button, you will keep the line cast for 4-5 attempts before automatically reeling in the line. This can be helpful if you are searching for specific fish/loot.
-
-- The higher rarity the fish/loot is, the shorter frame of time you have to reel it in. Common catches last a second or so, but Epic catches require near instant release to work.
-
-- Fishing spots refresh every time the area is refreshed. This can involve exiting an area and then returning, such as through the transitions between locations on the map, or jetpacking in/out from Scavenger's Landing. Quitting and reentering the game also works (only while in Scavenger's Landing), but be sure to manually save before doing so.
-
-- The fishing button will move with your finger, so there is no need to worry about your finger slipping off.
+The fishing button will move with your finger, so there is no need to worry about your finger slipping off.
 
 </div>
 
@@ -110,41 +104,41 @@ You cannot choose which fish to sell! Herman will pay for all fish in your inven
 
 ## Fishing Rods
 <div markdown="1" class=" ghcms ghcms-rods">
-- <u><strong>Amateur Rod</strong></u>
+- <u><strong>Amateur Rod:</strong></u>
 
-    : A barely functional fishing rod for amateurs. Common fish are most likely to appear.<br>
+  A barely functional fishing rod for amateurs. Common fish are most likely to appear.<br>
 
-     Unlocks the fishing interaction at fishing spots in water.
+  Unlocks the fishing interaction at fishing spots in water.
 
-    **Obtained** by completing the 'Gone Fishing' contract side quest
+  **Obtained** by completing the 'Gone Fishing' contract side quest
 
-    ![100px Amateur Rod](</assets/img/fishing/fishing-amateur-rod.png>)
+  ![100px Amateur Rod](</assets/img/fishing/fishing-amateur-rod.png>)
+    
+- <u><strong>Hobby Rod:</strong></u>
 
-- <u><b>Hobby Rod</b></u>
+  A basic fishing rod for hobbyists. Makes Special fish more likely to appear and easier to catch.<br>
 
-    : A basic fishing rod for hobbyists. Makes Special fish more likely to appear and easier to catch.<br>
+  Increases drop rate of Special catches and their timing window.
 
-     Increases drop rate of Special catches and their timing window.
-
-    **Obtained** by completing **5** objectives in the Fishing Codex
+  **Obtained** by completing **5** objectives in the Fishing Codex
 
     ![100px Hobby Rod](</assets/img/fishing/fishing-hobby-rod.png>)
 
-- <u><strong>Pro Rod</strong></u>
+- <u><strong>Pro Rod:</strong></u>
 
-    : An upgraded fishing rod for pros. Makes Rare fish more likely to appear and easier to catch.<br>
+    An upgraded fishing rod for pros. Makes Rare fish more likely to appear and easier to catch.<br>
 
-     Increases drop rate of Rare catches and their timing window.
+    Increases drop rate of Rare catches and their timing window.
 
     **Obtained** by completing **15** objectives in the Fishing Codex
 
     ![100px Pro Rod](</assets/img/fishing/fishing-pro-rod.png>)
 
-- <u><strong>Champion Rod</strong></u>
+- <u><strong>Champion Rod:</strong></u>
 
-    : The best fishing rod there is. Makes Epic fish more likely to appear and easier to catch.<br>
+    The best fishing rod there is. Makes Epic fish more likely to appear and easier to catch.<br>
 
-     Increases drop rate of Epic catches and their timing window.
+    Increases drop rate of Epic catches and their timing window.
 
     **Obtained** by completing all **23** objectives in the Fishing Codex
 
