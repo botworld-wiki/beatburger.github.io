@@ -273,7 +273,7 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **All 12 Missions completed:** Plant Gang Cap<br>
 
-![300px Plant Gang Cap](</assets/img/codex/reward_plantgang_cap.png?width=356&height=221>)
+![300px Plant Gang Cap](</assets/img/codex/reward_plantgang_cap.png>)
 
 ### Guides
 
