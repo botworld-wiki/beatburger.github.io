@@ -251,14 +251,14 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 <div markdown="1" class=" ghcms ghcms-sporewoods">
 ### Missions
 
-- [Catch Rare Butterflies (10)](<https://media.discordapp.net/attachments/923510071026155550/997471292867477544/1657885883536.jpg>)
-- [Defeat the Roaming Super Virus](<https://media.discordapp.net/attachments/923509490307977227/993837306056298547/Untitled96_20220705173520.png>)
+- [Catch Rare Butterflies (10)](</assets/img/codex/mission_butterfly.jpg>)
+- [Defeat the Roaming Super Virus](</assets/img/codex/mission_super_virus.png>)
 - [Explore Entranceway Outcrop](<https://media.discordapp.net/attachments/993917728773636116/993918456317620254/Screenshot_2022-03-26-11-44-09-70.jpg>)
 - [Explore Mushroom Beach Headland](<https://media.discordapp.net/attachments/993917728773636116/993918456565071882/Screenshot_2022-03-26-11-54-00-81.jpg>)
 - [Explore Firefly Point](<https://media.discordapp.net/attachments/993917728773636116/993918455940137040/Screenshot_2022-03-26-11-24-58-42.jpg>)
 - [Explore Large Toadstools](<https://media.discordapp.net/attachments/993917728773636116/993918455659110512/Screenshot_2022-03-26-11-16-08-39.jpg>)
-- [Explore Strange Lifeform](<https://media.discordapp.net/attachments/993917728773636116/993937323622408242/Screenshot_20220326-145955.jpg>)
-- [Catch a Rare Lab Rat](<https://cdn.discordapp.com/attachments/923510071026155550/997299975396528158/IMG_20220715_072536.jpg>)
+- [Explore Strange Lifeform](</assets/img/codex/mission_strange_lifeform.jpg>)
+- [Catch a Rare Lab Rat](</assets/img/codex/mission_labrat.jpg>)
 - Defeat Wild [Nozzle](</nozzle>) Packs (40)
 - Defeat Wild [Nozzle](</nozzle>) Packs (200)
 - Defeat Plant Gang Bandits (100)
@@ -269,11 +269,11 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 **8 Missions completed:** Plant Garb Gang<br>
 
-![300px Plant Gang Garb](<https://cdn.discordapp.com/attachments/923509490307977227/993831615883124786/Screenshot_20220705-125116_Botworld.jpg>)
+![300px Plant Gang Garb](</assets/img/codex/reward_plantgang_garb.jpg>)
 
 **All 12 Missions completed:** Plant Gang Cap<br>
 
-![300px Plant Gang Cap](<https://media.discordapp.net/attachments/993917728773636116/994297693511897269/IMG_20220707_004346.jpg>)
+![300px Plant Gang Cap](</assets/img/codex/reward_plantgang_cap.png?width=356&height=221>)
 
 ### Guides
 
@@ -282,7 +282,7 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 
 
-![Spore Woods](<https://media.discordapp.net/attachments/923510071026155550/994120304622313482/SporeWood-BossPat.jpg>)
+![Spore Woods](</assets/img/codex/sporewood-codex-paths-map.jpg>)
 
 - **Rare critters spawn conditions**: If you encounter a fight with a bandit or bot, they will despawn and appears somewhere else within Spore Woods
 - **Strange Lifeform**: To reach it, you’ll need a side quest called **Secret of the Spore Woods** to appear in your [Contracts](</contracts>) section. Keep doing contracts or discard them until it appears
@@ -299,12 +299,12 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 
 - [Collect Rare Fossils (20)](<https://media.discordapp.net/attachments/993917728773636116/1001743041884864604/Ashen_Shores_Rare_Fossil.jpg>)
 - Collect Rare Fossils (100)
-- [Defeat the Roaming Super Berserker](<https://media.discordapp.net/attachments/923509490307977227/1004026919597113404/Screenshot_20220802-110111_22.png>)
+- [Defeat the Roaming Super Berserker](</assets/img/codex/mission_super_berserker.png>)
 - [Explore Lonely Lookout](<https://media.discordapp.net/attachments/993917728773636116/1001743041629003806/Codex_-_Lonely_Lookout.jpg>)
 - [Explore Penta Piles](<https://media.discordapp.net/attachments/993917728773636116/1001743041058574386/Screenshot_20220727_132334.jpg>)
 - [Explore Twin Peaks](<https://media.discordapp.net/attachments/993917728773636116/1001743041360560178/Screenshot_20220727_132846.jpg>)
-- [Explore Omen's Outcrop](<https://media.discordapp.net/attachments/824807657550381088/1002183578572034048/Screenshot_20220728_185924.jpg>)
-- [Explore Fate's End](<https://media.discordapp.net/attachments/923510071026155550/1002184526610583664/Screenshot_20220728_190133.jpg>)
+- [Explore Omen's Outcrop](</assets/img/codex/mission_omens_outcrop.jpg>)
+- [Explore Fate's End](</assets/img/codex/mission_fates_end.jpg>)
 - [Explore Basalt Shelter](<https://media.discordapp.net/attachments/993917728773636116/1001751830033870898/Screenshot_20220727_142002.jpg>)
 - Defeat Viking Buffalos (100)
 - Defeat Viking Buffalos (500)
@@ -326,7 +326,7 @@ The fastest way to find the **Rare Jackalope** is to search the entire map. If h
 - **Red Line**: Roaming Super Berserker's route
 
 
-![Ashen Shore Guide Map](<https://media.discordapp.net/attachments/923509490307977227/1002022616103669810/Untitled125.jpg>)
+![Ashen Shore Guide Map](</assets/img/codex/ashenshore_paths_areas_map.jpg>)
 
 - **Rare Fossils**: spawn anywhere in Ashen Shore and does not disappear when you enter a fight
 
@@ -410,19 +410,19 @@ Using **Mines** and **Turrets** placed around to your advantage by timing them t
 
 **Complete "Gone Fishing" Contract:** Amateur Rod<br>
 
-![100px Amateur Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076008744225357894/icon-fishing-amateurrod.webp>)
+![100px Amateur Rod](</assets/img/codex/icon-fishing-amateurrod.png>)
 
 **5 Missions Completed:** Hobby Rod<br>
 
-![100px Hobby Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076008912412749874/icon-fishing-hobbyrod.webp>)
+![100px Hobby Rod](</assets/img/codex/icon-fishing-hobbyrod.png>)
 
 **15 Missions Completed:** Pro Rod<br>
 
-![100px Pro Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076009081682276442/icon-fishing-prorod.webp>)
+![100px Pro Rod](</assets/img/codex/icon-fishing-prorod.png>)
 
 **23 Missions Completed:** Champion Rod<br>
 
-![100px Champion Rod](<https://cdn.discordapp.com/attachments/923510071026155550/1076010158980857876/icon-fishing-championrod.webp>)
+![100px Champion Rod](</assets/img/codex/icon-fishing-championrod.png>)
 
 *Credits:Balakrishna and TsengFayt*
 </div>
