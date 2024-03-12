@@ -33,7 +33,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ## Ezraden 
 
-![Ezraden Profile Pic](https://yt3.ggpht.com/KS77N1Vyiu5V2BJYemqxcD_up5IuhbRj-A30qub4Dl6MDkmgQvDlMGid3iP-ujPqP4-mBf7xnQ=s176-c-k-c0x00ffffff-no-rj)
+![Ezraden Profile Pic](/assets/img/contentcreators/ezraden_profile.jpg)
 
 *Hey everyone! I am an official partner for Botworld Adventure and LOVE making videos for that game and I also do Pokémon UNITE videos as well! If you want to see tips + tricks, gameplays and commentary about those games then give the channel a sub! - Thank you all for the support! ❤️*
 
@@ -53,7 +53,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ## Ptage
 
-![Ptage Profile Pic](https://yt3.ggpht.com/AePsIZHxC5raPUOJOpKKPmO2AWZ0D2o9Vo6hv0JumN4XFUTpIvOdwfYhf_Add27y_Jaj7EqIGYI=s176-c-k-c0x00ffffff-no-rj)
+![Ptage Profile Pic](/assets/img/contentcreators/ptage_profile.jpg)
 
 *Playing games!*
 
@@ -73,7 +73,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ## Devils Knights
 
-![Devils Knights Profile Pic](https://yt3.ggpht.com/ytc/AKedOLQWHZxfWWCBarV2needTGp1ZzxhvK1jEx1-B730tGg=s176-c-k-c0x00ffffff-no-rj)
+![Devils Knights Profile Pic](/assets/img/contentcreators/devilsknights_profile.jpg)
 
 *Hey Guys, It's ya girl Dev. I'm a BotWorld Content Creator that pushes videos out that helps you better understand the game you love. I do guides, how-tos, and rankings. My goal is to give you the latest and greatest content. I'm also a content creator for Rise of Kingdoms which is also a mobile game that I live stream. - Tune in to see more! But for now, Just keep it real 😏💜*
 
@@ -93,7 +93,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ## Super Sairen
 
-![Super Sairen Profile Pic](https://cdn.discordapp.com/attachments/926470990119198730/926746118967160862/Edited_20220101_024626.jpg)
+![Super Sairen Profile Pic](/assets/img/contentcreators/super_sairen_profile.jpg)
 
 *Botworld is one of those rare games that is for all ages. Between the colorful artwork, the imagination behind Botworld lore, and seemingly endless combination of battle strategies there's something everyone can enjoy. Botworld might seem overwhelming to some, but hopefully one may find respite in my walkthroughs and general advice because everybody deserves to enjoy Botworld. I open the comment section of my YouTube videos to any and all who wish to discuss anything Botworld. Happy scraping!*
 
@@ -113,7 +113,7 @@ The Botworld Community is also on YouTube and Twitch! Come and discover some of 
 
 ## Reis
 
-![Reįs Profile Pic](https://cdn.discordapp.com/attachments/1002963474143518770/1002973803988664320/scaled_image_picker8166992484311934992-photo-processed.jpg)
+![Reįs Profile Pic](/assets/img/contentcreators/reis_profile.jpg)
 
 *Hello everyone, my nickname is Reįs, I'm a fan of this game, that's why I make many videos about Botworld. On my channel you will mostly see news, guild events and others
 That's all, I wish you a nice game :)*
