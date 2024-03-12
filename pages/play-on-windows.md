@@ -14,7 +14,7 @@ Guide on **linking your Android phone to your PC** to play Botworld from there.
 
 *Image of the app on a Windows 10 PC, streamed from a Surface 2 Duo phone*
 
-![Screen Capture of straming from Phone to Windows](https://cdn.discordapp.com/attachments/923509490307977227/923975414655901716/unknown.png)
+![Screen Capture of straming from Phone to Windows](/assets/img/news/play_on_windows.png)
 
 ## Setup
 

@@ -118,7 +118,7 @@ You can find Info about Arena Masters here
 
 **You need to pass this trial to challenge the arena masters, *you can only use your best 2 bots.* Ready to prove you are worthy?**
 
-![300px arenamaster brad](<https://cdn.discordapp.com/attachments/923510071026155550/927876281767452733/arenamaster-brad.png>)
+![300px arenamaster brad](</assets/img/bosses/arenamaster-brad.png>)
 
 ### Loadout
 
@@ -168,7 +168,7 @@ You can find Info about Arena Masters here
 
 **Astrid doesn't believe in reserves, she *fights with all 6 bots at once*. Prepare for chaos and area abilities. How will you stand up to her fleet of bots?**
 
-![300px arenamaster astrid](<https://cdn.discordapp.com/attachments/923510071026155550/927891447682842684/arenamaster-astrid.png>)
+![300px arenamaster astrid](</assets/img/bosses/arenamaster-astrid.png>)
 
 ### Loadout
 
@@ -202,7 +202,7 @@ You can find Info about Arena Masters here
 
 **Kelvin is a cool character, he uses *frost bots and abilities.* Don't expect your bots to move freely. Is it possible to make him chill out while your bots are on thin ice?**
 
-![300px arenamaster kelvin](<https://media.discordapp.net/attachments/923510071026155550/1035429830604365824/Kelvin.png>)
+![300px arenamaster kelvin](</assets/img/bosses/arenamaster-kelvin.png>)
 
 ### Loadout
 
@@ -234,7 +234,7 @@ You can find Info about Arena Masters here
 
 **Reginald is a dueling master, he will fight you *one bot at a time*. Choose your counters carefully. Are your sparring skills up to the task?**
 
-![300px arenamaster reginald](<https://cdn.discordapp.com/attachments/923510071026155550/1015727044077826118/Reginald_lv15.png>)
+![300px arenamaster reginald](</assets/img/bosses/arenamaster_reginald.png>)
 
 ### Loadout
 
@@ -303,7 +303,7 @@ You can find Info about Arena Masters here
 
 **Jack solves everything with his fists, he *fights with 4 melee bots at a time*. Don't get too close. Do your bots pack the punch needed to defeat him?**
 
-![300px arenamaster jack](<https://cdn.discordapp.com/attachments/923510071026155550/927915632220045332/arenamaster-jack.png>)
+![300px arenamaster jack](</assets/img/bosses/arenamaster-jack.png>)
 
 ### Loadout
 
@@ -341,7 +341,7 @@ You can find Info about Arena Masters here
 
 **Nicola *never runs out of backpack power.* Prepare for a barrage of abilities. Can you keenly direct your bots to withstand her endless current of power?**
 
-![300px arenamaster nicola](<https://cdn.discordapp.com/attachments/923510071026155550/927924538673623070/arenamaster-nicola.png>)
+![300px arenamaster nicola](</assets/img/bosses/arenamaster-nicola.png>)
 
 ### Loadout
 
@@ -385,7 +385,7 @@ You can find Info about Arena Masters here
 
 **Scales always strives for balance, *pairing 2 bots at a time* to make the perfect fighting team. Are you enlightened enough to ascend to this monk's level?**
 
-![300px arenamaster scales](<https://cdn.discordapp.com/attachments/923510071026155550/1036021130412171335/Scales.png>)
+![300px arenamaster scales](</assets/img/bosses/arenamaster_scales.png>)
 
 ### Loadout
 
@@ -420,7 +420,7 @@ You can find Info about Arena Masters here
 
 **This pop star turned talent judge waits for you to place bots before delivering her “stunning” verdict. She uses *4 bots at a time* and starts placing them *only after the player has placed their own bots* onto the battlefield. Can you upstage this diva?**
 
-![300px arenamaster laydee](<https://cdn.discordapp.com/attachments/923510071026155550/1036022087548157962/Laydee.png>)
+![300px arenamaster laydee](</assets/img/bosses/arenamaster_laydee.png>)
 
 ### Loadout
 
@@ -452,7 +452,7 @@ You can find Info about Arena Masters here
 <div markdown="1" class=" ghcms ghcms-quarterbuck">
 **There's no botpacks in this football pro's game plan - only a headfirst charge to the goal posts. Hut! Hut! Hike! Quarterbuck forces you to battle him *without using botpack abilities or choosing your bot's positions* in a 6v6 showdown. Will you tackle this arena master's challenge?**<br>
 
-![300px arenamaster quarterbuck](<https://media.discordapp.net/attachments/923510071026155550/1037059406120112169/Quarterbuck.png>)
+![300px arenamaster quarterbuck](</assets/img/bosses/arenamaster_quarterbuck.png>)
 
 ### Loadout
 

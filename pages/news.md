@@ -48,7 +48,8 @@ Bug Fixes:
 
 Applications are now open and you have until Feb 10th, 2023 to still [submit your application](<https://bit.ly/botworldstyle>)
 
-![create your still event banner](<https://cdn.discordapp.com/attachments/824813164142788619/1056179491975745596/BA_Create_your_style_event.jpg>)
+![create your style event banner](</assets/img/news/bwa_Create_your_style_event.jpg>)
+
 
 ## d2022-12-16
 
@@ -56,17 +57,16 @@ The Winter holidays have descended upon Botworld, with snowball fights breaking 
 
 Full event details on our [guilds & events page](</guilds>)
 
-![Winter Wonderland event picture](<https://cdn.discordapp.com/attachments/923510071026155550/1053275053317443624/Screenshot_20221216-123708_Botworld.jpg>)
+![Winter Wonderland event picture](</assets/img/news/event_winter_wonderland.jpg>)
 
 ## v1.10.0
+
 
 (2022-12-07)
 
 - New **bot Skins**!<br>
 
-
-
-![skins demo pic](<https://pbs.twimg.com/media/FifTTLAWQAY9C9x.jpg>)
+![skins demo pic](</assets/img/news/bwa_new_styles.jpg>)
 
 - Season of Glamour
 - Vulnerability (epic ability) 
@@ -74,7 +74,8 @@ Full event details on our [guilds & events page](</guilds>)
 - Hackathon chips bug fix
 
 
-![300px vulnerability ability](<https://cdn.discordapp.com/attachments/824807657550381088/1050336228463099945/Screenshot_2022-12-08-15-57-10-143_com.featherweightgames.fx.jpg>)![300px surgical strike booster](<https://cdn.discordapp.com/attachments/824807657550381088/1050003977007288320/Screenshot_20221207-115948.png>)
+![300px vulnerability ability](</assets/img/news/ability_vulnerability.jpg>)
+![300px surgical strike booster](</assets/img/news/booster_surgical_strike.png>)
 
 ## d2022-12-03
 
@@ -82,7 +83,7 @@ Full event details on our [guilds & events page](</guilds>)
 
 Calling all keyboard jockeys! The time to crack open the circuits and CPUs of every bot and ancient ruin has arrived. Prove to Hack she's not the only one who deserves the name by hacking enemy bots to make them do your bidding, or disabling them entirely with your botpack's gadgets.<br>
 
-![Hackathon event picture](<https://pbs.twimg.com/media/FjdAyjTX0AAM0uy.jpg>)
+![Hackathon event picture](</assets/img/news/event_hackaton.jpg>)
 
 ## d2022-11
 
@@ -95,21 +96,23 @@ We've missed a couple updates & news, including the following:
 - [Corrupted Missile](</corrupted-missile>)
 - Corrupted Bolt
 
+
 ## d2022-07-19
 ### New Bot Revealed - Nibbles
 
-![Nibbles](<https://media.discordapp.net/attachments/824813164142788619/998922333576241212/Character_Reveal_Nibbles.jpg>)
+![Nibbles](</assets/img/news/Character_Reveal_Nibbles.jpg>)
 
 [Official Announcement](<https://twitter.com/BotworldGame/status/1549363422550163457>)
+
 
 ## d2022-07-10
 
 ### New Playable Character - Rat!
 The rat will become a playable character in Botworld Adventure in the near future. 
 Here's a sneak peek into the character:
-![Rat picture 1](<https://media.discordapp.net/attachments/985501437733797969/995607754200854569/Playable_Rat_-_IMG_3.png>)
-![Rat picture 2](<https://media.discordapp.net/attachments/985501437733797969/995607754439925790/Playable_Rat_-_IMG_2.png>)
-![Rat picture 3](<https://media.discordapp.net/attachments/985501437733797969/995607754913882164/Playable_Rat_-_IMG_4.png>)
+![Rat picture 1](</assets/img/news/Playable_Rat_-_IMG_3.png>)
+![Rat picture 2](</assets/img/news/Playable_Rat_-_IMG_2.png>)
+![Rat picture 3](</assets/img/news/Playable_Rat_-_IMG_4.png>)
 
 [Official Announcement](<https://twitter.com/BotworldGame/status/1546101931491446785>)
 
@@ -123,7 +126,7 @@ Opening a dialog with the Botworld devs, [read the first QnA right here](</qna>)
 
 ### Community Bot Event
 
-![Community Bot Event poster](<https://cdn.discordapp.com/attachments/877525482889936947/990172347736686592/BA_Community_Bot_Event-min.jpg>)
+![Community Bot Event poster](</assets/img/news/bwa_Community_Bot_Event-min.jpg>)
 
 [FeatherWeight](<https://twitter.com/BotworldGame/>): "Participate in our **new event, the Community Bot Event**! For the first time ever in Botworld Adventure, **the community will partake in creating a new bot**. To participate, you can send your bot's concept art & ability suggestions on your own or you can team up with a fellow player where one of you can focus on creating the concept art and the other can work on ability suggestions.
 
@@ -166,7 +169,7 @@ Each winner or winners will receive **1,000 Gems**. You will also **be the first
 
 New Bot announcement
 
-![new bot 8](<https://media.discordapp.net/attachments/824813164142788619/982962416306503700/Mystery_Bot_Reveal_8.jpg>)
+![new bot 8](</assets/img/news/Mystery_Bot_Reveal_8.jpg>)
 
 [Official announcement](<https://twitter.com/BotworldGame/status/1533403259284725761>)
 
@@ -216,7 +219,7 @@ We've missed a couple months worth of updates, including:
 
 ### New Bot Revealed: **Phantom**
 
-![Phantom reveal poster by FW](https://media.discordapp.net/attachments/824813164142788619/939505774021971998/Character_Reveal_Phantom.jpg)
+![Phantom reveal poster by FW](/assets/img/news/Character_Reveal_Phantom.jpg)
 
 Official announcement & demo clip on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1489946913596080129?t=C7Hy4huEZK3I1LCC2Kp-JQ&s=19)
 
@@ -227,7 +230,7 @@ Official announcement & demo clip on [the official Featherweight twitter](https:
 
 ### New Bot coming soon!
 
-![New Bot 2021-12-18](<https://media.discordapp.net/attachments/824813164142788619/936969262529146920/Mystery_Bot_Reveal_5.jpg>)
+![New Bot 2021-12-18](</assets/img/news/Mystery_Bot_Reveal_5.jpg>)
 
 [Official Annoucement](<https://twitter.com/BotworldGame/status/1487410199426060291?t=OjENQStYLCuuq1iEkv3vJQ&s=19>)
 
@@ -276,13 +279,13 @@ Official announcement & demo clip on [the official Featherweight twitter](https:
 
 Gravity Surge?
 
-![Gravity Surge](<https://cdn.discordapp.com/attachments/824807657550381088/925196319570673714/Screenshot_20211228-091537.png>)
+![Gravity Surge](</assets/img/news/ability_gravity_surge.png>)
 
 [Codex?!](</codex>)
 
-![Codex](<https://cdn.discordapp.com/attachments/824807657550381088/925197223808106566/Screenshot_20211228-082536_Botworld.jpg>)
+![Codex](</assets/img/news/new_codex_scr.jpg>)
 
-![Codex 2](<https://cdn.discordapp.com/attachments/923510071026155550/925198096395300884/Screenshot_20211228-082718_Botworld.jpg>)
+![Codex 2](</assets/img/news/new_codex_scrappercoast.jpg>)
 
 Official announcement on [the official Featherweight twitter](<https://twitter.com/BotworldGame/status/1475421202931933188>)
 
@@ -290,7 +293,7 @@ Official announcement on [the official Featherweight twitter](<https://twitter.c
 
 ### New Bot Revealed: [Sheller](/sheller)
 
-![Sheller reveal poster by FW](https://cdn.discordapp.com/attachments/824813164142788619/924285482442051604/Character_Reveal_Sheller.jpg)
+![Sheller reveal poster by FW](/assets/img/news/Character_Reveal_Sheller.jpg)
 
 Official announcement & demo clip on [the official Featherweight twitter](https://twitter.com/BotworldGame/status/1474726625262510080)
 
@@ -318,17 +321,18 @@ We have some very nice and rich ones already though!
 
 We very much hope you like it, where it can go, and hopefully send us some stuff that you noticed is still missing and you have the info.
 
+
 ## d2021-12-21
 
 The event is called **Teddies of Scrapyard** and your goal is to find all of the hidden teddy bears in the Scrapyard Danger Zone! This event begins now and ends on January 3rd, 2022. You can submit your video until that date. [Official link](<https://docs.google.com/forms/d/e/1FAIpQLSeEieIPZpQEYwryNs32m-ovHbPqGx3oLC1AsCF6FfwR-9tvCw/viewform>)
 
-![Teddies of Scrapeyard event](<https://cdn.discordapp.com/attachments/824813164142788619/922458360907985016/BA_Teddies_Scrapyard.jpg>)
+![Teddies of Scrapeyard event](</assets/img/news/bwa_Teddies_Scrapyard.jpg>)
 
 ## d2021-12-18
 
 ### New Bot coming soon!
 
-![New Bot 2021-12-18](<https://cdn.discordapp.com/attachments/824813164142788619/921748933791854632/Mystery_Bot_Reveal_4.jpg>)
+![New Bot 2021-12-18](</assets/img/news/Mystery_Bot_Reveal_4.jpg>)
 
 [Official Annoucement](<https://twitter.com/BotworldGame/status/1472189909188300802>)
 
@@ -340,7 +344,6 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 - Fork’s Backstab is fixed again.
 - Fixed missing model in Arena Master.
 - Fixed a bug where the game would freeze when offline.
-
 
 **Balance Changes:**
 
@@ -381,7 +384,7 @@ The event is called **Teddies of Scrapyard** and your goal is to find all of the
 
 Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adventure this month! This timid bot throws its allies into the fray and has a passion for bowling.
 
-![New Bot 2021-11-13](<https://media.discordapp.net/attachments/824813164142788619/909080454441869412/Character_Reveal_Gusto.jpg>)
+![New Bot 2021-11-13](</assets/img/news/Character_Reveal_Gusto.jpg>)
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/909080454207000617>)
 
@@ -417,7 +420,7 @@ Meet our latest friend, Gusto. This new Support Bot will be joining Botworld Adv
 
 Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joining Botworld Adventure this week! It digs its cables into the ground to grab enemies from afar and hold them in place. It sure isn’t afraid to get its hands dirty.
 
-![Tether](<https://media.discordapp.net/attachments/824813164142788619/899960084199772170/Character_Reveal_Tether.jpg>)
+![Tether](</assets/img/news/Character_Reveal_Tether.jpg>)
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/899960086687014992>)
 
@@ -491,7 +494,7 @@ Hey Botmasters, meet our latest friend, Tether. This new Support Bot will be joi
 
 We wanted to share with you how our latest bot looks like. Welcome Halo, a new Support Bot that will be joining Botworld Adventure this October 2nd! We will fully reveal this bot in action and demonstrate its abilities in battles
 
-![New Bot 2021-9-21](<https://media.discordapp.net/attachments/824813164142788619/889828552231489546/Mystery_Bot_Reveal_1.jpg>)
+![New Bot 2021-9-21](</assets/img/news/Mystery_Bot_Reveal_1.jpg>)
 
 [Official Announcement](<https://discord.com/channels/824807656945745951/824813164142788619/889828555683397673>)
 

@@ -43,21 +43,21 @@ breadcrumbs:
 
 **Common *Battle* Chests**
 
-![Common Battle Chests](https://cdn.discordapp.com/attachments/824807657550381088/892497149747675156/contract-chests.png)
+![Common Battle Chests](/assets/img/loot/contract-chests.png)
 
 [more data available, and could use a better-looking presentation](/contribute#tbw)
 
 **Special *Big* Chests**
 
-![Rare Super Chests](https://cdn.discordapp.com/attachments/923510071026155550/924334383886893167/Screenshot_20211225-171328_Botworld.jpg)
+![Rare Super Chests](/assets/img/loot/chest_big.jpg)
 
 **Rare *Super* Chests**
 
-![Rare Super Chests](https://cdn.discordapp.com/attachments/923510071026155550/924334449146073088/Screenshot_20211225-171254_Botworld.jpg)
+![Rare Super Chests](/assets/img/loot/chest_rare.jpg)
 
 **Epic *Mega* Chests**
 
-![Epic Mega Chests](https://media.discordapp.net/attachments/985501437733797969/986529333168472064/Screenshot_20220615-100036_Botworld.png)
+![Epic Mega Chests](/assets/img/loot/chest_epic.png)
 
 ## Botframes
 
@@ -82,14 +82,13 @@ Ancient Ruins are traces of the old civilizations of human. Example: Old train t
 
 - **Notably drops:** [Heavy Steel](/heavy-steel), [Chaser Core](/chaser-core)
 
-![Ancient Ruins in the Desert](https://cdn.discordapp.com/attachments/877549224324104212/880353585026723861/IMG_20210826_114654.jpg)
+![Ancient Ruins in the Desert](/assets/img/loot/ancient_ruins_desert.jpg)
 
+![Ancient Ruins in Falls Grove](/assets/img/loot/ancient_ruins_falls_grove.jpg)
 
-![Ancient Ruins in Falls Grove](https://cdn.discordapp.com/attachments/877549224324104212/880353585303527504/IMG_20210826_114822.jpg)
+![Ancient Ruins in the Swamp](/assets/img/loot/ancient_ruins_swamp.jpg)
 
-![Ancient Ruins in the Swamp](https://cdn.discordapp.com/attachments/877549224324104212/880353585714565150/IMG_20210826_114901.jpg)
-
-![Ancient Ruins in the Parched Sea](https://cdn.discordapp.com/attachments/877549224324104212/880353586062712832/IMG_20210826_125938.jpg)
+![Ancient Ruins in the Parched Sea](/assets/img/loot/ancient_ruins_parched_sea.jpg)
 
 
 </div>

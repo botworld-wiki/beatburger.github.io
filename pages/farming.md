@@ -24,8 +24,8 @@ To farm Botworld efficiently, you will need:
 **Example:**
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">
-    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/XRecorder_Edited_03012022_222637.mp4">
+    <a href="/assets/img/farming/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 
@@ -99,8 +99,8 @@ This route is rich in gold, [Evader Sprays](/evader-spray) and [Splasher Explosi
 Video demo of farming Cobblestone + River Run + Southbank with only 1 weak/average recruit:
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">
-    <a href="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/V_20210821_1538514.mp4">
+    <a href="/assets/img/farming/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 
@@ -176,7 +176,7 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 
 ## Cobblestone Trail
 
-![half-right Cobblestone Trail farming route](https://cdn.discordapp.com/attachments/923510071026155550/927676986560753675/Screenshot_20220103-223459_Botworld.jpg) 
+![half-right Cobblestone Trail farming route](/assets/img/farming/route_cobblestone_trail.jpg) 
 
 - Trees, Water, Bandits
 - Drops: Evader, Splasher
@@ -186,29 +186,29 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">
-    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927675545213366334/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/XRecorder_Edited_03012022_222637.mp4">
+    <a href="/assets/img/farming/XRecorder_Edited_03012022_222637.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 <span class="menu-link-target" id="swamp"></span>
 
 ## Perillous Reef + Mangrove Bay
 
-![half-right Perillous Reef + Mangrove Bay farming route](https://cdn.discordapp.com/attachments/879011114963304508/912821720770019328/route-Saltwater_Swamp.png)
+![half-right Perillous Reef + Mangrove Bay farming route](/assets/img/farming/route_saltwater_swamp.png)
 
 - Trees, Water, Bandits, Mines, Critters
 - Drops: Evader, Splasher
 
 *109 gold/can, 38 gold/min, 3m/run*
 
-- [Video by @BBC#3819 (97mb)](https://cdn.discordapp.com/attachments/879011114963304508/912711935626186833/XRecorder_21112021_135657_720x326.mp4)
+- [Video by @BBC#3819 (97mb)](/assets/img/farming/XRecorder_21112021_135657_720x326.mp4)
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
 <span class="menu-link-target" id="desert"></span>
 
 ## Strange Monument + Grand Fissure
 
-![half-right Strange Monument + Grand Fissure farming route roadmap](https://cdn.discordapp.com/attachments/923510071026155550/927686825684905995/Screenshot_20220103-225748_Botworld.jpg)
+![half-right Strange Monument + Grand Fissure farming route roadmap](/assets/img/farming/route_strange_monument_grandfissure.jpg)
 
 - Ancient Ruins, High Ground, Trees, Bandits, Wild Bots, Mines
 - Drops: Tanker, Chaser Cores, Splasher
@@ -219,15 +219,15 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927686825059971162/XRecorder_Edited_03012022_225402.mp4">
-    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927686825059971162/XRecorder_Edited_03012022_225402.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/XRecorder_Edited_03012022_225402.mp4">
+    <a href="/assets/img/farming/XRecorder_Edited_03012022_225402.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 <span class="menu-link-target" id="redleaf"></span>
 
 ## Redleaf Ridge
 
-![half-right Redleaf Ridge farming route](https://cdn.discordapp.com/attachments/923510071026155550/927694328946634812/Screenshot_20220103-234357_Botworld.jpg) 
+![half-right Redleaf Ridge farming route](/assets/img/farming/route_redleaf_ridge.jpg) 
 
 - High grounds, Trees, Bandits, Wild bots
 - Drops: Tanker, Splasher
@@ -237,8 +237,8 @@ A good route will have a high density of [Piles and Chests](/loot), have the des
 - [Run logs archive on Discord](https://discord.com/channels/824807656945745951/879016066376945684)
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/923510071026155550/927694328283951124/XRecorder_Edited_03012022_234020.mp4">
-    <a href="https://cdn.discordapp.com/attachments/923510071026155550/927694328283951124/XRecorder_Edited_03012022_234020.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/XRecorder_Edited_03012022_234020.mp4">
+    <a href="/assets/img/farming/XRecorder_Edited_03012022_234020.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 ## Other Routes
@@ -260,13 +260,13 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 - Demo: 5min 4 [Special Chests](/loot)
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/824807657550381088/882263205148242010/V_20210831_1555326.mp4">
-    <a href="https://cdn.discordapp.com/attachments/824807657550381088/882263205148242010/V_20210831_1555326.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/V_20210831_1555326.mp4">
+    <a href="/assets/img/farming/V_20210831_1555326.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 ### Dragon's Ridge
 
-![half-right Dragon's Ridge farming route](https://cdn.discordapp.com/attachments/930118522997203037/930120144091504670/unknown.png)
+![half-right Dragon's Ridge farming route](/assets/img/farming/parched_sea_map.png)
 
 - High Places, Bandits, ..?
 - Drops: [Tank Platings](/tank-plating), ..?
@@ -275,8 +275,8 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 *83 gold/can, 30 gold/min, 2min45/run*
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/923510071026155550/930133192718049400/Dragons_Ridge_example_run.mp4">
-    <a href="https://cdn.discordapp.com/attachments/923510071026155550/930133192718049400/Dragons_Ridge_example_run.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/Dragons_Ridge_example_run.mp4">
+    <a href="/assets/img/farming/Dragons_Ridge_example_run.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 ### Cobblestone Trail + River Run + Southbank
@@ -290,13 +290,13 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 - note: can be done with lesser recruits made up for by dodging
 
 <video controls style="max-width:100%; width:400px">
-    <source src="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">
-    <a href="https://cdn.discordapp.com/attachments/878024553941565470/878637311405985852/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
+    <source src="/assets/img/farming/V_20210821_1538514.mp4">
+    <a href="/assets/img/farming/V_20210821_1538514.mp4">Sorry, your browser doesn't support embedded videos. Click here to download</a>
 </video>
 
 ### Giant's Step by @foocker#2431 
 
-![half-right Giant's Step farming route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/883413365538570310/Polish_20210904_020343518.jpg)
+![half-right Giant's Step farming route roadmap](/assets/img/farming/route_giants_steps.jpg)
 
 - High ground, Bandits, Wild bots, Critters
 - Drops:  tank and brawler
@@ -308,7 +308,7 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 
 ### Crater Dome
 
-![half-right Crater Dome farming route](https://cdn.discordapp.com/attachments/879011114963304508/879062165359820810/crater-dome-route.jpg)
+![half-right Crater Dome farming route](/assets/img/farming/route_crater_dome.jpg)
 
 - Ancient Ruins, Trees, Bandits, Wild bots
 - Drops: Chaser, Splasher, Heavy Steel
@@ -320,7 +320,7 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 
 ### Croaking Lake
 
-![half-right Croaking Lake route roadmap](https://cdn.discordapp.com/attachments/879011114963304508/880539221482418176/Screenshot_20210826-221950_Botworld2.jpg)
+![half-right Croaking Lake route roadmap](/assets/img/farming/route_croaking_lake.jpg)
 
 - Water, Trees, Bandits, Wild bots, Mines 
 - Drops: Evader, Splasher (lots of them)
@@ -332,7 +332,7 @@ This routes are **generally outclassed by the ones above**. That is, in most cas
 
 ### Strange Monument
 
-![half-right Strange Monument route Roadmap](https://cdn.discordapp.com/attachments/879011114963304508/879062043175575592/strange-monument-route.png)
+![half-right Strange Monument route Roadmap](/assets/img/farming/route_strange_monument.png)
 
 - Ancient Ruins, Bandits, Wild bots, Mine
 
