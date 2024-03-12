@@ -116,7 +116,8 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 <div markdown="1" class=" ghcms ghcms-lvl2extra">
 
-![boat lvl2 map](https://cdn.discordapp.com/attachments/923509490307977227/927052030055424010/20220102_111242.png)
+Materials location:
+![boat lvl2 map](/assets/img/boat-materials/boat_lvl2_map.png)
 
 </div>
 
@@ -171,7 +172,7 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 
 [Blue tarp](</blue-tarp>) location:
 
-![300px](<https://media.discordapp.net/attachments/877549224324104212/881613495383253032/blue-tarp-loc.jpg>)
+![300px](</assets/img/boat-materials/blue_tarp_loc_map.jpg>)
 
 </div>
 
@@ -372,9 +373,9 @@ Upgrading your Boat will be required to advance the main story, unlock new [Maps
 </table>
 
 <div markdown="1" class=" ghcms ghcms-lvl7extra">
-Motor
+Motor location:
 
-![motor location map](<https://media.discordapp.net/attachments/917809790284079114/1006285953238827028/Screenshot_20220808-213924_Kiwi_Browser.jpg>)
+![motor location map](</assets/img/boat-materials/motor_loc_map.jpg>)
 </div>
 
 ## Level 8
