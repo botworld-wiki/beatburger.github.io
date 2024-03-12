@@ -237,7 +237,7 @@ Completing contracts is the main way to progress through a Season **Seasons**: f
 
 Some [Contracts](</contracts>) will make more Wild Bots (e.g. “Salvage the Caravan”) or Bandits (e.g. “Rescue the Guard”, “Rescue the Caravan”) appear in their specific region. You can use that in your favor to *grind specific enemy types* in order to complete your [Codex](</codex>) tasks by beating them down without actually clearing the tasks, thus increasing their spawn density in multiple runs (do this by not salvaging that caravan or not talking to the NPC after clearing the area)<br>
 
-![half-left Pluggies Near Caravan](<https://cdn.discordapp.com/attachments/923510071026155550/1002651490437054565/pluggie_group.png>)
+![half-left Pluggies Near Caravan](</assets/img/pics/pluggie_group.png>)
 
 #### Using gadgets like [Bombardment](</gadgets#bombardment>) and [Shockwave](</gadgets#shockwave>) to bring their hp down will allow you to quickly beat them. Great to farm [AI exp](</ai>)
 
