@@ -207,7 +207,7 @@ breadcrumbs:
 
 ### Artist name: Pengrajin NegeriSipil
 
-![fan art by Pengrajin NegeriSipil](</assets/img/fanart/20220808_170304.jpg>)<br>
+![fan art by Pengrajin NegeriSipil](</assets/img/fanart/20220808_170304.png>)<br>
 
 ![](</assets/img/fanart/20220808_170241.jpg>)<br>
 
@@ -225,7 +225,7 @@ breadcrumbs:
 
 ### Artist name: Ezalb.straz
 
-![fan art by Ezalb.straz](</assets/img/fanart/20220808_170834.jpg>)
+![fan art by Ezalb.straz](</assets/img/fanart/20220808_170834.png>)
 
 ## #32 (29.4.2022)
 
@@ -321,7 +321,7 @@ breadcrumbs:
 
 ### Artist name: Kottunpo
 
-![fan art by Kottunpo](</assets/img/fanart/B_IMG_1660111748192.jpg>)
+![fan art by Kottunpo](</assets/img/fanart/FB_IMG_1660111748192.jpg>)
 
 ## #16 (7.1.2022)
 
@@ -345,7 +345,7 @@ breadcrumbs:
 
 ### Artist name: Gaboswampert
 
-![fan art by Gaboswampert](</assets/img/fanart/B_IMG_1660048765340.jpg>)
+![fan art by Gaboswampert](</assets/img/fanart/FB_IMG_1660048765340.jpg>)
 
 ## #12 (10.12.2021)
 
