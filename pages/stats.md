@@ -45,6 +45,7 @@ breadcrumbs:
       <h2 class="bot-name"></h2>
     </div>
     <div id="results-data">
+      <i>(Please note that the stats shown below are base stats and do not consider AI modifications)</i>
       <table id="results-table">
         <thead>
             <tr>
