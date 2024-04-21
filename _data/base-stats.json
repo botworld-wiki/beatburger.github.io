@@ -188,7 +188,7 @@
     "botName": "Phantom",
     "baseStats": {
       "hp": 1150,
-      "attack": 125,
+      "attack": 105,
       "attackSpeed": 0.57
     }
   },
@@ -230,7 +230,7 @@
   {
     "botName": "Dune Bug",
     "baseStats": {
-      "hp": 750,
+      "hp": 825,
       "attack": 40,
       "attackSpeed": 0.4
     }
@@ -314,7 +314,7 @@
     "botName": "Scatter",
     "baseStats": {
       "hp": 1125,
-      "attack": 30,
+      "attack": 36,
       "attackSpeed": 1.25
     }
   },
@@ -364,7 +364,7 @@
   {
     "botName": "Halo",
     "baseStats": {
-      "hp": 1100,
+      "hp": 1250,
       "attack": 40,
       "attackSpeed": 0.75
     }
@@ -372,7 +372,7 @@
   {
     "botName": "Shuffle",
     "baseStats": {
-      "hp": 1250,
+      "hp": 1325,
       "attack": 70,
       "attackSpeed": 0.66
     }
