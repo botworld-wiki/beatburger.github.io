@@ -2,7 +2,7 @@
   {
     "botName": "Barrie",
     "baseStats": {
-      "hp": 1850,
+      "hp": 2350,
       "attack": 30,
       "attackSpeed": 0.8
     }
@@ -43,14 +43,14 @@
     "botName": "Meteor",
     "baseStats": {
       "hp": 2050,
-      "attack": 43,
+      "attack": 38,
       "attackSpeed": 0.9
     }
   },
   {
     "botName": "Nozzle",
     "baseStats": {
-      "hp": 2100,
+      "hp": 1974,
       "attack": 35,
       "attackSpeed": 1
     }
@@ -58,7 +58,7 @@
   {
     "botName": "Thump",
     "baseStats": {
-      "hp": 1825,
+      "hp": 2075,
       "attack": 40,
       "attackSpeed": 0.85
     }
@@ -78,7 +78,7 @@
     "botName": "Gyro",
     "baseStats": {
       "hp": 1400,
-      "attack": 40,
+      "attack": 30,
       "attackSpeed": 0.3
     }
   },
@@ -94,7 +94,7 @@
     "botName": "Mort",
     "baseStats": {
       "hp": 1400,
-      "attack": 75,
+      "attack": 65,
       "attackSpeed": 0.78
     }
   },
@@ -117,9 +117,9 @@
   {
     "botName": "Sheller",
     "baseStats": {
-      "hp": 1200,
+      "hp": 1280,
       "attack": 250,
-      "attackSpeed": 0
+      "attackSpeed": 2.26
     }
   },
 
@@ -129,7 +129,7 @@
     "botName": "Bigshot",
     "baseStats": {
       "hp": 1300,
-      "attack": 600,
+      "attack": 500,
       "attackSpeed": 4
     }
   },
@@ -137,8 +137,8 @@
     "botName": "Bullseye",
     "baseStats": {
       "hp": 1300,
-      "attack": 150,
-      "attackSpeed": 1.004
+      "attack": 135,
+      "attackSpeed": 0.996
     }
   },
   {
@@ -153,14 +153,14 @@
     "botName": "Longshot",
     "baseStats": {
       "hp": 850,
-      "attack": 90,
+      "attack": 105,
       "attackSpeed": 0.85
     }
   },
   {
     "botName": "Pupil",
     "baseStats": {
-      "hp": 1300,
+      "hp": 920,
       "attack": 45,
       "attackSpeed": 0.3
     }
