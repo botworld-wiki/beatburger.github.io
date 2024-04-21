@@ -151,7 +151,7 @@ breadcrumbs:
     let calculatedStats = [];
     const baseHp = botsDetails[matchIndex].baseStats.hp;
     const baseAttack = botsDetails[matchIndex].baseStats.attack;
-    const baseDps = Math.round(baseAttack / botsDetails[matchIndex].baseStats.attackSpeed);
+    const baseDps = baseAttack / botsDetails[matchIndex].baseStats.attackSpeed;
     for(let level = fromLevel; level <= toLevel; level++) {
       if (level > 0 && level < 5) {
         // Exta 1.12, 1.09, 1.06, 1.03 multiplier for levels 1 to 4 respectively 
