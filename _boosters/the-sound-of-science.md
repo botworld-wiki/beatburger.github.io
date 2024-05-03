@@ -13,7 +13,7 @@ breadcrumbs:
   Boosters: "/boosters"
 
 
-boosterName: "Terminator"
+boosterName: "The Sound of Science"
 boosterDescription: "All botpack stun ability durations increased by 24%. All botpack area abilites radius increased by 24%."
 boosterImageUrl: "/assets/img/boosters/the-sound-of-science.png"
 boosterStacks: ""
