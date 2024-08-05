@@ -7,7 +7,7 @@ contributors: "Valdi"
 title: "Backfire (Epic Sniper)"
 name: "Backfire"
 description: ""
-imageUrl:"/assets/img/bots/backfire.png"
+imageUrl: ""
 
 botName: "Backfire"
 botDescription: "Shots powerful homing shots both forwards and backwards. Likes to be in the middle of the action!"
@@ -19,33 +19,15 @@ botAcquisition: "Season of"
 botOpinion: ""
 
 ability1Name: "Twin Shot"
-ability1Info: "
-Numer of Shots: 2,
-Range: 8,
-Homing Radius: 4,
-Attack Speed: 1s,
-Energy Damage: 100%
-"
+ability1Info: "Numer of Shots: 2, Range: 8, Homing Radius: 4, Attack Speed: 1s, Energy Damage: 100%"
 ability1Description: "Fires a homing plasma shot out of bot"
 
 ability2Name: "Repulsion Shot"
-ability2Info: "
-Number of Shots: 2,
-Range: 4,
-Homing Radius: 4,
-Cooldown: 8s,
-Knockback: Large
-"
+ability2Info: "Number of Shots: 2, Range: 4, Homing Radius: 4, Cooldown: 8s, Knockback: Large"
 ability2Description: "Fires a homing plasma shot out of a both mouths that repeatedly knocks enemies back"
 
 ability3Name: "Swivel Shot"
-ability3Info: "
-Number of Shots: 6,
-Range: 8,
-Homing Radius: 4,
-Cooldown: 10s,
-Energy Damage: 100%
-"
+ability3Info: " Number of Shots: 6, Range: 8, Homing Radius: 4, Cooldown: 10s, Energy Damage: 100%"
 ability3Description: "Backfire spins around, releasing a battery of homing plasma shota in a circle"
 
 ai1aName: "A: Static Charge"
