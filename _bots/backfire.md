@@ -1,22 +1,23 @@
 ---
 layout: bot
 contributors: "Valdi"
-
+updatedAt: "2024-8-7"
 
 
 title: "Backfire (Epic Sniper)"
 name: "Backfire"
-description: ""
-imageUrl: ""
+description: "Shots powerful homing shots both forwards and backwards. Likes to be in the middle of the action!"
+imageUrl: "/assets/img/bots/backfire.png"
 
 botName: "Backfire"
 botDescription: "Shots powerful homing shots both forwards and backwards. Likes to be in the middle of the action!"
-botImageUrl: ""
-
+botImageUrl: "/assets/img/bots/backfire.png"
 botType: "Sniper"
 botRarity: "Epic"
+botRaritySortOrder: "4"
 botAcquisition: "Season of"
 botOpinion: ""
+searchKeywords: "backfire, epic, sniper"
 
 ability1Name: "Twin Shot"
 ability1Info: "Numer of Shots: 2, Range: 8, Homing Radius: 4, Attack Speed: 1s, Energy Damage: 100%"
@@ -27,7 +28,7 @@ ability2Info: "Number of Shots: 2, Range: 4, Homing Radius: 4, Cooldown: 8s, Kno
 ability2Description: "Fires a homing plasma shot out of a both mouths that repeatedly knocks enemies back"
 
 ability3Name: "Swivel Shot"
-ability3Info: " Number of Shots: 6, Range: 8, Homing Radius: 4, Cooldown: 10s, Energy Damage: 100%"
+ability3Info: "Number of Shots: 6, Range: 8, Homing Radius: 4, Cooldown: 10s, Energy Damage: 100%"
 ability3Description: "Backfire spins around, releasing a battery of homing plasma shota in a circle"
 
 ai1aName: "A: Static Charge"
@@ -55,9 +56,9 @@ ai5bName: "B: Speed Boost"
 ai5aDescription: "Repulsion Shot stuns for 1.5s"
 ai5bDescription: "Move speed increased by 30%"
 
-lvl1Hp: ""
-lvl1Dmg: ""
-lvl1Dps: ""
+lvl1Hp: "1260"
+lvl1Dmg: "105"
+lvl1Dps: "210"
 lvl1Speed: "12"
 
 lvl10Hp: ""
