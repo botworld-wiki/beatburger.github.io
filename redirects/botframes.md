@@ -1,7 +1,7 @@
 ---
 layout: redirect
 permalink: "/botframes"
-redirectTo: "https://www.botworld-adventure.wiki/botframe"
+redirectTo: "/botframe"
 
 
 title: "Botframes"
