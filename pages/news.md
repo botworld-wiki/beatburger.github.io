@@ -22,6 +22,29 @@ breadcrumbs:
 <div markdown="1" class=" ghcms ghcms-main">
 </div>
 
+## v1.23.1
+**Bug Fixes:**
+- Fixed Guild Raid Prize bug experienced by the top Guild and ensures that contracts are appearing correctly
+
+## d2024-8-3
+
+### Clip Hunter Contest
+
+![Clip Hunter Contest Event Banner](/assets/img/news/event_clip_hunter.png)
+
+We want to introduce a fun and new contest called the **Clip Hunter Contest**. Participation is simple: share a cool clip on the [Discord](https://discord.gg/FsJzvtFrgq)'s **Clips and Highlights** channel for the community to watch. At the end of the month, we will select the clip with the most likes 👍 and reward the participant with 100 Gems.
+
+## v1.23.0
+
+**Released:** 2024-7-31
+
+**Features:**
+
+- New Epic Spell: [Corrupted Flamefield](/corrupted-flamefield) damages enemy bots and friendly bots alike in a fiery arena.
+- New Season Pass: The Season of Fire begins, providing access to an Epic Bot Style, new cosmetics and loads of scrap.
+- New Legendary Booster: Power Siphon.
+- Option to Reset Account: This option is available in game Settings and compleyely resets your account from scratch.
+
 ## v1.11.0
 
 ### Season of the Sea, Gyro, and FISHING!
