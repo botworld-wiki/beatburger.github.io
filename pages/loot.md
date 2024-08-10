@@ -59,9 +59,9 @@ breadcrumbs:
 
 ![Epic Mega Chests](/assets/img/loot/chest_epic.png)
 
-## Botframes
+<div markdown="1" class=" ghcms ghcms-botframes" id="botframes">
 
-<div markdown="1" class=" ghcms ghcms-botframes">
+## Botframes
 
 Random drops can happen anywhere from any source (piles, chests, fights...). Higher rarity chests have better chances of dropping higher rarity botframes.
 Type of Wild Bots, zone location, etc., have no impact over which botframes you're most likely to find.
