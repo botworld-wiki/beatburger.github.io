@@ -36,14 +36,230 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 
 ## v1.23.0
 
+![Banner of Season of Fire](/assets/img/news/Banner_Season_Fire.png)
+
 **Released:** 2024-7-31
 
 **Features:**
 
-- New Epic Spell: [Corrupted Flamefield](/corrupted-flamefield) damages enemy bots and friendly bots alike in a fiery arena.
-- New Season Pass: The Season of Fire begins, providing access to an Epic Bot Style, new cosmetics and loads of scrap.
-- New Legendary Booster: Power Siphon.
-- Option to Reset Account: This option is available in game Settings and compleyely resets your account from scratch.
+- New Epic Spell, [Corrupted Flamefield](/corrupted-flamefield)
+- New Legendary Booster, Power Siphon.
+- Option to Reset Account from scratch (in-game settings)
+
+
+## d2024-7-25
+
+### July Discord Botmaster's Program
+
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq) 
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1265972771029127210)
+
+
+## v1.22.8
+**Released**: 2024-7-13
+
+**Bug Fixes**:
+
+- Solved the login issue for players in Google Play Games Beta (PC Version)
+
+## v1.22.7
+**Released**: 2024-7-4
+
+**Bug Fixes**:
+
+- Joystick bug for those that still experienced the issue
+
+## d2024-6-23
+
+### June Discord Botmaster's Program
+
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq) 
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1254421309220196412) 
+
+## v1.22.6
+
+**Released:** 2024-6-21
+
+
+**Bug Fixes**:
+
+- Joystick issue that some playera experience
+
+## v1.22.0
+
+### Season of Duality
+
+![Banner of Season of Duality](/assets/img/news/Banner_Season_Duality.png)
+
+
+**Released:** 2024-6-12
+
+
+**Features:**
+
+- New Epic Bot, [Backfire](/backfire)
+- New Legendary Booster, [The Artful Dodger](the-artful-dodger)
+
+
+## d2024-6-8
+
+### New Bot Revealed - Backfire
+
+
+![Character Reveal Backfire](/assets/img/news/Character_Reveal_Backfire.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1799421824557777308)
+
+## d2024-6-2
+
+### New Bot coming soon!
+
+![New Bot coming soon!](/assets/img/news/Mystery_Bot_Reveal_2024-6-2.jpeg)
+
+[Official Anouncement](https://x.com/BotworldGame/status/1797191809757565137)
+
+## d2024-5-26
+
+### May Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq) 
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1244196710876581888)
+
+## d2024-5-11
+
+### Clash of Botmasters
+
+![Event of Clash of the Botmasters](/assets/img/news/Event_Clash_of_the_Botmasters.jpeg)
+
+[Discord Server](https://discord.com/invite/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1238777675095609416)
+
+## v1.21.1
+
+**Released:** 2024-5-3
+
+**Bug Fixes:**
+
+- Languages incorrectly displaying
+- Incorrect info displaying when viewing other player's bots
+- Prevent players from being able to purcharse styles for bots they don't own
+
+## v1.21.0
+
+### Season of the Artist
+
+![Banner of Season of the Artist](/assets/img/news/Banner_Season_Artist.png)
+
+**Released:** 2024-5-1
+
+**Features:**
+
+- Bot Styles
+
+- New Legendary Booster, [The Sound of Science](/the-sound-of-science)
+
+## d2024-4-29
+
+### April Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq) 
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1234522748827471922)
+
+## d2024-4-24
+
+### Clash of Botmasters
+
+![Event of Clash of the Botmasters](/assets/img/news/Event_Clash_of_the_Botmasters.jpeg)
+
+[Discord Server](https://discord.com/invite/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1232625326140555366)
+
+## d2024-4-6
+
+### The Quizmaster's Challenge
+
+![Event of Quizmaster's Challenge](/assets/img/news/Event_Quizmasters_Challenge.jpeg)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Anouncement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1226124292106747974)
+
+## v1.20.3
+
+**Released:** 2024-4-4
+
+**Bug Fixes:**
+
+- An issue with Guilds
+
+## d2024-4-29
+
+### March Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq) 
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1222894415593340999)
+
+## v1.20.2
+
+**Released:** 2024-3-27
+
+**Bug Fixes:**
+
+- Glacier Path not counting toward Flash Freeze guild event task
+
+**Improvements:** 
+
+- Opponents generated for high-level squad cup matches will now use Epic and Legendary boosters and abilities
+- Guild Raid server
+
+## d2024-3-21
+
+### Create Your Style Event Winners
+
+![Winners of the Create Your Style Event](/assets/img/news/Event_Create_Your_Style_Winners_2024-3-21.jpeg)
+
+[Official Announcement](https://x.com/BotworldGame/status/1770769646704083044)
+
+## v1.20.1
+
+**Released:** 2024-3-15
+
+**Bug Fixes:**
+
+- Issue with Language
+
+## 1.20.0
+
+### Season of Balance
+
+![Banner of Season of Balance](/assets/img/news/Banner_Season_Balance.png)
+
+**Released:** 2024-3-13
+
+**Features:**
+
+- Battles in Botworld have been tweaked and adjusted across the board, allowing for new strategies to succeed
+- Legendary Booster, Freight Train
+
 
 ## v1.11.0
 
@@ -55,7 +271,6 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 - New Season Pass: the Season of the Sea begins, providing access to Gyro, new cosmetics, and loads of scrap.
 - New Achievements and Contracts.
 
-
 Bug Fixes:
 
 - Fixed a bug where stacking defense on a bot caused it to heal upon taking damage. 
@@ -63,7 +278,7 @@ Bug Fixes:
 
 2023-01-31
 
-## 2022-12-24
+## d2022-12-24
 
 ### Create Your Style Event
 
