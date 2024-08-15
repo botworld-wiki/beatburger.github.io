@@ -257,7 +257,7 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 
 **Features:**
 
-- Battles in Botworld have been tweaked and adjusted across the board, allowing for new strategies to succeed
+- Tons of balance changes. You can see all the changes [here](/balance-season-changes)
 - Legendary Booster, Freight Train
 
 
