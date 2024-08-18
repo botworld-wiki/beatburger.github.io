@@ -56,7 +56,7 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 
 [Discord Server](https://discord.gg/FsJzvtFrgq) 
 
-[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1265972771029127210)
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1265972771029127210)
 
 
 ## v1.22.8
@@ -82,7 +82,7 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 
 [Discord Server](https://discord.gg/FsJzvtFrgq) 
 
-[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1254421309220196412) 
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1254421309220196412) 
 
 ## v1.22.6
 
@@ -134,7 +134,7 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 
 [Discord Server](https://discord.gg/FsJzvtFrgq) 
 
-[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1244196710876581888)
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1244196710876581888)
 
 ## d2024-5-11
 
@@ -260,6 +260,108 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 - Tons of balance changes. You can see all the changes [here](/balance-season-changes)
 - Legendary Booster, Freight Train
 
+## d2024-2-28
+
+### February Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1212374670104465418)
+
+
+## d2024-2-22
+
+### Create Your Style Event
+
+![Create Your Style Banner](/assets/img/news/Event_Create_Your_Style_2024-2-22.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1760593566210879729)
+
+## v1.19.2
+
+**Released:** 2024-2-16
+
+**Bug Fixes:**
+- Raid ad watch and ad skip buttons not appear
+- Missing Special Meteor Style
+
+## d2024-2-1
+
+### January Discord Botmaster's Banner
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1202582959501213736)
+
+## v1.19.1
+
+**Released:** 2024-2-1
+
+**Bug Fixes:**
+
+- Guild Raid leaderboard issue
+
+## v1.19.0
+
+### Season of Alliance
+
+![Banner of the Season of Alliance](/assets/img/news/Banner_Season_Alliance.png)
+
+**Released:** 2024-1-31
+
+**Features:**
+
+- Guild Raids
+- New Legendary Booster, [Terminator](/terminator)
+
+**Improvements:**
+- View AI Tree and stats of individual bots when viewing a player's loadout
+- Skip chests summary screen
+
+## d2023-12-28
+
+### December Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.gg/FsJzvtFrgq)
+
+## v1.18.2
+
+**Released:** 2023-12-16
+
+**Bug Fixes:**
+
+- Bugs that some players have been experiencing with the release of 1.18.0
+
+## v1.18.1
+
+**Released:** 2023-12-14
+
+**Bug Fixes:**
+
+- Issue where players are not getting tokens
+- Sheller's Essence icon incorrectly appearing as Meteor's
+
+## 1.18.0
+
+### Season of Radiance
+
+![Banner of the Season of Radiance](/assets/img/news/Banner_Season_Radiance.png)
+
+**Released:** 2023-12-13
+
+**Features:**
+
+- New Legendary Bot, [Meteor](/meteor)
+- New Legendary Booster, [Headstrong](/headstrong)
+- New Bot Styles
 
 ## v1.11.0
 
