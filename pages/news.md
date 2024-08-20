@@ -167,7 +167,6 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 **Features:**
 
 - Bot Styles
-
 - New Legendary Booster, [The Sound of Science](/the-sound-of-science)
 
 ## d2024-4-29
@@ -258,7 +257,7 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 **Features:**
 
 - Tons of balance changes. You can see all the changes [here](/balance-season-changes)
-- Legendary Booster, Freight Train
+- Legendary Booster, [Freight Train](/freight-train)
 
 ## d2024-2-28
 
@@ -363,11 +362,495 @@ We want to introduce a fun and new contest called the **Clip Hunter Contest**. P
 - New Legendary Booster, [Headstrong](/headstrong)
 - New Bot Styles
 
+## d2023-12-9
+
+### New Bot Revealed - Meteor
+
+![Meteor Reveal Banner](/assets/img/news/Character_Reveal_Meteor.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1733458250035532075)
+
+## d2023-12-3
+
+### New Bot Coming Soon!
+
+![Mystery Bot Reveal](/assets/img/news/Mystery_Bot_Reveal_2023-12-3.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1731295139836903890)
+
+## d2023-11-25
+
+### November Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1177949919378677800)
+
+## 1.17.1
+
+**Released:** 2023-11-7
+
+**Bug Fixes:**
+
+- Multi-battles with exterminator break
+- Arena menu showing incorrect information offline
+- Players being to copy their Player ID by tapping it in the settings menu
+
+## 1.17.0
+
+### Season of Style
+
+**Released:** 2023-11-2
+
+**Features:**
+
+- New Bot Styles
+- New Legendary Ability, [Black Hole](/black-hole)
+- New Legendary Booster, [Supercharged](/supercharged)
+
+## 2023-10-25
+
+### October Discord Botmaster's Program
+
+![DiscordnBotmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1166707032146067556)
+
+## v.1.16.7
+
+**Released:** 2023-10-20
+
+**Bug Fixes:**
+
+- Halloween Guild Event issue
+
+## v.16.6
+
+**Released:** 2023-10-5
+
+**Improvements:**
+
+- Improves the way you interact with Ads and Data Consent
+
+## d2023-9-26
+
+### September Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1156201891752059004)
+
+## v.1.16.5
+
+**Released:** 2023-9-22
+
+**Improvements:** 
+
+- Improves Ads experience
+
+## v.1.16.4
+
+**Released:** 2023-9-20
+
+**Bug Fixes:**
+
+- Minor bug fixes
+
+**Improvements:**
+
+- Decreases lag on Fuse Menu
+
+## v1.16.3
+
+**Bug Fixes:**
+
+- Issue with the loading screen that some players experienced
+
+## v1.16.0
+
+### Season of Earth
+
+![Banner of the Season of Earth](/assets/img/news/Banner_Season_Earth.png)
+
+**Released:** 2023-9-14
+
+**Features:**
+
+- New Epic Bot, [Drill](/drill)
+- New Gadget, Emergency Repair Canister
+- New Legendary Booster, [Sorcerer Supreme](/sorcerer-supreme)
+- New Bot Styles
+- New Cosmetics
+
+**Bug Fixes:**
+
+- Chainer sometimes not using his Ultimate
+- Critter Collector business upgrade sometimes not activating
+- Issue that caused individual guild contribution bars to extend after the task completed
+
+## d2023-9-2
+
+### New Bot Revealed, [Drill](/drill)
+
+![Banner of Drill Announcement](/assets/img/news/Character_Reveal_Drill.png)
+
+[Official Announcement + Demo Video](https://x.com/BotworldGame/status/1697926237484720529)
+
+## d2023-8-28
+
+### August Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1145690373759434822)
+
+## d2023-8-23
+
+### New Bot Coming Soon!
+
+![Mystery Bot Reveal](/assets/img/news/Mystery_Bot_Reveal_2023-8-23.png)
+
+## v1.15.2
+
+**Released:** 2023-8-11
+
+**Bug Fixes:**
+
+- Bug when logging in/out on Android
+- Forked tongue headerwear forcing forked tongue outfit
+- Android back button
+
+**Improvements:**
+
+- Hypercharge Tower now targets bot with the lowest ultimate ability charge
+
+## v1.15.1
+
+**Released:** 2023-8-4
+
+**Bug Fixes:**
+
+- Now you can battle player profiles
+- Minor fixes
+
+## v1.15.0
+
+### Season of Champions
+
+**Released:** 2023-8-2
+
+**Features:**
+
+- Seasonal Leaderboards
+- Battle players throught Leaderboards and Guild
+- New Parched Sea Story Quest
+- New Legendary Ability, [Hipercharge Tower](/hypercharge-tower)
+- New Legendary Ability
+- New Bot Styles
+- Bot styles show in loadout menu
+- Guild tasks now show individual player progress
+
+**Balance Changes:**
+
+- Chainer:
+   - Multi-chain now pulls 2 enemies
+   - both multi-chain and chain now target the furthest enemies
+- Balance adjustments to Glacier Path, Hypercharge, and Hyperdrain
+
+**Bug Fixes:**
+
+- Enemies in Saltwater Swamp stop attacking the player during Troubled Waters contract
+- Guild completion stat is not counting as intended
+- Player getting stuck when talking to a NPC in a Danger Zone
+- Module Fusing screen freezing sometimes
+- Inkjet and Sheller were not counting towards the Guild Event task
+
+## d2023-7-26
+
+### July Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1133666336971690005)
+
+## v1.14.6
+
+![Banner of the version 1.14.6](/assets/img/news/Banner_1.14.6.webp)
+
+**Released:** 2023-7-15
+
+**Bug Fixes:**
+
+- Minor fixes addressing the Guild Event
+
+## d2023-6-28
+
+### June Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1123615284863971434)
+
+## v1.14.5
+
+**Released:** 2023-6-28
+
+**Bug Fixes:**
+
+- Server issues
+
+## d2023-6-25
+
+### Raid Rumble Event
+
+![Raid Rumble Banner](/assets/img/news/Event_Raid_Rumple_Banner.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1672917013537210375)
+
+[Submit Form + Full information](https://docs.google.com/forms/d/e/1FAIpQLSeEieIPZpQEYwryNs32m-ovHbPqGx3oLC1AsCF6FfwR-9tvCw/viewform)
+
+## d2023-6-24
+
+### Community Bot Event Winner
+
+![Winner of the Community Bot Event](/assets/img/news/Event_Community_Bot_Winner_2023-6-24.jpeg)
+
+[Official Announcement](https://x.com/BotworldGame/status/1672573852596019202)
+
+## v1.14.2
+
+**Released:** 2023-6-16
+
+**Bug Fixes:**
+
+- Error when re-opening the Fuse menu after fusing a Legendary ability
+- Issue when opening the Gadgets menu after a recruit had been defeated
+- Hack Bolt incorrectly counting toward the Hackathon Guild Event
+- Spore Wood side quests unlocking before Spore Wood being accessible
+
+## v1.14.0
+
+### Season of Cosmos
+
+![Banner of the Season of Cosmos](/assets/img/news/Banner_Season_Cosmos.png)
+
+**Released:** 2023-6-14
+
+**Features:**
+
+- Legendary Abilities
+- New Legendary Booster
+- New Guild Quests
+- Raid Progression Overhaul
+- Option to redeploy recruits if they get stuck
+- Special scrap drop rates in the open world have been revised. You should see special scrap drop more reliably from loot piles and enemies, if its location requirements are met.
+
+## d2023-5-28
+
+### May Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1112312671732248736)
+
+## v1.13.3
+
+**Released:** 2023-5-16
+
+**Bug Fixes:**
+
+- Boosters not being applied to bots after Wave 1
+- Sub-Zero legendary booster incorrectly applying to abilities other than a bot's ultimate
+
+**Improvements:**
+
+- Rebalanced Raid Master's loadout for certain Raid waves
+- Duplicates of the same Mega Bot can no longer appear in the first 10 Raid waves
+
+## v1.13.2
+
+**Released:** 2023-5-9
+
+**Bug Fixes:**
+
+- Issues when fighting certain Arena Masters on Google Play PC Games Beta
+- Completing multiple fishing Contracts while in Scavenger's Landing incorrectly award Tokens
+- Area names showing incorrect names near certain fishing sites
+- Raid Master's Abilities to not showing during certain waves
+
+**Improvements:**
+
+-  Attempt Raids a second time every 24 hours by watching an ad, or with the Mayoral Membership.
+- Adjusted the collision of obstacles in the Raid Arena
+
+**Balance Changes:**
+
+- Corrupt Power Generation Booster now increases power generation by 30%
+
+## v1.13.1
+
+**Released:** 2023-5-6
+
+**Bug Fixes:** 
+
+- Traditional Chinese language not displaying
+- Recruits incorrectly disappearing from the backpack menu after being summoned
+-  Power Start boosters now give power at the start of each Raid wave
+- K.O.'s ultimate no longer persists between Raid waves
+- Give Up Battle not working against Wild Bots
+- Bot range area indicator not displaying correctly when deploying
+- Fixed Nozzle Pristine White skin
+- Issues when using Invisibility or opening the map after catching fish
+- Raid Rewards menu issues after claiming final reward
+- Cosmetics on sale previous Gem price incorrectly
+- Greenery Gathering Guild Event rewards
+
+**Improvements:**
+
+- Raid Leaderboard now shows Top 100
+- Changed battle transition screens for Raid and Arena
+
+
+**Balance Changes:**
+
+-  Corrupted Power Generation booster now reduces Bot health instead of Bot damage
+
+## v1.13.0
+
+**Released:** 2023-5-3
+
+**Features:**
+
+- Raids
+- New currency, Tickets
+- New bot, [Bouncer](/bouncer)
+- New Guild Quests
+- New Legendary Booster, [Overclocked](/overclocked)
+
+## d2023-5-1
+
+### Community Bot Event
+
+![Create Your Bot Event's Banner](/assets/img/news/Event_Community_Bot_2023-5-1.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1652988990658674691)
+
+## d2023-4-27
+
+### April Discord Botmaster's Event
+
+![Discord Botmaster's Event Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement](https://discord.com/channels/824807656945745951/824813164142788619/1101151498525757571)
+
+## d2023-4-23
+
+### New Bot Revealed: Bouncer
+
+![Banner Bouncer Revealed](/assets/img/news/Character_Reveal_Bouncer.png)
+
+[Official Announcement + Demo Gameplay](https://x.com/BotworldGame/status/1650116273181954050)
+
+## d2023-4-15
+
+### New Bot Coming Soon
+
+![Mystery Bot Banner](/assets/img/news/Mystery_Bot_Reveal_2023-4-15.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1647177120643178497)
+
+## v1.12.1 (Android)
+
+**Bug Fixes:**
+
+- The Health Bar for some bots dissapears in battle
+
+## v1.12.0
+
+**Released:** 2023-3-15
+
+**Features:**
+
+- Customise your Recruits with hats and outfits
+- Guild Contribution Badges
+- New Quest: Solve the mystery of who polluted Saltwater Swamp
+- New Ability, [Particle Storm](/particle-storm)
+- New Legendary Booster, [Paired Resilience](/paired-resilence)
+- New Recruit Jobs
+- New Guild Quests
+- New Bot Styles
+
+**Bug Fixes:**
+
+- Mega KOs were the wrong size
+- Pupil's range not being affected by some modules
+- bug where you could open chests from a distance
+- Fixed Froggy’s Slowing Leap ability
+
+## d2023-3-13
+
+### March Discord Botmaster's Program
+
+![Discord Botmaster's Program Banner](/assets/img/news/event_discord_botmasters_program.png)
+
+[Discord Server](https://discord.gg/FsJzvtFrgq)
+
+[Official Announcement (Discord)](https://discord.com/channels/824807656945745951/824813164142788619/1084777987532140565)
+
+## d2023-3-4
+
+### Create Your Style Event Winners
+
+![Winners of the Create Your Style Event](/assets/img/news/Event_Create_Your_Style_2023-3-4.png)
+
+[Official Announcement](https://x.com/BotworldGame/status/1632011723581399043)
+
+## v1.11.2
+
+**Released:** 2023-2-15
+
+**Bug Fixes:**
+
+- Battles being stuck if the game is closed mid battle
+- Quests not being markes as complete when the task has been completed
+
+## v1.11.1
+
+**Released:** 2023-2-2023
+
+**Bug Fixes:**
+
+- Locked danger zones being chosen for catch of the day bonus
+
+**Improvements:**
+
+- Balanced the selling value of fish
+- Increased fish catch of the day bonus if it's in a danger zone
+- Softlocks if gadgets or map menu were open while reeling in a fish, but before the player receives it
+- Bunny cosmetics are now properly presented
+- Fishing achievement group unlocks at correct player level
+
 ## v1.11.0
 
 ### Season of the Sea, Gyro, and FISHING!
 
-- New Feature: [Fishing](</fishing>) \- Cast your fishing line into the waters of Botworld with over 40 different fish to catch! You start [learning how to fish](</fishing#how-to-fish>) through a side quest so keep an eye out for it.
+- New Feature: [Fishing](</fishing>) \- Cast your fishing line into the waters of Botworld with over 40 different fish to catch! You start [+++learning how to fish](</fishing#how-to-fish>) through a side quest so keep an eye out for it.
 - New Bot: [Gyro](</gyro>) is an epic splasher bot who pulls enemies towards its giant spinning blade.
 - New Legendary Booster.
 - New Season Pass: the Season of the Sea begins, providing access to Gyro, new cosmetics, and loads of scrap.
@@ -507,7 +990,7 @@ Each winner or winners will receive **1,000 Gems**. You will also **be the first
 
 ## D2022.06.05
 
-New Bot announcement
+### Bot announcement
 
 ![new bot 8](</assets/img/news/Mystery_Bot_Reveal_8.jpg>)
 
