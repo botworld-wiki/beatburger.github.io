@@ -22,93 +22,308 @@ breadcrumbs:
 </div>
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
-</div>
 
-## \#64 (9.12.2022)
+## #100 (2023.8.18)
+
+### Artist Name: SharoSensei17
+
+![](/assets/img/fanart/FFA_100.png)
+
+## #99 (2023.8.11)
+
+### Artist Name: JangYi6
+
+![](/assets/img/fanart/FFA_99.png)
+
+## #98 (2023.8.4)
+
+### Artist Name: Le Norn Garner
+
+![](/assets/img/fanart/FFA_98.png)
+
+## #97 (2023.7.28)
+
+### Artist Name: Le Norn Garner
+
+![](/assets/img/fanart/FFA_97.png)
+
+## #96 (2023.7.21)
+
+### Artist Name: JangYi6
+
+![](/assets/img/fanart/FFA_96.png)
+
+## #95 (2023.7.14)
+
+### Artist Name: Duskdaminal
+
+![](/assets/img/fanart/FFA_95.png)
+
+## #94 (2023.7.7)
+
+### Artist Name: JangYi6
+
+![](/assets/img/fanart/FFA_94.png)
+
+## #93 (2023.6.30)
+
+### Artist Name: Bluewolftail
+
+![](/assets/img/fanart/FFA_93.png)
+
+## #92 (2023.6.23)
+
+### Artist Name: MAGNAYEChristi2
+
+![](/assets/img/fanart/FFA_92.png)
+
+## #91 (2023.6.16)
+
+### Artist Name: JeremasGuerra
+
+![](/assets/img/fanart/FFA_91.png)
+
+## #90 (2023.6.9)
+
+### Artist Name: Bwa_artist
+
+![](/assets/img/fanart/FFA_90.png)
+
+## #89 (2023.6.2)
+
+### Artist Name: 3d_afernandez
+
+![](/assets/img/fanart/FFA_89.png)
+
+## #88 (2023.5.26)
+
+### Artist Name: BlueGuy078
+
+![](/assets/img/fanart/FFA_88.png)
+
+## #87 (2023.5.19)
+
+### Artist Name: Zukie
+
+![](/assets/img/fanart/FFA_87.png)
+
+## #86 (2023.5.12)
+
+### Artist Name: CheepPlays
+
+![](/assets/img/fanart/FFA_86.png)
+
+## #85 (2023.5.5)
+
+### Artist Name: Bluewolftail
+
+![](/assets/img/fanart/FFA_85.png)
+
+## #84 (2023.4.28)
+
+### Artist Name: Zeitzbach
+
+![](/assets/img/fanart/FFA_84.png)
+
+## #83 (2023.4.21)
+
+### Artist Name: Foxxive
+
+![](/assets/img/fanart/FFA_83.png)
+
+## #82 (2023.4.14)
+
+### Artist Name: Bwa_artist
+
+![](/assets/img/fanart/FFA_82.png)
+
+## #81 (2023.4.7)
+
+### Artist Name: Noobmasterthe4th
+
+![](/assets/img/fanart/FFA_81.png)
+
+## #80 (2023.3.31)
+
+### Artist Name: Sharfin_alpha3
+
+![](</assets/img/fanart/FFA_80.png>)
+
+## #79 (2023.3.24)
+
+### Artist Name: Cravy3781
+
+![](</assets/img/fanart/FFA_79.png>)
+
+## #78 (2023.3.17)
+
+### Artist Name: Zukie
+
+![](</assets/img/fanart/FFA_78.png>)
+
+## #77 (2023.3.10)
+
+### Artist Name: Colonel_Scoobs
+
+![](</assets/img/fanart/FFA_77.png>)
+
+## #76 (2023.3.3)
+
+### Artist Name: Zukie
+
+![](</assets/img/fanart/FFA_76.png>)
+
+## #75 (2023.2.24)
+
+### Artist Name: Zukie
+
+![](</assets/img/fanart/FFA_75.png>)
+
+## #74 (2023.2.17)
+
+### Artist Name: Aurora_sunset_arts
+
+![](</assets/img/fanart/FFA_74.png>)
+
+## #73 (2023.2.10)
+
+### Artist Name: Leoart_s
+
+![](</assets/img/fanart/FFA_73.png>)
+
+## #72 (2023.2.3)
+
+### Artist Name: Foxxive
+
+![](</assets/img/fanart/FFA_72.png>)
+
+## #71 (2023.1.27)
+
+### Artist Name: HostyTosty
+
+![](</assets/img/fanart/FFA_71.png>)
+
+## #70 (2023.1.20)
+
+### Artist Name: Foxxive
+
+![](</assets/img/fanart/FFA_70.png>)
+
+## #69 (2023.1.13)
+
+### Artist name: Foxxive
+
+![](</assets/img/fanart/FFA_69.png>)
+
+## #68 (2023.1.6)
+
+### Artist name: HostyTosty
+
+![](</assets/img/fanart/FFA_68.png>)
+
+## #67 (2022.12.30)
+
+### Artist Name: Lavasaurous
+
+![](</assets/img/fanart/FFA_67.png>)
+
+## #66 (2022.12.23)
+
+### Artist name: HostyTosty
+
+![](</assets/img/fanart/FFA_66.png>)
+
+## #65 (2022.12.16)
+
+### Artist name: Marykains
+
+![](</assets/img/fanart/FFA_65.png>)
+
+## #64 (9.12.2022)
 
 ### Artist name: TE TE
 
 ![](</assets/img/fanart/20221209_120543.jpg>)
 
-## \#63 (2.12.2022)
+## #63 (2.12.2022)
 
 ### Artist name: Rairan
 
 ![](</assets/img/fanart/Fi-Vam0WAAEuyj9-1.png>)
 
-## \#62 (25.11.2022)
+## #62 (25.11.2022)
 
 ### Artist name: cornstarchlegs
 
 ![](</assets/img/fanart/20221125_123318.jpg>)
 
-## \#61 (18.11.2022)
+## #61 (18.11.2022)
 
 ### Artist name: BaotyGamer
 
 ![](</assets/img/fanart/20221118_131959.jpg>)
 
-## \#60 (11.11.2022)
+## #60 (11.11.2022)
 
 ### Artist name: JackBullwark\_
 
 ![](</assets/img/fanart/20221111_110113.jpg>)
 
-## \#59 (4.11.2022)
+## #59 (4.11.2022)
 
 ### Artist name: TheActek
 
 ![](</assets/img/fanart/Fgt7AK9XgAE9n_D.jpg>)
 
-## \#58 (28.10.2022)
+## #58 (28.10.2022)
 
 ### Artist name: Syriasher
 
 ![](</assets/img/fanart/20221028_135751.jpg>)
 
-## \#57 (21.10.2022)
+## #57 (21.10.2022)
 
 ### Artist name: mitchillustrate
 
 ![](</assets/img/fanart/20221021_122550.jpg>)
 
-## \#56 (14.10.2022)
+## #56 (14.10.2022)
 
 ### Artist name: GlareFacer
 
 ![](</assets/img/fanart/20221014_110450.jpg>)
 
-## \#55 (7.10.2022)
+## #55 (7.10.2022)
 
 ### Artist name: Edward Enrique
 
 ![](</assets/img/fanart/20221007_132946.jpg>)
 
-## \#54 (30.9.2022)
+## #54 (30.9.2022)
 
 ### Artist name: San Brian
 
 ![](</assets/img/fanart/20220930_114316.jpg>)
 
-## \#53 (23.9.2022)
+## #53 (23.9.2022)
 
 ### Artist name: ActekThe
 
 ![](</assets/img/fanart/IMG_20220923_185705.jpg>)
 
-## \#52 (16.9.2022)
+## #52 (16.9.2022)
 
 ### Artist name: Jackbullwark\_
 
 ![](</assets/img/fanart/20220916_103934.jpg>)
 
-## \#51 (9.9.2022)
+## #51 (9.9.2022)
 
 ### Artist name: sargento\_miles
 
 ![](</assets/img/fanart/20220909_142539.jpg>)
 
-## \#50 (2.9.2022)
+## #50 (2.9.2022)
 
 ### Artist name: GlareFacer
 
@@ -118,19 +333,19 @@ breadcrumbs:
 
 ![](</assets/img/fanart/20220902_130204.jpg>)
 
-## \#49 (26.8.2022)
+## #49 (26.8.2022)
 
 ### Artist name: Sk8yfriends
 
 ![](</assets/img/fanart/IMG_20220826_165035.jpg>)
 
-## \#48 (19.8.2022)
+## #48 (19.8.2022)
 
 ### Artist name: GlareFacer
 
 ![](</assets/img/fanart/FahNZeCaQAUDjKr.jpg>)
 
-## \#47 (12.8.2022)
+## #47 (12.8.2022)
 
 ### Artist name: SpartanArtsLP
 
@@ -393,7 +608,7 @@ breadcrumbs:
 
 ### Artist name: Krabycz
 
-![fan art by Krabycz](</assets/img/fanart/FB_IMG_1659971958749.jpg>)
+![fan art by Krabycz](</assets/img/fanart/FFA_5.png>)
 
 ## #4 (15.10.2021)
 
@@ -419,3 +634,4 @@ breadcrumbs:
 
 ![fan art by agady.sndj](</assets/img/fanart/FB_IMG_1659972065884.jpg>)
 
+</div>
