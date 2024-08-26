@@ -23,6 +23,126 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
 
+## #120 (2024.1.5)
+
+### Artist Name: Fantastic Claws
+
+![](/assets/img/fanart/FFA_120.png)
+
+## #119 (2023.12.29)
+
+### Artist Name: TheLucario452
+
+![](/assets/img/fanart/FFA_119.png)
+
+## #118 (2023.12.22)
+
+### Artist Name: Bluewolftail
+
+![](/assets/img/fanart/FFA_118.png)
+
+## #117 (2023.12.15)
+
+### Artist Name: Johan3D
+
+![](/assets/img/fanart/FFA_117.gif)
+
+## #116 (2023.12.8)
+
+### Artist Name: YetDarked
+
+![](/assets/img/fanart/FFA_116.png)
+
+## #115 (2023.12.1)
+
+### Artist Name: RyokusenCrow
+
+![](/assets/img/fanart/FFA_115.png)
+
+## #114 (2023.11.24)
+
+### Artist Name: SharoSenpai
+
+![](/assets/img/fanart/FFA_114.png)
+
+## #113 (2023.11.17)
+
+### Artist Name: Kotofei4ik08
+
+![](/assets/img/fanart/FFA_113.png)
+
+## #112 (2023.11.10)
+
+### Artist Name: Johantd03
+
+![](/assets/img/fanart/FFA_112.gif)
+
+## #111 (2023.11.4)
+
+### Artist Name: SharoSenpai
+
+![](/assets/img/fanart/FFA_111.png)
+
+## #110 (2023.10.27)
+
+### Artist Name: SlowSpeedrun
+
+![](/assets/img/fanart/FFA_110.png)
+
+## #109 (2023.10.20)
+
+### Artist Name: lil_rekuro
+
+![](/assets/img/fanart/FFA_109.png)
+
+## #108 (2023.10.13)
+
+### Artist Name: RyokusenCrow
+
+![](/assets/img/fanart/FFA_108.png)
+
+## #107 (2023.10.6)
+
+### Artist Name: m3re_mail
+
+![](/assets/img/fanart/FFA_107.png)
+
+## #106 (2023.9.29)
+
+### Artist Name: Fantastic Claws
+
+![](/assets/img/fanart/FFA_106.png)
+
+## #105 (2023.9.22)
+
+### Artist Name: SlowSpeedrun
+
+![](/assets/img/fanart/FFA_105.png)
+
+## #104 (2023.9.15)
+
+### Artist Name: Foxxive
+
+![](/assets/img/fanart/FFA_104.png)
+
+## #103 (2023.9.8)
+
+### Artist Name: Zukie
+
+![](/assets/img/fanart/FFA_103.png)
+
+## #102 (2023.9.1)
+
+### Artist Name: RyokusenCrow
+
+![](/assets/img/fanart/FFA_102.png)
+
+## #101 (2023.8.25)
+
+### Artist Name: Bluewolftail
+
+![](/assets/img/fanart/FFA_101.png)
+
 ## #100 (2023.8.18)
 
 ### Artist Name: SharoSensei17
@@ -315,7 +435,7 @@ breadcrumbs:
 
 ### Artist name: Jackbullwark\_
 
-![](</assets/img/fanart/20220916_103934.jpg>)
+![](</assets/img/fanart/FFA_52.png>)
 
 ## #51 (9.9.2022)
 
