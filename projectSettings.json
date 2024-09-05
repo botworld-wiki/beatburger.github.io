@@ -1,0 +1,10 @@
+{  
+    "general": {
+        "repoName": "beatburger.github.io",
+        "repoOwner": "botworld-wiki",
+        "remote": "www.botworld-adventure.wiki"
+    },
+    "imageUploader": {
+        "imagesPath": "assets/img/"
+    }
+}

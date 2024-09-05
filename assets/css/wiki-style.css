@@ -910,3 +910,37 @@ h2{clear:both;}
     bottom: 3px;
 }
 /* end inline assets */
+
+
+#root {
+	background-color: #000;
+	border: 3px solid #fff;
+	border-radius: 10px;
+}
+
+.info {
+	background-color: rgb(63, 63, 63);
+	border: 1px solid #000;
+}
+
+.files {
+	padding-left: 20px;
+}
+
+#imageUploaderTab {
+	background-color: rgb(63, 63, 63);
+	padding: 10px;
+
+}
+
+.input-label-wrapper {
+	display: flex;
+
+}
+.input-label-wrapper input {
+	flex: 2;
+}
+#upload-image-preview {
+	display: block;
+	max-height: 200px;
+}
