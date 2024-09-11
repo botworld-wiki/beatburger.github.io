@@ -74,6 +74,7 @@ async function fetchImages(repoOwner, repoName, imagesPath) {
 
 async function uploadFile(owner, repo, path, content, message) {
     console.log(getTreeSha(owner, repo));
+    console.log(path);
     
     await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
         'owner': owner,
@@ -263,7 +264,8 @@ function uploadFilesTab(folderPath, repoOwner, repoName) {
             throw new Error('The file should be an image or a video')
         }
 
-        if (fileInput.files[0].type.split('/')[1] !== pathInput.split('.')[1]) {
+        if (fileInput.files[0].type.split('/')[1] !== pathInput.split('.').at(-1)) {
+            
             throw Error('File extension should match the path extension')
         }
 
@@ -275,8 +277,9 @@ function uploadFilesTab(folderPath, repoOwner, repoName) {
 
             // Gets the base64 from de dataUrl
             const base64Result = e.target.result.split(',')[1]
-
-            uploadFile(repoOwner, repoName, pathInput, base64Result, `${committer}: Added new file using image uploader`)
+            console.log(folderPath+pathInput);
+            
+            uploadFile(repoOwner, repoName, folderPath+pathInput, base64Result, `${committer}: Added new file using image uploader`)
         }
 
     }
