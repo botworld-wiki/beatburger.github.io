@@ -23,6 +23,66 @@ breadcrumbs:
 
 <div markdown="1" class=" ghcms ghcms-newwinners">
 
+## #130 (2024.3.15)
+
+### Artist Name: Veteran
+
+![](/assets/img/fanart/FFA_130.jpeg)
+
+## #129 (2024.3.8)
+
+### Artist Name: Captain Yuri
+
+![](/assets/img/fanart/FFA_129.jpeg)
+
+## #128 (2024.3.1)
+
+### Artist Name: BlagoRobot
+
+![](/assets/img/fanart/FFA_128.jpeg)
+
+## #127 (2024.2.23)
+
+### Artist Name: Glarefacer
+
+![](/assets/img/fanart/FFA_127.jpeg)
+
+## #126 (2024.2.16)
+
+### Artist Name: Captain Yuri
+
+![](/assets/img/fanart/FFA_126.jpeg)
+
+## #125 (2024.2.9)
+
+### Artist Name: CheepPlays
+
+![](/assets/img/fanart/FFA_125.jpeg)
+
+## #124 (2024.2.2)
+
+### Artist Name: MikaNorn
+
+![](/assets/img/fanart/FFA_124.jpeg)
+
+## #123 (2024.1.26)
+
+### Artist Name: Noobthemaster4th
+
+![](/assets/img/fanart/FFA_123.jpeg)
+
+## #122 (2024.1.19)
+
+### Artist Name: Johan3D
+
+![](/assets/img/fanart/FFA_122.gif)
+
+## #121 (2024.1.12)
+
+### Artist Name: K_artes2306
+
+![](/assets/img/fanart/FFA_121.jpeg)
+
 ## #120 (2024.1.5)
 
 ### Artist Name: Fantastic Claws
