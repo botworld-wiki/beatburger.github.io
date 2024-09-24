@@ -43,6 +43,7 @@ Tell us if you have content ready and need someone to add it into the wiki. and 
 ### Maintainers
 *Up-to-date list of who can help you on Discord*
 
+- @noob.pro 
 - @debb#0810 
 - Kartoffel (mykenception#6532)
 - @HexSanity#7490
