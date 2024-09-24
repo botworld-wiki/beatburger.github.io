@@ -32,7 +32,7 @@ ability2Info: "Max Stack: 4, Cooldown: 6s, Damage Reduction: 20%"
 ability2Description: "Reduces damage taken for the rest of the battle"
 ability3Name: "Crater"
 ability3Info: "Range: 4, Stun Duration: 1s, Cooldown: 12s, Impact Radius: 3, Crater Duration: 4s"
-ability3Description: "Crashes down into the nearest enemy, stunnign nearby enemies and trapping them inside a crater"
+ability3Description: "Crashes down into the nearest enemy, stunning nearby enemies and trapping them inside a crater"
 
 
 ai1aName: "A: Heavy Fists"
