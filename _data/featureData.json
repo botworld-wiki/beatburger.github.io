@@ -2,7 +2,7 @@
   "feedback": {
     "enabled": true,
     "allowImage": true,
-    "webhookUrl": "",
+    "webhookUrl": "https://discord.com/api/webhooks/1390673976006545418/mwrcczj8ndz4xGihEEt0ZBX15GSrrtb_ThhQFkcHD1dmI4yR0opSoWYYqhWKkt2S_N62",
     "feedbackTriggers": {
       "inMeetBB": true,
       "inNavSearchLine": true
