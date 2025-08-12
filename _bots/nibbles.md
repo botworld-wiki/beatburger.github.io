@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Echio, Kartoffel"
-updatedAt: "2022-07-20"
+contributors: "Echio, Kartoffel, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Nibbles (EpicBrawler)"
@@ -83,4 +83,18 @@ commonMat2: "Sparky Wires"
 commonMat3: "Cold Battery"
 ---
 
+### 'Damage Build' by Wolfhaize
+- **AAACA** More focused on damage.
+
+### 'Hybrid Build' by Wolfhaize(Recommended)
+- **BBBCA** Nibbles survives better and his ultimate recharges by 80% on kill.
+
+## Comments
+
+### Evaluation by Wolfhaize
+Being absurdly slow, Nibbles falls into a similar playstyle with the likes of Brute and Scatter. Get him close to an enemy and he will deal a ton of damage, coupled with an extremely strong ult that not only gives him stun resistance but there is no escape from once it starts. Nibble's second ability also allows him to grab bots for himself, making him an instant upgrade on Brute.
+
+## Tips
+- Works great with Halo shielding him and boosting him
+- You can escape Nibbles' Winch by waiting till the animation ends(there's a delay befor ehe activates his ultimate)
 

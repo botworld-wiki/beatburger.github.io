@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Beat (Epic Support)"
 name: "Beat"
-description: "Mostly attractive for the combo potential, boosting everyone's damage can be extremely powerful. Also a suprisingly viable melee bot with Stun and decent HP/dmg\n- Speciality: AoE damage Boost\n- Combo: any Damage Dealer\n- Note: you mostly get one shot at boosting your ranged damage dealers, then Beat runs to the front line"
+description: "Mostly attractive for the combo potential, boosting everyone's damage can be extremely powerful. Also a suprisingly viable melee bot with Stun and decent HP/dmg\n- Speciality: AoE damage Boost\n- Combo: any Damage Dealer\n- Note: you mostly get one shot at boosting your ranged damage dealers, then Beat runs off to the front line"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397691709804574/beat.png"
 breadcrumbs:
   Bots: "/bots"

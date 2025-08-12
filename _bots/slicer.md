@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2022-07-09"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Slicer (Special Chaser)"
@@ -84,14 +84,12 @@ commonMat3: "Sputtering Generator"
 ---
 
 
-### 'Full Damage Build' by Hex
-- **ABCAB:** Full Damage Build.
+### 'Chaser Build' by Wolfhaize(Recommended)
+- **ABCAB:** Gives the best options to make Slicer a great chaser.
 
 ### 'Close Combat Build' by Hex
 - **BBCBB:** This AI comes with a 15% dodge with melee attack and Hp increase for 20%. 
 
-### 'Chaser Build' by Hex 
-- **BACAA:** This AI comes with Unstoppable Ai and Leap immobilize on enemy for 1s ( for detaining enemy).
 
 ## Comments
 

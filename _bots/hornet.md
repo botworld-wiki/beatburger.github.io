@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+contributors: "Kurt, Soft, BloodxReaper, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Hornet (Epic Evader)"
@@ -80,11 +80,13 @@ commonMat2: "Clear Oil"
 commonMat3: "Mini Sensor"
 ---
 
-### Suggested AI Build
-- **BBBAC:**
+### 'Damage Build' by Wolfhaize(Recommended)
+- **BAAAC:** Tries to get the most out of Hornet damage-wise.
+
+### 'Evader Build' by Wolfhaize
+- **BBABC:** Hornet loses some damage capability but has better survivability.
 
 ## Comments
 
-### Evaluation by Soft
-For being a poison-only attacker, Hornet has lower poison damage than [FORK](/Fork) and [FORK](/Fork) also deals half physical damage. Hornet only has a place in full-poison teams because of his Toxic Shock, but full poison teams are very bad with the way poisons currently work (don't stack and only refresh when the previous poison is at its last second tick). Tier B-.
-
+### Evaluation by Wolfhaize
+Due to poison being one of the most effective forms of damage in the game(ignores shields and resistance), Hornet immediately becomes a dangerous bot when in use. His ult also allows him to stun(and poison), any poisoned bots on the field no matter where they are. This means Hornet van be coupled with a cheap ability like Goop to make sure all bots ion the field are effected by his ult. Also works well with Froggy's ultimate for the same reason. 

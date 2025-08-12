@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Bullwark (Rare Tank)"
@@ -86,12 +86,15 @@ commonMat3: "Rusty Cog"
 ### 'Attack Tank Build' by Hex
 - **ABCAA:** You can run but you can't hide from an attack tank, it protects and attacks at the same time.
 
+
 ## Comments
 
 ### Evaluation by Soft
-Highly competitive with [Chainer](/Chainer) and [Nozzle](/Nozzle), Bullwark is the most traditional tank out of the three. His movement speed is alright and he has a front-facing shield that reduces damage. It soaks a lot of damage, and more often than not he's facing the bot that's fighting him, but his shield gets deactivated when stunned. A classic tank and spanker. Tier A+.
+Highly competitive with [Chainer](/Chainer) and [Nozzle](/Nozzle), Bullwark is the most traditional tank out of the three. His movement speed is alright and he has a front-facing shield that reduces damage. It soaks a lot of damage, and more often than not he's facing the bot that's fighting him, but his shield gets deactivated when stunned. A classic tank and spanker. 
 
 ### Tips
-Put Bullwark in the front. Weakness is his rear since his shield is in the front
+Put Bullwark in the front. Weakness is his rear since his shield is in the front.
+AI-5B is recommended so Bullwark stuns enemies on drop. Can be very useful against grouped up enemies or incapacitating a problematic bot instantly.
+
 
 

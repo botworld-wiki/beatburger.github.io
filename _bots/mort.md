@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "BloodxReaper, Soft, OJ"
-updatedAt: "2022-07-09"
+contributors: "BloodxReaper, Soft, OJ, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Mort (Rare Splasher)"
@@ -83,21 +83,20 @@ commonMat2: "Cold Battery"
 commonMat3: "Clear Oil"
 ---
 
-### 'Nuke' by BloodxReaper
-- **AACAA:** Heavily focused on its ult. 
-Best paired with [Ult CD Boosters](/ult-cooldowns-rare) and abilities like [Gust](/gust) to group enemies.
+### 'Nuke' by BloodxReaper(Recommended)
+- **AACAA:** Heavily focused on its ult, while also providinf 2 botpack power on entry. 
+Best paired with [Ult CD Boosters](/ult-cooldowns-rare), Chainer and abilities like [Gust](/gust) to group enemies.
 
 ### 'Consistent Dmg' by BloodxReaper
 - **ABCAB:** Focused on basic attack. Mort has the highest atk spd amongst all the splashers at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have ult cdr abilities or are using them on recruits.
 
 ## Comments
 
-### Evaluation by Soft
-[Brutes](/brute) smaller, long-ranged cousin. Doesn't deal as much damage, but has ranged damage with large splashing. Has a tendency to run away a lot and not know when to stop which infuriates people that use him a lot since he's very slow. Definitely needs a helping hand from a good tank, but performs great when he does. Tier A.
+### Evaluation by Wolfhaize
+Just like Bullseye, Mort suffers from having a high minimum range which means he runs from enemies that are seemingly far away from him. Which means you need to give him ample space to operate. When you do, he will reward you greatly. 
 
 ### Tips
-- Supercharged First Strike: When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge). See [Combos](/comps#combos)
+- Supercharged First Strike: When Mort is about to launch its Super Shell (Ult), you can hit Mort an ability that boost Mort's damage like Vanish, [Supercharged Chaos Translocator (SCT)](/supercharged-chaos-translocator) or [Super Charge](/super-charge). See [Combos](/comps#combos)
 - Group 'em Up: Bots like [Chainer](/chainer) and [Lobbie](/lobbie) can group the enemies making them a great pair! See [Grouper Comps](/comps#grouper-comp)
-- Mort has the highest atk spd of every splasher(?) at 0.78s, so he can dish out more dmg through basic atks than ult if you don't have cdr abilities
 - Has the potential to dish out more DMG if you lack [Ult CD Boosters](/ult-cooldowns-rare)  or are using them on [Recruits](/recruits).
 

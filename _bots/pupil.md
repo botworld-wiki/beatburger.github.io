@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, BloodxReaper, Soft, O.J"
-updatedAt: "2022-07-07"
+contributors: "Kurt, BloodxReaper, Soft, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Pupil (Rare Sniper)"
@@ -83,11 +83,16 @@ commonMat2: "Sparky Wires"
 commonMat3: "Thick Tube"
 ---
 
-### Suggested AI Build
-- **AACAA:**
+### 'Damage Build' by Wolfhaize (Recommended)
+- **AACAA:** Focuses on getting the most out of Pupil damage wise.
+
+### 'Utility Build' by Wolfhaize 
+- **BACAB:** Pupil does a lot less damage but any bots caught in his beam are very vulnerable to damage from other sources.
 
 ## Comments
 
-### Evaluation by Soft
-Once again looking good on paper, Pupil just doesn't make the cut and is outclassed by [Bigshot](/bigshot) if you want to keep your sniper far away for high damage, [Longshot](/longshot) if you want to risk going close for consistent damage, and [Beat](/beat) if you want to amplify your team damage. His tracking is too slow to keep up with evaders even with the AI speed and his ramp-up takes too long to reach the max. Tier B.
+### Evaluation by Wolfhaize
+Due to the capability of doing damage to multiple enemies, Pupil can be a good stand in for when you are not using a splasher but need a lot of enemies affected at once. His tracking is awful, soenemies that move relatively quickly will easily escape his attacks. However due to the nature of it, Pupil also unintentionally ignores stealth and will keep firing till his attack ends even if enemies are invisible, which can ghelp to deal with pesky bots like Phantom or Inkjet. 
 
+### Tips
+- Use with Chainer.

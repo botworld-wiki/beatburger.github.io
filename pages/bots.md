@@ -464,6 +464,6 @@ First of all, it's important to note that **Recruits don't gain AI Exp**, so you
 
 <br>
 
-**Credit \| cloud9, Echio, TsengFayt**
+**Credit \| cloud9, Echio, TsengFayt, Wolfhaize**
 
 </div>

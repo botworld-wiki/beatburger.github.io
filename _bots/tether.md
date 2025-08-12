@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2021-12-30"
+contributors: "Hex, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Tether (Special Support)"
@@ -81,13 +81,14 @@ commonMat3: "Sputtering Generator"
 ---
 
 
-### Suggested AI Build
-- **BCBBB:** Full Support
+### 'Support Build' by Wolfhaize(Recommended)
+- **BCBBB:** Uses tether as an all out support.
 
-### 'Contain and Damage' Build
-- **ACAAB:**
 
 ## Comments
+
+### Evaluation by Wolfhaize
+Just like Halo, Tether is a support bot through and through. No damage, low hp, but with the capability to detain all enemy bots on the field during his ult and weaken them, Tether can be used to pave way for some pretty devastating attacks. 
 
 ### Tips
 - Put Tether in the back

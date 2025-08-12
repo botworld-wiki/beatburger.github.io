@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Brute (Special Brawler)"
@@ -80,18 +80,18 @@ commonMat2: "Mini Sensor"
 commonMat3: "Cold Battery"
 ---
 
-### 'Full Damage Build' by Hex
-- **BBCBB:** Upon drop he spins, crits, stuns and 1 hit an enemy. Would recommend equip with crit boosters.
+### 'Full Damage Build' by Wolfhaize(Recommended)
+- **BBCBA:** Upon drop he spins, stuns and if he crits will 1 hit lower hp bots. 
 
-### 'Different Build' by Hex
-- **AACAB:** Everything that a full damage build lacks, it got speed. 
 
 ## Comments
 
-### Evaluation by Soft
-The big daddy of burst DPS. With the proper AI picks, Brute can pull out an Overclocked Spin that pumps out 13790 damage in a single hit, one-shotting over 70% of the current bots. Brute also has great crit AI if you're looking to go for a crit build, upgrading his Overclocked Spin to a bigger 27580 damage. That's somewhat overkill though, since the highest HP commonly used tank has little over 20k. Tier A+.
+### Evaluation by Wolfhaize
+With basically no speed, zero survivability, Brute is all about hitting enemies as hard as he can. AI-5B allows him to drop with his spin ready, which allows him to take out isolated ranged bots with ease after stunning them and is a must pick. However his ultimate makes him extremely vulerable to any damage despite giving him a massive boost. Shield him with Halo or the Shield ability, stun bots around him, or have a tank take the damage for him during this stage, and he will reward you massively.
+
 
 ### Tips
-Good for clearing out grouped bots, Best use when Ai is Maxed out
+Wonderful for clearing grouped bots(with the spin)
+Do not under any circumstances leave Brute against ranged bots, especially evaders, without any help. He is too slow to catch up, and tends to activate his spin a fraction of a second too early. 
 
 

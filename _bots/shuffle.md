@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "O.J, Echio"
-updatedAt: "2022-7-9"
+contributors: "O.J, Echio, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Shuffle (Epic Support)"
@@ -84,3 +84,17 @@ commonMat3: "Sparky Wires"
 ---
 
 
+### 'Survival Build' by Wolfhaize
+- **AACBA** To make Shuffle use his ultimate as often as possible while also prioritising safety(Shuffle has been noted to use more defensive abilities too).
+
+### 'Attack Build' by Wolfhaize(Recommended)
+- **ABCAA** Shuffle gets access to legendary abilities and is locked out of cheaper ones, thus making him tend to be more offensive with ability choice.
+
+## Comments
+
+### Evaluation by Wolfhaize
+Having a bot with the capacity to cast abilities for you, while also self charging its ult is a massive advantage. Not only can Shuffle access abilities you don't own, he will also tend to pick out abilities according to the situation and can get you out of very tricky scenarious. He also allows you leave out power generation boosters and have him do most if not all of the ability usage. 
+
+### Tips
+- Survival build will make Shuffle prioritise keeping the team safe and that can disrupt any sort of positioning you setup when he uses Team Translocator. 
+- If you're fighting this bot, try to kill him before he fires an ult.

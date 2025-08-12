@@ -466,6 +466,9 @@ You can find Info about Arena Masters here
 - Quarterbuck does not use, nor allow the player to use, any botpack [abilities](</abilities>). However, [boosters](</boosters>) are still effective and [Shuffle](</shuffle>) can still cast abilities with it's ultimate.
 - This battle is a 6v6 with all bots entering the battle simultaneously. Your bots are placed in the order in which they appear in your menu.
 - Prioritize bots that don't rely on botpack abilities and that are self-reliant. Watch out for Quarterbuck's [Bigshots](</bigshot>)!
+
+- Here's a preset team(plus AI paths used) that has been proven to work against Quarterbuck(with 4 rare ult cooldown boosters and a battlefield with no obstacles to block Chainer)
+- **Bots (in order from left to right):** [Lobbie](</lobbie>) - BBCBA / [Mort](</mort>) - AACAA / [Beat](</beat>) - AAACA / [Chainer](</chainer>) - BBCAB / [Bullwark](</bullwark>) - ABCAB / [Virus](</Virus>) - ABCBA <br>
 - [Any more tips we're missing?](</contribute#tbw>)
 
 
@@ -485,7 +488,7 @@ You can find Info about Arena Masters here
 
 <div markdown="1" class=" ghcms ghcms-credits">
 
-**Credit \| GlareFacer, Emph\_asis, debb, Echio, Rairan, TsengFayt**
+**Credit \| GlareFacer, Emph\_asis, debb, Echio, Rairan, TsengFayt, Wolfhaize**
 
 </div>
 

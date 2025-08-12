@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Lekoi, Groovy, Pix, Soft"
-updatedAt: "2021-12-30"
+contributors: "Lekoi, Groovy, Pix, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Chainer (Rare Tank)"
@@ -85,10 +85,12 @@ commonMat3: "Frost Fuel"
 
 ## Comments
 
-### Evaluation by Soft
-Chainer is an aggressive tank that yoinks enemies away from your bots, this also allows for the popular ""grouper"" teams with splashers that quickly sweep enemy teams. Unfortunately he's also anti-synergetic with many of the other bots, take [Brute](/brute) or [Bigshot](/bigshot) for example, pulling enemies away from them or out of their line of fire. A niche pick that deserves a high tier, recently nerfed with the botpack changes. Tier A+.
+### Evaluation by Wolfhaize
+Due to his capability to shutdown 2 bots at once, Chainer will make your life much easier. Works best when coupled with splashers on any bots that deal AOE damage or apply AOE stun(Beat ult, Brute spin, Flamer ult) etc
+Since he draws all attention on himself, Chainer is very susceptible to dying especially if AI-1A has not been selected. Works almost too perfectly when coupled with Halo for a shield and a splasher like MortPluggie at range dealing the damage to bots grouped up by Chainer.
 
 ### Tips
-- Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
-- Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
-- Charge your AOE bot’s ult and then watch the bots melt.
+- Always place Chainer last(against bandits/in arena), that way you can put him in a position to grab two select bots(he will always target the furthest two)
+
+
+

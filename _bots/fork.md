@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2022-07-09"
+contributors: "Kurt, BloodxReaper, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Fork (Epic Chaser)"
 name: "Fork"
-description: "Half a Chaser, half an Evader. Very good at picking out ranged DPS bots that would otherwise stay safe far from the fight. Has a good kit to survive and stand its ground against most bots.\n- Speciality: Poison on hit, Teleport+Stun ult\n- Note: damage on entrance handy to finish injured bots\n- Combos: Hypercharge, Ult CD boosters"
+description: "Half a Chaser, half an Evader. Very good at picking out ranged DPS bots that would otherwise stay safe far from the fight. Has a good kit to survive and stand its ground against most bots.\n- Speciality: Poison on hit, Teleport+Stun ult\n- Combos: Hypercharge, Ult CD boosters"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885548328291557386/fork.png"
 breadcrumbs:
   Bots: "/bots"
@@ -89,5 +89,5 @@ commonMat3: "Sparky Wires"
 ## Comments
 
 ### Evaluation by Soft
-Recently buffed, Fork fills a niche role where he is currently the best poison-based attacker in Botworld. Good damage, great evasiveness and a fantastic CC ultimate. His poison also bypasses shields like Barrie's barrier, but he has trouble finishing bots off before moving onto an unfortunately bulkier target, allowing his previous target to nuke Fork down from behind. Tier B+.
+Fork fills a niche role where he is currently the best poison-based attacker in Botworld. Good damage, great evasiveness and a fantastic ultimate. Poison also bypasses shields and ignores resistance, but he has trouble finishing bots off before moving onto a different target, allowing his previous target the chance to survive. With a fast charging ult, Fork can however become a very difficult bot to deal with due to the constant teleports and targeting of faraway enemies with an added dodge chance boost to himself and allies.
 

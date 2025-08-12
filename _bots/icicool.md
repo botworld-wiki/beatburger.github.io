@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, BloodxReaper, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Icicool (Common Evader)"
 name: "Icicool"
-description: "It's Ult can be either AoE when Icicool is far from the fight, or one of the most terrifying source of damage if the enemy is close enough to take all the icicles.  \n- Speciality: Slows from afar and kills up-close\n- Counters: will lose most 1v1 vs any bot at range\n- Notes: S+ tier meme potential"
+description: "It's Ult can be either AoE when Icicool is far from the fight, or a source of damage if the enemy is close enough to take all the icicles.  \n- Speciality: Slows from afar and kills up-close\n- Counters: will lose most 1v1 vs any bot at range\n- Notes: meme potential"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885547414713425970/icicool.png"
 breadcrumbs:
   Bots: "/bots"
@@ -91,6 +91,8 @@ commonMat3: "Cold Battery"
 
 ## Comments
 
-### Evaluation by Soft
-The Tachanka of Botworld, Icicool is ""the meme"" of the botmaster community. On paper, his ability should deal around ~3k damage, if only his spread wasn't three times as worse as [Scatters](/scatter) autoattack. And even if they did all hit, it's still not that amazing of a burst. This doesn't stop people from trying to make him work, though. Tier D.
+### Evaluation by Wolfhaize
+Ranged slowness isn't a very desirable effect in a battle, unless when the entire setup has been built around that. Due to low damage, wide spread and the low stun chance on its ultimate, Icicool ends up being of little help to the rest of the team. 
 
+### Tips
+Icicool enables some very unorthodox but effective tactics. When in a team with Rocketeer(knockback), Bouncer(slowness), they can completely lockdown slow melee bots and many that have no way to close distance.

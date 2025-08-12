@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex"
-updatedAt: "2022-7-9"
+contributors: "Hex, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Phantom (Epic Chaser)"
@@ -83,5 +83,17 @@ commonMat2: "Hardened Fiberglass"
 commonMat3: "Clear Oil"
 ---
 
-### 'Recommended Build' by /ΛVΛ\ ♛ RΛҎŤΩЯ ♛
-- **BCAAB:** Damage + survivability (also u can use AI 1 A for stun lock,it will work great.
+### 'Attack Build' by Wolfhaize
+- **BCBBB** Focuses on more damage, less on survival.
+
+### 'Survival Build' by Wolfhaize
+- **ACAAA** Prioritises safety over anything else.
+
+### 'Chaser Build' by Wolfhaize(Recommended)
+- **ACBAB** Makes use of Phantom's stealth and makes him a more effective Chaser.
+
+## Comments
+
+### Evaluation by Wolfhaize
+With high damage, dps and a defensive ability coupled with a self boosting ult, Phantom is arguably the highest tier of the traditional Chasers(Slash, Slicer, Fork). While not having innate access to critical attacks like Ram, Slash and Slicer, Phantom deals enough damage to be on par with them, while also using stealth to survive better than they would, deal massive damage, and apply the highest stun in the game(with AI-1A). 
+

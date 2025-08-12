@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "QC, OJ, Echio"
-updatedAt: "2022-06-20"
+contributors: "QC, OJ, Echio, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Link (Epic Tank)"
@@ -83,4 +83,14 @@ commonMat2: "Rusty Cog"
 commonMat3: "Hardened Fiberglass"
 ---
 
+### 'Tank Build' by Wolfhaize(Recommended)
+- **BBCAA** Link has more HP and survives better as an independent bot.
+
+### 'Support Build' by Wolfhaize
+- **BACAA** Link focuses more on supporting the linked bot, taking more damage onto himself.
+
+## Comments
+
+### Evaluation by Wolfhaize
+Imagine Halo, but the kind that moves with your melee bots. That's Link. While not being as adept at shielding, Link is a tank that transfers a portion of damage dealt to the closest ally to himself, which can be very useful at keeping bots like Virus alive long enough to get their ult off. The 'Tank Build' AI tree gives him the hp and survivability to back this up, since instrad of simply blocking the damage, Link is taking a hit to his own hp most of the time.  
 

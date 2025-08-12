@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Echio"
-updatedAt: "2021-12-30"
+contributors: "Echio, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "InkJet (Epic Evader)"
@@ -83,8 +83,14 @@ commonMat2: "Hardened Fiberglass"
 commonMat3: "Frost Fuel"
 ---
 
-### Suggested AI Build: 
-- **BACBA**
+### 'Evader Build' by Wolfhaize
+- **BBCBA** Makes Inkjet very difficult to catch up to.
+
+### 'Damage Build' by Wolfhaize: 
+- **BACAA** Inkjet provides more damage and weakens enemies more.
+
+### 'Hybrid Build' by Wolfhaize(Recommended) 
+- **BBCAA** The best of both worlds.
 
 ## Comments:
 

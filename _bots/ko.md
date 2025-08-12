@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "K.O. (Rare Brawler)"
@@ -81,15 +81,21 @@ commonMat3: "Hardened Fiberglass"
 ---
 
 
-### Suggested AI Build
-- **ABCAB:**
+### 'Attack Build' by Wolfhaize
+- **AACAA:** Focuses solely on getting the most damage, as fast as possible.
+
+### 'Survival Build' by Wolfhaize
+- **BBCBB** Focuses more on keeping KO alive long enough tor each his damage potential.
+
+### 'Hybrid Build' by Wolfhaize(Recommended) 
+- **ABCBB** KO does more damage as well as having tools for survival available.
 
 ## Comments
 
-### Evaluation by Soft
-KO has some of the best potential for a bot in the game, but needs a lot to reach it. It takes him 16 seconds to fully charge himself up to having 4088 damage per auto attack, which is a crazy amount. Unfortunately, his HP is on the low end for a brawler and most of the time doesn't live long enough to reach his third stack. He needs a full stall team and abilities to help him out. Tier B.
+### Evaluation by Wolfhaize
+KO has very good damage potential for a bot in the game, but needs a lot of time to reach it. It takes him 3 ultimates to fully charge himself up to full damage, and due to his very aggressive anture, he tends to die before he can reach that stage. Also struggles due to having nothing besides running at enemies and punching them in the face, hence the 'Hybrid Build' AI tree that gives him stun on AI4, allowing him to incapacitate enemies close by, protecting himself and letting him do damage uninterrupted.
 
 ### Tips
-- Greatest Obstacle when fighting K.O. is ....
-- DON'T let it stack or it will change the tide of your battle.
+- Absolutely struggles against Frosty.
+- Hypercharge and cooldown boosters are your best friend with KO.
 

@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, Soft, O.J"
-updatedAt: "2022-07-09"
+contributors: "Kurt, Soft, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Virus (Epic Brawler)"
@@ -83,8 +83,12 @@ commonMat2: "Rusty Cog"
 commonMat3: "Cold Battery"
 ---
 
-### Suggested AI Build
-- **ABCBA:**
+### 'Hack Build' by Wolfhaize(Recommended)
+- **ABCBA:** Prioritises keeping Virus alive long enough to hack and get the most out of it.
+
+### 'Chaser Build' by Wolfhaize
+- **BBCAA:** Virus is a lot faster and will relentlessly chase down enemies.
+
 
 ## Comments
 

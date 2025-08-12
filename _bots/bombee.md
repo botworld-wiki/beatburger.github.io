@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Kurt, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Kurt, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Bombee (Special Splasher)"
@@ -91,12 +91,10 @@ commonMat3: "Rusty Cog"
 
 ## Comments
 
-### Evaluation by Soft
-Formerly an A+ tier bot, it was possible to ignore his own Self-Destruct damage with a well-timed [Shield](/Shield) ability, but since that nerf Bombee has had trouble finding a place in most teams. He can be countered quite easily by stalling his ultimate with plenty of abilities or simply killing him before it goes off. His win condition is killing himself to trade with another bot, which is pretty poor.
- Tier B-.
+### Evaluation by Wolfhaize
+Considering Bombee's ultimate always ends in his death, this is a difficult bot to recommend because it drains too much of your canister. However it becomes more viable in the arena or if you really want the damage it provides over managing your canister. T
 
 ### Tips
-Great for farming Ai Xp, only used in grouped wild bots. 
-It is also a great if combo with flamer and bombee. 
-Bombee pushes enemy which also a great 1-time use tank.
+Try to have multiple enemies around Bombee, just so you know you're getting the most out of its death. 
+Chainer is recommended for its grouping and stunning capabilities.
 

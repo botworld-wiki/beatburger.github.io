@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Diamond, Soft"
-updatedAt: "2021-12-30"
+contributors: "Diamond, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Berserker (Special Tank)"
@@ -88,10 +88,10 @@ commonMat3: "Mini Sensor"
 
 ## Comments
 
-### Evaluation by Soft
-Not to be underestimated, Berserker could be considered a mix between [Chainer](/Chainer)/[Yanky](/Yanky) and [Bullwark](/Bullwark). He's very tanky, has a big burst and charges into enemy bots to tank them away from your squishy bots. He also has the fastest movement speed out of all the tanks and highest aDPS, making him a great all-around tank that fits in a lot of team compositions. Tier B+.
+### Evaluation by Wolfhaize
+Berserker is what you'd get if you tried to mix a tank with a chaser. Decent hp, stun, but also a charge that closes down distance against fleeing enemies. Although its this same lack of leaning into one role that makes him struggle to be as good as any chaser or tank. Not quite enough survivability for a tank, and not enough damage for a chaser either. 
 
 ### Tips
-Do not underestimate Berserker, he is very tanky and fast.
+A fast, tanky bot recommended for shutting down ranged enemies if you don't have a chaser.
 
 

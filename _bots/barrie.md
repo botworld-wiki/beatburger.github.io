@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Barrie (Common Tank)"
 name: "Barrie"
-description: "A sturdy tank that doesn't rely on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right.\n- Speciality: can take a real beating\n- Note: the Ult's short duration makes it hard to rely upon it\n"
+description: "A sturdy tank that doesn't rely on gimmicks, it just has a huge HP pool. Some tricks still, reflecting damages back to the attacker or healing from it can turn the tides of a battle if timed right.\n- Speciality: can take a real beating, very good for stall strategies allowing ranged damage dealers to finish off bots\n-"
 imageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885545579126603857/barrie.png"
 breadcrumbs:
   Bots: "/bots"
@@ -81,13 +81,13 @@ commonMat3: "Thick Tube"
 ---
 
 ### 'Tank Build' by Hex
-- **AAAAC:** Most recommended Tank Build.
+- **AAAAC:** Most recommended and best Tank Build.
 
-### 'Speed Build' by Hex
-- **BAAAC:** A bit fast Barrie.
 
 ## Comments
 
-### Evaluation by Soft
-Don't be fooled by the raw HP. Barrie has as much survivability as [Bullwark](/Bullwark), period. The difference is that [Bullwark](/Bullwark) has faster movement speed, higher damage, reflects damage, and a ridiculously wide area stun with massive damage. Barrie is horribly outclassed by the rest of the tanks and he only serves to be a slowly walking barrel that the enemy team ignores most of the time until the rest of Barrie's team is dead. Tier D.                     
+### Evaluation by Wolfhaize
+Barrie's biggest strength(and one you should always play to) is his hp. With ai upgrades, he gets the highest amount in the game, and when coupled with the healing capabilities of his shield, becomes a very difficult bot to get rid of. Whereas he won't die that easily, he's very slow and also does little to no damage. Recommended to be used to stall enemies and keep them focused on him while letting your other bots do the damage. 
 
+### Tips
+Most recomended combo is Halo next to Barrie and a splasher/sniper doing damage at range.

@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft, O.J"
-updatedAt: "2022-07-07"
+contributors: "Hex, Soft, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Thump (Rare Tank)"
@@ -84,14 +84,17 @@ commonMat3: "Frost Fuel"
 ---
 
 
-### Suggested AI Build
-- **AACAB:**
+### 'Tank Build' by Wolfhaize(Recommended)
+- **BBCBB:** Prioritises the options that increase Thump's survivability a lot more.
+
+### 'Attack Build' by Wolfhaize
+- **AACAA:** Thump does more damage and is more aggresiive, casting his ult a lot quicker and over a larger area.
+
 
 ## Comments
 
-### Evaluation by Soft
-The bot that stole your lunch money, Thump is the best harasser in the game. He sticks to your squishy bots like crazy, and throws a long-lasting stun tantrum when you try to push him off. Handsdown the best CC bot there is, with respectable damage for a tank as well. Tier B+.
+### Evaluation by Wolfhaize
+With a ton of hp, speed, stun, and a leap that closes distance, Thump comes out as one of the most offensive tanks in the game. With an aoe stun, he will give any type of bots a hard time, while still being able to shrug off any of the shots fired at him. A solid tank option, and a good pick for recruits.
 
-### Tips
-- He protects he attacks
+
 

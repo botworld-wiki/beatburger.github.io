@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Yanky (Common Brawler)"
@@ -86,8 +86,11 @@ commonMat3: "Double Cog"
 ### 'Tanky Brawler' by Hex
 - **ABBCB:** Reduce physical and energy damage taken by 30% each. Last longer in battle.
 
+### 'Hybrid Build' by Wolfhaize(Recommended)
+- **ABBCA:** Foregoes more health(since both damage reduction options have been picked) and gives Yanky more damage for a more well rounded output.
+
 ## Comments
 
-### Evaluation by Soft
-Basically a [Chainer](/chainer) prototype v1.0. Just don't use him. People have tried using him with [Chainer](/chainer), but the damage of your team is just too low. Don't use Yanky. I repeat. Don't use Yanky. Tier F.
+### Evaluation by Wolfhaize
+Another bot whose value is underrated due to it being of Common rarity, Yanky is one of those hidden gems that does its job brilliantly. Having both energy and physical damage reduction, paired with a ridiculously long stun makes it a capable bot in shutting down pesky evaders that other melee bots might struggle with. A versatile bot that can handle itself against almost any sort of enemy.
 

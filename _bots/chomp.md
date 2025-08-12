@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Groovy, Soft, BloodxReaper"
-updatedAt: "2021-12-30"
+contributors: "Groovy, Soft, BloodxReaper, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Chomp (Common Sniper)"
@@ -80,11 +80,17 @@ commonMat2: "Clear Oil"
 commonMat3: "Frost Fuel"
 ---
 
-### 'Arena Build' by Soft
-- **AACAA:** AI4 is the most important choice.
+### 'Damage Build' by Wolfhaize
+- **AACAA:** Lots of damage, very quickly.
+
+### 'Survival Build' by Wolfhaize
+- **BBCBB:** Focuses a lot more on Chomp's survival rather than his damage.
+
+### 'Hybrid Build' by Wolfhaize(Recommended)
+- **AACBA:** Lots of damage, and CHomp has the capability to heal during his ultimate.
 
 ## Comments
 
-### Evaluation by Soft
-Although cute too, Chomp simply gets outclassed by the other snipers. Chomp has no disgengage or safety and his autoattack damage is lackluster. Something could be said for the lifesteal on his AI4, but it's really negligible. The only thing he has going for him is his Nuclear Cylinders that can reach up to 8272 damage, which is pretty insane for a common bot. Tier B.
+### Evaluation by Wolfhaize
+Often disregarded due to being a common bot, in reality Chomp is a bot that doesn't fall too far behind his sniper counterparts. With a fast charging ultimate, healing capabilities and critical chance, Chomp can rack up damage numbers pretty quickly while also converting that damage into precious hp. Due to the nature of his attacks however, he will miss his shots if an opponent moves and his ultimate can get interrupted if he gets stunned midway through. Gets a lot of points for being the goodest boy. 
 
