@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Diamond, Kurt, Soft"
-updatedAt: "2021-12-30"
+contributors: "Diamond, Kurt, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Scatter (Special Brawler)"
@@ -90,8 +90,12 @@ commonMat3: "Frost Fuel"
 ### 'Hybrid Build' by Hex
 - **AACBX:**  You can decide for yourself at Ai5, if you want scatter to have high health or low mvspeed but high damage.
 
+
 ## Comments
 
-### Evaluation by Soft
-Absolutely terrible, Scatter gets horribly outclassed as an anti-melee bot by [Brute](/brute), [Ram](/ram) and even [Frosty](/frosty). Even at point-blank it's difficult to hit all his pellets and he's the only bot that gets a negative benefiit from having ranged attacks. It's way too far away to the point that sometimes no pellets hit at all, making him completely useless against ranged enemy bots. Tier C.
+### Evaluation by Wolfhaize
+Another Brawler like Brute and Nibbles that needs hrlp bringing enemies close by in order to deal full damage. Having the longest stun in the game(AI-2B required) can make him a very frustrating bot to fight against. Whereas his shots spread, it also means they travel across the entire field and will hit bots that should have no business getting hit. 
+
+### Tips
+- Couple with Halo shielding and Gust to bring enemies closer. 
 

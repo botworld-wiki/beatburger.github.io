@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Anonymous"
-updatedAt: "2024-04-17"
+contributors: "Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Meteor (Legendary Tank)"
@@ -82,10 +82,24 @@ commonMat2: "Thick Tube"
 commonMat3: "Double Cog"
 ---
 
+### 'Tank Build' by Wolfhaize(Recommended)
+- **BCBBB** Meteor quickly becomes incredibly difficult to kill.
+
+
+### 'Attack Build' by Wolfhaize
+- **ACAAA** Meteor has less surivavibility but is a lot more aggressive and relentless.
+
 
 ## Comments
-To unlock the legendary botframe for Meteor, you must collect 50 Star Fragments and 10 Cosmic Cores, then turn them in to Copurrnicus (located in southwest Fall Grove - Southern Slopes near the entrance to Spore Wood). Star Fragments can be obtained in the following ways:
-- Reward on Season Pass (during Season of the Stars only), Arena, and for defeating QuarterBuck
+To unlock the legendary botframe for Meteor, you must collect 50 Star Fragments and 10 Cosmic Cores, then turn them in to Copurrnicus (located in southwest Fall Grove - Southern Slopes near the entrance to Fall Grove). Star Fragments can be obtained in the following ways:
+- Arena Rewards, defeating QuarterBuck(last arena master), and as a guild event reward(Faerie Hunt).
 - Found as detected scrap in heroic Danger Zones or randomly in normal zones (very low drop rate)
 
 Once 50 Star Fragments are collected, talk to Copurrnicus (optional), and they will request 10 Cosmic Cores, which are obtained from defeating any Mega bot (100% drop rate) located in Botworld.
+
+### Evaluation by Wolfhaize
+100% the best tank in the game. Meteor's second ability allows him to stack up to 80% damage reduction from all sources, which immediately puts him a tier above all his counterparts. With an ult that closes distance and traps bots, while also offering the option to charge ally ultimates in his crater, Meteor opens up a ton of opportunities for team ups. 
+
+### Tips
+- Works perfect with Chainer and Beat for a ridiculous setup.
+- Pick Meteor as your first legendary.

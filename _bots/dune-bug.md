@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, O.J., Soft, BloodxReaper"
-updatedAt: "2022-07-09"
+contributors: "Hex, O.J., Soft, BloodxReaper, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Dune Bug (Special Evader)"

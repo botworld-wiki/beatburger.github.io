@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Kart, QC, O.J"
-updatedAt: "2022-7-9"
+contributors: "Hex, Kart, QC, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Bullseye (Epic Sniper)"
 name: "Bullseye"
-description: "If Pupil is a high risk high reward bot, then Bullseye further exceeds the definition. Can do more than just harming enemy bots, Bullseye is capable of shredding anything including tankers.\n- Pros: High speed, high damage, long range\n- Cons: High minimum range, Barrage usually misses\n- The bot can be vulnerable sometimes"
+description: "If Pupil is a high risk high reward bot, then Bullseye further exceeds the definition. Can do more than just harming enemy bots, Bullseye is capable of shredding anything including tanks.\n- Pros: High speed, high damage, long range\n- Cons: High minimum range, Barrage usually misses\n- The bot can be vulnerable sometimes"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/957875194784014386/bullseye.png"
 breadcrumbs:
   Bots: "/bots"
@@ -84,4 +84,19 @@ commonMat3: "Sputtering Generator"
 ---
 
 
-### 'Recommended Build' by
+### 'Full Damage Build' by Wolfhaize(Recommended)
+- **AACAA:** Will kill anything really quickly if left uninterrupted.
+
+### 'Surival Build' by Wolfhaize
+- **BBCBB:** Prioritises Bullseye's safety over his damage dealing capability.
+
+## Comments
+
+### Evaluation by Wolfhaize
+In exchange for the crazy amount of damage he does, Bullseye has terrible accuracy despite his name. He will miss quite a few shots, so it is recommended you group bots together so any that fall aside still hit something. His Corrupt ability makes him extremely dangerous, applying up to 60% vulnerability to his targets and making them much easier to kill. 
+
+
+### Tips
+Bullseye needs a lot of space. Due to having a minimum range of 5, he will run away from enemies that visually seem to be nowhere near him, at times running straight rhough other enemies and getting killed in the process. Deploy him far away, and keep enemies as far away as possible. 
+
+

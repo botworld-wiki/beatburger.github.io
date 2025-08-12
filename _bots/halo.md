@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "MrGold and Diamond, the 2 shiniest out there that gives us light in our darkest moment, O.J"
-updatedAt: "2021-12-30"
+contributors: "MrGold and Diamond, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Halo (Rare Support)"
 name: "Halo"
-description: "Not to be confused with Halo Franchise. An average ranged supporter outshined by Beat because there is not many situations where Halo does great, at least it has done its job well.\n- Feature: Is a good dps dealer/nuker booster\n- Shield Bubble can provide extra survivability on ally\n- Drawback: Somewhat low on health, may die quickly"
+description: "Not to be confused with Halo Franchise. Does his job well when used with the right allies.\n- Feature: Is a good dps dealer/nuker booster\n- Shield Bubble can provide extra survivability on ally\n- Drawback: Somewhat low on health, may die quickly"
 imageUrl: "https://media.discordapp.net/attachments/873396923137142855/902076651876253706/Halo.png"
 breadcrumbs:
   Bots: "/bots"
@@ -28,10 +28,10 @@ ability1Name: "Pop"
 ability1Info: "Range: 9 , Attack Speed: 0.75s , Physical Damage: 100%"
 ability1Description: "A weak attack range"
 ability2Name: "Shield Bubble"
-ability2Info: "Range: 15, Cooldown: 4s, Block Damage: 100%, Duration: 2.5s"
+ability2Info: "Range: 15, Cooldown: 4s, Block Damage: 100%, Duration: 4s"
 ability2Description: "Fires a bubble that shields an ally for a few seconds"
 ability3Name: "Boost Bubble"
-ability3Info: "Range: 15, Coodown: 10s, Damage: +100%, Duration: 3.5s"
+ability3Info: "Range: 15, Coodown: 10s, Damage: +100%, Duration: 5s"
 ability3Description: "Fires a bubble that gives an ally more damage for a few seconds"
 
 
@@ -84,12 +84,18 @@ commonMat3: "Sparky Wires"
 ---
 
 ### 'Boost Bubble' Build
-- **BACBB:** 
+- **BACBB:** Focuses more on increased damage boost.
 
-### 'Shield Bubble Build'
-- **AACBA:** 
+### 'Shield Bubble Build'(Recommended)
+- **AACBA:** Focuses more on shielding allies.
 
 ## Comments
 
+### Evaluation by Wolfhaize
+One of the most underrated bots in the game due to low hp and damage, yet arguably plays the best support role in the game - shielding. Aside from poison, a shielded bot will NOT take damage from any source, amking Halo a perfect team player when it comes to safer playstyles or danger zone runs where yoiu need to keep an eye on your precious canister. With the 'Shield Bubble Build', if Halo is placed at an optimal distance(not too far or close) or interrupted by stuns/enemies, Halo will shield an ally 99% of the time. This allows you to have that ally as the sole focus of enemies, but safeguarding them from the massive amounts of damage being taken. 
+
+
 ### Tips
-- Do not let Halo get hacked
+- Use Halo to shield slow tanks and brawlers for best outcome. Any fast bots(Chasers) or those that jump(Thump, Meteor), will lead to him missing his shield and ruining the strategy.
+- Halo shielding Chaainer will carry you through almost any battle if that positioning doesn't get interrupted. 
+- Note: Shields are useless against poison. 

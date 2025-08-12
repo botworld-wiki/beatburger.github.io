@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2022-07-09"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Nozzle (Epic Tank)"
@@ -84,11 +84,15 @@ commonMat3: "Sputtering Generator"
 ---
 
 
-### Suggested AI Build
-- **AACBA:**
+### 'Tank Build' by Wolfhaize(Recommended)
+- **ABCAA:** Nozzle is the kind of bot that does a very specific job. This is the required AI for it.
 
 ## Comments
 
 ### Evaluation by Soft
-The least traditional tank out of the high-tier trio, Nozzle has the best survivability out of any bot in the game. Both fortunately and unfortunately, his kit is entirely ranged. This means that he doesn't take aggro off enemy bots by chasing them off his team, but also means that he can consistently deal damage and stun enemies with his ranged ability. He needs help from [Gust](/gust) or similar to steer enemies into him. Tier A-.
+The least traditional tank out of the high-tier trio, Nozzle has the best survivability out of any bot in the game. Both fortunately and unfortunately, his kit is entirely ranged. This means that he doesn't take aggro off enemy bots by chasing them off his team, but also means that he can consistently deal damage and stun enemies with his ranged ability. He needs help from [Gust](/gust) or similar to steer enemies into him..
+
+## Tips
+- Coupled with Halo shielding him, Nozzle is very useful for handling evaders since he doesn't come close enough for them to run away.
+- Poison bypasses everything. Not even Nozzle's hiding will help for that.
 

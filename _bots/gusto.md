@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Groovy"
-updatedAt: "2021-12-30"
+contributors: "Groovy, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Gusto (Epic Support)"
@@ -80,12 +80,15 @@ commonMat2: "Double Cog"
 commonMat3: "Mini Sensor"
 ---
 
-### Suggested AI Build
-- **ABAAC:**
+### 'Support Build' by Wolfhaize
+- **ABAAC:**Brings out Gusto's best supportive capabilities.
 
 ## Comments
 
+### Evaluation by Wolfhaize
+Gusto's idea of support is to make the battle as frustrating as possible to the enemy. Constant stun, knockback, vulnerability and an ult that's nearly read the start of the battle make him a very annoying bot to deal with. Best coupled with tanks and brawlers, helping solve their mobility issues and while stunning enemies for them and making them more vulnerable to damage.
+
+
 ### Tips
-- Don't put Snipers or Splashers near Gusto or Gusto will throw them at the enemy.
-- Put Brawlers near Gusto, so that Gusto can launch them at the enemy.
+- Gusto will prioritise allies to toss in this order: Tanks-Brawlers-Chasers-Evaders-Splashers-Support-Snipers. Keep in mind however, that range comes first. If a Tank is out of range and a Support is closer, Gusto will gladly throw the Support.
 

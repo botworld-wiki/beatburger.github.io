@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Arios, MayoTunaOrange"
-updatedAt: "2023-09-12"
+contributors: "Arios, MayoTunaOrange, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Drill (Epic Chaser)"
@@ -83,5 +83,13 @@ commonMat2: "Rusty Cog"
 commonMat3: "Mini Sensor"
 ---
 
+### 'Arena Build' by Wolfhaize
+- **AACBB:** Makes Drill an absolute menace to fight against. 
+
 ## Comments
+
+### Evaluation by Wolfhaize
+Along with Ram, Drill falls into the unofficial Chaser sub-category as a Disruptor. This is a job that he perfects - surviving, stunning enemies, targeting ranged bots and disrupting any sort of enemy positioning(which is crucial in arena.) A 100% independent bot that will not work with any others, but will also make it impossibly difficult for the enemy to gain any stability in the battle. With the given AI tree, due to being underground most of the time, Drill becomes a very good bot for clutching scenarios where you're basically bound to lose. 
+
+
 

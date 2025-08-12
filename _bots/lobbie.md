@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Diamond, Gold, Soft"
-updatedAt: "2022-07-09"
+contributors: "Diamond, Gold, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Lobbie (Common Splasher)"
@@ -86,14 +86,12 @@ commonMat3: "Mini Sensor"
 ### 'Full Damage Build by' Diamond and Gold
 - **BACAA:** Full Damage Build.
 
-### 'Combo Build' by Hex
-- **BACBA:** Combo Build with Froggy (or poison missile). Stick them together with Froggy. With lobbie's Ult plus Froggy's Ult you can create a poison pit.
 
-### 'Hybrid Build' by Hex
-- **BBCBB:** A different build for Lobbie with 2 botpack power.
+### 'Utility Build' by Wolfhaize
+- **AACBB** For when Lobbie is coupled with a splasher or any sort of aoe damage.
 
 ## Comments
 
-### Evaluation by Soft
-Good in the early game for groupers that don't have better splashers like [Mort](/mort), Lobbie has extremely low HP and no disengage or safety at all. He needs to be babysat by [Chainer](/chainer) or other tanks and even then he turns out to be outclassed by other bots, even most snipers. His vortex is the only thing he has going for him, but Beat does a better job at amplifying your team. Tier C.
+### Evaluation by Wolfhaize
+Despite being a very good bot for the early game due to his Vortex ability, Lobbie's lower damage gets him outclassed by all other splashers and takes him off the lsit if damage is your requirement. However, Lobbie also provides amazing utility with his ultimate, helping to group bots up and stun them or weaken them, paving way for another alternative bot/botpack ability to do the real damage. 
 

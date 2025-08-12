@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft, caique concê"
-updatedAt: "2021-01-15"
+contributors: "Hex, Soft, caique concê, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Longshot (Special Sniper)"
@@ -81,8 +81,8 @@ commonMat3: "Double Cog"
 ---
 
 
-### 'Full Damage Build' by Hex
-- **BAACB:** Medium range sniper, can cause crits and have high damage. Full Damage Build. Recommended Build.
+### 'Full Damage Build' by Hex(Recommended)
+- **BAACB:** Medium range sniper, can cause crits and have high damage. Full Damage Build.
 
 ### 'Sniper Build' by Hex
 - **AABCB:** Long range Sniper with moderate damage. If it finishes an enemy, it recharges railgun by 35%.

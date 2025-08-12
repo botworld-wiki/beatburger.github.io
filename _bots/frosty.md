@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, Soft, BloodxReaper, Letplz"
-updatedAt: "2022-07-09"
+contributors: "Kurt, Soft, BloodxReaper, Letplz, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Frosty (Rare Evader)"
@@ -83,11 +83,16 @@ commonMat2: "Cold Battery"
 commonMat3: "Sputtering Generator"
 ---
 
-### 'Arena Build' by Soft
-- **BCBAB:**
+### 'Survival Build' by Wolfhaize
+- **BCABB:**
+
+### 'Support Build' by Wolfhaize
+- **BCBAA:**
 
 ## Comments
 
-### Evaluation by Soft
-Flamer and Hornet's brother that hangs out with Thump the bully too much, Frosty's damage is absolutely terrible but makes up for it by having the best kiting in the game. Especially now with the botpack generation nerf, it's harder to counter Frosty when he's keeping an enemy melee bot permanently slowed. Unfortunately though, there's better melee counters like Brute. Tier C.
+### Evaluation by Wolfhaize
+Arguably one of the best bots in the game at doing its job. Evading. With slowness, constant movement, stun, teleports, Frosty becomes a very difficult bot for most melee enemies to deal with if they have no way to close distance. Energy resistance also makes him less susceptible to a lot of ranged high damage dealers. Due to this specialty, Frosty can be used as a 'pseudo-tank' to distract and survive long enough for your other bots to deal the damage required. The Support Build also adds vulnerability to any bots Frosty stuns, making them much easier to kill.
 
+### Tips
+- Use against melee bots.  

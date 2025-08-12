@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Soft , Letplz, OJ"
-updatedAt: "2022-07-09"
+contributors: "Soft , Letplz, OJ, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Pluggie (Rare Splasher)"
@@ -83,11 +83,19 @@ commonMat2: "Mini Sensor"
 commonMat3: "Clear Oil"
 ---
 
-### Suggested AI Build
-- **ACBBA:**
+### 'Survival Build' by Wolfhaize
+- **BCBBB:** Gives Pluggie several more surival options and safeguards.
+
+### 'Attack Build' by Wolfhaize
+- **ACAAA:** Pluggie foregoes survivability to deal more damage.
+
+### 'Hybrid Build 1' by Wolfhaize(Recommended)
+- **ACBBA:** Pluggie does good damage but also survives better.
+
+
 
 ## Comments
 
 ### Evaluation by Soft
-Unlike other Splashers, Pluggie doesn't have splash damage, but rather damage that bounces with a max range of 4 between 4 enemies. This almost always guarantees hitting at least two, if not three bots with extremely good damage ontop of that, and he also has a baseline bouncing stun with big damage that drains ultimate charge. Tier A+.
+Unlike other Splashers, Pluggie doesn't have splash damage, but rather damage that bounces with a max range of 4 between 4 enemies. This almost always guarantees hitting at least two, if not three bots with extremely good damage ontop of that, and he also has a baseline bouncing stun with big damage that drains ultimate charge. 
 

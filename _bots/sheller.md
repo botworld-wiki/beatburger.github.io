@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "O.J, Pix, Gold, caique concê"
-updatedAt: "2022-01-06"
+contributors: "O.J, Pix, Gold, caique concê, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Sheller (Epic Splasher)"
 name: "Sheller"
-description: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  \n- Speciality: lays down Mines\n- Note: still untested!\n- Acquisition: Snail Season 30 reward"
+description: "An new mechanic that'll be sure to make for some interesting situations on the battlefied. Has some attractive CC potential with stun, but feels like it'll suffer from getting harassed just like Mort  \n- Speciality: lays down Mines\n- Acquisition: Snail Season 30 reward"
 imageUrl: "/assets/img/bots/sheller.png"
 breadcrumbs:
   Bots: "/bots"
@@ -80,9 +80,18 @@ commonMat2: "Sparky Wires"
 commonMat3: "Frost Fuel"
 ---
 
-### New Bot
+### 'Damage Build' by Wolfhaize
+- **AAACA** All out damage.
 
-Just revealed 2021-12-25.
+### 'Survival Build' by Wolfhaize
+- **BBBCB** Focuses on providing defensive tools for better survivability.
 
-Demo clips on the [official FW twitter](https://twitter.com/BotworldGame/status/1474726625262510080)
+## Comments
+
+### Evaluation by Wolfhaize
+Sheller gets to be one of the highest damage dealers in the game, in exchange for everything coming down to randomness. Sheller will randomly chuck mines all over the battlefield and also knockback any enemies that try to approach him. This makes him a really difficult bot for melee enemies to deal with, hampering movement, disrupting positioning and dealing massive damage in the process.  
+
+### Tips
+Use Gust/Gale to constantly push enemies into any mines Sheller has dropped.
+
 

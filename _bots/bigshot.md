@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Kurt, BloodxReaper, Soft"
-updatedAt: "2022-01-02"
+contributors: "Kurt, BloodxReaper, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Bigshot (Epic Sniper)"
@@ -80,17 +80,20 @@ commonMat2: "Rusty Cog"
 commonMat3: "Thick Tube"
 ---
 
-### 'Arena Build' by Soft
-- **ACABA:** 
+### 'Arena Build' by Wolfhaize
+- **ACABB:** 
+
+### 'Exploration Build' by Wolfhaize(Recommended)
+- **ACAAB:** 
 
 ## Comments
 
-### Evaluation by Soft
-The big mommy of ranged burst DPS, Bigshot definitely deserves S tier in the lower levels of the game. As the game progresses though, bandits and PvPers alike will have abilities like [Freeze](/Freeze), and Bigshot is a high priority target for the enemy AI with those CC abilities. Since he needs four seconds to charge for every shot, it's doubtful you'll get two shots off before the game ends. Very easily counterable. Tier A.
+### Evaluation by Wolfhaize
+Bigshot, as the name suggests, is a sniper that simply exists to deal massive amounts of damage. In exchange for this, he is ridiculously easy to counter because any stuns will force him to reset and take aim once more. If you want to get the best out of this bot, all other bots have to be selected to support Bigshot. Tanks for protection, Stun Resistance for the constant targeting from stunning abilities or the Vanish ability to keep him hidden so he can fire safely. Hypercharge or Ultimate Cooldown abilities to speed up his firing delay.
 
 
 ### Tips
-- Equip 2x Epic stun resistance boosters when you use bigshot
+- Always pick AI3-A, this locks Bigshot's attacks to the max amount of damage capable rather than using a value within the range the game shows.
 
 ### Funfact
 - Bigshot was originally a Rare bot back in Early access and got changed into an Epic later on

@@ -1,12 +1,12 @@
 ---
 layout: bot
-contributors: "Hex, Soft, BloodxReaper, O.J"
-updatedAt: "2022-07-07"
+contributors: "Hex, Soft, BloodxReaper, O.J, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Froggy (Rare Evader)"
 name: "Froggy"
-description: "Inside the body of a frog, surprisingly Froggy doesn't usually hop, mostly just waddles. The middle of the road bot, not bad at everything but also doesn’t excel at anything.\n- High utility bot (a combination of sub dps and support)\n- Serves well early game, falls back late game\n- Can be quite to very annoying at some point"
+description: "Inside the body of a frog, surprisingly Froggy doesn't usually hop, mostly just waddles. The middle of the road bot, not bad at everything but also doesn’t excel at anything.\n- High utility bot (a combination of sub dps and support)\n- Can be quite to very annoying to fight against"
 imageUrl: "https://cdn.discordapp.com/attachments/873396923137142855/873397603478417438/froggy.png"
 breadcrumbs:
   Bots: "/bots"
@@ -83,11 +83,18 @@ commonMat2: "Mini Sensor"
 commonMat3: "Double Cog"
 ---
 
-### 'Arena Build' by Soft
-- **AABCB:**
+### 'Attack Build' by Wolfhaize(Recommended)
+- **AABCA:**
+
+### 'Survival Build' by Wolfhaize
+- **BBBCB:**
 
 ## Comments
 
-### Evaluation by Soft
-One of the best bots in the early game, Froggy significantly starts dropping off in damage and usefulness past level ~10. His damage simply isn't where it used to be and he gets easily countered by botpack abilities, chasers with smart AI choices or simple bot abilities. Still the cutest mascot of the game though. Tier B.
+### Evaluation by Wolfhaize
+An evader that does splash poison damage is nothing to be ignored. Due to the special capabilities of poison(bypassing shields, ignoring resistance), this bot becomes a lot more relevant when coming up against arena teams that stack resistance boosters. 
 
+### Tips
+- Couple with Chainer to make sure alot of enemies are caught in the poison pool.
+- Hornet's ult(stunning all currently poisoned enemies), works well with Froggy and the two are a great teamup with a tank while dealing with wild bots. 
+- Note, Froggy's basic attack is not poison. Only the ultimate is.

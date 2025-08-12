@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Gold, Hex, Soft"
-updatedAt: "2022-07-09"
+contributors: "Gold, Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Rocketeer (Common Splasher)"
@@ -89,8 +89,14 @@ commonMat3: "Rusty Cog"
 ### 'Troll Build' by Hex
 - **BCAAA:** Build for complete annoyance.
 
+### 'Damage Build' by Wolfhaize
+- **BCBBB:** Focuses on getting the most out of Rocketeer damage wise.
+
 ## Comments
 
 ### Evaluation by Soft
 Rocketeer fills the niche of countering some specific bots with constant knockback CC. [Bigshots](/bigshot) charging gets interrupted by it, [Pupils](/pupil) ramping, those are just examples. He deals respectable damage too and is the only common bot that has three abilities. An absolute fantastic early game bot. Tier B.
 
+
+### Tips
+Rocketeer enables some very unorthodox but effective tactics. When in a team with Icicool and Bouncer, they can completely lockdown slow melee bots and many that have no way to close distance.

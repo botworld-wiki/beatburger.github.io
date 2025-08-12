@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft, BloodxReaper, Soft"
-updatedAt: "2021-12-30"
+contributors: "Hex, Soft, BloodxReaper, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Ram (Rare Chaser)"
@@ -80,9 +80,14 @@ commonMat2: "Sputtering Generator"
 commonMat3: "Cold Battery"
 ---
 
+### 'Disruptor Build' by Wolfhaize
+- **AACAA:** Focuses on making Ram as much of a menace as possible.
 
-### Suggested AI Build
-- **BBCAB:**
+### 'Chaser Build' by Wolfhaize 
+- **BACAA:** Focuses on damage and incapacitating enemies.
+
+### 'Hybrid Build' by Wolfhaize(Recommended)
+- **BBCBB:** Fuses Ram into a mix of Tank, Brawler and Chaser giving you the best of everything.
 
 ## Comments
 

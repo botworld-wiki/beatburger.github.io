@@ -1,7 +1,7 @@
 ---
 layout: bot
-contributors: "Hex, Soft"
-updatedAt: "2022-07-09"
+contributors: "Hex, Soft, Wolfhaize"
+updatedAt: "9-8-2025"
 
 
 title: "Slash (Common Chaser)"
@@ -87,11 +87,21 @@ commonMat3: "Sparky Wires"
 
 - **ABCAB:** For chasing support, snipers and splashers. Ai1=slows, Ai2=speed up, Ai4=Stuns and Ai5=Crit.
 
-### 'Full Damage Build' by Hex
-- **BACAB**
+### 'Damage Build' by Wolfhaize
+- **BACBB** Focuses heavily on damage.
+
+### 'Chaser Build' by Wolfhaize(Recommended)
+- **ABCAB** Allows Slash to be a much better Chaser with the ability to shutdown most ranged bots.
+
+### 'Surival Build' by Wolfhaize
+- **AACAA** Focuses giving Slash some safety options in form f stuns, slowness, hp and dodge chance.
+
+
 
 ## Comments
 
-### Evaluation by Soft
-Although Slash has the highest DPS in the game, he has: No gapcloser, No disengage, slow or safety and, 2nd lowest HP in the game. It's hard to make him work when he dies before he can even hit a bot. Tier D.
+### Evaluation by Wolfhaize
+Highest DPS in the game but with no distance closing ability, he easily gets replaced by any other Chaser. A bot that can do its job at the start of the game(with AI ) but quickly falls out of favour as you progress further. 
 
+### Tips
+Can do incredible damage if assisted by other bots or with stunning abilities.
