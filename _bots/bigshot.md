@@ -89,11 +89,11 @@ commonMat3: "Thick Tube"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Bigshot, as the name suggests, is a sniper that simply exists to deal massive amounts of damage. In exchange for this, he is ridiculously easy to counter because any stuns will force him to reset and take aim once more. If you want to get the best out of this bot, all other bots have to be selected to support Bigshot. Tanks for protection, Stun Resistance for the constant targeting from stunning abilities or the Vanish ability to keep him hidden so he can fire safely. Hypercharge or Ultimate Cooldown abilities to speed up his firing delay.
+Bigshot, as the name suggests, is a sniper that simply exists to deal massive amounts of damage. In exchange for this, he is ridiculously easy to counter because any stuns will force him to reset and take aim once more. If you want to get the best out of this bot, your loadout has to be selected to support Bigshot. Tanks for protection, Stun Resistance for the constant targeting from stunning abilities or the Vanish ability to keep him hidden so he can fire safely. Hypercharge or Ultimate Cooldown abilities to speed up his firing delay.
 
 
 ### Tips
-- Always pick AI3-A, this locks Bigshot's attacks to the max amount of damage capable rather than using a value within the range the game shows.
+- Always pick AI3-A, this locks Bigshot's attacks to the max amount of damage capable rather than him using a value within the range the game shows.
 
 ### Funfact
 - Bigshot was originally a Rare bot back in Early access and got changed into an Epic later on

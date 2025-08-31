@@ -80,14 +80,14 @@ commonMat2: "Thick Tube"
 commonMat3: "Frost Fuel"
 ---
 
-### 'Arena Build' by Soft
-- **BBCAB:**
+### 'Shutdown Build' by Wolfhaize
+- **BBCAB:** Will completely shutdown at least 2 enemy bots as long as they are always in range.
 
 ## Comments
 
 ### Evaluation by Wolfhaize
 Due to his capability to shutdown 2 bots at once, Chainer will make your life much easier. Works best when coupled with splashers on any bots that deal AOE damage or apply AOE stun(Beat ult, Brute spin, Flamer ult) etc
-Since he draws all attention on himself, Chainer is very susceptible to dying especially if AI-1A has not been selected. Works almost too perfectly when coupled with Halo for a shield and a splasher like MortPluggie at range dealing the damage to bots grouped up by Chainer.
+Since he draws all attention on himself, Chainer is very susceptible to dying especially if AI-1A has not been selected. Works almost too perfectly when coupled with Halo for a shield and a splasher like Mort orPluggie at range dealing the damage to bots grouped up by Chainer.
 
 ### Tips
 - Always place Chainer last(against bandits/in arena), that way you can put him in a position to grab two select bots(he will always target the furthest two)

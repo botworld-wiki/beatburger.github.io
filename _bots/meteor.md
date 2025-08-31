@@ -98,7 +98,7 @@ To unlock the legendary botframe for Meteor, you must collect 50 Star Fragments 
 Once 50 Star Fragments are collected, talk to Copurrnicus (optional), and they will request 10 Cosmic Cores, which are obtained from defeating any Mega bot (100% drop rate) located in Botworld.
 
 ### Evaluation by Wolfhaize
-100% the best tank in the game. Meteor's second ability allows him to stack up to 80% damage reduction from all sources, which immediately puts him a tier above all his counterparts. With an ult that closes distance and traps bots, while also offering the option to charge ally ultimates in his crater, Meteor opens up a ton of opportunities for team ups. 
+100% the best tank in the game. Meteor's second ability allows him to stack up to 80% damage reduction from all sources, which immediately puts him a tier above all his counterparts. With an ult that closes distance and traps bots, while also offering the option to damage enemies or charge ally ultimates in his crater, Meteor opens up a ton of opportunities for team ups. 
 
 ### Tips
 - Works perfect with Chainer and Beat for a ridiculous setup.

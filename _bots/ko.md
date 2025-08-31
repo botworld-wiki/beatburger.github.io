@@ -93,7 +93,7 @@ commonMat3: "Hardened Fiberglass"
 ## Comments
 
 ### Evaluation by Wolfhaize
-KO has very good damage potential for a bot in the game, but needs a lot of time to reach it. It takes him 3 ultimates to fully charge himself up to full damage, and due to his very aggressive anture, he tends to die before he can reach that stage. Also struggles due to having nothing besides running at enemies and punching them in the face, hence the 'Hybrid Build' AI tree that gives him stun on AI4, allowing him to incapacitate enemies close by, protecting himself and letting him do damage uninterrupted.
+KO has very good damage potential for a bot in the game, but needs a lot of time to reach it. It takes him 3 ultimates to fully charge himself up to full damage, and due to his very aggressive nature, he tends to die before he can reach that stage. Also struggles due to having nothing besides running at enemies and punching them in the face, hence the 'Hybrid Build' AI tree that gives him stun on AI4, allowing him to incapacitate enemies close by, protecting himself and letting him do damage uninterrupted.
 
 ### Tips
 - Absolutely struggles against Frosty.

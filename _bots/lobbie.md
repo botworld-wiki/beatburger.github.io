@@ -93,5 +93,5 @@ commonMat3: "Mini Sensor"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Despite being a very good bot for the early game due to his Vortex ability, Lobbie's lower damage gets him outclassed by all other splashers and takes him off the lsit if damage is your requirement. However, Lobbie also provides amazing utility with his ultimate, helping to group bots up and stun them or weaken them, paving way for another alternative bot/botpack ability to do the real damage. 
+Despite being a very good bot for the early game due to his Vortex ability, Lobbie's lower damage gets him outclassed by all other splashers and takes him off the list if big damage is your requirement. However, Lobbie also provides amazing utility with his ultimate, helping to group bots up and stun them or weaken them, paving way for another alternative bot/botpack ability to do the real damage. 
 

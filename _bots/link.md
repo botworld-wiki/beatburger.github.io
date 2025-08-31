@@ -92,5 +92,5 @@ commonMat3: "Hardened Fiberglass"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Imagine Halo, but the kind that moves with your melee bots. That's Link. While not being as adept at shielding, Link is a tank that transfers a portion of damage dealt to the closest ally to himself, which can be very useful at keeping bots like Virus alive long enough to get their ult off. The 'Tank Build' AI tree gives him the hp and survivability to back this up, since instrad of simply blocking the damage, Link is taking a hit to his own hp most of the time.  
+Imagine Halo, but the kind that moves with your melee bots. That's Link. While not being as adept at shielding, Link is a tank that transfers a portion of damage dealt to the closest ally to himself, which can be very useful at keeping bots like Virus alive long enough to get their ult off. The 'Tank Build' AI tree gives him the hp and survivability to back this up, since instead of simply blocking the damage, Link is taking a hit to his own hp most of the time, not to mention jumping into the fray himself.  
 

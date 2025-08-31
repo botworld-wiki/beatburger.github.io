@@ -83,7 +83,7 @@ commonMat3: "Rusty Cog"
 ---
 
 ### 'Safe Build' by Wolfhaize(Recommended)
-- **AAABA:** A basic build to use Bacfire as an ordinary sniper.
+- **AAABA:** A basic build to use Backfire as an ordinary sniper.
 
 ### 'Backfire Build' by Wolfhaize
 - **BBBBA:** To use Backfire as intended(in the middle of the field).
@@ -91,4 +91,4 @@ commonMat3: "Rusty Cog"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Backfire's unique capability is him being able to fire from two mouths at once. Due to the nature of bots in the game(they always face forward to their closest enemy), it creates a difficult situation where all shots fired from the back mouth are wasted if you play Backfire like an ordinary sniper. This setup prioritises safety over taking advantage of all the potential damage available. The alternative is using him as intended, with the recommendation being Backfire in the centre, with 2 tanks on either side.
+Backfire's unique capability is the ability to fire from two mouths at once. Due to the nature of bots in the game(they always face forward to their closest enemy), it creates a difficult situation where all shots fired from the back mouth are wasted if you play Backfire like an ordinary sniper(Putting him in a safe corner). Thus, the ordinary sniper setup prioritises safety over taking advantage of all the potential damage available. The alternative is using him as intended, with the recommendation being Backfire in the centre, with 2 tanks on either side.

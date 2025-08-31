@@ -93,9 +93,8 @@ commonMat3: "Double Cog"
 ## Comments
 
 ### Evaluation by Soft
-While there are other snipers that have better DPS than Longshot on paper, they are far more easily countered than Longshot. Longshot has very consistent damage and a failsafe ability to buy itself some time when enemies get close. A very safe pick that can easily find a great spot in any team composition. Tier S.
+While there are other snipers that have better DPS than Longshot on paper, they are far more easily countered than Longshot. Longshot has very consistent damage and a failsafe ability to buy itself some time when enemies get close. A very safe pick that can easily find a great spot in any team composition.
 
 ### Tips
-A must use in the early game
-Equip with Crit Boosters to maximize effect for it's AI ""Critical strikes"".
+A must use in the early game.
 

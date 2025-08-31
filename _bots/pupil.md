@@ -92,7 +92,7 @@ commonMat3: "Thick Tube"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Due to the capability of doing damage to multiple enemies, Pupil can be a good stand in for when you are not using a splasher but need a lot of enemies affected at once. His tracking is awful, soenemies that move relatively quickly will easily escape his attacks. However due to the nature of it, Pupil also unintentionally ignores stealth and will keep firing till his attack ends even if enemies are invisible, which can ghelp to deal with pesky bots like Phantom or Inkjet. 
+Due to the capability of doing damage to multiple enemies, Pupil can be a good stand in for when you are not using a splasher but need a lot of enemies affected at once. His tracking is awful, so enemies that move relatively quickly will easily escape his attacks. However due to the nature of it, Pupil also unintentionally ignores stealth and will keep firing till his attack ends even if enemies are invisible, which can help to deal with pesky bots like Phantom or Inkjet. 
 
 ### Tips
 - Use with Chainer.

@@ -86,7 +86,7 @@ commonMat3: "Mini Sensor"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Gusto's idea of support is to make the battle as frustrating as possible to the enemy. Constant stun, knockback, vulnerability and an ult that's nearly read the start of the battle make him a very annoying bot to deal with. Best coupled with tanks and brawlers, helping solve their mobility issues and while stunning enemies for them and making them more vulnerable to damage.
+Gusto's idea of support is to make the battle as frustrating as possible to the enemy. Constant stun, knockback, vulnerability and an ult that's nearly ready at the start of the battle make him a very annoying bot to deal with. Best coupled with tanks and brawlers, helping solve their mobility issues and while stunning enemies for them and making them more vulnerable to damage.
 
 
 ### Tips
