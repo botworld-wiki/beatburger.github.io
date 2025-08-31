@@ -87,11 +87,11 @@ commonMat3: "Cold Battery"
 ## Comments
 
 ### Evaluation by Wolfhaize
-With basically no speed, zero survivability, Brute is all about hitting enemies as hard as he can. AI-5B allows him to drop with his spin ready, which allows him to take out isolated ranged bots with ease after stunning them and is a must pick. However his ultimate makes him extremely vulerable to any damage despite giving him a massive boost. Shield him with Halo or the Shield ability, stun bots around him, or have a tank take the damage for him during this stage, and he will reward you massively.
+With basically no speed, zero survivability, Brute is all about hitting enemies as hard as he can. AI-5B is a must pick that allows him to drop with his spin ready. However his ultimate makes him extremely vulerable to all damage despite giving him a massive boost. Shield him with Halo or the Shield ability, stun bots around him, or have a tank take the damage for him during this stage, and he will reward you massively.
 
 
 ### Tips
 Wonderful for clearing grouped bots(with the spin)
-Do not under any circumstances leave Brute against ranged bots, especially evaders, without any help. He is too slow to catch up, and tends to activate his spin a fraction of a second too early. 
+Do not under any circumstances leave Brute against ranged bots, especially evaders, without any help. He is too slow to catch up, and tends to activate his spin a fraction of a second too early thus missing. 
 
 

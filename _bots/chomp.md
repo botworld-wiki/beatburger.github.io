@@ -92,5 +92,5 @@ commonMat3: "Frost Fuel"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Often disregarded due to being a common bot, in reality Chomp is a bot that doesn't fall too far behind his sniper counterparts. With a fast charging ultimate, healing capabilities and critical chance, Chomp can rack up damage numbers pretty quickly while also converting that damage into precious hp. Due to the nature of his attacks however, he will miss his shots if an opponent moves and his ultimate can get interrupted if he gets stunned midway through. Gets a lot of points for being the goodest boy. 
+Often disregarded due to being a common bot, in reality Chomp is a bot that doesn't fall too far behind his sniper counterparts. With a fast charging ultimate, healing capabilities and critical chance, Chomp can rack up damage numbers pretty quickly while also converting that damage into precious hp. Due to the nature of his attacks however, he will miss his shots if an opponent moves, and his ultimate can get interrupted if he gets stunned midway through. Gets a lot of points for being the goodest boy. 
 

@@ -89,4 +89,4 @@ commonMat3: "Mini Sensor"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Due to poison being one of the most effective forms of damage in the game(ignores shields and resistance), Hornet immediately becomes a dangerous bot when in use. His ult also allows him to stun(and poison), any poisoned bots on the field no matter where they are. This means Hornet van be coupled with a cheap ability like Goop to make sure all bots ion the field are effected by his ult. Also works well with Froggy's ultimate for the same reason. 
+Due to poison being one of the most effective forms of damage in the game(ignores shields and resistance), Hornet immediately becomes a dangerous bot when in use. His ult also allows him to stun(and poison), any currently poisoned bots on the field no matter where they are. This means Hornet van be coupled with a cheap ability like Goop to make sure all bots on the field are affected by his ult. Also works well with Froggy's ultimate for the same reason. 

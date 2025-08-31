@@ -87,7 +87,7 @@ commonMat3: "Thick Tube"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Barrie's biggest strength(and one you should always play to) is his hp. With ai upgrades, he gets the highest amount in the game, and when coupled with the healing capabilities of his shield, becomes a very difficult bot to get rid of. Whereas he won't die that easily, he's very slow and also does little to no damage. Recommended to be used to stall enemies and keep them focused on him while letting your other bots do the damage. 
+Barrie's biggest strength(and one you should always play to) is his hp. With AI upgrades, he gets the highest amount of health in the game, and when coupled with the healing capabilities of his shield, becomes a very difficult bot to get rid of. Whereas he won't die that easily, he's very slow and also does little to no damage. Recommended to be used to stall enemies and keep them focused on him while letting your other bots do the damage. 
 
 ### Tips
 Most recomended combo is Halo next to Barrie and a splasher/sniper doing damage at range.

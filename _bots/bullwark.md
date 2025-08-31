@@ -81,7 +81,7 @@ commonMat3: "Rusty Cog"
 ---
 
 ### 'Full Tank Build' by Hex
-- **BBCBB:** Strongest Defense is the best offense. Bullwark have a shield that can reflect damage and damage reduction by 30%.
+- **BBCBB:** Strongest Defense is the best offense. Bullwark has a shield that can reflect damage and damage reduction by 30%.
 
 ### 'Attack Tank Build' by Hex
 - **ABCAA:** You can run but you can't hide from an attack tank, it protects and attacks at the same time.

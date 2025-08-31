@@ -95,7 +95,7 @@ commonMat3: "Rusty Cog"
 ## Comments
 
 ### Evaluation by Soft
-Rocketeer fills the niche of countering some specific bots with constant knockback CC. [Bigshots](/bigshot) charging gets interrupted by it, [Pupils](/pupil) ramping, those are just examples. He deals respectable damage too and is the only common bot that has three abilities. An absolute fantastic early game bot. Tier B.
+Rocketeer fills the niche of countering some specific bots with constant knockback CC. [Bigshots](/bigshot) charging gets interrupted by it, [Pupils](/pupil) ramping, those are just examples. He deals respectable damage too and is the only common bot that has three abilities. An absolute fantastic early game bot.
 
 
 ### Tips

@@ -93,9 +93,9 @@ commonMat3: "Thick Tube"
 ## Comments
 
 ### Evaluation by Wolfhaize
-One of the most underrated bots in the game, Bouncer often gets overshadowed Halo due to their boosting capabilities not being limited by proximity. However due to the ranged damage, slowness, and Maglev, Bouncer becomes a very capable 'bouncer' for a ranged bot. He will slow and keep any approaching enemies away, while giving a damage boost even higher than Beat!
+One of the most underrated bots in the game, Bouncer often gets overshadowed Halo due to their boosting capabilities being limited by proximity. However due to the ranged damage, slowness, and Maglev, Bouncer becomes a very capable 'bouncer' for a ranged bot. He will slow and keep any approaching enemies away, while giving a damage boost even higher than Beat!
 
 ### Tips
-AI-1B is recommeded when Bouncer is next to bots that also have a 50% ultimate charge AI path selected. This allows Bouncer to provide a boost very early on in a battle, a strategy that can be extremely useful in ending battles quickly.
+AI-1B is recommended when Bouncer is next to bots that also have a 50% ultimate charge AI path selected. This allows Bouncer to provide a boost very early on, a strategy that can be extremely useful in ending battles quickly.
 Bouncer also enables some very unorthodox but effective tactics. When in a team with Rocketeer(knockback), Icicool(slowness), they can completely lockdown slow melee bots and many that have no way to close distance.
 

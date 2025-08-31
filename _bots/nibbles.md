@@ -96,5 +96,5 @@ Being absurdly slow, Nibbles falls into a similar playstyle with the likes of Br
 
 ## Tips
 - Works great with Halo shielding him and boosting him
-- You can escape Nibbles' Winch by waiting till the animation ends(there's a delay befor ehe activates his ultimate)
+- You can escape Nibbles' Winch by waiting till the animation ends(there's a delay before he activates his ultimate)
 

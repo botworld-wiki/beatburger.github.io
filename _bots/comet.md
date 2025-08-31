@@ -93,4 +93,4 @@ To unlock the legendary botframe for Comet, you must collect 50 Star Fragments a
 Once 50 Star Fragments are collected, talk to Copurrnicus (optional), and they will request 10 Cosmic Cores, which are obtained from defeating any Mega bot (100% drop rate) located in Botworld.
 
 ### Evaluation by Wolfhaize
-With one of the fastest charging ults in the game, Comet functions more like a splasher than anything else. HE will constantly boost his own damage while lowering nearby enemy damage with Siphon, which makes him a bot that needs to be dealt with quickly otherwise he becomes a real issue. 
+With one of the fastest charging ults in the game, Comet functions more like a splasher than anything else. He will constantly boost his own damage while lowering nearby enemy damage with Siphon, which makes him a bot that needs to be dealt with quickly otherwise he becomes a real issue. 

@@ -92,10 +92,10 @@ commonMat3: "Sparky Wires"
 ## Comments
 
 ### Evaluation by Wolfhaize
-One of the most underrated bots in the game due to low hp and damage, yet arguably plays the best support role in the game - shielding. Aside from poison, a shielded bot will NOT take damage from any source, amking Halo a perfect team player when it comes to safer playstyles or danger zone runs where yoiu need to keep an eye on your precious canister. With the 'Shield Bubble Build', if Halo is placed at an optimal distance(not too far or close) or interrupted by stuns/enemies, Halo will shield an ally 99% of the time. This allows you to have that ally as the sole focus of enemies, but safeguarding them from the massive amounts of damage being taken. 
+One of the most underrated bots in the game due to low hp and damage, yet arguably plays the best support role in the game - shielding. Aside from poison, a shielded bot will NOT take damage from any source, makking Halo a perfect team player when it comes to safer playstyles or danger zone runs where you need to keep an eye on your precious canister. With the 'Shield Bubble Build', if Halo is placed at an optimal distance(not too far or close) or interrupted by stuns/enemies, Halo will shield an ally 99% of the time. This allows you to have that ally as the sole focus of enemies, while also safeguarding them from the massive amounts of damage. 
 
 
 ### Tips
 - Use Halo to shield slow tanks and brawlers for best outcome. Any fast bots(Chasers) or those that jump(Thump, Meteor), will lead to him missing his shield and ruining the strategy.
-- Halo shielding Chaainer will carry you through almost any battle if that positioning doesn't get interrupted. 
-- Note: Shields are useless against poison. 
+- Halo shielding Chainer will carry you through almost any battle if that positioning doesn't get interrupted. 
+- Note: Shields are useless against poison, stuns or hacking. 

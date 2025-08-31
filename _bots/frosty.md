@@ -92,7 +92,7 @@ commonMat3: "Sputtering Generator"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Arguably one of the best bots in the game at doing its job. Evading. With slowness, constant movement, stun, teleports, Frosty becomes a very difficult bot for most melee enemies to deal with if they have no way to close distance. Energy resistance also makes him less susceptible to a lot of ranged high damage dealers. Due to this specialty, Frosty can be used as a 'pseudo-tank' to distract and survive long enough for your other bots to deal the damage required. The Support Build also adds vulnerability to any bots Frosty stuns, making them much easier to kill.
+Arguably one of the best bots in the game at doing its job: evading. With slowness, constant movement, stun, teleports, Frosty becomes a very difficult bot for most melee enemies to deal with if they have no way to close distance. Energy resistance also makes him less susceptible to a lot of ranged high damage dealers. Due to this specialty, Frosty can be used as a 'pseudo-tank' to distract and survive long enough for your other bots to deal the damage required. The Support Build also adds vulnerability to any bots Frosty stuns, making them much easier to kill.
 
 ### Tips
 - Use against melee bots.  

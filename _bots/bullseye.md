@@ -93,10 +93,10 @@ commonMat3: "Sputtering Generator"
 ## Comments
 
 ### Evaluation by Wolfhaize
-In exchange for the crazy amount of damage he does, Bullseye has terrible accuracy despite his name. He will miss quite a few shots, so it is recommended you group bots together so any that fall aside still hit something. His Corrupt ability makes him extremely dangerous, applying up to 60% vulnerability to his targets and making them much easier to kill. 
+In exchange for the crazy amount of damage he does, Bullseye has terrible accuracy despite his name. He will miss quite a few shots, so it is recommended you group bots together so any arrows that fall aside still hit something. His Corrupt ability makes him extremely dangerous, applying up to 60% vulnerability to his targets and making them much easier to kill. 
 
 
 ### Tips
-Bullseye needs a lot of space. Due to having a minimum range of 5, he will run away from enemies that visually seem to be nowhere near him, at times running straight rhough other enemies and getting killed in the process. Deploy him far away, and keep enemies as far away as possible. 
+Bullseye needs a lot of space. Due to having a minimum range of 5, he will run away from enemies that visually seem to be nowhere near him, at times running straight through other enemies and getting killed in the process. Deploy him far away, and keep enemies as far away as possible. 
 
 

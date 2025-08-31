@@ -92,7 +92,7 @@ commonMat3: "Rusty Cog"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Considering Bombee's ultimate always ends in his death, this is a difficult bot to recommend because it drains too much of your canister. However it becomes more viable in the arena or if you really want the damage it provides over managing your canister. T
+Considering Bombee's ultimate always ends in his death, this is a difficult bot to recommend because it drains too much of your canister. However it becomes more viable in the arena or if you really want the damage it provides over managing your canister.
 
 ### Tips
 Try to have multiple enemies around Bombee, just so you know you're getting the most out of its death. 

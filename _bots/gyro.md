@@ -90,5 +90,5 @@ commonMat3: "Double Cog"
 
 
 ### Evaluation by Wolfhaize
-Being a melee splasher isn't easy. Gyro is forced to have enemies in close proximity in order to damage them, hence himself very suscpetible to dangerous melee bots. The 'Chaser Build' AI tree can be taken if Gyro is going to be used to deal with pesky ranged bots, but when coupled with Chainer, the 'Damage Build' can be used to get the most out of his damage capabilities.
+Being a melee splasher isn't easy. Gyro is forced to have enemies in close proximity in order to damage them, hence himself very susceptible to dangerous melee bots like brawlers and chasers. The 'Chaser Build' AI tree can be taken if Gyro is going to be used to deal with pesky ranged bots, but when coupled with Chainer, the 'Damage Build' can be used to get the most out of his damage capabilities.
 

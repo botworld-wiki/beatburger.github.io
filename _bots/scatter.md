@@ -94,7 +94,7 @@ commonMat3: "Frost Fuel"
 ## Comments
 
 ### Evaluation by Wolfhaize
-Another Brawler like Brute and Nibbles that needs hrlp bringing enemies close by in order to deal full damage. Having the longest stun in the game(AI-2B required) can make him a very frustrating bot to fight against. Whereas his shots spread, it also means they travel across the entire field and will hit bots that should have no business getting hit. 
+Another Brawler like Brute and Nibbles that needs help bringing enemies close by in order to deal full damage. Having the longest stun in the game(AI-2B required) can make him a very frustrating bot to fight against. Whereas his shots spread, it also means they travel across the entire field and will hit bots that should have no business getting hit. 
 
 ### Tips
 - Couple with Halo shielding and Gust to bring enemies closer. 
