@@ -21,7 +21,7 @@ boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
 boosterAcquisition: ""
 boosterOpinion: ""
-searchKeywords: ""
+searchKeywords: "better together"
 ---
 
 
