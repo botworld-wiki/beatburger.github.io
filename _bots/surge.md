@@ -8,6 +8,9 @@ title: "Surge (Epic Brawler)"
 name: "Surge"
 description: "A tough, slow bot that relies on its botmaster using ability modules to close the distance and deal huge damage"
 imageUrl: "/assets/img/bots/surge.png"
+breadcrumbs:
+  Bots: "/bots"
+  Brawler: "/bots#brawler"
 
 botName: "Surge"
 botDescription: "A tough, slow bot that relies on its botmaster using ability modules to close the distance and deal huge damage"
