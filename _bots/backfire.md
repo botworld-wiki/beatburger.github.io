@@ -8,6 +8,10 @@ title: "Backfire (Epic Sniper)"
 name: "Backfire"
 description: "Shoots powerful homing shots both forwards and backwards. Likes to be in the middle of the action!"
 imageUrl: "/assets/img/bots/backfire.png"
+breadcrumbs:
+  Bots: "/bots"
+  Snipers: "/bots#snipers"
+
 
 botName: "Backfire"
 botDescription: "Shoots powerful homing shots both forwards and backwards. Likes to be in the middle of the action!"
