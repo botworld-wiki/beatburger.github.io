@@ -21,6 +21,6 @@ boosterRarity: "Legendary"
 boosterRaritySortOrder: "5"
 boosterAcquisition: ""
 boosterOpinion: ""
-searchKeywords: ""
+searchKeywords: "eagle eye"
 ---
 
