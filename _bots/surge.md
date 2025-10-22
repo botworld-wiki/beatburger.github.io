@@ -31,8 +31,8 @@ ability2Info: "Range: 3, Knockback: Small, Physical Damage: ~0.82x attack"
 ability2Description: "Charges towards the enemy whenever botpack power is spent by its botmaster"
 
 ability3Name: "Power Swipe"
-ability3Info: "Range: Melee, Cooldown: 3.69s, Physical Damage: 2x attack"
-ability3Description: "Backfire spins around, releasing a battery of homing plasma shots in a circle"
+ability3Info: "Range: Melee, Cooldown: 9s, Physical Damage: 2x attack"
+ability3Description: "Slashes at the enemy with both claws, dealing heavy dmaage"
 
 ai1aName: "A: Sharper Claws"
 ai1aDescription: "Swipe damage increased by 30%"
